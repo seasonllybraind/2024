@@ -1,0 +1,76 @@
+type: fields
+fields:
+  siteMiscHeadline:
+    label: 
+      en: Misc Settings
+      de: Verschiedene Einstellungen
+    type: headline
+    numbered: false
+    id: misc
+  # Typed Text
+  typedText:
+    label: Typed text
+    type: toggle
+    help: 
+      en: Enable typed text script for Typed text block
+      de: Skript für Typed text für getippten Textblock aktivieren
+  # Syntax Highlighting
+  syntaxHighlighting:
+    label: 
+      en: Syntax highlighting
+      de: Syntaxhervorhebung
+    type: toggle
+    help: 
+      en: Enable syntax highlighting for Code block
+      de: Aktivieren Sie die Syntaxhervorhebung für den Codeblock
+  # To top button
+  siteTopButtonHeadline:
+    label: 
+      en: To top button
+      de: Zur oberen Schaltfläche
+    type: headline
+    numbered: false
+  toTopButton:
+    label: 
+      en: To top button
+      de: Zur oberen Schaltfläche
+    type: toggle
+    help: 
+      en: Enable to top button.
+      de: Schaltfläche „Nach oben aktivieren“ aktivieren.
+  toTopButtonText:
+    label: 
+      en: Button text
+      de: Schaltflächentext
+    type: text
+    width: 1/2
+    when:
+      toTopButton: true
+  toTopButtonIcon:
+    extends: fields/icons
+    label: Button icon
+    placeholder: None
+    when:
+      toTopButton: true
+  toTopButtonStyle:
+    label: 
+      en: Button style
+      de: Schaltfläche stil
+    type: select
+    options:
+      "uk-button-default": 
+        en: Default
+        de: Standard
+      "uk-button-primary": 
+        en: Primary
+        de: Primär
+      "uk-button-secondary": 
+        en: Secondary
+        de: Sekundär
+      "uk-button-text": Text
+      "uk-button-link": Link
+      "uk-button-danger": 
+        en: Danger
+        de: Achtung
+    when:
+      toTopButton: true

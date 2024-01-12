@@ -1,0 +1,233 @@
+title: 
+  en: Contact
+  de: Kontakt
+icon: email
+
+options:
+  duplicate: false
+
+tabs:
+
+  # content tab
+  content:
+    label: 
+      en: Content
+      de: Inhalt
+    icon: text
+    columns:
+      # main
+      - width: 2/3
+        sections:
+          # main content
+          mainContent:
+            type: fields
+            fields:
+              mainContentHeadline:
+                label: 
+                  en: Main section
+                  de: Hauptteil
+                type: headline
+                numbered: false
+              editor:
+                extends: fields/blockEditor
+              # form
+              contactForm:
+                label: 
+                  en: Contact form
+                  de: Kontakt Formular
+                type: toggle
+                default: true
+                help: 
+                  en: Choose whether contact form is displayed.
+                  de: Wählen Sie aus, ob das Kontaktformular angezeigt wird.
+                width: 1/2
+
+          # additional columns section
+          addonContent:
+            type: fields
+            fields:
+              preFooter:
+                label: 
+                  en: Additional grid content section (optional)
+                  de: Zusätzlicher Abschnitt zum Rasterinhalt (optional)
+                type: headline
+                numbered: false
+              info:
+                label: Info
+                type: info
+                text: 
+                  en: Add columns with content and then style the section with options below.
+                  de: Fügen Sie Spalten mit Inhalt hinzu und gestalten Sie den Abschnitt mit den folgenden Optionen.
+              
+              # columns grid
+              columns:
+                label: 
+                  en: Content columns.
+                  de: Inhaltsspalten.
+                type: structure
+                help: 
+                  en: Add content columns.
+                  de: Hinzufügen von Inhaltsspalten.
+                fields:
+                  contactColumn:
+                    label: 
+                      en: Column
+                      de: Spalte
+                    type: textarea
+                    width: 3/4
+                  columnWidth:
+                    label: 
+                      en: Column width
+                      de: Spaltenbreite
+                    type: select
+                    default: "uk-width-expand@m"
+                    help: 
+                      en: Choose the column width. Expand fills the remaining row width.
+                      de: Wählen Sie die Spaltenbreite. Erweitern füllt die verbleibende Zeilenbreite.
+                    options:
+                      "uk-width-expand@m": 
+                        en: Expand
+                        de: Erweitern
+                      "uk-width-1-1": 1/1
+                      "uk-width-1-2@m": 1/2
+                      "uk-width-1-3@m": 1/3
+                      "uk-width-2-3@m": 2/3
+                      "uk-width-1-4@m": 1/4
+                      "uk-width-3-4@m": 3/4
+                    width: 1/4
+
+              # section size
+              sectionSize:
+                label: 
+                  en: Section size
+                  de: Abschnittsgröße
+                type: select
+                default: "uk-section-large"
+                options:
+                  "uk-section-xsmall": 
+                    en: XSmall
+                    de: XKlein
+                  "uk-section-small": 
+                    en: Small
+                    de: Klein
+                  "uk-section-large": 
+                    en: Large
+                    de: Groß
+                  "uk-section-xlarge": 
+                    en: XLarge
+                    de: XGroß
+                width: 1/3
+
+              # section color
+              sectionColor:
+                label: 
+                  en: Section color
+                  de: Abschnittsfarbe
+                type: select
+                default: "uk-section-default"
+                options:
+                  "uk-section-default": 
+                    en: Default
+                    de: Standard
+                  "uk-section-muted": 
+                    en: Muted
+                    de: Stumm geschaltet
+                  "uk-section-primary": 
+                    en: Primary
+                    de: Primär
+                  "uk-section-secondary": 
+                    en: Secondary
+                    de: Sekundär
+                width: 1/3
+              # width
+              gridWidth:
+                label: 
+                  en: Grid width
+                  de: Rasterbreite
+                type: select
+                options:
+                  "uk-container-xsmall": 
+                    en: XSmall
+                    de: XKlein
+                  "uk-container-small": 
+                    en: Small
+                    de: Klein
+                  "uk-container-xlarge": 
+                    en: Large
+                    de: Groß
+                  "uk-container-xlarge": 
+                    en: XLarge
+                    de: XGroß
+                width: 1/3
+              # column stack option
+              columnStack:
+                label: 
+                  en: Columns stacking
+                  de: Spalten stapeln
+                type: select
+                default: tablet
+                help: 
+                  en: Choose when columns should stack one below other. On mobile stack by default.
+                  de: Wählen Sie aus, wann Spalten untereinander gestapelt werden sollen. Standardmäßig auf dem mobilen Stack.
+                options:
+                  tablet: 
+                    en: Tablet stack
+                    de: Tablet-Stapel
+                  mobile: Tablet 1/2
+                width: 1/4
+              # column gap option
+              columnGap:
+                label: 
+                  en: Columns gap
+                  de: Spalten Lücke
+                type: select
+                help: 
+                  en: Choose the size of gap between columns.
+                  de: Wählen Sie die Größe der Lücke zwischen den Spalten.
+                options:
+                  "uk-grid-small": 
+                    en: Small
+                    de: Klein
+                  "uk-grid-medium": Medium
+                  "uk-grid-large": 
+                    en: Large
+                    de: Groß
+                width: 1/4
+              # divider
+              columnsDivider:
+                label: 
+                  en: Column divider
+                  de: Spaltenteiler
+                type: toggle
+                default: false
+                help: 
+                  en: Divider between columns.
+                  de: Der Teiler zwischen den Spalten.
+                width: 1/4
+              # center text
+              centerText:
+                label: 
+                  en: Center text
+                  de: Text zentrieren
+                type: toggle
+                default: false 
+                width: 1/4
+
+      # sidebar
+      - width: 1/3
+        sections:
+          # pages
+          published:
+            extends: sections/page-published
+
+          draft:
+            extends: sections/page-draft
+
+  # header tab
+  header: tabs/page-options
+
+  # seo tab
+  seo: tabs/seo
+
+  # advanced tab
+  advanced: tabs/page-advanced

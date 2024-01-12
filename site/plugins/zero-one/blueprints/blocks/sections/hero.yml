@@ -1,0 +1,387 @@
+name: Hero
+label: - {{title}}
+icon: star
+
+tabs:
+  # content tab
+  content:
+    label: 
+      en: Content
+      de: Inhalt
+    icon: edit
+    fields:
+      heroContentOption:
+        label: 
+          en: Content format
+          de: Inhalt Format
+        type: radio
+        columns: 3
+        default: markdown
+        help: 
+          en: Choose whether the column content is Content blocks, KirbyText Markdown or plain HTML.
+          de: Wählen Sie aus, ob der Spalteninhalt Inhaltsblöcke, KirbyText Markdown oder reines HTML ist.
+        options:
+          editor: Content blocks
+          markdown: KirbyText
+          html: HTML
+      # editor
+      contentBlocks:
+        extends: fields/blockEditor
+        when:
+          heroContentOption: editor
+      # kirbytext
+      heroText: 
+        label: Hero text
+        type: textarea
+        when:
+          heroContentOption: markdown
+      # html
+      heroHTML:
+        label: 
+          en: Column content HTML
+          de: Spalteninhalt HTML
+        type: textarea
+        buttons: false
+        font: monospace
+        size: medium
+        when:
+          heroContentOption: html
+
+      # hero style
+      heroStyle:
+        label: 
+          en: Hero background
+          de: Hero Hintergrund 
+        type: select
+        default: muted
+        options:
+          muted: 
+            en: Muted
+            de: Stumm geschaltet
+          primary: 
+            en: Primary
+            de: Primär
+          secondary: 
+            en: Secondary
+            de: Sekundär
+          image: 
+            en: Image
+            de: Bild
+          video: Video
+        width: 1/3
+      
+      # image
+      heroCover:
+        label: 
+          en: Background image
+          de: Hintergrundbild
+        extends: fields/image
+        multiple: false
+        image:
+          ratio: 2/1
+          cover: true
+        when:
+          heroStyle: image
+      backgroundImagePosition:
+        extends: fields/backgroundImagePosition
+        when:
+          heroStyle: image
+      backgroundImageSize:
+        extends: fields/backgroundImageSize
+        when:
+          heroStyle: image
+      backgroundImageRepeat:
+        extends: fields/backgroundImageRepeat
+        when:
+          heroStyle: image
+      sectionTextColor:
+        extends: fields/sectionTextColor
+        when:
+          heroStyle: image
+      backgroundOverlayColor:
+        extends: fields/backgroundOverlayColor
+        when:
+          heroStyle: image
+      backgroundParalax:
+        extends: fields/backgroundParalax
+        when:
+          heroStyle: image
+
+      # video
+      mediaVideoSource:
+        label: 
+          en: Choose video source
+          de: Wählen Sie die Videoquelle
+        type: radio
+        default: url
+        columns: 2
+        options:
+          url: URL
+          upload: 
+            en: Upload
+            de: Hochladen
+        when:
+          heroStyle: video
+      mediaVideo:
+        label: 
+          en: Video file
+          de: Videodatei
+        extends: fields/video
+        multiple: false
+        help: 
+          en: Choose the section video.
+          de: Wählen Sie den Abschnitt Video.
+        when:
+          heroStyle: video
+      mediaVideoUrl:
+        label: Video URL (iframe)
+        type: url
+        help: 
+          en: For YouTube and Vimeo must be Embed url.
+          de: Für YouTube und Vimeo muss URL einbetten.
+        when:
+          heroStyle: video
+      # shape divider
+      shapeDividerheadline:
+        label: 
+          en: Section shape divider
+          de: Schnittformteiler
+        type: headline
+        numbered: false
+      shapeDividertoggle:
+        label: 
+          en: SVG shape divider
+          de: SVG-Formteiler
+        type: toggle
+        width: 1/3
+      shapeDividerinfo:
+        label: 
+          en: SVG shape divider info
+          de: Informationen zum SVG-Formteiler
+        type: info
+        text: 
+          en: Add top/bottom shape divider to section.
+          de: Fügen Sie dem Abschnitt einen oberen/unteren Formteiler hinzu.
+        width: 2/3
+      shapeDivider:
+        label: 
+          en: Shape divider
+          de: Formteiler
+        type: select
+        placeholder: Curve
+        options:
+          fan: Fan
+          curve-opacity: Curve opacity
+          mountains: Mountains
+          curve-asym: Curve asym
+          curve-asym-alt: Curve asym alt
+          tilt: Tilt
+          tilt-alt: Tilt alt
+          triangle: Triangle
+          waves: Waves
+          waves-opacity: Waves opacity
+          waves-opacity-2: Waves opacity 2
+          clouds: Clouds
+          speech: Speech
+          custom: Custom
+        width: 1/3
+        when:
+          shapeDividertoggle: true
+      shapeDividerposition:
+        label: 
+          en: Shape divider position
+          de: Position des Formteilers
+        type: select
+        placeholder: Bottom
+        options:
+          top: Top
+          both: Top and bottom
+        width: 1/3
+        when:
+          shapeDividertoggle: true
+      shapeDividercolor:
+        label: 
+          en: Shape divider color
+          de: Farbe des Formteilers
+        type: colors
+        default: '#ffffff'
+        width: 1/3
+        when:
+          shapeDividertoggle: true
+      customShapedivider:
+        label: Custom shape divider
+        type: code-editor
+        help: 
+          en: | 
+            Add custom SVG code here (just SVG code). Only add bottom shape, top one will be automatically created.
+            You can use online tool like this one (link: https://www.shapedivider.app/ target: _blank) (choose Invert option to get bottom SVG). 
+            Add 'fill="#your_color_code"' attribute to SVG tag.
+          de: |
+            Fügen Sie hier benutzerdefinierten SVG-Code hinzu (nur SVG-Code). Fügen Sie nur die untere Form hinzu, die obere wird automatisch erstellt.
+            Sie können ein Online-Tool wie dieses verwenden (link: https://www.shapedivider.app/ target: _blank) (Wählen Sie die Option Invertieren, um das untere SVG zu erhalten). 
+            Fügen Sie dem SVG-Tag das Attribut 'fill="#your_color_code"' hinzu.
+        when:
+          shapeDividertoggle: true
+          shapeDivider: custom
+      shapeDividerheight:
+        label: 
+          en: Shape divider height
+          de: Formteilerhöhe
+        type: text
+        default: 150px
+        placeholder: 150px
+        help: Enter an optional custom height for your shape divider in pixels (px) or percent (%).
+        width: 2/3
+        when:
+          shapeDividertoggle: true
+
+      gapHero:
+        type: gap
+        width: 1/1
+
+  # settings tab
+  settings:
+    label: 
+      en: Settings
+      de: die Einstellungen
+    icon: cog
+    fields:
+      title:
+        label: 
+          en: Section title
+          de: Abschnittsüberschrift
+        type: text
+        placeholder: My custom Block name
+        width: 1/3
+      blockClass:
+        label: 
+          en: Section custom class
+          de: Abschnitt benutzerdefinierte Klasse
+        type: text
+        placeholder: my-custom-class
+        before: '.'
+        width: 1/3
+      # block id
+      blockID:
+        label: 
+          en: Section ID
+          de: Abschnitts-ID
+        type: text
+        placeholder: my-custom-id
+        before: '#'
+        width: 1/3
+
+      # hero settings
+      heroHeadline:
+        label: Hero settings
+        type: headline
+        numbered: false
+
+      # margin
+      heroSize:
+        label: 
+          en: Hero size
+          de: Hero Größe
+        type: select
+        default: large
+        options:
+          medium: Medium
+          large: 
+            en: Large
+            de: Groß
+          xlarge: 
+            en: XLarge
+            de: XGroß
+        width: 1/3
+
+      # text width
+      heroTextWidth:
+        label: 
+          en: Hero text container width
+          de: Breite des Hero Textcontainers
+        type: select
+        default: small
+        options:
+          small: 
+            en: Small
+            de: Klein
+          large: 
+            en: Large
+            de: Groß
+        width: 1/3
+        
+      # text align
+      heroTextAlign:
+        label: 
+          en: Hero text-align
+          de: Hero Text ausrichten
+        type: select
+        default: left
+        options:
+          left: 
+            en: Left
+            de: Links
+          center: Center
+          right:
+            en: Right
+            de: Recht
+        width: 1/3
+
+      # headings larger
+      heroHeadings:
+        label: 
+          en: Headings large
+          de: Überschriften groß
+        type: toggle
+        default: false
+        help: 
+          en: Make headings (h1, h2, h3) larger.
+          de: Machen Sie die Überschriften (h1, h2, h3) größer.
+        width: 1/3
+      
+      # card settings
+      cardHeadline:
+        label: Hero card
+        type: headline
+        numbered: false
+      # hero in card
+      heroCard:
+        label: 
+          en: Add card to hero
+          de: Karte zum Helden hinzufügen 
+        type: toggle
+        default: false
+        width: 1/3
+      # card color
+      heroCardColor:
+        label: 
+          en: Card background
+          de: Kartenhintergrund 
+        type: select
+        default: " uk-card-default"
+        options:
+          " uk-card-default": 
+            en: Default
+            de: Standard
+          " uk-card-primary": 
+            en: Primary
+            de: Primär
+          " uk-card-secondary": 
+            en: Secondary
+            de: Sekundär
+        width: 1/3
+        when:
+          heroCard: true
+      # card hover
+      heroCardHover:
+        label: 
+          en: Add hover effect
+          de: Schwebeeffekt hinzufügen
+        type: toggle
+        default: false
+        width: 1/3
+        when:
+          heroCard: true
+      gapEnd:
+        type: gap
+        width: 1/1

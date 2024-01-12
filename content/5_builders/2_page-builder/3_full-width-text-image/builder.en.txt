@@ -1,0 +1,149 @@
+Title: Full width text - image section
+
+----
+
+Animation: true
+
+----
+
+Modules: [{"content":{"fittext":"[{\"content\":{\"level\":\"h2\",\"text\":\"Choose image size and text background.\",\"headingsize\":\"\",\"headingstyle\":\"\",\"headingcolor\":\"\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\"},\"id\":\"f1d29230-8cc5-4bf9-a5f6-e03396c334ac\",\"isHidden\":false,\"type\":\"heading\"},{\"content\":{\"text\":\"<p>Eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora<\\\/p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"63582162-8904-4507-9712-1e07da5231a0\",\"isHidden\":false,\"type\":\"text\"},{\"content\":{\"text\":\"<p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt.<\\\/p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"6eb5dc9b-3380-4758-9cbd-f69d950368a2\",\"isHidden\":false,\"type\":\"text\"}]","fitimage":["file:\/\/TwY32fBknFyz1JXg"],"title":"Choose image size and text background","blockclass":"","blockid":"","fitwidth":"full","fitchoosesides":"image","fitimagesize":"twothirds","fittextback":"muted","fittextpadding":"large","fittextalign":"left","fitheadings":"false","viewportheight":"false"},"id":"e43156fe-3a55-4443-b070-08ab8fb46fa3","isHidden":false,"type":"text-image"},{"content":{"fittext":"[{\"content\":{\"level\":\"h2\",\"text\":\"Image or text first, you choose.\",\"headingsize\":\"\",\"headingstyle\":\"\",\"headingcolor\":\"\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\"},\"id\":\"d5033c83-d521-4f25-907e-718c5a75c8f6\",\"isHidden\":false,\"type\":\"heading\"},{\"content\":{\"text\":\"<p>Eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora<\\\/p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"c92a540f-5e7e-4037-afd8-eb7acf2a0902\",\"isHidden\":false,\"type\":\"text\"},{\"content\":{\"text\":\"<p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt.<\\\/p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"7efb9df7-5b94-4d5d-83af-5a1119421453\",\"isHidden\":false,\"type\":\"text\"},{\"content\":{\"text\":\"<p>Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt.<\\\/p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"c4fc88ab-8175-4957-8901-5a4a2d9d1575\",\"isHidden\":false,\"type\":\"text\"},{\"content\":{\"text\":\"<p><strong><u>P.S. On smaller devices image is always on top.<\\\/u><\\\/strong><\\\/p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"67735b61-cc3d-4ae8-b027-04643eed10a2\",\"isHidden\":false,\"type\":\"text\"}]","fitimage":["file:\/\/qjvxKCdDYEdlnQ3E"],"title":"Image or text first, you choose","blockclass":"","blockid":"","fitwidth":"full","fitchoosesides":"text","fitimagesize":"half","fittextback":"primary","fittextpadding":"large","fittextalign":"left","fitheadings":"false","viewportheight":"false"},"id":"85189f0f-fe79-49b8-a830-3ecc403150e1","isHidden":false,"type":"text-image"},{"content":{"columns":[{"columnwidth":"uk-width-1-1","columnclass":"","columntitle":"","columncontenthtml":"markdown","columneditor":"","columncontent":"## Make section container smaller\n\nLet your creativity choose.","columnhtml":"","subcolumns":[],"columncard":"false","columncardsize":"","columncardhover":"false","columncardcolor":""}],"title":"","blockclass":"","blockid":"","sectionsize":" uk-section-large","sectioncolor":" uk-section-default","sectionremovepadding":"","backgroundimage":[],"backgroundimageposition":"","backgroundimagesize":"","backgroundimagerepeat":"","sectiontextcolor":"","backgroundoverlaycolor":null,"backgroundparalax":"","shapedividertoggle":"false","shapedivider":"","shapedividerposition":"","shapedividercolor":null,"customshapedivider":"","shapedividerheight":"","gridwidth":"","columnstack":"tablet","columngap":"","columnsverticalalign":"","columnshorizontalalign":"","columnsdivider":"false","centertext":"true","gridheadings":"false","columnsparallax":"false"},"id":"9c4a407a-4a99-43aa-840f-c0fa1b2ac29f","isHidden":false,"type":"grid"},{"content":{"fittext":"[{\"content\":{\"level\":\"h2\",\"text\":\"Choose viewport height.\",\"headingsize\":\"\",\"headingstyle\":\"\",\"headingcolor\":\"\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\"},\"id\":\"75ca82f0-7162-4cf8-bf7d-2b6a1c412c90\",\"isHidden\":false,\"type\":\"heading\"},{\"content\":{\"text\":\"<p>Eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora<\\\/p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"f1e2c355-67d2-4811-9b2c-5d294ab07f35\",\"isHidden\":false,\"type\":\"text\"},{\"content\":{\"text\":\"<p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt.<\\\/p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"6b4bb921-0932-462a-9ae0-783a858d3d62\",\"isHidden\":false,\"type\":\"text\"}]","fitimage":["file:\/\/TwY32fBknFyz1JXg"],"title":"Choose image size small, and text background","blockclass":"","blockid":"","fitwidth":"large","fitchoosesides":"image","fitimagesize":"onethird","fittextback":"secondary","fittextpadding":"large","fittextalign":"left","fitheadings":"false","viewportheight":"true"},"id":"a2699ae9-1c7b-449a-b3e8-b9a98cd8269e","isHidden":false,"type":"text-image"},{"content":{"fittext":"[{\"content\":{\"level\":\"h2\",\"text\":\"Image or text first, you choose.\",\"headingsize\":\"\",\"headingstyle\":\"\",\"headingcolor\":\"\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\"},\"id\":\"77810a51-72df-4304-8beb-c96f7888a811\",\"isHidden\":false,\"type\":\"heading\"},{\"content\":{\"text\":\"<p>Eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora<\\\/p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"dd89f635-7f1d-4804-b0a2-33047bcf8faf\",\"isHidden\":false,\"type\":\"text\"},{\"content\":{\"text\":\"<p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt.<\\\/p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"bc8d79a6-d13e-425e-9c13-2f979b2ae31d\",\"isHidden\":false,\"type\":\"text\"},{\"content\":{\"text\":\"<p><strong><u>P.S. On smaller devices image is always on top.<\\\/u><\\\/strong><\\\/p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"875cdf7c-e39e-454a-a0d7-b403d8e7fe7e\",\"isHidden\":false,\"type\":\"text\"}]","fitimage":["file:\/\/qjvxKCdDYEdlnQ3E"],"title":"Image or text first, you choose","blockclass":"","blockid":"","fitwidth":"large","fitchoosesides":"text","fitimagesize":"half","fittextback":"muted","fittextpadding":"large","fittextalign":"left","fitheadings":"false","viewportheight":"false"},"id":"7fc6fb8e-ea70-4714-ac7d-ee8acc195525","isHidden":false,"type":"text-image"},{"content":{"columns":[{"columnwidth":"uk-width-1-1","columnclass":"","columntitle":"","columncontenthtml":"markdown","columneditor":"","columncontent":"## Make section container even smaller.\n\nLet your creativity choose.","columnhtml":"","subcolumns":[],"columncard":"false","columncardsize":"","columncardhover":"false","columncardcolor":""}],"title":"","blockclass":"","blockid":"","sectionsize":" uk-section-large","sectioncolor":" uk-section-default","sectionremovepadding":"","backgroundimage":[],"backgroundimageposition":"","backgroundimagesize":"","backgroundimagerepeat":"","sectiontextcolor":"","backgroundoverlaycolor":null,"backgroundparalax":"","shapedividertoggle":"false","shapedivider":"","shapedividerposition":"","shapedividercolor":null,"customshapedivider":"","shapedividerheight":"","gridwidth":"","columnstack":"tablet","columngap":"","columnsverticalalign":"","columnshorizontalalign":"","columnsdivider":"false","centertext":"true","gridheadings":"false","columnsparallax":"false"},"id":"c4653d7c-d0a1-4ce9-8542-87c2535090d7","isHidden":false,"type":"grid"},{"content":{"fittext":"[{\"content\":{\"level\":\"h2\",\"text\":\"Choose image size and text background.\",\"headingsize\":\"\",\"headingstyle\":\"\",\"headingcolor\":\"\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\"},\"id\":\"883c62f4-9e52-4acf-98d6-2a262b5040a1\",\"isHidden\":false,\"type\":\"heading\"},{\"content\":{\"text\":\"<p>Eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora.<\\\/p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"74c8f54e-7401-4d92-ae32-8621a42f4692\",\"isHidden\":false,\"type\":\"text\"}]","fitimage":["file:\/\/TwY32fBknFyz1JXg"],"title":"","blockclass":"","blockid":"","fitwidth":"small","fitchoosesides":"image","fitimagesize":"half","fittextback":"primary","fittextpadding":"large","fittextalign":"left","fitheadings":"false","viewportheight":"false"},"id":"5f5b2ae5-7fe7-48d4-b6fd-5595b52df08b","isHidden":false,"type":"text-image"},{"content":{"fittext":"[{\"content\":{\"level\":\"h2\",\"text\":\"Image or text first, you choose.\",\"headingsize\":\"\",\"headingstyle\":\"\",\"headingcolor\":\"\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\"},\"id\":\"57e521e9-63ed-414c-bc77-3c5c57776dad\",\"isHidden\":false,\"type\":\"heading\"},{\"content\":{\"text\":\"<p>Eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora<\\\/p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"35b99c29-96ee-4bf9-9f32-5b4a2510912f\",\"isHidden\":false,\"type\":\"text\"},{\"content\":{\"text\":\"<p><strong><u>P.S. On smaller devices image is always on top.<\\\/u><\\\/strong><\\\/p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"f8cbc374-fda0-4947-9183-560e9474f873\",\"isHidden\":false,\"type\":\"text\"}]","fitimage":["file:\/\/qjvxKCdDYEdlnQ3E"],"title":"","blockclass":"","blockid":"","fitwidth":"small","fitchoosesides":"text","fitimagesize":"half","fittextback":"secondary","fittextpadding":"large","fittextalign":"left","fitheadings":"false","viewportheight":"false"},"id":"64632c0b-a670-45de-836a-428e6a787dbb","isHidden":false,"type":"text-image"},{"content":{"columns":[{"columnwidth":"uk-width-expand@m","columnclass":"","columntitle":"","columncontenthtml":"markdown","columneditor":"","columncontent":"### We know this section will make you very happy.\n\nThere are a few more very useful options we didn't mention here.","columnhtml":"","subcolumns":[],"columncard":"false","columncardsize":"","columncardhover":"false","columncardcolor":""}],"title":"","blockclass":"","blockid":"","sectionsize":" uk-section-large","sectioncolor":" uk-section-default","sectionremovepadding":"","backgroundimage":[],"backgroundimageposition":"","backgroundimagesize":"","backgroundimagerepeat":"","sectiontextcolor":"","backgroundoverlaycolor":null,"backgroundparalax":"","shapedividertoggle":"false","shapedivider":"","shapedividerposition":"","shapedividercolor":null,"customshapedivider":"","shapedividerheight":"","gridwidth":"","columnstack":"tablet","columngap":"","columnsverticalalign":"","columnshorizontalalign":"","columnsdivider":"false","centertext":"true","gridheadings":"false","columnsparallax":"false"},"id":"83482683-f876-4c6a-9340-92b705bd076b","isHidden":false,"type":"grid"}]
+
+----
+
+Disallowsubmenu: false
+
+----
+
+Newtab: false
+
+----
+
+Menuitemicon: 
+
+----
+
+Megamenu: false
+
+----
+
+Megamenuwidth: 
+
+----
+
+Megamenuitemwidth: 
+
+----
+
+Megamenubackground: false
+
+----
+
+Megamenubackgroundimage: 
+
+----
+
+Megamenubackgroundimageposition: 
+
+----
+
+Megamenubackgroundimagesize: 
+
+----
+
+Megamenubackgroundimagerepeat: 
+
+----
+
+Megamenubackgroundgradientoverlay: false
+
+----
+
+Megamenubackgroundgradienttransition: 
+
+----
+
+Transparentnavbar: 
+
+----
+
+Navbarinverse: false
+
+----
+
+Headersection: true
+
+----
+
+Alttitle: 
+
+----
+
+Intro: A lot of flexibility is included in this section.
+
+----
+
+Headerbackgroundtoggle: false
+
+----
+
+Header: 
+
+----
+
+Headerimageposition: 
+
+----
+
+Headerimagesize: 
+
+----
+
+Headerimagerepeat: 
+
+----
+
+Headertextcolor: 
+
+----
+
+Backgroundparalax: 
+
+----
+
+Shapedividertoggle: false
+
+----
+
+Shapedivider: 
+
+----
+
+Shapedividerposition: 
+
+----
+
+Customshapedivider: 
+
+----
+
+Shapedividerheight: 
+
+----
+
+Metafile: 
+
+----
+
+Sitemap: true
+
+----
+
+Metatitle: 
+
+----
+
+Metadescription: 
+
+----
+
+Uuid: ejHnH3mAzBKcbo1q

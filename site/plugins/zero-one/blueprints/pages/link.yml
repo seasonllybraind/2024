@@ -1,0 +1,254 @@
+title: Redirect
+icon: url
+
+options:
+  sitemap: hide
+
+columns:
+  # main
+  - width: 2/3
+    sections:
+      # content
+      content:
+        type: fields
+        fields:
+          help:
+            type: info
+            text: 
+              en: Create redirect to another page. If both empty error page will be displayed.
+              de: Erstellen Sie eine Weiterleitung zu einer anderen Seite. Wenn beide leeren Fehlerseiten angezeigt werden. 
+          redirect:
+            label: 
+              en: Redirect to internal page
+              de: Zur internen Seite umleiten
+            type: pages
+            multiple: false
+            help: 
+              en: If set, the user will be redirected to the page (if exists)
+              de: Wenn festgelegt, wird der Benutzer auf die Seite weitergeleitet (falls vorhanden).
+          link:
+            label: 
+              en: Redirect to external page
+              de: Auf externe Seite umleiten
+            type: url
+            help: 
+              en: Will be ignored, if 'Redirect to internal page' is set and valid
+              de: Wird ignoriert, wenn "Auf interne Seite umleiten" festgelegt und gültig ist
+
+      navbar:
+        type: fields
+        fields:
+          # navbar options
+          navbarSettings:
+            label: 
+              en: Navbar Settings
+              de: Navbar-Einstellungen
+            type: headline
+            numbered: false
+          disallowSubmenu:
+            label: 
+              en: Disallow submenu
+              de: Untermenü verbieten
+            type: toggle
+            width: 1/3
+          disallowSubmenuinfo:
+            label: Info
+            type: info
+            text: 
+              en: Choose this option if you don't want this page to have a submenu in the navbar.
+              de: Wählen Sie diese Option, wenn diese Seite kein Untermenü in der Navigationsleiste haben soll.
+            width: 2/3
+          newTab:
+            label: 
+              en: New tab
+              de: Neuer Tab
+            type: toggle
+            width: 1/3
+          newTabInfo:
+            label: 
+              en: New tab info
+              de: Neuer Tab info
+            type: info
+            text: 
+              en: Open in new tab from menu.
+              de: In neuem Tab aus dem Menü öffnen.
+            width: 2/3
+          menuItemIcon:
+            extends: fields/icons
+            label: Menu item icon
+            placeholder: None
+            width: 1/3
+          menuItemIconInfo:
+            label: Menu item icon info
+            type: info
+            text: 
+              en: Add icon before page title in the menu.
+              de: Symbol vor dem Seitentitel im Menü hinzufügen.
+            width: 2/3
+
+          lineMegaMenu:
+            type: line
+          megaMenu:
+            label: Mega menu
+            type: toggle
+            width: 1/3
+          megaMenuInfo:
+            label: 
+              en: Mega menu info
+              de: Mega menu info
+            type: info
+            text: 
+              en: Only works if this page is in main menu. If you have 2-4 child pages, they will be used as first in a column, and their children will list below.
+              de: Funktioniert nur, wenn diese Seite im Hauptmenü ist. Wenn Sie 2-4 untergeordnete Seiten haben, werden diese als erste in einer Spalte verwendet, und ihre untergeordneten Seiten werden unten aufgeführt.
+            width: 2/3
+          megaMenuWidth:
+            label: 
+              en: Mega menu width
+              de: Mega menu Breite
+            type: select
+            placeholder: Inherit
+            options:
+              - value: '2'
+                text: 2 columns
+              - value: '3'
+                text: 3 columns
+              - value: '4'
+                text: 4 columns
+            width: 1/3
+            when:
+              megaMenu: true
+          megaMenuItemWidth:
+            label: 
+              en: Mega menu column width
+              de: Mega menu column Breite
+            type: select
+            placeholder: Inherit
+            options:
+              - value: '1'
+                text: Full width
+              - value: '2'
+                text: '1/2'
+              - value: '3'
+                text: '1/3'
+              - value: '4'
+                text: '1/4'
+            width: 1/3
+            when:
+              megaMenu: true
+          # mega menu background
+          megaMenuBackground:
+            label: 
+              en: Dropdown custom background
+              de: Benutzerdefinierter Dropdown-Hintergrund
+            type: toggle
+            width: 1/3
+            when:
+              megaMenu: true
+          # image
+          megaMenuBackgroundImage:
+            extends: fields/backgroundImage
+            when:
+              megaMenu: true
+              megaMenuBackground: true
+          megaMenuBackgroundImagePosition:
+            label: 
+              en: Image position
+              de: Bildhintergrundposition
+            type: select
+            default: "uk-background-center-center"
+            options:
+              "uk-background-top-left":
+                en: Top Left
+                de: Oben Links
+              "uk-background-top-center": 
+                en: Top Center
+                de: Oben Zentrum
+              "uk-background-top-right": 
+                en: Top Right
+                de: Oben Rechts
+              "uk-background-center-left": 
+                en: Center Left
+                de: Zentrum Links
+              "uk-background-center-center": 
+                en: Center Center
+                de: Zentrum Zentrum
+              "uk-background-center-right": 
+                en: Center Right
+                de: Zentrum Rechts
+              "uk-background-bottom-left": 
+                en: Bottom Left
+                de: Unten Links
+              "uk-background-bottom-center": 
+                en: Bottom Center
+                de: Unten Zentrum
+              "uk-background-bottom-right": 
+                en: Bottom Right
+                de: Unten Rechts
+            width: 1/3
+            when:
+              megaMenu: true
+              megaMenuBackground: true
+          megaMenuBackgroundImageSize:
+            label:
+              en: Image size
+              de: Bildgröße
+            type: select
+            default: "uk-background-cover"
+            options:
+              "uk-background-cover": Cover
+              "uk-background-contain": Contain
+            width: 1/3
+            when:
+              megaMenu: true
+              megaMenuBackground: true
+          megaMenuBackgroundImageRepeat:
+            label: 
+              en: Repeat image
+              de: Wiederholungsbild
+            type: select
+            default: "no-repeat"
+            options:
+              "no-repeat": No repeat
+              "repeat": Repeat
+              "repeat-x": Repeat X
+              "repeat-y": Repeat Y
+            width: 1/3
+            when:
+              megaMenu: true
+              megaMenuBackground: true
+          megaMenuBackgroundOverlayColor:
+            extends: fields/backgroundOverlayColor
+            when:
+              megaMenu: true
+              megaMenuBackground: true
+          megaMenuBackgroundGradientOverlay:
+            extends: fields/backgroundGradientOverlay
+            when:
+              megaMenu: true
+              megaMenuBackground: true
+          megaMenuBackgroundGradientTransition:
+            extends: fields/backgroundGradientTransition
+            when:
+              megaMenu: true
+              megaMenuBackground: true
+              megaMenuBackgroundGradientOverlay: true
+          megaMenuBackgroundOverlayColor2:
+            extends: fields/backgroundOverlayColor
+            label: 
+              en: Overlay color 2
+              de: Farbe überlagern 2
+            when:
+              megaMenu: true
+              megaMenuBackground: true
+              megaMenuBackgroundGradientOverlay: true
+
+  # pages
+  - width: 1/3
+    sections:
+
+      # pages
+      published:
+        extends: sections/page-published
+
+      draft:
+        extends: sections/page-draft

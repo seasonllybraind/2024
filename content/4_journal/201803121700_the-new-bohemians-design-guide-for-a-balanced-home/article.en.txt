@@ -1,0 +1,49 @@
+Title: The New Bohemians Design Guide for a Balanced Home
+
+----
+
+Date: 2018-03-12 17:00:00
+
+----
+
+Author: 
+
+----
+
+Desc: We finished our first sensor sweep of the neutral zone. You did exactly what you had to do. You considered all your options, you tried every alternative.
+
+----
+
+Text: [{"content":{"text":"<p>Could someone survive inside a transporter buffer for 75 years? Fate. It protects fools, little children, and ships named \u201cEnterprise.\u201d<\/p>","textalign":"","textaligntablet":"","textalignmobile":"","textsize":"","texttransform":"","textwrapping":"","textcolor":""},"id":"b65c0e8d-7303-4955-a784-7dc448f8e4fb","isHidden":false,"type":"text"},{"content":{"text":"<p>Did you come here for something in particular or just general Riker-bashing? And blowing into maximum warp speed, you appeared for an instant to be in two places at once. We have a saboteur aboard. We know you\u2019re dealing in stolen ore. But I wanna talk about the assassination attempt on <a href=\"#\" rel=\"noopener noreferrer nofollow\">Lieutenant Worf<\/a>. Could someone survive inside a transporter buffer for 75 years? Fate. It protects fools, little children, and ships named \u201cEnterprise.\u201d<\/p>","textalign":"","textaligntablet":"","textalignmobile":"","textsize":"","texttransform":"","textwrapping":"","textcolor":""},"id":"0b5525ac-eed6-45eb-97d6-22d4be53ffc2","isHidden":false,"type":"text"},{"content":{"level":"h2","text":"The beauty of life","headingsize":"","headingstyle":"","headingcolor":"","textalign":"","textaligntablet":"","textalignmobile":"","texttransform":"","textwrapping":""},"id":"a391933a-10d6-4061-a1ce-05d4099d616b","isHidden":false,"type":"heading"},{"content":{"text":"<p>The Orbit invites comparisons. Described as congealed intestines, a melted roller coaster, a loop of string arrested in mid-fall, it seems we cannot talk about it without talking about other things. Instead of evaluation, we end up with similes. This tendency to describe what the structure is like betrays a sense of unease over what it is. The tower is, of course, strikingly redundant\u2014an inept attempt to satisfy the vague sense that something is missing, another useless thingy to add to Stratford\u2019s menagerie of future relics. But its uselessness is to the point: Boris Johnson and Anish Kapoor have said that the tower is \u2018mythic,\u2019 which both acknowledges its unreality and reveals that they want more than they know how to get.<\/p>","textalign":"","textaligntablet":"","textalignmobile":"","textsize":"","texttransform":"","textwrapping":"","textcolor":""},"id":"76ffa8fe-05ce-4dbd-8e8c-a669589a9075","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":[{"id":"balanced-home-design.jpg"}],"src":"","ratio":"","alt":"","resizewidth":null,"caption":"","captionclass":"false","width":"","widthmobile":"","align":"","float":"","borderradius":"","shadow":"","linkoption":"","link":"","newtab":"false"},"id":"6a81b5e9-39ec-4322-ba84-71657ca22588","isHidden":false,"type":"image"},{"content":{"text":"<p>If this picture of things begins to unnerve rather than inspire, we might start to hedge our bets, we might start to feel adrift and crave the certainty of a centre, the magic of a tower. Once the word \u2018global\u2019 starts to lose its meaning, the passing of the games may leave us feeling bereft.<\/p>","textalign":"","textaligntablet":"","textalignmobile":"","textsize":"","texttransform":"","textwrapping":"","textcolor":""},"id":"3ca0c1f7-b235-412a-8205-0b6d5bbd352c","isHidden":false,"type":"text"},{"content":{"text":"<p>I\u2019m afraid I still don\u2019t understand, sir. Flair is what marks the difference between artistry and mere competence. Computer, belay that order. Yesterday I did not know how to eat gagh. Mr. Worf, you sound like a man who\u2019s <a href=\"#\" rel=\"noopener noreferrer nofollow\">asking his friend<\/a> if he can start dating his sister. Not if I weaken first. What? We\u2019re not at all alike! I\u2019ll be sure to note that in my log.<\/p>","textalign":"","textaligntablet":"","textalignmobile":"","textsize":"","texttransform":"","textwrapping":"","textcolor":""},"id":"b2d4e04a-cffe-45ec-a382-dd0d796053bd","isHidden":false,"type":"text"},{"content":{"text":"There is a way out of every box, a solution to every puzzle, it\u2019s just a matter of finding it.","citation":"Sara Doe"},"id":"3c98f888-2b7c-430c-9b24-4efd1efadce6","isHidden":false,"type":"quote"},{"content":{"text":"<p>What\u2019s a knock-out like you doing in a computer-generated gin joint like this? But the probability of making a six is no greater than that of <a href=\"#\" rel=\"noopener noreferrer nofollow\">rolling a seven<\/a>. I guess it\u2019s better to be lucky than good. Yesterday I did not know how to eat gagh.<\/p>","textalign":"","textaligntablet":"","textalignmobile":"","textsize":"","texttransform":"","textwrapping":"","textcolor":""},"id":"9af7bd47-85f7-4af6-9ca0-8fb4e002f454","isHidden":false,"type":"text"},{"content":{"text":"<ul><li><strong>Aliquam<\/strong> erat volutpat eleifend mi<\/li><li>Lacinia scelerisque lacinia quis<\/li><li>Consectetuer <em>adipiscing<\/em> elit et ultrices<\/li><li>Magnis dis parturient montes<\/li><\/ul>","liststyle":" uk-list-disc","listcolor":"","listsize":"","listdivider":"","column":""},"id":"18340e91-b0be-48a9-b064-ef841d54d49d","isHidden":false,"type":"list"},{"content":{"text":"<p>What\u2019s a knock-out like you doing in a computer-generated gin joint like this? Wouldn\u2019t that bring about chaos? What? We\u2019re not at all alike! Some days you get the bear, and some days the bear gets you. I\u2019d like to think that I haven\u2019t changed those things, sir.<\/p>","textalign":"","textaligntablet":"","textalignmobile":"","textsize":"","texttransform":"","textwrapping":"","textcolor":""},"id":"255760dd-1fd4-4fc9-89fb-904bd6983df6","isHidden":false,"type":"text"},{"content":{"text":"Hi there! I am info text!"},"id":"71f89470-ae77-474e-95c3-f1f58b546b62","isHidden":false,"type":"info"},{"content":{"level":"h3","text":"Triumph of creation","headingsize":"","headingstyle":"","headingcolor":"","textalign":"","textaligntablet":"","textalignmobile":"","texttransform":"","textwrapping":""},"id":"987bbe32-7eb4-4f96-b46a-4fb75e59ce7b","isHidden":false,"type":"heading"},{"content":{"text":"<p>The second part treats fireworks \u201cfor tryumph and recreation.\u201d Its title-page is illustrated with a woodcut depicting a \u201cgreen man\u2019 wielding a fire club. With obscure and mythical origins, green men dressed in foliage and garlands traditionally led processions of fireworkers from medieval times. The customary greeting amongst the firework fraternity is still \u201cstay green.\u201d<\/p>","textalign":"","textaligntablet":"","textalignmobile":"","textsize":"","texttransform":"","textwrapping":"","textcolor":""},"id":"f39541f0-23a5-4d2e-bdcb-932e6c754794","isHidden":false,"type":"text"},{"content":{"text":"<ol><li><strong>Aliquam<\/strong> erat volutpat eleifend mi<\/li><li>Lacinia scelerisque lacinia quis<\/li><li>Consectetuer <em>adipiscing<\/em> elit et ultrices<\/li><li>Magnis dis parturient montes<\/li><\/ol>","liststyle":"","listcolor":"","listsize":"","listdivider":"","column":""},"id":"095d2bdd-17b6-4550-964e-2082b31d4805","isHidden":false,"type":"list"},{"content":{"text":"<p>There was a time when I could read the whole of <em>Usenet<\/em>\u2014not just because I was a student looking for an excuse to avoid my assignments, but because <em>Usenet<\/em> was once tractable, readable by a single determined person. Today, I can\u2019t even keep up with a single high-traffic message-board. I can\u2019t read all my emails. I can\u2019t read every item posted to every site I like. I certainly can\u2019t plough through the entire edit-history of every <em>Wikipedia<\/em> entry I read. I\u2019ve come to grips with this\u2014with acquiring information on a probabilistic basis, instead of the old, deterministic, cover-to-cover approach I learned in the offline world.<\/p>","textalign":"","textaligntablet":"","textalignmobile":"","textsize":"","texttransform":"","textwrapping":"","textcolor":""},"id":"cb69f357-2405-49b0-af53-d127d5383867","isHidden":false,"type":"text"}]
+
+----
+
+Cover: - file://2a1h20lggBG8eVCF
+
+----
+
+Transparentnavbar: 
+
+----
+
+Navbarinverse: false
+
+----
+
+Related: 
+
+----
+
+Category: lifestyle
+
+----
+
+Tags: design, balance
+
+----
+
+Featured: no
+
+----
+
+Uuid: Hij7IPRo4FrDlON2

@@ -1,0 +1,14 @@
+type: pages
+headline: 
+  en: Articles
+  de: Artikel
+query: site.children.listed.template('blog')
+info: "{{ page.category }} / {{ page.date.toDate('d.m.Y') }}"
+template: article
+empty: 
+  en: No articles yet
+  de: Noch keine Artikel
+sortBy: date desc
+image:
+  query: page.cover.toFile
+  cover: true

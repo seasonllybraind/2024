@@ -1,0 +1,101 @@
+label: 
+  en: Advanced
+  de: Fortschrittlich
+icon: edit
+fields:
+  # column advanced heading
+  columnAdvancedHeadline:
+    label: 
+      en: Advanced
+      de: Fortschrittlich
+    type: headline
+    numbered: false
+    help: 
+      en: Various advanced functions.
+      de: Verschiedene erweiterte Funktionen.
+  # column class
+  columnClass:
+    label: 
+      en: Column custom class
+      de: Benutzerdefinierte Spaltenklasse
+    type: text
+    placeholder: my-custom-class
+    before: '.'
+    width: 1/3
+  # column id
+  columnID:
+    label: 
+      en: Column ID
+      de: Spalten-ID
+    type: text
+    placeholder: my-custom-id
+    before: '#'
+    width: 1/3
+  
+  # visibility
+  visibilityHeadline:
+    label: 
+      en: Visibility
+      de: Sichtweite
+    type: headline
+    numbered: false
+  # hidden
+  hidden:
+    label: 
+      en: Hidden
+      de: Versteckt
+    type: select
+    placeholder: Inherit
+    options: 
+      " uk-hidden": 
+        en: Always
+        de: Immer
+      " uk-hidden@s": 
+        en: Tablet and bigger
+        de: Tablet und größer
+      " uk-hidden@m": Desktop
+    width: 1/3
+  # visible
+  visible:
+    label: 
+      en: Visible
+      de: Versteckt
+    type: select
+    placeholder: Inherit
+    options: 
+      " uk-visible@s": 
+        en: Tablet and bigger
+        de: Tablet und größer
+      " uk-visible@m": Desktop
+    width: 1/3
+
+  # animation headline
+  animationHeadline:
+    label: Animation
+    type: headline
+    help: 
+      en: Add animation to column.
+      de: Animation zur Spalte hinzufügen.
+    numbered: false
+  animationNote:
+    label: Important note
+    type: info
+    text: 
+      en: Layout animation must be turned off for Column animation to work properly.
+      de: Die Layout-Animation muss deaktiviert sein, damit die Spaltenanimation ordnungsgemäß funktioniert.
+  # animation switch
+  animationSwitch:
+    label: Animation
+    type: toggle
+    width: 1/3
+  animationType:
+    extends: fields/animationType
+    when:
+      animationSwitch: true
+  animationDelay:
+    extends: fields/animationDelay
+    when:
+      animationSwitch: true
+
+  advancedBottomGap:
+    type: gap

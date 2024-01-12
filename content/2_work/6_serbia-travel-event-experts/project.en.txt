@@ -1,0 +1,111 @@
+Title: Travel & Event Experts
+
+----
+
+Selectbuilder: page-builder
+
+----
+
+Layout: 
+
+----
+
+Animation: true
+
+----
+
+Modules: [{"content":{"mediaimage":["file:\/\/ypIC5Ez09m3S4Jrr"],"mediaimageheight":"large","title":"","blockclass":"","blockid":""},"id":"731b91ba-3178-4874-8dd2-e00e75c6c494","isHidden":false,"type":"media-image"},{"content":{"columns":[{"columnwidth":"uk-width-expand@m","columnclass":"","columntitle":"","columncontenthtml":"markdown","columneditor":"","columncontent":"## Welcome to the land where East meets West","columnhtml":"","subcolumns":[],"columncard":"false","columncardsize":"","columncardhover":"false","columncardcolor":""},{"columnwidth":"uk-width-expand@m","columnclass":"","columntitle":"","columncontenthtml":"markdown","columneditor":"","columncontent":"Serbia has been standing for centuries as a connection between West and East: a colorful land, with unique mixture of civilizations, cultures, religions, climates and landscapes.\n\nSituated on the crossroads of eastern and central Europe, Serbia has seen tumultuous history unfold in its millenniums-old cities, mountains and plains. After years of turmoil since the breakup of Yugoslavia, the country is emerging as the region\u2019s innovation hub and a tourist destination.\n\nWarm, welcoming and a hell of a lot of fun \u2013 everything you never heard about Serbia is true. Exuding a feisty mix of \u00e9lan and inat (Serbian trait of rebellious defiance), this country doesn\u2019t do \u2018mild\u2019.","columnhtml":"","subcolumns":[],"columncard":"false","columncardsize":"","columncardhover":"false","columncardcolor":""}],"title":"","blockclass":"","blockid":"","sectionsize":" uk-section-large","sectioncolor":" uk-section-default","sectionremovepadding":"","backgroundimage":[],"backgroundimageposition":"","backgroundimagesize":"","backgroundimagerepeat":"","sectiontextcolor":"","backgroundoverlaycolor":null,"backgroundparalax":"","shapedividertoggle":"false","shapedivider":"","shapedividerposition":"","shapedividercolor":null,"customshapedivider":"","shapedividerheight":"","gridwidth":"","columnstack":"tablet","columngap":"","columnsverticalalign":"","columnshorizontalalign":"","columnsdivider":"false","centertext":"false","gridheadings":"false","columnsparallax":"false"},"id":"29b3a5de-f18c-4bfd-b5c6-b55c11a3bfa2","isHidden":false,"type":"grid"},{"content":{"mediavideosource":"url","mediavideo":[],"mediavideourl":"https:\/\/www.youtube-nocookie.com\/embed\/Sk7FGRnMjGQ?autoplay=1&amp;controls=0&amp;showinfo=0&amp;rel=0&amp;loop=1&amp;modestbranding=1&amp;wmode=transparent","mediavideoheight":"viewport","title":"","blockclass":"","blockid":""},"id":"8e8c3981-766a-4424-9edb-fc5bacf96a28","isHidden":false,"type":"media-video"},{"content":{"columns":[{"columnwidth":"uk-width-expand@m","columnclass":"","columntitle":"","columncontenthtml":"markdown","columneditor":"","columncontent":"## Belgrade -- The Capital","columnhtml":"","subcolumns":[],"columncard":"false","columncardsize":"","columncardhover":"false","columncardcolor":""},{"columnwidth":"uk-width-expand@m","columnclass":"","columntitle":"","columncontenthtml":"markdown","columneditor":"","columncontent":"One of the oldest cities in Europe has a spirit of its own, and we call it \u2013 \u201cBelgrade spirit\u201d. Belgradian is not born in Belgrade, but is one who nurtures and grows with the city.\n\nIt is a melting pot of diverse cultures that has produced a characteristic spirit of openness and cosmopolitism. The two big rivers \u2013 the Sava and the Danube \u2013 leave a unique imprint on it, with a multitude of cultural events and venues to go out to. The city has a lot of interesting attractions and a big repository of beautiful items inside its museums, churches, streets, parks\u2026 Being exciting and dynamic, Belgrade is a strong and irresistible urban magnet.","columnhtml":"","subcolumns":[],"columncard":"false","columncardsize":"","columncardhover":"false","columncardcolor":""}],"title":"","blockclass":"","blockid":"","sectionsize":" uk-section-large","sectioncolor":" uk-section-secondary","sectionremovepadding":"","backgroundimage":[],"backgroundimageposition":"","backgroundimagesize":"","backgroundimagerepeat":"","sectiontextcolor":"","backgroundoverlaycolor":null,"backgroundparalax":"","shapedividertoggle":"false","shapedivider":"","shapedividerposition":"","shapedividercolor":null,"customshapedivider":"","shapedividerheight":"","gridwidth":"","columnstack":"tablet","columngap":"","columnsverticalalign":"","columnshorizontalalign":"","columnsdivider":"false","centertext":"false","gridheadings":"false","columnsparallax":"false"},"id":"f4cf5014-d2b5-4585-96b0-f5616672534f","isHidden":false,"type":"grid"},{"content":{"mediavideosource":"url","mediavideo":[],"mediavideourl":"https:\/\/www.youtube-nocookie.com\/embed\/FLKXSgXNl8w?autoplay=1&amp;controls=0&amp;showinfo=0&amp;rel=0&amp;loop=1&amp;modestbranding=1&amp;wmode=transparent","mediavideoheight":"viewport","title":"","blockclass":"","blockid":""},"id":"8bfc320a-d8f9-4031-b228-282c998bdae5","isHidden":false,"type":"media-video"},{"content":{"columns":[{"columnwidth":"uk-width-expand@m","columnclass":"","columntitle":"","columncontenthtml":"markdown","columneditor":"","columncontent":"### Serbia cuisine -- Food for your soul","columnhtml":"","subcolumns":[],"columncard":"false","columncardsize":"","columncardhover":"false","columncardcolor":""},{"columnwidth":"uk-width-expand@m","columnclass":"","columntitle":"","columncontenthtml":"markdown","columneditor":"","columncontent":"Country very turbulent history had left a mark also in its food. Each conquer that came and ruled Serbia, has left some distinguish characteristic of their originate food. Ottomans, Austro-Hungarians, and many other have the influence to the Serbian cuisine, and even now a lot of recipes have remained.\n\nThe great variety in Serbia\u2019s cuisine originates from its geographical, national and cultural diversity, and the jigsaw of centuries of population changes. Influences on Serbian cuisine have been rich and varied \u2013 it first began as a mixture of Greek, Bulgarian, Turkish and Hungarian cooking.","columnhtml":"","subcolumns":[],"columncard":"false","columncardsize":"","columncardhover":"false","columncardcolor":""}],"title":"","blockclass":"","blockid":"","sectionsize":" uk-section-large","sectioncolor":" uk-section-primary","sectionremovepadding":"","backgroundimage":[],"backgroundimageposition":"","backgroundimagesize":"","backgroundimagerepeat":"","sectiontextcolor":"","backgroundoverlaycolor":null,"backgroundparalax":"","shapedividertoggle":"false","shapedivider":"","shapedividerposition":"","shapedividercolor":null,"customshapedivider":"","shapedividerheight":"","gridwidth":"","columnstack":"tablet","columngap":"","columnsverticalalign":"","columnshorizontalalign":"","columnsdivider":"false","centertext":"false","gridheadings":"false","columnsparallax":"false"},"id":"bb6df2a7-05c3-4334-9b0e-9bba4a4598f6","isHidden":false,"type":"grid"},{"content":{"mediavideosource":"url","mediavideo":[],"mediavideourl":"https:\/\/www.youtube-nocookie.com\/embed\/khbRtK5FEwA?autoplay=1&amp;controls=0&amp;showinfo=0&amp;rel=0&amp;loop=1&amp;modestbranding=1&amp;wmode=transparent","mediavideoheight":"viewport","title":"","blockclass":"","blockid":""},"id":"79c01b07-5277-4413-bd4a-662088a0ba0d","isHidden":false,"type":"media-video"},{"content":{"texteditor":"[{\"content\":{\"level\":\"h3\",\"text\":\"Serbia Meetings, Incentive, Conferences and Events\",\"headingsize\":\"\",\"headingstyle\":\"\",\"headingcolor\":\"\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\"},\"id\":\"52b87396-5fc7-4ab6-b5e1-f71d136007ce\",\"isHidden\":false,\"type\":\"heading\"},{\"content\":{\"text\":\"<p>Thanks to its position, connectivity, and affordable prices, Serbia is easily climbing to a position of serious contester among Corporate destinations. <strong><a href=\\\"https:\\\/\\\/www.serbiaincoming.com\\\/belgrade\\\/\\\" target=\\\"_blank\\\" rel=\\\"noopener noreferrer nofollow\\\">Belgrade<\\\/a> is, without any doubt, the most prominent destination for business in Southeast Europe<\\\/strong>; and as such \\u2013 a remarkable representative of Serbia\\u2019s MICE offer.<\\\/p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"63c78188-0ea9-4075-bb21-73ed2ed0280d\",\"isHidden\":false,\"type\":\"text\"},{\"content\":{\"text\":\"<p>Whether it is a large, medium, or small event Serbia as a destination provides the best fitting solution for them all\\u2026 Besides Belgrade, certainly, the most desired urban destinations for such events are <a href=\\\"https:\\\/\\\/www.serbiaincoming.com\\\/meet-in-novi-sad\\\/\\\" target=\\\"_blank\\\" rel=\\\"noopener noreferrer nofollow\\\">Novi Sad<\\\/a>, <a href=\\\"https:\\\/\\\/www.serbiaincoming.com\\\/meet-in-subotica\\\/\\\" target=\\\"_blank\\\" rel=\\\"noopener noreferrer nofollow\\\">Subotica<\\\/a>, and <a href=\\\"https:\\\/\\\/www.serbiaincoming.com\\\/destination\\\/nis\\\/\\\" target=\\\"_blank\\\" rel=\\\"noopener noreferrer nofollow\\\">Ni\\u0161<\\\/a>.<\\\/p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"b999793d-46fd-46d4-90bb-3ca8031989f3\",\"isHidden\":false,\"type\":\"text\"},{\"content\":{\"text\":\"<p>Yet, it is quite interesting organizing a professional event outside urban environments. With the same ease and same comfort as in the city, Serbia\\u2019s <a href=\\\"https:\\\/\\\/www.serbiaincoming.com\\\/serbia-mountains\\\/\\\" target=\\\"_blank\\\" rel=\\\"noopener noreferrer nofollow\\\">mountain<\\\/a> destinations, <a href=\\\"https:\\\/\\\/www.serbiaincoming.com\\\/spas-and-health\\\/\\\" target=\\\"_blank\\\" rel=\\\"noopener noreferrer nofollow\\\">spas<\\\/a>, <a href=\\\"https:\\\/\\\/www.serbiaincoming.com\\\/ethno-villages\\\/\\\" target=\\\"_blank\\\" rel=\\\"noopener noreferrer nofollow\\\">ethno complexes<\\\/a> are hosts of some of the most original, yet affordable events.<\\\/p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"c7bd35c0-1501-484a-b5a6-a5501e723011\",\"isHidden\":false,\"type\":\"text\"},{\"content\":{\"text\":\"<p>Thanks to their surroundings and environment, our destinations offer \\u2013 besides full comfort \\u2013 some of the most memorable <a href=\\\"https:\\\/\\\/www.serbiaincoming.com\\\/incentives\\\/\\\" target=\\\"_blank\\\" rel=\\\"noopener noreferrer nofollow\\\">incentive<\\\/a> and <a href=\\\"https:\\\/\\\/www.serbiaincoming.com\\\/teambuilding\\\/\\\" rel=\\\"noopener noreferrer nofollow\\\">t<\\\/a><a href=\\\"https:\\\/\\\/www.serbiaincoming.com\\\/teambuilding\\\/\\\" target=\\\"_blank\\\" rel=\\\"noopener noreferrer nofollow\\\">eam building<\\\/a> ideas.<\\\/p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"a46b8b1e-5699-46cb-95ae-cda45ff1d90f\",\"isHidden\":false,\"type\":\"text\"}]","title":"","blockclass":"","blockid":"","editorwidth":"small","editorback":"secondary","editorheadings":"false"},"id":"d1b67e13-ad25-48dc-83da-2aebe52bb581","isHidden":false,"type":"editor"},{"content":{"fittext":"[{\"content\":{\"level\":\"h2\",\"text\":\"An exciting destination.\",\"headingsize\":\"\",\"headingstyle\":\"\",\"headingcolor\":\"\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\"},\"id\":\"bd948fe5-2446-4665-ada4-64aea1f42db7\",\"isHidden\":false,\"type\":\"heading\"},{\"content\":{\"text\":\"<p>Serbia is ancient and contemporary; traditional and exotic; with mountainous scenery contrasting with lowland lying plains; mild and challenging.<\\\/p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"89dea819-f998-45fa-bd95-7fc2ac10b789\",\"isHidden\":false,\"type\":\"text\"},{\"content\":{\"text\":\"<p>All you need is a creative partner to make the most of its limitless possibilities.<\\\/p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"a20c70a0-1254-448f-b2b3-b3cdae510bb9\",\"isHidden\":false,\"type\":\"text\"},{\"content\":{\"text\":\"<p><strong>That's where we come in.<\\\/strong><\\\/p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"2335fbed-4c30-4452-a75e-93e3fe266aae\",\"isHidden\":false,\"type\":\"text\"},{\"content\":{\"text\":\"Discover more\",\"buttonicon\":\"\",\"linktype\":\"url\",\"link\":\"https:\\\/\\\/www.serbiaincoming.com\\\/\",\"internalpage\":[],\"filelink\":[],\"emaillink\":\"\",\"phonelink\":\"\",\"target\":\"true\",\"buttonstyle\":\" uk-button-default\",\"buttonsize\":\"\",\"margintop\":\" uk-margin-small-top\"},\"id\":\"df6994bb-0c06-4f47-a1d7-aa5a7b23f399\",\"isHidden\":false,\"type\":\"button\"}]","fitimage":["file:\/\/AL5FUwyNYqdom6Oq"],"title":"","blockclass":"","blockid":"","fitwidth":"full","fitchoosesides":"image","fitimagesize":"half","fittextback":"default","fittextpadding":"large","fittextalign":"left","fitheadings":"false","viewportheight":"false"},"id":"79c71217-a146-461f-8f79-4b592b7f21b9","isHidden":false,"type":"text-image"}]
+
+----
+
+Projectinfo:
+
+- 
+  projectcolumn: '**Timeline:** 2014 - present'
+- 
+  projectcolumn: 'Website: (link: https://www.serbiaincoming.com text: www.serbiaincoming.com target: _blank)'
+
+----
+
+Tagslabel: Tags:
+
+----
+
+Tags: design, branding
+
+----
+
+Transparentnavbar: 
+
+----
+
+Navbarinverse: false
+
+----
+
+Alttitle: 
+
+----
+
+Intro: Leading Serbia and Balkans destination management company. Delivering the highest level of personal attention.
+
+----
+
+Headerimageoption: false
+
+----
+
+Headerimage: 
+
+----
+
+Headerimageposition: 
+
+----
+
+Headerimagesize: 
+
+----
+
+Headerimagerepeat: 
+
+----
+
+Headertextcolor: 
+
+----
+
+Backgroundparalax: 
+
+----
+
+Cover:
+
+- 
+  id: >
+    work/serbia-travel-event-experts/serbia-incoming-case-study.jpg
+  clip:
+    width: 782
+    height: 1043
+    left: 0
+    top: 56
+
+----
+
+Metafile: 
+
+----
+
+Sitemap: true
+
+----
+
+Metatitle: 
+
+----
+
+Metadescription: 
+
+----
+
+Uuid: Qw478UihHMe2CYlR

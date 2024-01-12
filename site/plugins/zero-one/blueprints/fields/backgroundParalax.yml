@@ -1,0 +1,6 @@
+label: Paralax background
+type: select
+width: 1/3
+options:
+  paralaxY: Paralax Y axis
+  paralaxX: Paralax X axis

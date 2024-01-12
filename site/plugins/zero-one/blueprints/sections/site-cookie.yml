@@ -1,0 +1,46 @@
+type: fields
+fields:
+  cookieConsent:
+    label: 
+      en: Cookie consent popup
+      de: Cookie-Zustimmungs-Popup 
+    type: headline
+    numbered: false
+  enableCookieconsent:
+    label:
+      en: Enable Cookie Consent
+      de: Cookie-Einwilligung aktivieren
+    type: toggle
+    translate: false
+    help: Enable Cookie Consent popup on your website
+    width: 1/3
+  cookieConsenttype:
+    label: 
+      en: Popup type
+      de: Popup-Typ 
+    type: select
+    placeholder: Popup
+    options:
+      modal: Modal
+    width: 1/3
+    when:
+      enableCookieconsent: true
+  cookieConsenttext:
+    label: 
+      en: Cookie consent text
+      de: Cookie-Zustimmungstext 
+    type: textarea
+    placeholder: This website uses cookies or similar technologies, to enhance your browsing experience and provide personalized recommendations. By continuing to use our website, you agree to our Privacy Policy.
+    when:
+      enableCookieconsent: true
+  cookieConsentbutton:
+    label: 
+      en: Accept button text
+      de: Schaltflächentext akzeptieren
+    type: text
+    placeholder: I understand and accept
+    width: 1/3
+    when:
+      enableCookieconsent: true
+  cookiessGap:
+    type: gap

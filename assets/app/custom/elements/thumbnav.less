@@ -1,0 +1,57 @@
+//
+// Component: Thumbnav
+//
+// ========================================================================
+
+
+// Variables
+// ========================================================================
+
+
+// Component
+// ========================================================================
+
+.hook-thumbnav() {}
+
+.hook-thumbnav-item() {
+    & img {
+        border: 1px solid @global-inverse-color;
+        transition: border 900ms cubic-bezier(.19, 1, .22, 1);
+    }
+    & when (@global-shadows = true) {
+        & img {
+            box-shadow: @global-small-box-shadow;
+        }
+    }
+    & when (@global-borders-rounded = true) {
+        & img {
+            border-radius: 7px;
+        }
+    }
+}
+
+.hook-thumbnav-item-hover() {
+    & img {
+        border: 1px solid @global-color;
+    }
+}
+
+.hook-thumbnav-item-active() {
+    & img {
+        border: 1px solid @global-color;
+    }
+}
+
+
+// Miscellaneous
+// ========================================================================
+
+.hook-thumbnav-misc() {}
+
+
+// Inverse
+// ========================================================================
+
+.hook-inverse-thumbnav-item() {}
+.hook-inverse-thumbnav-item-hover() {}
+.hook-inverse-thumbnav-item-active() {}

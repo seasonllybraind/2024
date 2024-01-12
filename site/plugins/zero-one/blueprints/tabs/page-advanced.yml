@@ -1,0 +1,30 @@
+label: 
+  en: Advanced
+  de: Vorangeschritten
+icon: cog
+columns:
+
+  left:
+    width: 1/2
+    sections:
+      # custom css
+      customCSS:
+        type: fields
+        fields:
+          headlineCss:
+            label: 
+              en: Custom CSS
+              de: Benutzerdefinierte CSS
+            type: headline
+            numbered: false
+          customCss:
+            label: 
+              en: Page custom CSS
+              de: Benutzerdefiniertes CSS für die Seite
+            type: code-editor
+            size: medium
+            language: 'css'
+            translate: false
+            help: 
+              en: You can add a page specific custom CSS code here.
+              de: Sie können hier einen seitenspezifischen benutzerdefinierten CSS-Code hinzufügen.

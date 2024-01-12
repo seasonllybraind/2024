@@ -1,0 +1,97 @@
+title: 
+  en: Home Page
+  de: Startseite
+icon: home
+options:
+  duplicate: false
+
+tabs:
+
+  # content tab
+  content:
+    label: 
+      en: Content
+      de: Inhalt
+    icon: text
+    columns:
+      # main
+      - width: 3/4
+          sections:
+            # select builder
+            selectBuilder:
+              type: fields
+              fields:
+                selectBuilder:
+                  type: toggles
+                  label: 
+                    en: Select builder
+                    de: Builder auswählen
+                  options:
+                    - value: layout-builder
+                      text: Layout Builder (New)
+                      icon: grid
+                    - value: page-builder
+                      text: Page Builder (Old)
+                      icon: layers
+            # Layout Builder sections
+            layoutBuilder:
+              extends: sections/layout-builder
+              when:
+                selectBuilder: layout-builder
+            # Page Builder options
+            sectionsSettings:
+              extends: sections/builder-options
+              when:
+                selectBuilder: page-builder
+            # Page Builder sections
+            sectionsBuilder:
+              extends: sections/page-builder
+              when:
+                selectBuilder: page-builder
+
+      # sidebar
+      - width: 1/4
+        sections:
+          pageOptions:
+            type: fields
+            fields:
+              # navbar transparency
+              transparentNavbar:
+                label: 
+                  en: Transparent navbar
+                  de: Transparente Navigationsleiste
+                type: select
+                placeholder: Site default
+                options:
+                  transparent: Transparent
+                  non-transparent: Non-transparent
+                help: 
+                  en: Override default site setting.
+                  de: Überschreiben Sie die Standard-Site-Einstellung.
+                width: 1/3
+              navbarInverse:
+                label: 
+                  en: Inverse colors and logo
+                  de: Farben und Logo invertieren
+                type: toggle
+                width: 1/3
+                when:
+                  transparentNavbar: transparent
+              # hide navbar
+              hideNavbar:
+                label: 
+                  en: Hide navbar
+                  de: Navigationsleiste ausblenden
+                type: toggle
+              # hide footer
+              hideFooter:
+                label: 
+                  en: Hide footer
+                  de: Fußzeile ausblenden
+                type: toggle
+
+  # seo tab
+  seo: tabs/seo
+
+  # advanced tab
+  advanced: tabs/page-advanced

@@ -1,0 +1,149 @@
+Title: Grid section
+
+----
+
+Animation: true
+
+----
+
+Modules: [{"content":{"columns":[{"columnwidth":"uk-width-1-4@m","columnclass":"","columntitle":"","columncontenthtml":"markdown","columneditor":"","columncontent":"# Choose grid section color.","columnhtml":"","subcolumns":[],"columncard":"false","columncardsize":"","columncardhover":"false","columncardcolor":""},{"columnwidth":"uk-width-expand@m","columnclass":"","columntitle":"","columncontenthtml":"markdown","columneditor":"","columncontent":"","columnhtml":"","subcolumns":[],"columncard":"false","columncardsize":"","columncardhover":"false","columncardcolor":""},{"columnwidth":"uk-width-1-2@m","columnclass":"","columntitle":"","columncontenthtml":"markdown","columneditor":"","columncontent":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\n\nExcepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.","columnhtml":"","subcolumns":[],"columncard":"false","columncardsize":"","columncardhover":"false","columncardcolor":""}],"title":"Choose grid section color","blockclass":"","blockid":"","sectionsize":" uk-section-xlarge","sectioncolor":" uk-section-primary","sectionremovepadding":"","backgroundimage":[],"backgroundimageposition":"","backgroundimagesize":"","backgroundimagerepeat":"","sectiontextcolor":"","backgroundoverlaycolor":null,"backgroundparalax":"","shapedividertoggle":"false","shapedivider":"","shapedividerposition":"","shapedividercolor":null,"customshapedivider":"","shapedividerheight":"","gridwidth":"","columnstack":"tablet","columngap":" uk-grid-medium","columnsverticalalign":"","columnshorizontalalign":"","columnsdivider":"false","centertext":"false","gridheadings":"false","columnsparallax":"false"},"id":"bb5ebda8-4731-4e01-9d74-c4a9d66b76df","isHidden":false,"type":"grid"},{"content":{"columns":[{"columnwidth":"uk-width-1-3@m","columnclass":"","columntitle":"","columncontenthtml":"markdown","columneditor":"","columncontent":"## We are a full services digital agency.","columnhtml":"","subcolumns":[],"columncard":"false","columncardsize":"","columncardhover":"false","columncardcolor":""},{"columnwidth":"uk-width-expand@m","columnclass":"","columntitle":"","columncontenthtml":"markdown","columneditor":"","columncontent":"","columnhtml":"","subcolumns":[],"columncard":"false","columncardsize":"","columncardhover":"false","columncardcolor":""},{"columnwidth":"uk-width-1-4@m","columnclass":"","columntitle":"","columncontenthtml":"markdown","columneditor":"","columncontent":"-- Brand Identity\n-- Art Direction\n-- Website Design\n-- Motion Graphic","columnhtml":"","subcolumns":[],"columncard":"false","columncardsize":"","columncardhover":"false","columncardcolor":""},{"columnwidth":"uk-width-1-4@m","columnclass":"","columntitle":"","columncontenthtml":"markdown","columneditor":"","columncontent":"-- Photography\n-- Illustration\n-- Video\n-- Marketing","columnhtml":"","subcolumns":[],"columncard":"false","columncardsize":"","columncardhover":"false","columncardcolor":""}],"title":"We are a full services digital agency","blockclass":"","blockid":"","sectionsize":" uk-section-xlarge","sectioncolor":" uk-section-secondary","sectionremovepadding":"","backgroundimage":[],"backgroundimageposition":"","backgroundimagesize":"","backgroundimagerepeat":"","sectiontextcolor":"","backgroundoverlaycolor":null,"backgroundparalax":"","shapedividertoggle":"false","shapedivider":"","shapedividerposition":"","shapedividercolor":null,"customshapedivider":"","shapedividerheight":"","gridwidth":"","columnstack":"tablet","columngap":" uk-grid-large","columnsverticalalign":"","columnshorizontalalign":"","columnsdivider":"false","centertext":"false","gridheadings":"false","columnsparallax":"false"},"id":"06d80cc8-022c-4315-a605-200a91d8d5fd","isHidden":false,"type":"grid"},{"content":{"columns":[{"columnwidth":"uk-width-2-3@m","columnclass":"","columntitle":"","columncontenthtml":"markdown","columneditor":"","columncontent":"## Choose width per individual column.\n\nError vitae, cupiditate architecto officia rem natus neque ipsa itaque at veniam voluptatibus, tempora sequi earum quo. Inventore voluptatibus incidunt possimus molestiae.","columnhtml":"","subcolumns":[],"columncard":"false","columncardsize":"","columncardhover":"false","columncardcolor":""},{"columnwidth":"uk-width-1-3@m","columnclass":"","columntitle":"","columncontenthtml":"","columneditor":"","columncontent":"","columnhtml":"","subcolumns":[],"columncard":"false","columncardsize":"","columncardhover":"false","columncardcolor":""},{"columnwidth":"uk-width-1-2@m","columnclass":"","columntitle":"","columncontenthtml":"","columneditor":"","columncontent":"### One half\n\nError vitae, cupiditate architecto officia rem natus neque ipsa itaque at veniam voluptatibus, tempora sequi earum quo. Inventore voluptatibus incidunt possimus molestiae.\n\nUllam reiciendis labore fuga earum nisi tempora explicabo voluptatibus tempore vero est assumenda nam ex error placeat eius dolores?","columnhtml":"","subcolumns":[],"columncard":"false","columncardsize":"","columncardhover":"false","columncardcolor":""},{"columnwidth":"uk-width-1-4@m","columnclass":"","columntitle":"","columncontenthtml":"","columneditor":"","columncontent":"### One fourth\n\nError vitae, cupiditate architecto officia rem natus neque ipsa itaque at veniam voluptatibus, tempora sequi earum quo. Inventore voluptatibus incidunt possimus molestiae.","columnhtml":"","subcolumns":[],"columncard":"false","columncardsize":"","columncardhover":"false","columncardcolor":""},{"columnwidth":"uk-width-expand@m","columnclass":"","columntitle":"","columncontenthtml":"","columneditor":"","columncontent":"### One fourth\n\nError vitae, cupiditate architecto officia rem natus neque ipsa itaque at veniam voluptatibus, tempora sequi earum quo. Inventore voluptatibus incidunt possimus molestiae.","columnhtml":"","subcolumns":[],"columncard":"false","columncardsize":"","columncardhover":"false","columncardcolor":""},{"columnwidth":"uk-width-1-3@m","columnclass":"","columntitle":"","columncontenthtml":"","columneditor":"","columncontent":"### One third\n\nError vitae, cupiditate architecto officia rem natus neque ipsa itaque at veniam voluptatibus, tempora sequi earum quo. Inventore voluptatibus incidunt possimus molestiae.","columnhtml":"","subcolumns":[],"columncard":"false","columncardsize":"","columncardhover":"false","columncardcolor":""},{"columnwidth":"uk-width-2-3@m","columnclass":"","columntitle":"","columncontenthtml":"","columneditor":"","columncontent":"### Two thirds\n\nError vitae, cupiditate architecto officia rem natus neque ipsa itaque at veniam voluptatibus, tempora sequi earum quo. Inventore voluptatibus incidunt possimus molestiae.\n\nUllam reiciendis labore fuga earum nisi tempora explicabo voluptatibus tempore vero est assumenda nam ex error placeat eius dolores?","columnhtml":"","subcolumns":[],"columncard":"false","columncardsize":"","columncardhover":"false","columncardcolor":""},{"columnwidth":"uk-width-1-1","columnclass":"","columntitle":"","columncontenthtml":"","columneditor":"","columncontent":"### Full width\n\nError vitae, cupiditate architecto officia rem natus neque ipsa itaque at veniam voluptatibus, tempora sequi earum quo. Inventore voluptatibus incidunt possimus molestiae. Ullam reiciendis labore fuga earum nisi tempora explicabo voluptatibus tempore vero est assumenda nam ex error placeat eius dolores?","columnhtml":"","subcolumns":[],"columncard":"false","columncardsize":"","columncardhover":"false","columncardcolor":""},{"columnwidth":"uk-width-1-3@m","columnclass":"","columntitle":"","columncontenthtml":"","columneditor":"","columncontent":"","columnhtml":"","subcolumns":[],"columncard":"false","columncardsize":"","columncardhover":"false","columncardcolor":""},{"columnwidth":"uk-width-expand@m","columnclass":"","columntitle":"","columncontenthtml":"","columneditor":"","columncontent":"### Offset column if needed\n\nError vitae, cupiditate architecto officia rem natus neque ipsa itaque at veniam voluptatibus, tempora sequi earum quo. Inventore voluptatibus incidunt possimus molestiae.","columnhtml":"","subcolumns":[],"columncard":"false","columncardsize":"","columncardhover":"false","columncardcolor":""}],"title":"- Choose width per individual column","blockclass":"","blockid":"","sectionsize":" uk-section-large","sectioncolor":" uk-section-muted","sectionremovepadding":"","backgroundimage":[],"backgroundimageposition":"","backgroundimagesize":"","backgroundimagerepeat":"","sectiontextcolor":"","backgroundoverlaycolor":null,"backgroundparalax":"","shapedividertoggle":"false","shapedivider":"","shapedividerposition":"","shapedividercolor":null,"customshapedivider":"","shapedividerheight":"","gridwidth":"","columnstack":"mobile","columngap":"","columnsverticalalign":"","columnshorizontalalign":"","columnsdivider":"false","centertext":"false","gridheadings":"false","columnsparallax":"false"},"id":"b760b427-870f-4e79-9e53-16fda30eee3c","isHidden":false,"type":"grid"},{"content":{"columns":[{"columnwidth":"uk-width-2-3@m","columnclass":"","columntitle":"Title","columncontenthtml":"markdown","columneditor":"","columncontent":"## Use cards for columns\n\nError vitae, cupiditate architecto officia rem natus neque ipsa itaque at veniam voluptatibus, tempora sequi earum quo. Inventore voluptatibus incidunt possimus molestiae.","columnhtml":"","subcolumns":[],"columncard":"false","columncardsize":"","columncardhover":"false","columncardcolor":""},{"columnwidth":"uk-width-1-3@m","columnclass":"","columntitle":"Empty","columncontenthtml":"","columneditor":"","columncontent":"","columnhtml":"","subcolumns":[],"columncard":"false","columncardsize":"","columncardhover":"false","columncardcolor":""},{"columnwidth":"uk-width-1-4@m","columnclass":"","columntitle":"","columncontenthtml":"markdown","columneditor":"","columncontent":"### Research & Analysis\n\nUllam reiciendis labore fuga earum nisi tempora explicabo voluptatibus tempore vero est assumenda nam ex error placeat eius dolores, blanditiis natus repellat?","columnhtml":"","subcolumns":[],"columncard":"true","columncardsize":"","columncardhover":"false","columncardcolor":""},{"columnwidth":"uk-width-1-4@m","columnclass":"","columntitle":"Muted","columncontenthtml":"markdown","columneditor":"","columncontent":"### Branding Identity\n\nRepellendus architecto nulla iure tempore perspiciatis, alias sit magnam, sed vitae, hic commodi optio eos? Nobis nihil consectetur quod, quas maxime minus.","columnhtml":"","subcolumns":[],"columncard":"true","columncardsize":"","columncardhover":"false","columncardcolor":" uk-card-default"},{"columnwidth":"uk-width-1-4@m","columnclass":"","columntitle":"Primary","columncontenthtml":"","columneditor":"","columncontent":"### Design & Development\n\nUllam reiciendis labore fuga earum nisi tempora explicabo voluptatibus tempore vero est assumenda nam ex error placeat eius dolores, blanditiis natus repellat?","columnhtml":"","subcolumns":[],"columncard":"true","columncardsize":"","columncardhover":"false","columncardcolor":" uk-card-primary"},{"columnwidth":"uk-width-1-4@m","columnclass":"","columntitle":"Secondary","columncontenthtml":"markdown","columneditor":"","columncontent":"### Grow your audience\n\nRepellendus architecto nulla iure tempore perspiciatis, alias sit magnam, sed vitae, hic commodi optio eos? Nobis nihil consectetur quod, quas maxime minus.","columnhtml":"","subcolumns":[],"columncard":"true","columncardsize":"","columncardhover":"false","columncardcolor":" uk-card-secondary"}],"title":"Cards","blockclass":"","blockid":"","sectionsize":" uk-section-large","sectioncolor":" uk-section-default","sectionremovepadding":"","backgroundimage":[],"backgroundimageposition":"","backgroundimagesize":"","backgroundimagerepeat":"","sectiontextcolor":"","backgroundoverlaycolor":null,"backgroundparalax":"","shapedividertoggle":"false","shapedivider":"","shapedividerposition":"","shapedividercolor":null,"customshapedivider":"","shapedividerheight":"","gridwidth":"","columnstack":"tablet","columngap":" uk-grid-small","columnsverticalalign":" uk-grid-match","columnshorizontalalign":"","columnsdivider":"false","centertext":"false","gridheadings":"false","columnsparallax":"false"},"id":"6b0e87fc-00de-4560-a01b-a57db0175ddd","isHidden":false,"type":"grid"},{"content":{"columns":[{"columnwidth":"uk-width-2-3@m","columnclass":"","columntitle":"","columncontenthtml":"","columneditor":"","columncontent":"## Use column divider, or don't use it.\n\nError vitae, cupiditate architecto officia rem natus neque ipsa itaque at veniam voluptatibus, tempora sequi earum quo. Inventore voluptatibus incidunt possimus molestiae.","columnhtml":"","subcolumns":[],"columncard":"false","columncardsize":"","columncardhover":"false","columncardcolor":""},{"columnwidth":"uk-width-1-3@m","columnclass":"","columntitle":"","columncontenthtml":"","columneditor":"","columncontent":"","columnhtml":"","subcolumns":[],"columncard":"false","columncardsize":"","columncardhover":"false","columncardcolor":""},{"columnwidth":"uk-width-1-4@m","columnclass":"","columntitle":"","columncontenthtml":"","columneditor":"","columncontent":"### Research & Analysis\n\nUllam reiciendis labore fuga earum nisi tempora explicabo voluptatibus tempore vero est assumenda nam ex error placeat eius dolores, blanditiis natus repellat?","columnhtml":"","subcolumns":[],"columncard":"false","columncardsize":"","columncardhover":"false","columncardcolor":""},{"columnwidth":"uk-width-1-4@m","columnclass":"","columntitle":"","columncontenthtml":"","columneditor":"","columncontent":"### Branding Identity\n\nRepellendus architecto nulla iure tempore perspiciatis, alias sit magnam, sed vitae, hic commodi optio eos? Nobis nihil consectetur quod, quas maxime minus.","columnhtml":"","subcolumns":[],"columncard":"false","columncardsize":"","columncardhover":"false","columncardcolor":""},{"columnwidth":"uk-width-1-4@m","columnclass":"","columntitle":"","columncontenthtml":"","columneditor":"","columncontent":"### Design & Development\n\nUllam reiciendis labore fuga earum nisi tempora explicabo voluptatibus tempore vero est assumenda nam ex error placeat eius dolores, blanditiis natus repellat?","columnhtml":"","subcolumns":[],"columncard":"false","columncardsize":"","columncardhover":"false","columncardcolor":""},{"columnwidth":"uk-width-1-4@m","columnclass":"","columntitle":"","columncontenthtml":"","columneditor":"","columncontent":"### Grow your audience\n\nRepellendus architecto nulla iure tempore perspiciatis, alias sit magnam, sed vitae, hic commodi optio eos? Nobis nihil consectetur quod, quas maxime minus.","columnhtml":"","subcolumns":[],"columncard":"false","columncardsize":"","columncardhover":"false","columncardcolor":""}],"title":"- Use column divider, or don\u2019t use it","blockclass":"","blockid":"","sectionsize":" uk-section-large","sectioncolor":" uk-section-muted","sectionremovepadding":"","backgroundimage":[],"backgroundimageposition":"","backgroundimagesize":"","backgroundimagerepeat":"","sectiontextcolor":"","backgroundoverlaycolor":null,"backgroundparalax":"","shapedividertoggle":"false","shapedivider":"","shapedividerposition":"","shapedividercolor":null,"customshapedivider":"","shapedividerheight":"","gridwidth":"","columnstack":"tablet","columngap":" uk-grid-large","columnsverticalalign":"","columnshorizontalalign":"","columnsdivider":"true","centertext":"false","gridheadings":"false","columnsparallax":"false"},"id":"2dc73148-27d3-48ad-85a3-a8c798987472","isHidden":false,"type":"grid"},{"content":{"columns":[{"columnwidth":"uk-width-2-3@m","columnclass":"","columntitle":"","columncontenthtml":"","columneditor":"","columncontent":"## Adjust width per your needs.\n\nError vitae, cupiditate architecto officia rem natus neque ipsa itaque at veniam voluptatibus, tempora sequi earum quo. Inventore voluptatibus incidunt possimus molestiae.","columnhtml":"","subcolumns":[],"columncard":"false","columncardsize":"","columncardhover":"false","columncardcolor":""},{"columnwidth":"uk-width-1-3@m","columnclass":"","columntitle":"","columncontenthtml":"","columneditor":"","columncontent":"","columnhtml":"","subcolumns":[],"columncard":"false","columncardsize":"","columncardhover":"false","columncardcolor":""},{"columnwidth":"uk-width-1-2@m","columnclass":"","columntitle":"","columncontenthtml":"","columneditor":"","columncontent":"### Research & Analysis\n\nUllam reiciendis labore fuga earum nisi tempora explicabo voluptatibus tempore vero est assumenda nam ex error placeat eius dolores, blanditiis natus repellat?","columnhtml":"","subcolumns":[],"columncard":"false","columncardsize":"","columncardhover":"false","columncardcolor":""},{"columnwidth":"uk-width-1-2@m","columnclass":"","columntitle":"","columncontenthtml":"","columneditor":"","columncontent":"### Branding Identity\n\nRepellendus architecto nulla iure tempore perspiciatis, alias sit magnam, sed vitae, hic commodi optio eos? Nobis nihil consectetur quod, quas maxime minus.","columnhtml":"","subcolumns":[],"columncard":"false","columncardsize":"","columncardhover":"false","columncardcolor":""},{"columnwidth":"uk-width-1-2@m","columnclass":"","columntitle":"","columncontenthtml":"","columneditor":"","columncontent":"### Design & Development\n\nUllam reiciendis labore fuga earum nisi tempora explicabo voluptatibus tempore vero est assumenda nam ex error placeat eius dolores, blanditiis natus repellat?","columnhtml":"","subcolumns":[],"columncard":"false","columncardsize":"","columncardhover":"false","columncardcolor":""},{"columnwidth":"uk-width-1-2@m","columnclass":"","columntitle":"","columncontenthtml":"","columneditor":"","columncontent":"### Grow your audience\n\nRepellendus architecto nulla iure tempore perspiciatis, alias sit magnam, sed vitae, hic commodi optio eos? Nobis nihil consectetur quod, quas maxime minus.","columnhtml":"","subcolumns":[],"columncard":"false","columncardsize":"","columncardhover":"false","columncardcolor":""}],"title":"- Adjust width per your needs","blockclass":"","blockid":"","sectionsize":" uk-section-large","sectioncolor":" uk-section-secondary","sectionremovepadding":"","backgroundimage":[],"backgroundimageposition":"","backgroundimagesize":"","backgroundimagerepeat":"","sectiontextcolor":"","backgroundoverlaycolor":null,"backgroundparalax":"","shapedividertoggle":"false","shapedivider":"","shapedividerposition":"","shapedividercolor":null,"customshapedivider":"","shapedividerheight":"","gridwidth":" uk-container-small","columnstack":"tablet","columngap":" uk-grid-large","columnsverticalalign":"","columnshorizontalalign":"","columnsdivider":"false","centertext":"false","gridheadings":"false","columnsparallax":"false"},"id":"ad4b3a6c-4983-4417-b7bf-a2fbef7aa468","isHidden":false,"type":"grid"},{"content":{"columns":[{"columnwidth":"uk-width-1-1","columnclass":"","columntitle":"","columncontenthtml":"","columneditor":"","columncontent":"## Center text when needed.\n\nError vitae, cupiditate architecto officia rem natus neque ipsa itaque at veniam voluptatibus, tempora sequi earum quo. Inventore voluptatibus incidunt possimus molestiae.","columnhtml":"","subcolumns":[],"columncard":"false","columncardsize":"","columncardhover":"false","columncardcolor":""},{"columnwidth":"uk-width-1-2@m","columnclass":"","columntitle":"","columncontenthtml":"","columneditor":"","columncontent":"### Research & Analysis\n\nUllam reiciendis labore fuga earum nisi tempora explicabo voluptatibus tempore vero est assumenda nam ex error placeat eius dolores, blanditiis natus repellat?","columnhtml":"","subcolumns":[],"columncard":"false","columncardsize":"","columncardhover":"false","columncardcolor":""},{"columnwidth":"uk-width-1-2@m","columnclass":"","columntitle":"","columncontenthtml":"","columneditor":"","columncontent":"### Branding Identity\n\nRepellendus architecto nulla iure tempore perspiciatis, alias sit magnam, sed vitae, hic commodi optio eos? Nobis nihil consectetur quod, quas maxime minus.","columnhtml":"","subcolumns":[],"columncard":"false","columncardsize":"","columncardhover":"false","columncardcolor":""},{"columnwidth":"uk-width-1-2@m","columnclass":"","columntitle":"","columncontenthtml":"","columneditor":"","columncontent":"### Design & Development\n\nUllam reiciendis labore fuga earum nisi tempora explicabo voluptatibus tempore vero est assumenda nam ex error placeat eius dolores, blanditiis natus repellat?","columnhtml":"","subcolumns":[],"columncard":"false","columncardsize":"","columncardhover":"false","columncardcolor":""},{"columnwidth":"uk-width-1-2@m","columnclass":"","columntitle":"","columncontenthtml":"","columneditor":"","columncontent":"### Grow your audience\n\nRepellendus architecto nulla iure tempore perspiciatis, alias sit magnam, sed vitae, hic commodi optio eos? Nobis nihil consectetur quod, quas maxime minus.","columnhtml":"","subcolumns":[],"columncard":"false","columncardsize":"","columncardhover":"false","columncardcolor":""}],"title":"- Center text when needed","blockclass":"","blockid":"","sectionsize":" uk-section-large","sectioncolor":" uk-section-primary","sectionremovepadding":"","backgroundimage":[],"backgroundimageposition":"","backgroundimagesize":"","backgroundimagerepeat":"","sectiontextcolor":"","backgroundoverlaycolor":null,"backgroundparalax":"","shapedividertoggle":"false","shapedivider":"","shapedividerposition":"","shapedividercolor":null,"customshapedivider":"","shapedividerheight":"","gridwidth":" uk-container-small","columnstack":"tablet","columngap":" uk-grid-large","columnsverticalalign":"","columnshorizontalalign":"","columnsdivider":"false","centertext":"true","gridheadings":"false","columnsparallax":"false"},"id":"98e60f79-eb2c-4a39-a14e-0642d5b65259","isHidden":false,"type":"grid"},{"content":{"columns":[{"columnwidth":"uk-width-1-2@m","columnclass":"","columntitle":"","columncontenthtml":"markdown","columneditor":"","columncontent":"## Use HTML when needed.\n\nOn the right, you can see Weather Widget, it is added as HTML code. Every grid item has a switch and content can be KirbyText markdown or just plain HTML.\n\n**This option gives you endless possibilities:**\n\u00bb Add your custom code\n\u00bb Add newsletter embed form\n\u00bb Weather widget\n\u00bb Reservio or similar widget\n\u00bb Survio or similar\n\u00bb Or some premium (link: https:\/\/elfsight.com\/widgets\/ text: https:\/\/elfsight.com\/widgets\/ target: _blank)","columnhtml":"","subcolumns":[],"columncard":"false","columncardsize":"","columncardhover":"false","columncardcolor":""},{"columnwidth":"uk-width-1-2@m","columnclass":"","columntitle":"","columncontenthtml":"html","columneditor":"","columncontent":"","columnhtml":"<script src=\"https:\/\/apps.elfsight.com\/p\/platform.js\" defer><\/script>\n<div class=\"elfsight-app-02551e90-f7a5-4e30-b06e-19a871242cfe\"><\/div>","subcolumns":[],"columncard":"false","columncardsize":"","columncardhover":"false","columncardcolor":""}],"title":"- Use HTML","blockclass":"","blockid":"","sectionsize":" uk-section-large","sectioncolor":" uk-section-default","sectionremovepadding":"","backgroundimage":[],"backgroundimageposition":"","backgroundimagesize":"","backgroundimagerepeat":"","sectiontextcolor":"","backgroundoverlaycolor":null,"backgroundparalax":"","shapedividertoggle":"false","shapedivider":"","shapedividerposition":"","shapedividercolor":null,"customshapedivider":"","shapedividerheight":"","gridwidth":" uk-container-xsmall","columnstack":"tablet","columngap":" uk-grid-large","columnsverticalalign":"","columnshorizontalalign":"","columnsdivider":"true","centertext":"false","gridheadings":"false","columnsparallax":"false"},"id":"55e8a91d-40fc-41a7-aa77-a329cc88474d","isHidden":false,"type":"grid"},{"content":{"columns":[{"columnwidth":"uk-width-1-2@m","columnclass":"","columntitle":"","columncontenthtml":"","columneditor":"","columncontent":"(image: kristaps-ungurs-rlib6dlwch8-unsplash.jpg)","columnhtml":"","subcolumns":[],"columncard":"false","columncardsize":"","columncardhover":"false","columncardcolor":""},{"columnwidth":"uk-width-1-2@m","columnclass":"","columntitle":"","columncontenthtml":"","columneditor":"","columncontent":"## Parallax your columns.\n\nLorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\n\nExcepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\n\nLorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\n\nExcepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\n\n(link: contact text: Get in touch class: uk-button uk-button-primary uk-margin-top)","columnhtml":"","subcolumns":[],"columncard":"false","columncardsize":"","columncardhover":"false","columncardcolor":""}],"title":"- Parallax your columns","blockclass":"","blockid":"","sectionsize":" uk-section-large","sectioncolor":" uk-section-muted","sectionremovepadding":"","backgroundimage":[],"backgroundimageposition":"","backgroundimagesize":"","backgroundimagerepeat":"","sectiontextcolor":"","backgroundoverlaycolor":null,"backgroundparalax":"","shapedividertoggle":"false","shapedivider":"","shapedividerposition":"","shapedividercolor":null,"customshapedivider":"","shapedividerheight":"","gridwidth":" uk-container-small","columnstack":"mobile","columngap":" uk-grid-large","columnsverticalalign":"","columnshorizontalalign":"","columnsdivider":"false","centertext":"false","gridheadings":"false","columnsparallax":"true"},"id":"8d6f5654-6ac3-4860-b085-e632cceecf1c","isHidden":false,"type":"grid"},{"content":{"columns":[{"columnwidth":"uk-width-1-3@m","columnclass":"","columntitle":"","columncontenthtml":"","columneditor":"","columncontent":"### Use images or don't use them.","columnhtml":"","subcolumns":[],"columncard":"false","columncardsize":"","columncardhover":"false","columncardcolor":""},{"columnwidth":"uk-width-2-3@m","columnclass":"","columntitle":"","columncontenthtml":"","columneditor":"","columncontent":"","columnhtml":"","subcolumns":[],"columncard":"false","columncardsize":"","columncardhover":"false","columncardcolor":""},{"columnwidth":"uk-width-1-3@m","columnclass":"","columntitle":"","columncontenthtml":"","columneditor":"","columncontent":"(image: nikolay-hristov-tfqvoiumo6g-unsplash.jpg)\n\n**Karina Smith**\n-- *Creative Director*","columnhtml":"","subcolumns":[],"columncard":"false","columncardsize":"","columncardhover":"false","columncardcolor":""},{"columnwidth":"uk-width-1-3@m","columnclass":"","columntitle":"","columncontenthtml":"","columneditor":"","columncontent":"(image: craig-mckay-jmurdhtm7ng-unsplash.jpg)\n\n**John Doe**\n-- *Developer*","columnhtml":"","subcolumns":[],"columncard":"false","columncardsize":"","columncardhover":"false","columncardcolor":""},{"columnwidth":"uk-width-1-3@m","columnclass":"","columntitle":"","columncontenthtml":"","columneditor":"","columncontent":"(image: lifephotography-ybjgwzq0ecy-unsplash.jpg)\n\n**Jose Perez**\n-- *Designer*","columnhtml":"","subcolumns":[],"columncard":"false","columncardsize":"","columncardhover":"false","columncardcolor":""}],"title":"- Use images or don\u2019t use them","blockclass":"","blockid":"","sectionsize":"","sectioncolor":" uk-section-default","sectionremovepadding":"","backgroundimage":[],"backgroundimageposition":"","backgroundimagesize":"","backgroundimagerepeat":"","sectiontextcolor":"","backgroundoverlaycolor":null,"backgroundparalax":"","shapedividertoggle":"false","shapedivider":"","shapedividerposition":"","shapedividercolor":null,"customshapedivider":"","shapedividerheight":"","gridwidth":"","columnstack":"mobile","columngap":" uk-grid-large","columnsverticalalign":"","columnshorizontalalign":"","columnsdivider":"false","centertext":"false","gridheadings":"false","columnsparallax":"false"},"id":"366f2e2f-b525-4bca-ad4f-1385dd48a4ab","isHidden":false,"type":"grid"}]
+
+----
+
+Disallowsubmenu: false
+
+----
+
+Newtab: false
+
+----
+
+Menuitemicon: 
+
+----
+
+Megamenu: false
+
+----
+
+Megamenuwidth: 
+
+----
+
+Megamenuitemwidth: 
+
+----
+
+Megamenubackground: false
+
+----
+
+Megamenubackgroundimage: 
+
+----
+
+Megamenubackgroundimageposition: 
+
+----
+
+Megamenubackgroundimagesize: 
+
+----
+
+Megamenubackgroundimagerepeat: 
+
+----
+
+Megamenubackgroundgradientoverlay: false
+
+----
+
+Megamenubackgroundgradienttransition: 
+
+----
+
+Transparentnavbar: 
+
+----
+
+Navbarinverse: false
+
+----
+
+Headersection: true
+
+----
+
+Alttitle: 
+
+----
+
+Intro: The truth is you can create layouts in endless variations with this page builder section. Here we present only some of the possibilities.
+
+----
+
+Headerbackgroundtoggle: false
+
+----
+
+Header: 
+
+----
+
+Headerimageposition: 
+
+----
+
+Headerimagesize: 
+
+----
+
+Headerimagerepeat: 
+
+----
+
+Headertextcolor: 
+
+----
+
+Backgroundparalax: 
+
+----
+
+Shapedividertoggle: false
+
+----
+
+Shapedivider: 
+
+----
+
+Shapedividerposition: 
+
+----
+
+Customshapedivider: 
+
+----
+
+Shapedividerheight: 
+
+----
+
+Metafile: 
+
+----
+
+Sitemap: true
+
+----
+
+Metatitle: 
+
+----
+
+Metadescription: 
+
+----
+
+Uuid: zNtzcKH40n15NFRp

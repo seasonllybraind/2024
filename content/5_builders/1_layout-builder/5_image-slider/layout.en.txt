@@ -1,0 +1,153 @@
+Title: Image slider
+
+----
+
+Layout: [{"attrs":{"gridwidth":"uk-container uk-container-small","tabletwidth":"","mobilewidth":"","columnsverticalalign":"","columnshorizontalalign":"","containerexpand":"","columngap":"","columnsdivider":"false","gridmasonry":"false","gridparallax":"false","sectiontoggle":"true","sectionsize":"","sectioncolor":" uk-section-default","sectionremovepadding":" uk-padding-remove-top","backgroundstyle":"color","backgroundimage":[],"mediavideosource":"url","mediavideo":[],"mediavideourl":"","backgroundimageposition":" uk-background-center-center","backgroundimagesize":" uk-background-cover","backgroundimagerepeat":" no-repeat","sectiontextcolor":"","backgroundoverlaycolor":"#ffffff","backgroundgradientoverlay":"true","backgroundgradienttransition":"","backgroundoverlaycolor2":"#0e071d","backgroundparalax":"","shapedividertoggle":"false","shapedivider":"","shapedividerposition":"","shapedividercolor":"#ffffff","customshapedivider":"","shapedividerheight":"150px","preservecolor":"false","sectionclass":"","sectionid":"","hidden":"","visible":"","animationswitch":"true","animationtype":"uk-animation-slide-bottom-small","animationdelay":null},"columns":[{"blocks":[{"content":{"slider":["file:\/\/QsK6AjbB26yQ1Y6u","file:\/\/y3KaD1gztLBnsLbo","file:\/\/8amtYzWYF4vJ1Z2S"],"imagewidth":null,"imageheight":600,"slideritemwidth":"","slideritemsgap":"","centeritems":"false","autoplay":"false","finite":"false","slidesets":"false","navigationarrows":"out","navigationbullets":"true","title":"Dogs","blockclass":"","blockid":"","marginvertical":"","marginleft":"","marginright":"","animationswitch":"false","animationtype":"","animationdelay":null},"id":"a81dbb79-1d76-4b87-83cb-1da2d10cd471","isHidden":false,"type":"z-image-slider"}],"id":"5b7cc049-587d-4437-9e84-75a52021d247","width":"1\/1"}],"id":"527c4f26-3217-4a10-8ba2-ba6229ebf54d"},{"attrs":{"gridwidth":"uk-container","tabletwidth":"","mobilewidth":"","columnsverticalalign":"","columnshorizontalalign":"","containerexpand":"","columngap":"","columnsdivider":"false","gridmasonry":"false","gridparallax":"false","sectiontoggle":"true","sectionsize":" uk-section-large","sectioncolor":" uk-section-secondary","sectionremovepadding":"","backgroundstyle":"color","backgroundimage":[],"mediavideosource":"url","mediavideo":[],"mediavideourl":"","backgroundimageposition":" uk-background-center-center","backgroundimagesize":" uk-background-cover","backgroundimagerepeat":" no-repeat","sectiontextcolor":" uk-light","backgroundoverlaycolor":"rgba(0,0,0,0.3)","backgroundgradientoverlay":"false","backgroundgradienttransition":"","backgroundoverlaycolor2":"rgba(0,0,0,0.3)","backgroundparalax":"","shapedividertoggle":"false","shapedivider":"","shapedividerposition":"","shapedividercolor":"#ffffff","customshapedivider":"","shapedividerheight":"150px","preservecolor":"false","sectionclass":"","sectionid":"","hidden":"","visible":"","animationswitch":"true","animationtype":"uk-animation-slide-bottom-small","animationdelay":null},"columns":[{"blocks":[{"content":{"level":"h5","text":"handcrafted elements","headingsize":"","headingstyle":"","headingcolor":"","textalign":" uk-text-center@m","textaligntablet":" uk-text-center@s","textalignmobile":"","texttransform":" uk-text-uppercase","textwrapping":""},"id":"2ab18011-fc7c-461d-b788-fd83061f97ef","isHidden":false,"type":"heading"},{"content":{"level":"h2","text":"Out of love for stylish and functional Kirby CMS themes","headingsize":"","headingstyle":"","headingcolor":"","textalign":" uk-text-center@m","textaligntablet":" uk-text-center@s","textalignmobile":"","texttransform":"","textwrapping":""},"id":"128ccca2-58fd-4afb-bcef-b7ba84a0548b","isHidden":false,"type":"heading"},{"content":{"slider":["file:\/\/8amtYzWYF4vJ1Z2S","file:\/\/kWof0DrEUPTGbpjq","file:\/\/IwbCOyP8hqDAejtd","file:\/\/y3KaD1gztLBnsLbo","file:\/\/XNGZs9h4lAh7Cstr","file:\/\/QsK6AjbB26yQ1Y6u","file:\/\/qgxiODSkVxLIUp58"],"imagewidth":600,"imageheight":null,"slideritemwidth":" uk-width-1-3@s","slideritemsgap":"","centeritems":"false","autoplay":"false","finite":"false","slidesets":"false","navigationarrows":"out","navigationbullets":"true","title":"","blockclass":"","blockid":"","marginvertical":"","marginleft":"","marginright":"","animationswitch":"false","animationtype":"","animationdelay":null},"id":"8d1c8c82-6e66-4fbc-af18-9db8c9f8cc81","isHidden":false,"type":"z-image-slider"}],"id":"14e3a56c-79a3-44d2-adaf-cd5c4ef31266","width":"1\/1"}],"id":"5e42a9c4-b393-4619-ac35-31b45070d2de"},{"attrs":{"gridwidth":"uk-container uk-container-expand","tabletwidth":"","mobilewidth":"","columnsverticalalign":"","columnshorizontalalign":"","containerexpand":"","columngap":"","columnsdivider":"false","gridmasonry":"false","gridparallax":"false","sectiontoggle":"true","sectionsize":" uk-section-large","sectioncolor":" uk-section-primary","sectionremovepadding":"","backgroundstyle":"color","backgroundimage":[],"mediavideosource":"url","mediavideo":[],"mediavideourl":"","backgroundimageposition":" uk-background-center-center","backgroundimagesize":" uk-background-cover","backgroundimagerepeat":" no-repeat","sectiontextcolor":" uk-light","backgroundoverlaycolor":"rgba(0,0,0,0.3)","backgroundgradientoverlay":"false","backgroundgradienttransition":"","backgroundoverlaycolor2":"rgba(0,0,0,0.3)","backgroundparalax":"","shapedividertoggle":"false","shapedivider":"","shapedividerposition":"","shapedividercolor":"#ffffff","customshapedivider":"","shapedividerheight":"150px","preservecolor":"false","sectionclass":"","sectionid":"","hidden":"","visible":"","animationswitch":"true","animationtype":"uk-animation-slide-bottom-small","animationdelay":null},"columns":[{"blocks":[{"content":{"level":"h5","text":"handcrafted elements","headingsize":"","headingstyle":"","headingcolor":"","textalign":" uk-text-center@m","textaligntablet":" uk-text-center@s","textalignmobile":"","texttransform":" uk-text-uppercase","textwrapping":""},"id":"b65aa2c2-a931-4506-a0c3-bc127460b454","isHidden":false,"type":"heading"},{"content":{"level":"h2","text":"Out of love for stylish and functional Kirby CMS themes","headingsize":"","headingstyle":"","headingcolor":"","textalign":" uk-text-center@m","textaligntablet":" uk-text-center@s","textalignmobile":"","texttransform":"","textwrapping":""},"id":"96a2332d-894b-4861-b39a-04a1efbab9eb","isHidden":false,"type":"heading"},{"content":{"slider":["file:\/\/qgxiODSkVxLIUp58","file:\/\/XNGZs9h4lAh7Cstr","file:\/\/8amtYzWYF4vJ1Z2S","file:\/\/kWof0DrEUPTGbpjq","file:\/\/IwbCOyP8hqDAejtd","file:\/\/y3KaD1gztLBnsLbo","file:\/\/QsK6AjbB26yQ1Y6u"],"imagewidth":null,"imageheight":null,"slideritemwidth":" uk-width-1-2@s","slideritemsgap":" uk-grid-medium","centeritems":"false","autoplay":"false","finite":"false","slidesets":"true","navigationarrows":"inside","navigationbullets":"true","title":"","blockclass":"","blockid":"","marginvertical":"","marginleft":"","marginright":"","animationswitch":"false","animationtype":"","animationdelay":null},"id":"004d459f-4c7a-49c2-b6d4-4963adbb8ac3","isHidden":false,"type":"z-image-slider"}],"id":"0e35b60d-eb60-4967-ac0d-bf1bbbadba03","width":"1\/1"}],"id":"d64d00e5-ac55-453d-88e7-7c7f26671faa"}]
+
+----
+
+Disallowsubmenu: false
+
+----
+
+Newtab: false
+
+----
+
+Menuitemicon: image
+
+----
+
+Megamenu: false
+
+----
+
+Megamenuwidth: 
+
+----
+
+Megamenuitemwidth: 
+
+----
+
+Megamenubackground: false
+
+----
+
+Megamenubackgroundimage: 
+
+----
+
+Megamenubackgroundimageposition: 
+
+----
+
+Megamenubackgroundimagesize: 
+
+----
+
+Megamenubackgroundimagerepeat: 
+
+----
+
+Megamenubackgroundgradientoverlay: false
+
+----
+
+Megamenubackgroundgradienttransition: 
+
+----
+
+Transparentnavbar: 
+
+----
+
+Navbarinverse: false
+
+----
+
+Headersection: true
+
+----
+
+Alttitle: 
+
+----
+
+Intro: Flexible and advanced image sliders
+
+----
+
+Headerbackgroundtoggle: false
+
+----
+
+Header: 
+
+----
+
+Headerimageposition: uk-background-center-center
+
+----
+
+Headerimagesize: uk-background-cover
+
+----
+
+Headerimagerepeat: no-repeat
+
+----
+
+Headertextcolor: uk-light
+
+----
+
+Headeroverlaycolor: rgba(0,0,0,0.2)
+
+----
+
+Backgroundparalax: 
+
+----
+
+Shapedividertoggle: false
+
+----
+
+Shapedivider: 
+
+----
+
+Shapedividerposition: 
+
+----
+
+Shapedividercolor: #ffffff
+
+----
+
+Customshapedivider: 
+
+----
+
+Shapedividerheight: 150px
+
+----
+
+Metafile: 
+
+----
+
+Sitemap: true
+
+----
+
+Metatitle: 
+
+----
+
+Metadescription: 
+
+----
+
+Uuid: 75vb1xtl1h8zOxbj

@@ -1,0 +1,1054 @@
+label: Site Styling
+icon: palette
+
+sections:
+  stylingIntro:
+    type: fields
+    fields:
+      stylingCompilerHeadline:
+        label: Styling Compiler
+        type: headline
+        numbered: false
+      #Styling info
+      stylingInfo:
+        label: Styling Compiler Info
+        type: info
+        text: 
+          en: |
+            ### Welcome to style compiler.
+            
+            **How it works?** When you save your style options and refresh any front-end website page in that moment styles compiling happened. And it will take up to 5-10 seconds.
+            **What is compiled?** It compiles all CSS code in one minified file, which adds greatly to your website speed.
+            If something is wrong with your input, error will arise, so then just check have you added in input something strange. 
+            
+            **Remember one thing, when you finish styling and you are happy how it looks, and styles are compiled, turn it off.**
+            **Why to turn it off? Because it will compile every time you refresh any page, and slow your website.**
+
+            **Multilanguage website note:** Style compiler only works when you select default language. Because it is not possible to have different styles per language.
+          de: |
+            ### Willkommen beim Style Compiler.
+            Es befindet sich noch in der Beta-Version, was bedeutet, dass wir es noch testen und an einigen Verbesserungen arbeiten.
+
+            **Wie funktioniert es?** Wenn Sie Ihre Stiloptionen speichern und eine Front-End-Website-Seite in diesem Moment aktualisieren, erfolgt die Kompilierung der Stile. Und es dauert bis zu 5-10 Sekunden.
+            ** Was wird kompiliert? ** Es kompiliert den gesamten CSS-Code in einer minimierten Datei, was die Geschwindigkeit Ihrer Website erheblich erhöht.
+            Wenn etwas mit Ihrer Eingabe nicht stimmt, tritt ein Fehler auf. Überprüfen Sie daher, ob Sie der Eingabe etwas Seltsames hinzugefügt haben.
+
+            **Denken Sie an eine Sache: Wenn Sie mit dem Stylen fertig sind und zufrieden sind, wie es aussieht und Stile kompiliert werden, schalten Sie es aus. **
+            **Warum ausschalten? Weil es jedes Mal kompiliert wird, wenn Sie eine Seite aktualisieren und Ihre Website verlangsamen.**
+
+            **Hinweis zur mehrsprachigen Website:** Der Stil-Compiler funktioniert nur, wenn Sie die Standardsprache auswählen. Weil es nicht möglich ist, unterschiedliche Stile pro Sprache zu haben.
+
+      # Styling switcher
+      stylingSwitcher:
+        label: 
+          en: Turn it on to start styling. 
+          de: Styling-Umschalter
+        type: toggle
+        default: false
+        translate: false
+        help: 
+          en: Turn on/off styling compiler.
+          de: Aktivieren / Deaktivieren des Styling-Compilers.
+        width: 1/3
+      # Warning
+      inputInfo:
+        label: 
+          en: Input warning
+          de: Eingabewarnung 
+        type: info
+        theme: negative
+        text:
+          en: |
+            **Only HEX colours are allowed.** RGB colours do work for most of the fields, but HEX is most recommended.
+          de: |
+            **Es sind nur HEX-Farben erlaubt.** RGB-Farben funktionieren für die meisten Felder, aber HEX wird am meisten empfohlen. 
+        width: 2/3
+        when:
+          stylingSwitcher: true
+  
+  stylingOptions:
+    type: fields
+    when:
+      stylingSwitcher: true
+    fields:
+      # Styles
+      siteStyles:
+        label: 
+          en: Styles
+          de: Stile
+        type: headline
+        numbered: true
+      siteShadows:
+        label: 
+          en: Site shadows
+          de: Site-Schatten
+        type: toggle
+        default: false
+        translate: false
+        help: 
+          en: Add shadows to website elements.
+          de: Fügen Sie den Elementen der Website Schatten hinzu.
+        width: 1/4
+      siteButtonShadow:
+        label: 
+          en: Buttons Shadow
+          de: Schaltflächen Schatten
+        type: select
+        placeholder: Inherit
+        translate: false
+        options:
+          "none": None
+          "@global-xsmall-box-shadow": XSmall shadow
+          "@global-small-box-shadow": Small shadow
+          "@global-medium-box-shadow": Medium shadow
+          "@global-large-box-shadow": Large shadow
+          "@global-xlarge-box-shadow": XLarge shadow
+        help: 
+          en: Medium is default
+          de: Standard ist „Medium“.
+        width: 1/4
+        when:
+          siteShadows: true
+      siteCardShadow:
+        label: 
+          en: Card Shadow
+          de: Kartenschatten
+        type: select
+        placeholder: Inherit
+        translate: false
+        options:
+          "none": None
+          "@global-xsmall-box-shadow": XSmall shadow
+          "@global-small-box-shadow": Small shadow
+          "@global-medium-box-shadow": Medium shadow
+          "@global-large-box-shadow": Large shadow
+          "@global-xlarge-box-shadow": XLarge shadow
+        help: 
+          en: Medium is default
+          de: Standard ist „Medium“.
+        width: 1/4
+        when:
+          siteShadows: true
+      siteNavbarShadow:
+        label: 
+          en: Navbar Shadow
+          de: Navbar-Schatten
+        type: select
+        placeholder: Inherit
+        translate: false
+        options:
+          "none": None
+          "@global-xsmall-box-shadow": XSmall shadow
+          "@global-small-box-shadow": Small shadow
+          "@global-medium-box-shadow": Medium shadow
+          "@global-large-box-shadow": Large shadow
+          "@global-xlarge-box-shadow": XLarge shadow
+        help: 
+          en: Medium is default
+          de: Standard ist „Medium“.
+        width: 1/4
+        when:
+          siteShadows: true
+      siteSmallShadow:
+        label: 
+          en: Site Small Shadow
+          de: Site Kleiner Schatten
+        type: text
+        translate: false
+        placeholder: "0px 1px 2px 0px rgba(0,0,0,0.05)"
+        help: 
+          en: Override small shadow
+          de: Kleinen Schatten überschreiben
+        width: 1/4
+        when:
+          siteShadows: true
+      siteMediumShadow:
+        label: 
+          en: Site Medium Shadow
+          de: Site Mittlerer Schatten
+        type: text
+        translate: false
+        placeholder: "0px 1px 2px 0px rgba(0,0,0,0.05)"
+        help: 
+          en: Override medium shadow
+          de: Mittleren Schatten überschreiben
+        width: 1/4
+        when:
+          siteShadows: true
+      siteLargeShadow:
+        label: 
+          en: Site Large Shadow
+          de: Site Großer Schatten
+        type: text
+        translate: false
+        placeholder: "0px 1px 2px 0px rgba(0,0,0,0.05)"
+        help: 
+          en: Override large shadow
+          de: Großen Schatten überschreiben
+        width: 1/4
+        when:
+          siteShadows: true
+      siteXLargeShadow:
+        label: 
+          en: Site XLarge Shadow
+          de: Site XGroßer Schatten
+        type: text
+        translate: false
+        placeholder: "0px 1px 2px 0px rgba(0,0,0,0.05)"
+        help: 
+          en: Override xlarge shadow
+          de: XGroßen Schatten überschreiben
+        width: 1/4
+        when:
+          siteShadows: true
+      siteBorderLine:
+        type: line
+      siteBorderRadius:
+        label: 
+          en: Rounded borders
+          de: Abgerundete Ränder
+        type: toggle
+        default: false
+        translate: false
+        help: 
+          en: Rounded borders to website elements.
+          de: Abgerundete Ränder zu Website-Elementen.
+        width: 1/4
+      gapOne:
+        type: gap
+        width: 1/1
+      # Colors
+      siteColors:
+        label: 
+          en: Main site colors
+          de: Farben der Hauptseite
+        type: headline
+        numbered: true
+      textColor:
+        label: 
+          en: Text Color
+          de: Textfarbe
+        type: colors
+        required: true
+        translate: false
+        width: 1/4
+      textEmphasisColor:
+        label: 
+          en: Text Emphasis Color
+          de: Text Betonung Farbe
+        type: colors
+        required: true
+        translate: false
+        width: 1/4
+      textMutedColor:
+        label: 
+          en: Text Muted Color
+          de: Text stummgeschaltete Farbe
+        type: colors
+        required: true
+        translate: false
+        width: 1/4
+      textLinkColor:
+        label: 
+          en: Text Link Color
+          de: Text Link Farbe
+        type: colors
+        required: true
+        translate: false
+        width: 1/4
+      defaultColor:
+        label: 
+          en: Default Background
+          de: Standard Hintergrund
+        type: colors
+        required: true
+        translate: false
+        width: 1/4
+      mutedColor:
+        label: 
+          en: Muted Background
+          de: Gedämpfter Hintergrund
+        type: colors
+        required: true
+        translate: false
+        width: 1/4
+      primaryColor:
+        label: 
+          en: Primary Background
+          de: Primärer Hintergrund
+        type: colors
+        required: true
+        translate: false
+        width: 1/4
+      secondaryColor:
+        label: 
+          en: Secondary Background
+          de: Sekundärer Hintergrund
+        type: colors
+        required: true
+        translate: false
+        width: 1/4
+      inverseColor:
+        label: 
+          en: Inverse Color
+          de: Inverse Farbe
+        type: colors
+        required: true
+        translate: false
+        width: 1/4
+      borderColor:
+        label: 
+          en: Border Color
+          de: Randfarbe
+        type: colors
+        required: true
+        translate: false
+        width: 1/4
+      borderWidth:
+        label: 
+          en: Border width
+          de: Rahmenbreite
+        type: number
+        placeholder: 1
+        after: px
+        help: Default value is 1
+        translate: false
+        width: 1/4
+      
+      # Navbar
+      siteNavbar:
+        label: Navbar
+        type: headline
+        numbered: true
+      siteNavbarHeight:
+        label: 
+          en: Navbar height
+          de: Navbar-Höhe
+        type: range
+        step: 1
+        min: 30
+        max: 150
+        default: 99
+        help: Default is 110px.
+        required: true
+        translate: false
+        tooltip:
+          after: px
+        width: 1/4
+      siteNavbarStyle:
+        label: 
+          en: Navbar Style
+          de: Navigationsleistenstil
+        type: select
+        default: "top"
+        help: 
+          en: Choose navbar style.
+          de: Wählen Sie den Navigationsleistenstil.
+        options:
+          "top": Top line
+          "bottom": Bottom line
+        required: true
+        translate: false
+        width: 1/4
+      siteNavbarBackground:
+        label: 
+          en: Navbar background
+          de: Navbar-Hintergrund
+        type: colors
+        translate: false
+        width: 1/4
+      gap1Navbar:
+        type: gap
+        width: 1/4
+      siteDropdownBackground:
+        label: 
+          en: Dropdown background
+          de: Dropdown-Hintergrund
+        type: colors
+        required: true
+        translate: false
+        width: 1/4
+      siteDropdownColor:
+        label: 
+          en: Dropdown item color
+          de: Farbe des Dropdown-Elements
+        type: colors
+        required: true
+        translate: false
+        width: 1/4
+      siteDropdownHoverColor:
+        label: 
+          en: Dropdown item hover color
+          de: Hover-Farbe für Dropdown-Elemente
+        type: colors
+        required: true
+        translate: false
+        width: 1/4
+      gap2Navbar:
+        type: gap
+        width: 1/4
+      siteNavbarFont:
+        label: 
+          en: Navbar font family
+          de: Navbar-Schriftfamilie
+        type: select
+        placeholder: Main text font
+        options:
+          "@global-primary-font-family": Headings font
+          "@global-secondary-font-family": Secondary font
+        translate: false
+        width: 1/4
+      siteNavbarFontsize:
+        label: 
+          en: Navbar font size
+          de: Schriftgröße der Navigationsleiste
+        type: text
+        placeholder: 15px
+        help: 
+          en: Add number and unit.
+          de: Zahl und Einheit hinzufügen.
+        translate: false
+        width: 1/4
+      siteNavbarFontWeight:
+        label: Navbar Font Weight
+        type: select
+        placeholder: Default
+        options:
+          "100": "100"
+          "200": "200"
+          "300": "300"
+          "400": "400"
+          "500": "500"
+          "600": "600"
+          "700": "700"
+          "800": "800"
+          "900": "900"
+        translate: false
+        width: 1/4
+      siteNavbarTextTransform:
+        label: Navbar Text Transform
+        type: select
+        placeholder: Inherit
+        options:
+          uppercase: Uppercase
+          lowercase: Lowercase
+          capitalize: Capitalize
+        translate: false
+        width: 1/4
+
+      # offcanvas
+      siteOffcanvas:
+        label: Offcanvas
+        type: headline
+        numbered: true
+      siteOffcanvasBackground:
+        label: 
+          en: Offcanvas Background
+          de: Offcanvas-Hintergrund
+        type: colors
+        help: Default is secondary background.
+        translate: false
+        width: 1/4
+      siteOffcanvasColormode:
+        label: 
+          en: Text color
+          de: Textfarbe
+        type: toggle
+        text:
+          - "Light"
+          - "Dark"
+        help: 
+          en: It influences the offcanvas logo too.
+          de: Es beeinflusst auch das Offcanvas-Logo.
+        translate: false
+        width: 1/4
+      siteOffcanvasMobilesize:
+        label: 
+          en: Offcanvas mobile size
+          de: Mobile Größe von Offcanvas
+        type: text
+        placeholder: 'example: 300px/100%'
+        help: 
+          en: Use pixels or percentages.
+          de: Verwenden Sie Pixel oder Prozentsätze.
+        translate: false
+        width: 1/4
+      siteOffcanvasDesktopsize:
+        label: 
+          en: Offcanvas desktop size
+          de: Offcanvas-Desktopgröße
+        type: text
+        placeholder: 'example: 400px/50%'
+        help: 
+          en: Use pixels or percentages.
+          de: Verwenden Sie Pixel oder Prozentsätze.
+        translate: false
+        width: 1/4
+      siteOffcanvasOverlayBlurred:
+        label: 
+          en: Blurred overlay
+          de: Verschwommene Überlagerung
+        type: toggle
+        translate: false
+        width: 1/4
+
+      # Buttons
+      siteButtons:
+        label: Buttons
+        type: headline
+        numbered: true
+      siteButtonStyle:
+        label: Button Style
+        type: select
+        default: "default"
+        help: 
+          en: Choose button style.
+          de: Wählen Sie den Schaltflächenstil.
+        options:
+          "default": Default
+          "creative": Creative
+        required: true
+        translate: false
+        width: 1/4
+      siteButtonBorder:
+        label: Button Border
+        type: select
+        default: "default"
+        help: 
+          en: Choose button border.
+          de: Wählen Sie den Schaltflächenrand.
+        options:
+          "default": Default
+          "rounded": Rounded
+          "round": Round
+        required: true
+        translate: false
+        width: 1/4
+      customizeButtons:
+        label: 
+          en: Customize button colors
+          de: Tastenfarben anpassen
+        type: toggle
+        translate: false
+        width: 1/4
+
+      defaultButtonLine:
+        type: line
+        when:
+          customizeButtons: true
+      defaultButtonBackground:
+        label: Default button background
+        type: colors
+        translate: false
+        width: 1/4
+        when:
+          customizeButtons: true
+      defaultButtonColor:
+        label: Default button color
+        type: colors
+        translate: false
+        width: 1/4
+        when:
+          customizeButtons: true
+      defaultButtonHoverBackground:
+        label: Default button hover background
+        type: colors
+        translate: false
+        width: 1/4
+        when:
+          customizeButtons: true
+      defaultButtonHoverColor:
+        label: Default button hover color
+        type: colors
+        translate: false
+        width: 1/4
+        when:
+          customizeButtons: true
+      defaultInverseButtonBackground:
+        label: Default inverse button background
+        type: colors
+        translate: false
+        width: 1/4
+        when:
+          customizeButtons: true
+      defaultInverseButtonColor:
+        label: Default inverse button color
+        type: colors
+        translate: false
+        width: 1/4
+        when:
+          customizeButtons: true
+      defaultInverseButtonHoverBackground:
+        label: Default inverse button hover background
+        type: colors
+        translate: false
+        width: 1/4
+        when:
+          customizeButtons: true
+      defaultInverseButtonHoverColor:
+        label: Default inverse button hover color
+        type: colors
+        translate: false
+        width: 1/4
+        when:
+          customizeButtons: true
+      
+      primaryButtonLine:
+        type: line
+        when:
+          customizeButtons: true
+      primaryButtonBackground:
+        label: Primary button background
+        type: colors
+        translate: false
+        width: 1/4
+        when:
+          customizeButtons: true
+      primaryButtonColor:
+        label: Primary button color
+        type: colors
+        translate: false
+        width: 1/4
+        when:
+          customizeButtons: true
+      primaryButtonHoverBackground:
+        label: Primary button hover background
+        type: colors
+        translate: false
+        width: 1/4
+        when:
+          customizeButtons: true
+      primaryButtonHoverColor:
+        label: Primary button hover color
+        type: colors
+        translate: false
+        width: 1/4
+        when:
+          customizeButtons: true
+      primaryInverseButtonBackground:
+        label: Primary inverse button background
+        type: colors
+        translate: false
+        width: 1/4
+        when:
+          customizeButtons: true
+      primaryInverseButtonColor:
+        label: Primary inverse button color
+        type: colors
+        translate: false
+        width: 1/4
+        when:
+          customizeButtons: true
+      primaryInverseButtonHoverBackground:
+        label: Primary inverse button hover background
+        type: colors
+        translate: false
+        width: 1/4
+        when:
+          customizeButtons: true
+      primaryInverseButtonHoverColor:
+        label: Primary inverse button hover color
+        type: colors
+        translate: false
+        width: 1/4
+        when:
+          customizeButtons: true
+
+      secondaryButtonLine:
+        type: line
+        when:
+          customizeButtons: true
+      secondaryButtonBackground:
+        label: Secondary button background
+        type: colors
+        translate: false
+        width: 1/4
+        when:
+          customizeButtons: true
+      secondaryButtonColor:
+        label: Secondary button color
+        type: colors
+        translate: false
+        width: 1/4
+        when:
+          customizeButtons: true
+      secondaryButtonHoverBackground:
+        label: Secondary button hover background
+        type: colors
+        translate: false
+        width: 1/4
+        when:
+          customizeButtons: true
+      secondaryButtonHoverColor:
+        label: Secondary button hover color
+        type: colors
+        translate: false
+        width: 1/4
+        when:
+          customizeButtons: true
+      secondaryInverseButtonBackground:
+        label: Secondary inverse button background
+        type: colors
+        translate: false
+        width: 1/4
+        when:
+          customizeButtons: true
+      secondaryInverseButtonColor:
+        label: Secondary inverse button color
+        type: colors
+        translate: false
+        width: 1/4
+        when:
+          customizeButtons: true
+      secondaryInverseButtonHoverBackground:
+        label: Secondary inverse button hover background
+        type: colors
+        translate: false
+        width: 1/4
+        when:
+          customizeButtons: true
+      secondaryInverseButtonHoverColor:
+        label: Secondary inverse button hover color
+        type: colors
+        translate: false
+        width: 1/4
+        when:
+          customizeButtons: true
+      gapButton:
+        type: gap
+
+      # Fonts
+      siteFonts:
+        label: 
+          en: Typography
+          de: Typografie
+        type: headline
+        numbered: true
+      fontURL:
+        label: 
+          en: Fonts URL
+          de: Schriftarten-URL
+        type: url
+        placeholder: https://fonts.googleapis.com/css2?family=Muli:ital,wght@0,400;0,700;1,400&family=Poppins:wght@700&display=swap
+        translate: false
+        help: 
+          en: |
+            Full URL from Google fonts or some other. Check out (link: https://www.one.thezero.club/guide/tricks/adding-google-fonts text: video guide target: _blank). If empty, self-hosted fonts will be used, (link: https://www.one.thezero.club/guide/theme-extending/self-hosted-fonts text: learn more target: _blank).
+          de: | 
+            Vollständige URL von Google-Schriftarten oder anderen. Schauen Sie sich (link: https://www.one.thezero.club/guide/tricks/adding-google-fonts text: die Videoanleitung an target: _blank). Wenn leere, selbst gehostete Schriftarten verwendet werden, (link: https://www.one.thezero.club/guide/theme-extending/self-hosted-fonts text: erfahren Sie mehr target: _blank).
+      textFontFamily:
+        label: Text Font Family
+        type: text
+        maxlength: 100
+        placeholder: "'Muli', Arial, sans-serif"
+        help: 
+          en: Double quotation marks ("") are not allowed. If needed, use single quotes ('').
+          de: Doppelte Anführungszeichen ("") sind nicht zulässig. Verwenden Sie bei Bedarf einfache Anführungszeichen ('').
+        icon: paragraph
+        required: true
+        translate: false
+        width: 1/4
+      textFontSize:
+        label: Text Font Size
+        type: number
+        after: px
+        min: 7
+        max: 30
+        default: 16
+        required: true
+        translate: false
+        width: 1/4
+      textFontWeight:
+        label: Text Font Weight
+        type: select
+        default: "400"
+        options:
+          "100": "100"
+          "200": "200"
+          "300": "300"
+          "400": "400"
+          "500": "500"
+          "600": "600"
+          "700": "700"
+          "800": "800"
+          "900": "900"
+        required: true
+        translate: false
+        width: 1/4
+      textLineHeight:
+        label: Text Line Height
+        type: number
+        min: 1
+        max: 3
+        placeholder: '1.6'
+        translate: false
+        width: 1/4
+      headingFontFamily:
+        label: Headings Font Family
+        type: text
+        maxlength: 100
+        placeholder: "'Poppins', sans-serif"
+        help: 
+          en: Double quotation marks ("") are not allowed. If needed, use single quotes ('').
+          de: Doppelte Anführungszeichen ("") sind nicht zulässig. Verwenden Sie bei Bedarf einfache Anführungszeichen ('').
+        icon: title
+        required: true
+        translate: false
+        width: 1/4
+      headingFontWeight:
+        label: Headings Font Weight
+        type: select
+        default: "700"
+        options:
+          "100": "100"
+          "200": "200"
+          "300": "300"
+          "400": "400"
+          "500": "500"
+          "600": "600"
+          "700": "700"
+          "800": "800"
+          "900": "900"
+        required: true
+        translate: false
+        width: 1/4
+      headingTextTransform:
+        label: Headings Text Transform
+        type: select
+        default: inherit
+        options:
+          inherit: Inherit
+          uppercase: Uppercase
+          lowercase: Lowercase
+          capitalize: Capitalize
+        required: true
+        translate: false
+        width: 1/4
+      headingLetterSpacing:
+        label: Heading Letter Spacing
+        type: number
+        min: -3
+        max: 5
+        placeholder: '1.5'
+        help: Default is 1 of course.
+        after: "px"
+        translate: false
+        width: 1/4
+      secondaryFontFamily:
+        label: Secondary Font Family
+        type: text
+        maxlength: 100
+        placeholder: "'Times New Roman', Times, serif"
+        default: "'Times New Roman', Times, serif"
+        help: 
+          en: Double quotation marks ("") are not allowed. If needed, use single quotes ('').
+          de: Doppelte Anführungszeichen ("") sind nicht zulässig. Verwenden Sie bei Bedarf einfache Anführungszeichen ('').
+        icon: quote
+        required: true
+        translate: false
+        width: 1/4
+      secondaryFontWeight:
+        label: Secondary Font Weight
+        type: select
+        default: "400"
+        options:
+          "100": "100"
+          "200": "200"
+          "300": "300"
+          "400": "400"
+          "500": "500"
+          "600": "600"
+          "700": "700"
+          "800": "800"
+          "900": "900"
+        required: true
+        translate: false
+        width: 1/4
+      secondaryFontStyle:
+        label: Secondary Font Style
+        type: select
+        default: "normal"
+        options:
+          "normal": Normal
+          "italic": Italic
+          "oblique": Oblique
+        required: true
+        translate: false
+        width: 1/4
+      secondaryLetterSpacing:
+        label: Secondary Letter Spacing
+        type: number
+        min: -3
+        max: 5
+        placeholder: '1.5'
+        after: "px"
+        help: Default is 1 of course.
+        translate: false
+        width: 1/4
+
+      headingSizeLine:
+        type: line
+      baseH1Size:
+        label: H1 size
+        type: text
+        icon: h1
+        placeholder: "example: 3rem/48px"
+        help: Default value is "3rem".
+        translate: false
+        width: 1/4
+      baseH2Size:
+        label: H2 size
+        type: text
+        icon: h2
+        placeholder: "example: 2rem/32px"
+        help: Default value is "2rem".
+        translate: false
+        width: 1/4
+      baseH3Size:
+        label: H3 size
+        type: text
+        icon: h3
+        placeholder: "example: 1.5rem/24px"
+        help: Default value is "1.5rem".
+        translate: false
+        width: 1/4
+      baseH4Size:
+        label: H4 size
+        type: text
+        icon: h4
+        placeholder: "example: 1.25rem/20px"
+        help: Default value is "1.25rem".
+        translate: false
+        width: 1/4
+      baseSmallSize:
+        label: Small text size (breadcrumbs, meta, etc)
+        type: text
+        icon: draft
+        placeholder: "example: 0.9375rem/15px"
+        help: Default value is "0.9375rem".
+        translate: false
+        width: 1/4
+      gapTypography:
+        type: gap
+
+      siteBreakpoints:
+        label: 
+          en: Breakpoints
+          de: Haltepunkte
+        type: headline
+        help: 
+          en: Override site breakpoints
+          de: Überschreiben Sie Site-Haltepunkte
+        numbered: true
+      siteBreakpointsInfo:
+       label: Site breakpoints info
+       type: info
+       text: |
+        Phone Portrait:   Galaxy (360x640), iPhone 6 (375x667), iPhone 6+ (414x736)
+        Phone Landscape:  Galaxy (640x360), iPhone 6 (667x375), iPhone 6+ (736x414)
+        Tablet Portrait:  iPad (768x1024), Galaxy Tab (800x1280),
+        Tablet Landscape: iPad (1024x768), iPad Pro (1024x1366),
+        Desktop:          Galaxy Tab (1280x800), iPad Pro (1366x1024)
+      siteBreakpointSmall:
+        label: 
+          en: Site breakpoint small (Phone)
+          de: Site-Haltepunkt klein (Phone)
+        type: text
+        translate: false
+        placeholder: "640"
+        after: px
+        help: 
+          en: Override site breakpoint small
+          de: Site-Haltepunkt klein überschreiben
+        width: 1/4
+      siteBreakpointMedium:
+        label: 
+          en: Site breakpoint medium (Tablet)
+          de: Site-Haltepunkt Mittel (Tablet)
+        type: text
+        translate: false
+        placeholder: "960"
+        after: px
+        help: 
+          en: Override site breakpoint medium
+          de: Site-Haltepunkt Mittel überschreiben
+        width: 1/4
+      siteBreakpointLarge:
+        label: 
+          en: Site breakpoint large (Desktop)
+          de: Site-Haltepunkt groß (Desktop)
+        type: text
+        translate: false
+        placeholder: "1200"
+        after: px
+        help: 
+          en: Override site breakpoint large
+          de: Site-Haltepunkt groß überschreiben
+        width: 1/4
+      siteBreakpointXLarge:
+        label: 
+          en: Site breakpoint xlarge
+          de: Site-Haltepunkt xgroß
+        type: text
+        translate: false
+        placeholder: "1600"
+        after: px
+        help: 
+          en: Override site breakpoint xlarge
+          de: Site-Haltepunkt xgroß überschreiben
+        width: 1/4
+      gapBreakpoints:
+        type: gap
+
+  settingsCustomCode:
+    type: fields
+    fields:
+      # Custom code
+      siteCustomCode:
+        label: 
+          en: Custom Code
+          de: Benutzerdefinierter Code
+        type: headline
+        numbered: false
+      customCss:
+        label: 
+          en: Custom CSS
+          de: Benutzerdefinierte CSS
+        type: code-editor
+        size: medium
+        language: 'css'
+        translate: false
+        help: 
+          en: You can add custom CSS code here. Code is saved in assets/css/site.css and loaded in head section if not empty.
+          de: Sie können hier benutzerdefinierten CSS-Code hinzufügen. Code wird in Assets/css/site.css gespeichert und in den Kopfbereich geladen, wenn er nicht leer ist.
+        width: 1/2
+      headCustomCode:
+        label: 
+            en: Head tag custom code
+            de: Benutzerdefinierter Code für das Head-Tag
+        type: code-editor
+        size: medium
+        help: 
+            en: The code you enter here goes **inside the head tag section**. For example you can add your Google Analytics code here.
+            de: Der Code, den Sie hier eingeben, geht **im Inneren des Kopfes Tag-Abschnitt**. Beispielsweise können Sie hier Ihren Google Analytics-Code hinzufügen.
+        width: 1/2
+      bodyCustomCode:
+        label: 
+            en: Body tag custom code
+            de: Benutzerdefinierter Code für Body-Tags
+        type: code-editor
+        size: medium
+        help: 
+            en: The code you enter here goes **after the opening body tag**. For example you can add here Google Tag Manager code.
+            de: Der Code, den Sie hier eingeben, **steht nach dem öffnenden Body-Tag**. Zum Beispiel können Sie hier Google Tag Manager-Code hinzufügen.
+        width: 1/2
+      footerCustomCode:
+        label: 
+            en: Footer custom code
+            de: Benutzerdefinierter Fußzeilencode
+        type: code-editor
+        size: medium
+        help: 
+            en: The code you enter here goes **before the closing body tag**. Usually used for some JS code.
+            de: Der hier eingegebene Code steht **vor dem schließenden Body-Tag**. Wird normalerweise für JS-Code verwendet.
+        width: 1/2

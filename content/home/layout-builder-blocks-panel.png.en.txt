@@ -1,0 +1,13 @@
+Caption: 
+
+----
+
+Sitemap: true
+
+----
+
+Template: blocks/image
+
+----
+
+Uuid: NMK0YHHeQ9kcTv3S

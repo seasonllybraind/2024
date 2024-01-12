@@ -1,0 +1,173 @@
+Title: Text bottom
+
+----
+
+Layout: [{"attrs":{"gridwidth":"uk-container","tabletwidth":"","mobilewidth":"","columnsverticalalign":" uk-flex-bottom","columnshorizontalalign":"","containerexpand":"","columngap":"","columnsdivider":"false","gridmasonry":"false","gridparallax":"false","sectiontoggle":"true","sectionsize":"","sectioncolor":"custom","sectionremovepadding":"","backgroundstyle":"image","backgroundimage":["file://tv8vS4UfjKBiyPUg"],"mediavideosource":"url","mediavideo":[],"mediavideourl":"","backgroundimageposition":" uk-background-center-center","backgroundimagesize":" uk-background-cover","backgroundimagerepeat":" no-repeat","sectiontextcolor":" uk-light","backgroundoverlaycolor":"rgba(0,0,0,0.3)","backgroundgradientoverlay":"false","backgroundgradienttransition":"","backgroundoverlaycolor2":"rgba(0,0,0,0.3)","backgroundparalax":"","shapedividertoggle":"false","shapedivider":"","shapedividerposition":"","shapedividercolor":"#ffffff","customshapedivider":"","shapedividerheight":"150px","preservecolor":"false","sectionclass":"","sectionid":"","hidden":"","visible":"","animationswitch":"false","animationtype":"","animationdelay":""},"columns":[{"blocks":[{"content":{"columnwidth":"","tabletwidth":"uk-width-auto@s ","mobilewidth":"uk-width-auto ","columnheight":"","columnminheight":"","columnmaxheight":"","textalign":"","textaligntablet":"","textalignmobile":"","textsize":"","texttransform":"","textwrapping":"","columnstyle":"none","columncardsize":"","columncardhover":"false","columncardcolor":" uk-card-default","columntile":"","columnbackground":"","columntextcolor":" uk-light","backgroundstyle":"color","backgroundimage":[],"backgroundimageposition":" uk-background-center-center","backgroundimagesize":" uk-background-cover","backgroundimagerepeat":" no-repeat","backgroundparalax":"","mediavideosource":"url","mediavideo":[],"mediavideourl":"","backgroundoverlaycolor":"rgba(0,0,0,0.3)","backgroundgradientoverlay":"false","backgroundgradienttransition":"","backgroundoverlaycolor2":"rgba(0,0,0,0.3)","columnpadding":"","itemfirst":"","itemlast":"","borderrounded":"false","columnshadow":"","columnclass":"","columnid":"","hidden":"","visible":"","animationswitch":"false","animationtype":"","animationdelay":""},"id":"a89cf205-dafc-4d26-85da-339d3df679fe","isHidden":false,"type":"z-column"},{"content":{"text":"<h3>Hi there, I am the headline</h3><p>And hello there, I am a paragraph.</p>","textalign":"","textaligntablet":"","textalignmobile":"","textsize":"","texttransform":"","textwrapping":"","textcolor":""},"id":"ebb8d338-16d3-4a61-80cc-dc7fe780be32","isHidden":false,"type":"text"}],"id":"1ea1503a-18f8-4498-b9fe-97ddc4733a1c","width":"5/6"},{"blocks":[{"content":{"columnwidth":"","tabletwidth":"uk-width-auto@s ","mobilewidth":"uk-width-auto ","columnheight":" uk-height-large","columnminheight":"","columnmaxheight":"","textalign":"","textaligntablet":"","textalignmobile":"","textsize":"","texttransform":"","textwrapping":"","columnstyle":"none","columncardsize":"","columncardhover":"false","columncardcolor":" uk-card-default","columntile":"","columnbackground":"","columntextcolor":" uk-light","backgroundstyle":"color","backgroundimage":[],"backgroundimageposition":" uk-background-center-center","backgroundimagesize":" uk-background-cover","backgroundimagerepeat":" no-repeat","backgroundparalax":"","mediavideosource":"url","mediavideo":[],"mediavideourl":"","backgroundoverlaycolor":"rgba(0,0,0,0.3)","backgroundgradientoverlay":"false","backgroundgradienttransition":"","backgroundoverlaycolor2":"rgba(0,0,0,0.3)","columnpadding":"","itemfirst":"","itemlast":"","borderrounded":"false","columnshadow":"","columnclass":"","columnid":"","hidden":"","visible":"","animationswitch":"false","animationtype":"","animationdelay":""},"id":"cc6c154a-3333-43bb-8c1a-55017e123b14","isHidden":false,"type":"z-column"}],"id":"653f7349-65de-48a4-be2f-1154c7695914","width":"1/6"}],"id":"86930262-c531-4529-8335-3012df890de9"}]
+
+----
+
+Hidenavbar: false
+
+----
+
+Disallowsubmenu: false
+
+----
+
+Newtab: false
+
+----
+
+Menuitemicon: 
+
+----
+
+Megamenu: false
+
+----
+
+Megamenuwidth: 
+
+----
+
+Megamenuitemwidth: 
+
+----
+
+Megamenubackground: false
+
+----
+
+Megamenubackgroundimage: 
+
+----
+
+Megamenubackgroundimageposition: uk-background-center-center
+
+----
+
+Megamenubackgroundimagesize: uk-background-cover
+
+----
+
+Megamenubackgroundimagerepeat: no-repeat
+
+----
+
+Megamenubackgroundoverlaycolor: rgba(0,0,0,0.3)
+
+----
+
+Megamenubackgroundgradientoverlay: false
+
+----
+
+Megamenubackgroundgradienttransition: 
+
+----
+
+Megamenubackgroundoverlaycolor2: rgba(0,0,0,0.3)
+
+----
+
+Transparentnavbar: transparent
+
+----
+
+Navbarinverse: true
+
+----
+
+Headersection: false
+
+----
+
+Alttitle: 
+
+----
+
+Intro: 
+
+----
+
+Headerbackgroundtoggle: false
+
+----
+
+Header: 
+
+----
+
+Headerimageposition: uk-background-center-center
+
+----
+
+Headerimagesize: uk-background-cover
+
+----
+
+Headerimagerepeat: no-repeat
+
+----
+
+Headertextcolor: uk-light
+
+----
+
+Headeroverlaycolor: rgba(0,0,0,0.2)
+
+----
+
+Backgroundparalax: 
+
+----
+
+Shapedividertoggle: false
+
+----
+
+Shapedivider: 
+
+----
+
+Shapedividerposition: 
+
+----
+
+Shapedividercolor: #ffffff
+
+----
+
+Customshapedivider: 
+
+----
+
+Shapedividerheight: 150px
+
+----
+
+Hidefooter: false
+
+----
+
+Sitemap: true
+
+----
+
+Metafile: 
+
+----
+
+Metatitle: 
+
+----
+
+Metadescription: 
+
+----
+
+Customcss: 
+
+----
+
+Uuid: NeEPVlKOMErFhFyL

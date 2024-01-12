@@ -1,0 +1,19 @@
+type: pages
+headline: 
+  en: Published subpages
+  de: Veröffentlichte Unterseiten
+status: published
+empty: 
+  en: No pages yet
+  de: Noch keine Seiten
+image:
+  query: false
+  back: black
+templates:
+  - layout
+  - default
+  - link
+  - blog
+  - work
+  - shop
+  - builder

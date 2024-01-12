@@ -1,0 +1,23 @@
+name: field.blocks.line.name
+icon: divider
+preview: line
+wysiwyg: true
+
+fields:
+  lineStyle:
+    lable: 
+      en: Line style
+      de: Linienstil
+    type: select
+    placeholder: Default
+    options:
+      "uk-divider-small": 
+        en: Small
+        de: Klein
+      "uk-divider-icon": 
+        en: Icon
+        de: Symbol
+      "uk-divider-vertical": 
+        en: Vertical
+        de: Vertikal
+    width: 1/3

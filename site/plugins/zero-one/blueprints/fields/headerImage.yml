@@ -1,0 +1,10 @@
+label: 
+  en: Page header image
+  de: Seitenkopfbild
+type:  files
+multiple: false
+query: model.images
+uploads: image
+help: 
+  en: Not required. Overrides global site header image if exists.
+  de: Nicht benötigt. Überschreibt das globale Site-Header-Image, falls vorhanden.

@@ -1,0 +1,149 @@
+Title: Gallery section
+
+----
+
+Animation: true
+
+----
+
+Modules: [{"content":{"columns":[{"columnwidth":"uk-width-expand@m","columnclass":"","columntitle":"","columncontenthtml":"","columneditor":"","columncontent":"## Showcase your stuff.\n\nYou can choose the number of columns, background color, and container width.","columnhtml":"","subcolumns":[],"columncard":"false","columncardsize":"","columncardhover":"false","columncardcolor":""}],"title":"- Default","blockclass":"","blockid":"","sectionsize":" uk-section-large","sectioncolor":" uk-section-default","sectionremovepadding":" uk-padding-remove-vertical","backgroundimage":[],"backgroundimageposition":"","backgroundimagesize":"","backgroundimagerepeat":"","sectiontextcolor":"","backgroundoverlaycolor":null,"backgroundparalax":"","shapedividertoggle":"false","shapedivider":"","shapedividerposition":"","shapedividercolor":null,"customshapedivider":"","shapedividerheight":"","gridwidth":"","columnstack":"tablet","columngap":"","columnsverticalalign":"","columnshorizontalalign":"","columnsdivider":"false","centertext":"true","gridheadings":"false","columnsparallax":"false"},"id":"da0e645b-3325-457b-8557-a6441942d5e3","isHidden":false,"type":"grid"},{"content":{"gallery":["file:\/\/g8yVwXZ7bCQmPBG1","file:\/\/t0V9fzuBpeDPMoYz","file:\/\/XagnYsn6LrJBMdYb","file:\/\/pzT54Uqi0SRaLiON"],"title":"- Two small","blockclass":"","blockid":"","gallerywidth":"small","galleryback":"default","gallerygrid":"two","gallerythumbnails":"cropped"},"id":"a65e29fe-b62d-4b3a-98df-2fb0a2e1f607","isHidden":false,"type":"gallery"},{"content":{"gallery":["file:\/\/t0V9fzuBpeDPMoYz","file:\/\/g8yVwXZ7bCQmPBG1","file:\/\/eyDdT7v5qWmSu3Ru","file:\/\/pzT54Uqi0SRaLiON","file:\/\/rTHBAy7sQ1C0S4FP","file:\/\/XagnYsn6LrJBMdYb"],"title":"- Three large","blockclass":"","blockid":"","gallerywidth":"large","galleryback":"muted","gallerygrid":"three","gallerythumbnails":""},"id":"b26dd57a-34fc-4e9c-8dbf-6c56becc25d5","isHidden":false,"type":"gallery"},{"content":{"gallery":["file:\/\/t0V9fzuBpeDPMoYz","file:\/\/g8yVwXZ7bCQmPBG1","file:\/\/rTHBAy7sQ1C0S4FP","file:\/\/XagnYsn6LrJBMdYb"],"title":"- Four large","blockclass":"","blockid":"","gallerywidth":"large","galleryback":"secondary","gallerygrid":"four","gallerythumbnails":""},"id":"a9720f1a-7481-4988-8e70-e043e230873e","isHidden":false,"type":"gallery"},{"content":{"columns":[{"columnwidth":"uk-width-1-1","columnclass":"","columntitle":"","columncontenthtml":"","columneditor":"","columncontent":"## Masonry layout option\n\nNo thumbnails crop.","columnhtml":"","subcolumns":[],"columncard":"false","columncardsize":"","columncardhover":"false","columncardcolor":""}],"title":"","blockclass":"","blockid":"","sectionsize":"","sectioncolor":" uk-section-default","sectionremovepadding":" uk-padding-remove-bottom","backgroundimage":[],"backgroundimageposition":"","backgroundimagesize":"","backgroundimagerepeat":"","sectiontextcolor":"","backgroundoverlaycolor":null,"backgroundparalax":"","shapedividertoggle":"false","shapedivider":"","shapedividerposition":"","shapedividercolor":null,"customshapedivider":"","shapedividerheight":"","gridwidth":"","columnstack":"tablet","columngap":"","columnsverticalalign":"","columnshorizontalalign":"","columnsdivider":"false","centertext":"true","gridheadings":"false","columnsparallax":"false"},"id":"e10991a5-ed93-411b-9a44-164862a16e05","isHidden":false,"type":"grid"},{"content":{"gallery":["file:\/\/2xR6ihtm76YUi10r","file:\/\/WW1TMcQUAdRnm1Qp","file:\/\/LZfJMMPiCUC8pU8A","file:\/\/rSeBm1mCGGPkoEAY","file:\/\/0RB3112WwH1U7P8d","file:\/\/tBM7zOEm06hiRYd4"],"title":"Masonry","blockclass":"","blockid":"","gallerywidth":"large","galleryback":"default","gallerygrid":"three","gallerythumbnails":"masonry"},"id":"3198ea19-a3f2-48d8-b66b-f0249e9b569a","isHidden":false,"type":"gallery"}]
+
+----
+
+Disallowsubmenu: false
+
+----
+
+Newtab: false
+
+----
+
+Menuitemicon: 
+
+----
+
+Megamenu: false
+
+----
+
+Megamenuwidth: 
+
+----
+
+Megamenuitemwidth: 
+
+----
+
+Megamenubackground: false
+
+----
+
+Megamenubackgroundimage: 
+
+----
+
+Megamenubackgroundimageposition: 
+
+----
+
+Megamenubackgroundimagesize: 
+
+----
+
+Megamenubackgroundimagerepeat: 
+
+----
+
+Megamenubackgroundgradientoverlay: false
+
+----
+
+Megamenubackgroundgradienttransition: 
+
+----
+
+Transparentnavbar: 
+
+----
+
+Navbarinverse: false
+
+----
+
+Headersection: true
+
+----
+
+Alttitle: 
+
+----
+
+Intro: Display photos of any purpose as lightbox gallery.
+
+----
+
+Headerbackgroundtoggle: false
+
+----
+
+Header: 
+
+----
+
+Headerimageposition: 
+
+----
+
+Headerimagesize: 
+
+----
+
+Headerimagerepeat: 
+
+----
+
+Headertextcolor: 
+
+----
+
+Backgroundparalax: 
+
+----
+
+Shapedividertoggle: false
+
+----
+
+Shapedivider: 
+
+----
+
+Shapedividerposition: 
+
+----
+
+Customshapedivider: 
+
+----
+
+Shapedividerheight: 
+
+----
+
+Metafile: 
+
+----
+
+Sitemap: true
+
+----
+
+Metatitle: 
+
+----
+
+Metadescription: 
+
+----
+
+Uuid: pE2CQO1mikI1tZHq

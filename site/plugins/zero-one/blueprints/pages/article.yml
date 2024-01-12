@@ -1,0 +1,217 @@
+title: 
+  en: Article
+  de: Artikel
+num: '{{ page.date.toDate("YmdHi") }}'
+icon: edit
+
+status:
+  draft:
+    label: 
+      en: Draft
+      de: Entwurf
+    text: 
+      en: The article is still in draft mode. It can only be seen by editors with panel access.
+      de: Der Artikel befindet sich noch im Entwurfsmodus. Es kann nur von Redakteuren mit Panel-Zugriff gesehen werden.
+  unlisted:
+    label: 
+      en: In Review
+      de: Unveröffentlicht
+    text: 
+      en: The article is online and can be visited with the direct URL. The team must still give the final go to publish it.
+      de: Der Artikel ist online und kann über die direkte URL besucht werden. Das Team muss noch die endgültige Entscheidung treffen, um es zu veröffentlichen.
+  listed:
+    label: 
+      en: Published
+      de: Veröffentlicht
+    text: 
+      en: The article is online and listed in the blog.
+      de: Der Artikel ist online und im Blog gelistet.
+
+columns:
+  - width: 2/3
+    sections: 
+      articlePublish:
+        type: fields
+        fields:
+          date:
+            label:
+              en: Date
+              de: Datum
+            type: date
+            time: true
+            default: now
+            required: true
+            help: 
+              en: Choose article publish/edit date.
+              de: Wählen Sie Artikel bearbeiten / Datum veröffentlichen.
+            width: 1/2
+          author:
+            label: 
+              en: Author(s)
+              de: Autor(en)
+            type: users
+            width: 1/2
+            help: 
+              en: If empty site author name will be displayed. Users must have a name.
+              de: Wenn die Seite leer ist, wird der Name des Autors angezeigt. Benutzer müssen einen Namen haben.
+      articleContent:
+        type: fields
+        fields:
+          desc:
+            label: Intro
+            type: textarea
+            buttons: false
+            maxlength: 350
+            required: true
+            help: 
+              en: Short article intro, used also as meta description.
+              de: Kurzes Artikel-Intro, das auch als Meta-Beschreibung verwendet wird.
+          text:
+            label: 
+              en: Content blocks
+              de: Inhaltsblöcke
+            type: blocks
+            fieldsets:
+              text:
+                label: 
+                  en: Text
+                  de: Inhalt
+                type: group
+                fieldsets:
+                  - text
+                  - heading
+                  - list
+                  - quote
+                  - button
+                  - intro
+                  - info
+                  - accordion
+                  - z-description
+                  - z-table
+                  - line
+                  - table
+              media:
+                label: Media
+                type: group
+                fieldsets: 
+                  - image
+                  - gallery-article
+                  - video
+                  - z-audio
+                  - z-image-slider
+              code:
+                label: Code
+                type: group
+                fieldsets:
+                  - markdown
+                  - code
+                  - z-html
+              dynamic:
+                label: Dynamic
+                type: group
+                fieldsets: 
+                  - z-content-slider
+                  - z-projects
+                  - z-products
+      commentions:
+        type: commentions
+
+  - width: 1/3
+    sections:
+
+      coverimg:
+        type: fields
+        fields:
+          cover:
+            label: 
+              en: Cover
+              de: Abdeckung
+            extends: fields/image
+            multiple: false
+            layout: cards
+            image:
+              cover: true
+          transparentNavbar:
+            label: 
+              en: Transparent navbar
+              de: Transparente Navigationsleiste
+            type: select
+            placeholder: Site default
+            options:
+              transparent: Transparent
+              non-transparent: Non-transparent
+            help: 
+              en: Override default site setting.
+              de: Überschreiben Sie die Standard-Site-Einstellung.
+          navbarInverse:
+            label: 
+              en: Inverse colors and logo
+              de: Farben und Logo invertieren
+            type: toggle
+            when:
+              transparentNavbar: transparent
+      files:
+        headline: 
+          en: Files
+          de: Dateien
+        type: files
+        info: "{{ file.dimensions }}"
+        help: 
+          en: Click on image and setup ALT and caption, think about your website SEO.
+          de: Klicken Sie auf das Bild und richten Sie ALT und Beschriftung ein. Denken Sie an die SEO Ihrer Website.
+        image:
+          cover: true
+
+      relatedpages:
+        type: fields
+        fields:
+          related:
+            label: 
+              en: Related articles
+              de: Zum Thema passende Artikel
+            type: pages
+            status: listed
+            query: page.siblings(false)
+            max: 5
+            empty: 
+              en: No articles selected
+              de: Keine Artikel ausgewählt
+            help: 
+              en: You can choose related articles (maximum 5). If you don't choose, it will be selected automatically.
+              de: Sie können verwandte Artikel auswählen (maximal 5). Wenn Sie nicht auswählen, wird es automatisch ausgewählt.
+
+      metadata:
+        type: fields
+        fields:
+          category:
+            label: 
+              en: Category
+              de: Kategorie
+            type: select
+            max: 1
+            options: query
+            query: page.parent.categories.split
+            help: 
+              en: Create categories in Blog settings.
+              de: Erstellen Sie Kategorien in den Blog-Einstellungen.
+          tags: true
+            help: 
+              en: Please use all small caps when naming tags, your URLs will be prettier. 
+              de: Bitte verwenden Sie beim Benennen von Tags alle Kapitälchen. Ihre URLs sind schöner.
+          featured:
+            label: 
+              en: Featured Article
+              de: Gesponserter Artikel
+            type: radio
+            default: no
+            columns: 2
+            options:
+              yes: 
+                en: "Yes"
+                de: "Ja"
+              no: 
+                en: "No"
+                de: "Nein"
+            help: 
+              en: Featured articles are more visible in Blog archives listing.
+              de: Ausgewählte Artikel sind in der Liste der Blog-Archive besser sichtbar.

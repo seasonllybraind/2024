@@ -1,0 +1,197 @@
+//
+// Component: Base
+//
+// ========================================================================
+
+
+// Variables
+// ========================================================================
+
+@base-ins-background:                           #FAF4D1;
+@base-mark-background:                          #FAF4D1;
+
+@base-blockquote-font-size:                     @global-font-size * 1.5;
+@base-blockquote-margin-vertical:               @global-medium-margin;
+@base-blockquote-footer-margin-top:             @global-margin;
+
+@base-pre-font-size:                            12px;
+@base-em-color:                                 @global-color;
+
+@base-body-font-weight:                         @global-font-weight;
+
+@base-link-hover-text-decoration:               none;
+
+@base-heading-font-family:                      @global-primary-font-family;
+@base-heading-font-weight:                      @global-primary-font-weight;
+@base-heading-color:                            @global-emphasis-color;
+@base-heading-text-transform:                   @global-primary-text-transform;
+@base-heading-margin-top:                       @global-small-margin;
+
+@base-selection-background:                     darken(@global-link-color, 5%);
+@base-selection-color:                          @global-inverse-color;
+
+
+// Body
+// ========================================================================
+
+.hook-base-body() {}
+
+
+// Links
+// ========================================================================
+
+.hook-base-link() {
+    transition: color .15s ease-out;
+}
+
+.hook-base-link-hover() {}
+
+
+// Text-level semantics
+// ========================================================================
+
+.hook-base-code() {
+    color: @global-emphasis-color;
+    background-color: @global-muted-color;
+    padding: 3px;
+}
+
+figcaption {
+    padding: 5px;
+    font-size: @global-small-font-size;
+    font-style: italic;
+    color: @global-muted-color;
+    text-align: left;
+}
+.tm-figcaption {
+    background: @global-secondary-background;
+    padding: 30px;
+    font-style: normal;
+    color: @global-inverse-color;
+    text-align: left;
+}
+.tm-figcaption a {
+    color: @inverse-text-meta-color;
+
+    &:hover {
+        color: @global-inverse-color;
+    }
+}
+
+figure iframe {
+    width: 100%;
+}
+
+figure video {
+    cursor: pointer;
+}
+
+
+// Headings
+// ========================================================================
+
+.hook-base-heading() {
+    letter-spacing: @global-primary-letter-spacing;
+}
+
+.hook-base-h1() {}
+
+.hook-base-h2() {}
+
+.hook-base-h3() {}
+
+.hook-base-h4() {}
+
+.hook-base-h5() {}
+
+.hook-base-h6() {}
+
+
+// Horizontal rules
+// ========================================================================
+
+.hook-base-hr() {}
+
+
+// Blockquotes
+// ========================================================================
+
+.hook-base-blockquote() {
+    padding-left: 1em;
+    border-left: 0.2em solid @global-primary-background;
+    font-family: @global-secondary-font-family;
+    font-weight: @global-secondary-font-weight;
+}
+
+.hook-base-blockquote-footer() {
+    font-style: normal;
+}
+
+
+// Preformatted text
+// ========================================================================
+
+.hook-base-pre() {
+    display: block;
+    background: @global-secondary-background;
+    color: @global-inverse-color;
+    padding: 20px;
+}
+
+
+// Miscellaneous
+// ========================================================================
+
+.hook-base-misc() {
+    p a:not(.uk-button, uk-icon, .uk-icon-link) {
+        transition: .3s cubic-bezier(.54,.32,.05,.96);
+        z-index: 2;
+        background-image: linear-gradient(@global-link-color, @global-link-color), linear-gradient(@global-link-color, @global-link-color), linear-gradient(transparent, transparent);
+        background-size: 0 1px, 100% 1px, 1px 1px;
+        background-repeat: no-repeat, no-repeat, repeat-x;
+        background-position: 0% 90%, 100% 90%, 0% 90%;
+    }
+    
+    p a:not(.uk-button, .uk-icon-link):hover {
+        background-size: 0 1px, 0 1px, 1px 1px;
+    }
+}
+
+
+// Inverse
+// ========================================================================
+
+.hook-inverse() {
+    p a:not(.uk-button, .uk-icon-link) {
+        background-image: linear-gradient(@inverse-base-link-color, @inverse-base-link-color), linear-gradient(@inverse-base-link-color, @inverse-base-link-color), linear-gradient(transparent, transparent);
+    }
+
+    figcaption {
+        color: @inverse-text-meta-color;
+    }
+
+    pre {
+        background: @global-primary-background;
+    }
+}
+
+.hook-inverse-base-link() {}
+.hook-inverse-base-link-hover() {}
+
+.hook-inverse-base-code() {}
+
+.hook-inverse-base-heading() {}
+
+.hook-inverse-base-h1() {}
+.hook-inverse-base-h2() {}
+.hook-inverse-base-h3() {}
+.hook-inverse-base-h4() {}
+.hook-inverse-base-h5() {}
+.hook-inverse-base-h6() {}
+
+.hook-inverse-base-blockquote() {
+    border-left: 0.2em solid @inverse-base-link-color;
+}
+.hook-inverse-base-blockquote-footer() {}
+
+.hook-inverse-base-hr() {}

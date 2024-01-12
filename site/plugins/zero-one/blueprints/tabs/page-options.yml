@@ -1,0 +1,565 @@
+label: 
+  en: Page options
+  de: Seitenoptionen
+icon: settings
+columns:
+  # main
+  - width: 2/3
+    sections:
+      # header
+      header:
+        type: fields
+        fields:
+          # navbar options
+          navbarSettings:
+            label: 
+              en: Navbar Settings
+              de: Navbar-Einstellungen
+            type: headline
+          hideNavbar:
+            label: 
+              en: Hide navbar
+              de: Navigationsleiste ausblenden
+            type: toggle
+            width: 1/3
+          hideNavbarinfo:
+            label: 
+              en: Hide navbar info
+              de: Navigationsleisteninfo ausblenden
+            type: info
+            text: 
+              en: Choose this option if you want to hide the whole navbar on this page. 
+              de: Wählen Sie diese Option, wenn Sie die gesamte Navigationsleiste auf dieser Seite ausblenden möchten.
+            width: 2/3
+          # submenu options
+          disallowSubmenu:
+            label: 
+              en: Disallow submenu
+              de: Untermenü verbieten
+            type: toggle
+            width: 1/3
+          disallowSubmenuinfo:
+            label: 
+              en: Disallow submenu info
+              de: Untermenü verbieten info
+            type: info
+            text: 
+              en: Choose this option if you don't want this page to have a submenu in the navbar.
+              de: Wählen Sie diese Option, wenn diese Seite kein Untermenü in der Navigationsleiste haben soll.
+            width: 2/3
+          # newtab
+          newTab:
+            label: 
+              en: New tab
+              de: Neuer Tab
+            type: toggle
+            width: 1/3
+          newTabInfo:
+            label: 
+              en: New tab info
+              de: Neuer Tab info
+            type: info
+            text: 
+              en: Open in new tab from menu.
+              de: In neuem Tab aus dem Menü öffnen.
+            width: 2/3
+          # menu item icon
+          menuItemIcon:
+            extends: fields/icons
+            label: Menu item icon
+            placeholder: None
+            width: 1/3
+          menuItemIconInfo:
+            label: Menu item icon info
+            type: info
+            text: 
+              en: Add icon before page title in the menu.
+              de: Symbol vor dem Seitentitel im Menü hinzufügen.
+            width: 2/3
+          # mega menu options
+          lineMegaMenu:
+            type: line
+          megaMenu:
+            label: Mega menu
+            type: toggle
+            width: 1/3
+          megaMenuInfo:
+            label: 
+              en: Mega menu info
+              de: Mega menu info
+            type: info
+            text: 
+              en: Only works if this page is in main menu. If you have 2-4 child pages, they will be used as first in a column, and their children will list below.
+              de: Funktioniert nur, wenn diese Seite im Hauptmenü ist. Wenn Sie 2-4 untergeordnete Seiten haben, werden diese als erste in einer Spalte verwendet, und ihre untergeordneten Seiten werden unten aufgeführt.
+            width: 2/3
+          megaMenuWidth:
+            label: 
+              en: Mega menu width
+              de: Mega menu Breite
+            type: select
+            placeholder: Inherit
+            options:
+              - value: '2'
+                text: 2 columns
+              - value: '3'
+                text: 3 columns
+              - value: '4'
+                text: 4 columns
+            width: 1/3
+            when:
+              megaMenu: true
+          megaMenuItemWidth:
+            label: 
+              en: Mega menu column width
+              de: Mega menu column Breite
+            type: select
+            placeholder: Inherit
+            options:
+              - value: '1'
+                text: Full width
+              - value: '2'
+                text: '1/2'
+              - value: '3'
+                text: '1/3'
+              - value: '4'
+                text: '1/4'
+            width: 1/3
+            when:
+              megaMenu: true
+          # mega menu background
+          megaMenuBackground:
+            label: 
+              en: Dropdown custom background
+              de: Benutzerdefinierter Dropdown-Hintergrund
+            type: toggle
+            width: 1/3
+            when:
+              megaMenu: true
+          # image
+          megaMenuBackgroundImage:
+            extends: fields/backgroundImage
+            when:
+              megaMenu: true
+              megaMenuBackground: true
+          megaMenuBackgroundImagePosition:
+            label: 
+              en: Image position
+              de: Bildhintergrundposition
+            type: select
+            default: "uk-background-center-center"
+            options:
+              "uk-background-top-left":
+                en: Top Left
+                de: Oben Links
+              "uk-background-top-center": 
+                en: Top Center
+                de: Oben Zentrum
+              "uk-background-top-right": 
+                en: Top Right
+                de: Oben Rechts
+              "uk-background-center-left": 
+                en: Center Left
+                de: Zentrum Links
+              "uk-background-center-center": 
+                en: Center Center
+                de: Zentrum Zentrum
+              "uk-background-center-right": 
+                en: Center Right
+                de: Zentrum Rechts
+              "uk-background-bottom-left": 
+                en: Bottom Left
+                de: Unten Links
+              "uk-background-bottom-center": 
+                en: Bottom Center
+                de: Unten Zentrum
+              "uk-background-bottom-right": 
+                en: Bottom Right
+                de: Unten Rechts
+            width: 1/3
+            when:
+              megaMenu: true
+              megaMenuBackground: true
+          megaMenuBackgroundImageSize:
+            label:
+              en: Image size
+              de: Bildgröße
+            type: select
+            default: "uk-background-cover"
+            options:
+              "uk-background-cover": Cover
+              "uk-background-contain": Contain
+            width: 1/3
+            when:
+              megaMenu: true
+              megaMenuBackground: true
+          megaMenuBackgroundImageRepeat:
+            label: 
+              en: Repeat image
+              de: Wiederholungsbild
+            type: select
+            default: "no-repeat"
+            options:
+              "no-repeat": No repeat
+              "repeat": Repeat
+              "repeat-x": Repeat X
+              "repeat-y": Repeat Y
+            width: 1/3
+            when:
+              megaMenu: true
+              megaMenuBackground: true
+          megaMenuBackgroundOverlayColor:
+            extends: fields/backgroundOverlayColor
+            when:
+              megaMenu: true
+              megaMenuBackground: true
+          megaMenuBackgroundGradientOverlay:
+            extends: fields/backgroundGradientOverlay
+            when:
+              megaMenu: true
+              megaMenuBackground: true
+          megaMenuBackgroundGradientTransition:
+            extends: fields/backgroundGradientTransition
+            when:
+              megaMenu: true
+              megaMenuBackground: true
+              megaMenuBackgroundGradientOverlay: true
+          megaMenuBackgroundOverlayColor2:
+            extends: fields/backgroundOverlayColor
+            label: 
+              en: Overlay color 2
+              de: Farbe überlagern 2
+            when:
+              megaMenu: true
+              megaMenuBackground: true
+              megaMenuBackgroundGradientOverlay: true
+
+          lineTransparent:
+            type: line
+          transparentNavbar:
+            label: 
+              en: Transparent navbar
+              de: Transparente Navigationsleiste
+            type: select
+            placeholder: Site default
+            options:
+              transparent: Transparent
+              non-transparent: Non-transparent
+            help: 
+              en: Override default site setting.
+              de: Überschreiben Sie die Standard-Site-Einstellung.
+            width: 1/3
+          navbarInverse:
+            label: 
+              en: Inverse colors and logo
+              de: Farben und Logo invertieren
+            type: toggle
+            width: 1/3
+            when:
+              transparentNavbar: transparent
+          # header options
+          headerSettings:
+            label: 
+              en: Header Settings
+              de: Header-Einstellungen
+            type: headline
+          headersection:
+            label: 
+              en: Header section
+              de: Header-Bereich
+            type: toggle
+            default: true
+            help: 
+              en: Show or hide page header section
+              de: Seitenkopfbereich ein- oder ausblenden
+            width: 1/3
+          altTitle:
+            extends: fields/altTitle
+            width: 2/3
+            when:
+              headersection: true
+          intro: 
+            label: 
+              en: Intro text
+              de: Einführungstext
+            type: textarea
+            when:
+              headersection: true
+          # header image
+          headerBackgroundtoggle:
+            label: 
+              en: Custom background
+              de: Benutzerdefinierter Hintergrund
+            type: toggle
+            width: 1/3
+            when:
+              headersection: true
+          headerImageHeading:
+            label:
+              en: Header Background image
+              de: Header-Hintergrundbild
+            type: headline
+            numbered: false
+            when:
+              headersection: true
+              headerBackgroundtoggle: true
+          header:
+            label: 
+              en: Page header image
+              de: Seitenkopfbild
+            extends: fields/image
+            multiple: false
+            help: 
+              en: Not required. Overrides global site header image if exists.
+              de: Nicht benötigt. Überschreibt das globale Site-Header-Image, falls vorhanden.
+            when:
+              headersection: true
+              headerBackgroundtoggle: true
+          headerImagePosition:
+            label: 
+              en: Image position
+              de: Bildhintergrundposition
+            type: select
+            default: "uk-background-center-center"
+            options:
+              "uk-background-top-left":
+                en: Top Left
+                de: Oben Links
+              "uk-background-top-center": 
+                en: Top Center
+                de: Oben Zentrum
+              "uk-background-top-right": 
+                en: Top Right
+                de: Oben Rechts
+              "uk-background-center-left": 
+                en: Center Left
+                de: Zentrum Links
+              "uk-background-center-center": 
+                en: Center Center
+                de: Zentrum Zentrum
+              "uk-background-center-right": 
+                en: Center Right
+                de: Zentrum Rechts
+              "uk-background-bottom-left": 
+                en: Bottom Left
+                de: Unten Links
+              "uk-background-bottom-center": 
+                en: Bottom Center
+                de: Unten Zentrum
+              "uk-background-bottom-right": 
+                en: Bottom Right
+                de: Unten Rechts
+            width: 1/3
+            when:
+              headersection: true
+              headerBackgroundtoggle: true
+          headerImageSize:
+            label:
+              en: Image size
+              de: Bildgröße
+            type: select
+            default: "uk-background-cover"
+            options:
+              "uk-background-cover": Cover
+              "uk-background-contain": Contain
+            width: 1/3
+            when:
+              headersection: true
+              headerBackgroundtoggle: true
+          headerImageRepeat:
+            label: 
+              en: Repeat image
+              de: Wiederholungsbild
+            type: select
+            default: "no-repeat"
+            options:
+              "no-repeat": No repeat
+              "repeat": Repeat
+              "repeat-x": Repeat X
+              "repeat-y": Repeat Y
+            width: 1/3
+            when:
+              headersection: true
+              headerBackgroundtoggle: true
+          headerTextColor:
+            label:
+              en: Text color
+              de: Textfarbe
+            type: select
+            default: "uk-light"
+            options:
+              "uk-light": Light
+              "uk-dark": Dark
+            width: 1/3
+            when:
+              headersection: true
+              headerBackgroundtoggle: true
+          headerOverlayColor:
+            label: 
+              en: Image overlay color
+              de: Bildüberlagerungsfarbe
+            type: colors
+            alpha: true
+            default: 'rgba(0,0,0,0.2)'
+            width: 1/3
+            when:
+              headersection: true
+              headerBackgroundtoggle: true
+          backgroundParalax:
+            label: Paralax background
+            type: select
+            width: 1/3
+            options:
+              paralaxY: Paralax Y axis
+              paralaxX: Paralax X axis
+            when:
+              headersection: true
+              headerBackgroundtoggle: true
+          # shape divider
+          shapeDividerheadline:
+            label: 
+              en: Section shape divider
+              de: Schnittformteiler
+            type: headline
+            numbered: false
+            when:
+              headersection: true
+              headerBackgroundtoggle: true
+          shapeDividertoggle:
+            label: 
+              en: SVG shape divider
+              de: SVG-Formteiler
+            type: toggle
+            width: 1/3
+            when:
+              headersection: true
+              headerBackgroundtoggle: true
+          shapeDividerinfo:
+            label: 
+              en: SVG shape divider info
+              de: Informationen zum SVG-Formteiler
+            type: info
+            text: 
+              en: Add top/bottom shape divider to section.
+              de: Fügen Sie dem Abschnitt einen oberen/unteren Formteiler hinzu.
+            width: 2/3
+            when:
+              headersection: true
+              headerBackgroundtoggle: true
+          shapeDivider:
+            label: 
+              en: Shape divider
+              de: Formteiler
+            type: select
+            placeholder: Curve
+            options:
+              fan: Fan
+              curve-opacity: Curve opacity
+              mountains: Mountains
+              curve-asym: Curve asym
+              curve-asym-alt: Curve asym alt
+              tilt: Tilt
+              tilt-alt: Tilt alt
+              triangle: Triangle
+              waves: Waves
+              waves-opacity: Waves opacity
+              waves-opacity-2: Waves opacity 2
+              clouds: Clouds
+              speech: Speech
+              custom: Custom
+            width: 1/3
+            when:
+              headersection: true
+              headerBackgroundtoggle: true
+              shapeDividertoggle: true
+          shapeDividerposition:
+            label: 
+              en: Shape divider position
+              de: Position des Formteilers
+            type: select
+            placeholder: Bottom
+            options:
+              top: Top
+              both: Top and bottom
+            width: 1/3
+            when:
+              headersection: true
+              headerBackgroundtoggle: true
+              shapeDividertoggle: true
+          shapeDividercolor:
+            label: 
+              en: Shape divider color
+              de: Farbe des Formteilers
+            type: colors
+            default: '#ffffff'
+            width: 1/3
+            when:
+              headersection: true
+              headerBackgroundtoggle: true
+              shapeDividertoggle: true
+          customShapedivider:
+            label: Custom shape divider
+            type: code-editor
+            help: 
+              en: | 
+                Add custom SVG code here (just SVG code). Only add bottom shape, top one will be automatically created.
+                You can use online tool like this one (link: https://www.shapedivider.app/ target: _blank) (choose Invert option to get bottom SVG). 
+                Add 'fill="#your_color_code"' attribute to SVG tag.
+              de: |
+                Fügen Sie hier benutzerdefinierten SVG-Code hinzu (nur SVG-Code). Fügen Sie nur die untere Form hinzu, die obere wird automatisch erstellt.
+                Sie können ein Online-Tool wie dieses verwenden (link: https://www.shapedivider.app/ target: _blank) (Wählen Sie die Option Invertieren, um das untere SVG zu erhalten). 
+                Fügen Sie dem SVG-Tag das Attribut 'fill="#your_color_code"' hinzu.
+            when:
+              headersection: true
+              headerBackgroundtoggle: true
+              shapeDividertoggle: true
+              shapeDivider: custom
+          shapeDividerheight:
+            label: 
+              en: Shape divider height
+              de: Formteilerhöhe
+            type: text
+            default: 150px
+            placeholder: 150px
+            help: Enter an optional custom height for your shape divider in pixels (px) or percent (%).
+            width: 2/3
+            when:
+              headersection: true
+              headerBackgroundtoggle: true
+              shapeDividertoggle: true
+          # footer options
+          footerSettings:
+            label: 
+              en: Footer Settings
+              de: Fußzeileneinstellungen
+            type: headline
+          hideFooter:
+            label: 
+              en: Hide footer
+              de: Fußzeile ausblenden
+            type: toggle
+            width: 1/3
+          hideFooterinfo:
+            label: 
+              en: Hide footer info
+              de: Fußzeileninformationen ausblenden
+            type: info
+            text: 
+              en: Choose this option if you want to hide the whole footer on this page. 
+              de: Wählen Sie diese Option, wenn Sie die gesamte Fußzeile auf dieser Seite ausblenden möchten.
+            width: 2/3
+
+      # custom settings
+      customsettings:
+        extends: sections/custom-page
+
+  # sidebar
+  - width: 1/3
+    sections:
+      # a list of files
+      files:
+        headline: 
+          en: Files
+          de: Dateien
+        type: files
+        info: "{{ file.dimensions }}"
+        search: true

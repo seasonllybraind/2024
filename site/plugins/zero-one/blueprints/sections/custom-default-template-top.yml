@@ -1,0 +1,7 @@
+# This is custom Default template top section
+# Main template: blueprints/pages/default.yml
+# It is very useful when you want to add your custom Default template page options
+type: fields
+fields:
+  customTop:
+    type: hidden

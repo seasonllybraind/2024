@@ -1,0 +1,318 @@
+label: 
+  en: Section
+  de: Abschnitt
+fields:
+  sectionHeadline:
+    label: 
+      en: Section options
+      de: Abschnittsoptionen
+    type: headline
+    numbered: false
+  sectionToggle:
+    label: 
+      en: Convert to section
+      de: In Abschnitt umwandeln
+    type: toggle
+    default: true
+    width: 1/3
+  sectionInfo:
+    label: 
+      en: Section info
+      de: Abschnittsinfo
+    type: info
+    text: 
+      en: Turn the layout to section with inside padding.
+      de: Verwandeln Sie das Layout in einen Abschnitt mit Innenpolsterung.
+    width: 2/3
+  # section size
+  sectionSize:
+    extends: fields/sectionSize
+    when:
+      sectionToggle: true
+  # section color
+  sectionColor:
+    label: 
+      en: Section background
+      de: Hintergrund des Abschnitts
+    type: select
+    default: " uk-section-default"
+    options:
+      " uk-section-default": 
+        en: Default
+        de: Standard
+      " uk-section-muted": 
+        en: Muted
+        de: Stumm geschaltet
+      " uk-section-primary": 
+        en: Primary
+        de: Primär
+      " uk-section-secondary": 
+        en: Secondary
+        de: Sekundär
+      custom: Custom
+    width: 1/3
+    when:
+      sectionToggle: true
+  # section remove padding
+  sectionRemovePadding:
+    extends: fields/sectionRemovePadding
+    when:
+      sectionToggle: true
+  # background style
+  backgroundStyle:
+    label: 
+      en: Custom background
+      de: Benutzerdefinierter Hintergrund
+    type: toggles
+    default: color
+    options:
+      - value: color
+        text: 
+          en: Color
+          de: Farbe
+        icon: pipette
+      - value: image
+        text: 
+          en: Image
+          de: Bild
+        icon: file-image
+      - value: video
+        text: Video
+        icon: file-video
+    when:
+      sectionToggle: true
+      sectionColor: custom
+  # image
+  backgroundImage:
+    extends: fields/backgroundImage
+    when:
+      sectionToggle: true
+      sectionColor: custom
+      backgroundStyle: image
+  # video
+  mediaVideoSource:
+    label: 
+      en: Choose video source
+      de: Wählen Sie die Videoquelle
+    type: toggles
+    default: url
+    options:
+      - value: url
+        text: URL
+        icon: url
+      - value: upload
+        text: Upload
+          en: Upload
+          de: Hochladen
+        icon: upload
+    when:
+      sectionToggle: true
+      sectionColor: custom
+      backgroundStyle: video
+  mediaVideo:
+    label: 
+      en: Video file
+      de: Videodatei
+    extends: fields/video
+    multiple: false
+    help: 
+      en: Choose the section video.
+      de: Wählen Sie den Abschnitt Video.
+    when:
+      sectionToggle: true
+      sectionColor: custom
+      backgroundStyle: video
+      mediaVideoSource: upload
+  mediaVideoUrl:
+    label: Video URL (iframe)
+    type: url
+    placeholder: "https://www.youtube.com/embed/[videocode]"
+    help: 
+      en: For YouTube and Vimeo must be Embed url.
+      de: Für YouTube und Vimeo muss URL einbetten.
+    when:
+      sectionToggle: true
+      sectionColor: custom
+      backgroundStyle: video
+      mediaVideoSource: url
+  backgroundImagePosition:
+    extends: fields/backgroundImagePosition
+    when:
+      sectionToggle: true
+      sectionColor: custom
+      backgroundStyle: image
+  backgroundImageSize:
+    extends: fields/backgroundImageSize
+    when:
+      sectionToggle: true
+      sectionColor: custom
+      backgroundStyle: image
+  backgroundImageRepeat:
+    extends: fields/backgroundImageRepeat
+    when:
+      sectionToggle: true
+      sectionColor: custom
+      backgroundStyle: image
+  sectionTextColor:
+    extends: fields/sectionTextColor
+    when:
+      sectionToggle: true
+      sectionColor: custom
+  backgroundOverlayColor:
+    extends: fields/backgroundOverlayColor
+    when:
+      sectionToggle: true
+      sectionColor: custom
+  backgroundGradientOverlay:
+    extends: fields/backgroundGradientOverlay
+    when:
+      sectionToggle: true
+      sectionColor: custom
+  backgroundGradientTransition:
+    extends: fields/backgroundGradientTransition
+    when:
+      sectionToggle: true
+      sectionColor: custom
+      backgroundGradientOverlay: true
+  backgroundOverlayColor2:
+    extends: fields/backgroundOverlayColor
+    label: 
+      en: Overlay color 2
+      de: Farbe überlagern 2
+    when:
+      sectionToggle: true
+      sectionColor: custom
+      backgroundGradientOverlay: true
+  backgroundParalax:
+    extends: fields/backgroundParalax
+    when:
+      sectionToggle: true
+      sectionColor: custom
+      backgroundStyle: image
+
+  shapeDividerheadline:
+    label: 
+      en: Section shape divider
+      de: Schnittformteiler
+    type: headline
+    numbered: false
+    when:
+      sectionToggle: true
+  shapeDividertoggle:
+    label: 
+      en: SVG shape divider
+      de: SVG-Formteiler
+    type: toggle
+    width: 1/3
+    when:
+      sectionToggle: true
+  shapeDividerinfo:
+    label: 
+      en: SVG shape divider info
+      de: Informationen zum SVG-Formteiler
+    type: info
+    text: 
+      en: Add top/bottom shape divider to section.
+      de: Fügen Sie dem Abschnitt einen oberen/unteren Formteiler hinzu.
+    width: 2/3
+    when:
+      sectionToggle: true
+  shapeDivider:
+    label: 
+      en: Shape divider
+      de: Formteiler
+    type: select
+    placeholder: Curve
+    options:
+      fan: Fan
+      curve-opacity: Curve opacity
+      mountains: Mountains
+      curve-asym: Curve asym
+      curve-asym-alt: Curve asym alt
+      tilt: Tilt
+      tilt-alt: Tilt alt
+      triangle: Triangle
+      waves: Waves
+      waves-opacity: Waves opacity
+      waves-opacity-2: Waves opacity 2
+      clouds: Clouds
+      speech: Speech
+      custom: Custom
+    width: 1/3
+    when:
+      sectionToggle: true
+      shapeDividertoggle: true
+  shapeDividerposition:
+    label: 
+      en: Shape divider position
+      de: Position des Formteilers
+    type: select
+    placeholder: Bottom
+    options:
+      top: Top
+      both: Top and bottom
+    width: 1/3
+    when:
+      sectionToggle: true
+      shapeDividertoggle: true
+  shapeDividercolor:
+    label: 
+      en: Shape divider color
+      de: Farbe des Formteilers
+    type: colors
+    default: '#ffffff'
+    width: 1/3
+    when:
+      sectionToggle: true
+      shapeDividertoggle: true
+  customShapedivider:
+    label: Custom shape divider
+    type: code-editor
+    help: 
+      en: | 
+        Add custom SVG code here (just SVG code). Only add bottom shape, top one will be automatically created.
+        You can use online tool like this one (link: https://www.shapedivider.app/ target: _blank) (choose Invert option to get bottom SVG). 
+        Add 'fill="#your_color_code"' attribute to SVG tag.
+      de: |
+        Fügen Sie hier benutzerdefinierten SVG-Code hinzu (nur SVG-Code). Fügen Sie nur die untere Form hinzu, die obere wird automatisch erstellt.
+        Sie können ein Online-Tool wie dieses verwenden (link: https://www.shapedivider.app/ target: _blank) (Wählen Sie die Option Invertieren, um das untere SVG zu erhalten). 
+        Fügen Sie dem SVG-Tag das Attribut 'fill="#your_color_code"' hinzu.
+    when:
+      sectionToggle: true
+      shapeDividertoggle: true
+      shapeDivider: custom
+  shapeDividerheight:
+    label: 
+      en: Shape divider height
+      de: Formteilerhöhe
+    type: text
+    default: 150px
+    placeholder: 150px
+    help: Enter an optional custom height for your shape divider in pixels (px) or percent (%).
+    width: 2/3
+    when:
+      sectionToggle: true
+      shapeDividertoggle: true
+
+  preserveColorHeadline:
+    label: 
+     en: Preserve color
+     de: Farbe bewahren
+    type: headline
+    numbered: false
+    help: 
+      en: Useful when you choose Primary or Secondary background, and you don't want text color to inverse.
+      de: Nützlich, wenn Sie den primären oder sekundären Hintergrund auswählen und die Textfarbe nicht invertieren möchten.
+    when:
+      sectionToggle: true
+  preserveColor:
+    label: 
+     en: Preserve color
+     de: Farbe bewahren
+    type: toggle
+    width: 1/3
+    when:
+      sectionToggle: true
+
+  sectionBottomgap:
+    type: gap

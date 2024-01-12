@@ -1,0 +1,13 @@
+type: pages
+headline: 
+  en: Products
+  de: Produkte
+query: site.children.listed.template('shop')
+template: product
+info: "{{ page.category }}"
+empty: 
+  en: No products yet
+  de: Noch keine Produkte
+image:
+  query: page.cover.toImage
+  cover: true

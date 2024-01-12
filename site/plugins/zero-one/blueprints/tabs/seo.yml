@@ -1,0 +1,79 @@
+label: SEO & Files
+icon: search
+columns:
+  - width: 2/3
+    sections:
+      meta:
+        type: fields
+        fields:
+
+          # indexability
+          indexabilityHeadline:
+            label: 
+              en: Indexability
+              de: Indexierbarkeit
+            type: headline
+          sitemap:
+            extends: fields/sitemap
+            width: 1/3
+          sitemapInfo:
+            label: Sitemap toggle info
+            type: info
+            text:
+              en: Choose whether this page is included in the sitemap. If omited from sitemap "noindex, nofollow" will also be added to page.
+              de: Wählen Sie aus, ob diese Seite in der Sitemap enthalten ist. Wenn in der Sitemap weggelassen, wird "noindex, nofollow" ebenfalls zur Seite hinzugefügt.
+            width: 2/3
+
+          # meta headline
+          metaHeadline:
+            label: 
+              en: Meta data
+              de: Metadaten
+            type: headline
+          # Meta Image
+          metaFile:
+            label: 
+              en: Meta Image
+              de: Meta-Bild
+            extends: fields/image
+            multiple: false
+            help: 
+              en: Recommended image size 1200x630. Don't worry it will be cropped if larger to correct size.
+              de: Empfohlene Bildgröße 1200x630. Keine Sorge, es wird zugeschnitten, wenn es größer ist, um die richtige Größe zu erhalten.
+          # Meta Title
+          metaTitle:
+            label: 
+              en: Meta Title
+              de: Meta-Titel
+            type: text
+            maxlength: 70
+            after: '| {{ site.title }}'
+            help: 
+              en: The page title will be shown if no page meta title is given.
+              de: Der Seitentitel wird angezeigt, wenn kein Seitenmetatitel angegeben ist.
+          # Meta Description
+          metaDescription:
+            label: 
+              en: Meta Description
+              de: Meta Beschreibung
+            type: textarea
+            size: small
+            maxlength: 160
+            buttons: false
+            help: 
+              en: The site meta description will be shown if no page description is given.
+              de: Die Site-Meta-Beschreibung wird angezeigt, wenn keine Seitenbeschreibung angegeben ist.
+
+  - width: 1/3
+    sections:
+      # Files
+      metaFiles:
+        headline: 
+          en: Files
+          de: Dateien
+        type: files
+        info: "{{ file.dimensions }} {{ file.niceSize }}"
+        search: true
+        help: 
+          en: Click on the file and add its meta information.
+          de: Klicken Sie auf die Datei und fügen Sie ihre Metainformationen hinzu.

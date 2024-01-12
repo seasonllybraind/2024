@@ -1,0 +1,161 @@
+Title: What's new?
+
+----
+
+Animation: true
+
+----
+
+Modules: [{"content":{"herocontentoption":"editor","contentblocks":"[{\"content\":{\"level\":\"h2\",\"text\":\"Zero One.\",\"headingsize\":\" uk-heading-small\",\"headingstyle\":\"\",\"headingcolor\":\"\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\"},\"id\":\"237a4d20-3243-4019-a745-1821d35dc370\",\"isHidden\":false,\"type\":\"heading\"},{\"content\":{\"level\":\"h4\",\"text\":\"Multi-purpose Kirby CMS theme\",\"headingsize\":\" uk-h2\",\"headingstyle\":\"\",\"headingcolor\":\"\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\"},\"id\":\"8011e7bb-4650-425e-8a4c-726331ee9b1b\",\"isHidden\":false,\"type\":\"heading\"},{\"content\":{\"text\":\"<ul><li>Born to be extended</li><li>Made as a plugin</li><li>Well thought out options</li><li>Powerful Layout Builder</li><li>Easy-to-use Page Builder</li><li>Beautiful post types</li><li>Full-fledged eCommerce</li><li>Well documented</li></ul>\",\"liststyle\":\" uk-list-circle\",\"listcolor\":\"\",\"listsize\":\" uk-list-collapse\",\"listdivider\":\"\",\"column\":\"\"},\"id\":\"313c734a-17bb-424b-8b83-eb2fb98425b4\",\"isHidden\":false,\"type\":\"list\"}]","herotext":"","herohtml":"","herostyle":"image","herocover":["file://cxQyVg8cI67yreRu"],"backgroundimageposition":" uk-background-center-center","backgroundimagesize":" uk-background-cover","backgroundimagerepeat":" no-repeat","sectiontextcolor":"","backgroundoverlaycolor":"rgba(0, 0, 0, 0)","backgroundparalax":"","mediavideosource":"url","mediavideo":[],"mediavideourl":"","shapedividertoggle":"false","shapedivider":"","shapedividerposition":"","shapedividercolor":"#ffffff","customshapedivider":"","shapedividerheight":"150px","title":"","blockclass":"","blockid":"","herosize":"large","herotextwidth":"large","herotextalign":"left","heroheadings":"false","herocard":"false","herocardcolor":" uk-card-default","herocardhover":"false"},"id":"a378a6cf-6ded-4168-828a-a9daf4a8cb3d","isHidden":false,"type":"hero"},{"content":{"texteditor":"[{\"content\":{\"level\":\"h2\",\"text\":\"What are we working on?\",\"headingsize\":\"\",\"headingstyle\":\"\",\"headingcolor\":\"\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\"},\"id\":\"0bedcd9f-d41e-43cd-aced-ac6d22b00c7d\",\"isHidden\":false,\"type\":\"heading\"},{\"content\":{\"text\":\"<p><strong>Working on these:</strong></p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"3d6a8d58-5341-4e53-bd0a-dd9724f3ad1a\",\"isHidden\":false,\"type\":\"text\"},{\"content\":{\"text\":\"<ul><li>Zero One Form Builder</li><li>Panel translatability (if you are one of the file code \\\"explorers\\\" you will see that a fair amount of work is already done 🙂)</li><li>Panel translation to French</li><li>Heavy improvement of the Blog template and Article template</li><li>Heavy improvement of the Work template</li><li>New blocks:<ul><li>Lead block</li><li>Tab block</li><li>Features block</li><li>Timeline/steps block</li><li>And more</li></ul></li><li>Various improvements on already included blocks</li><li>Styling improvements</li><li>New demos</li></ul>\",\"liststyle\":\" uk-list-circle\",\"listcolor\":\"\",\"listsize\":\" uk-list-collapse\",\"listdivider\":\"\",\"column\":\"\"},\"id\":\"2d831be0-503a-47d0-b413-78a9c8cf3577\",\"isHidden\":false,\"type\":\"list\"},{\"content\":{\"text\":\"<h2>Version 4.5.1.1</h2><h6>08.08.2023</h6><p>This is a minor update that brings some important security fixes for Kirby, but it also brings several improvements.</p><h4>Security fix</h4><p>The <a href=\\\"https://github.com/getkirby/kirby/releases/tag/3.9.6\\\" target=\\\"_blank\\\" rel=\\\"noreferrer\\\">Kirby 3.9.6 security fix</a> is fixed by updating Kirby, but to strengthen it further the code below should be added to htaccess file</p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"79a376b1-0c24-4435-98d3-44c7334b85dc\",\"isHidden\":false,\"type\":\"text\"},{\"content\":{\"code\":\"# set security headers in all responses\\n<IfModule mod_headers.c>\\n\\n# serve files as plain text if the actual content type is not known\\n# (hardens against attacks from malicious file uploads)\\nHeader set Content-Type \\\"text/plain\\\" \\\"expr=-z %{CONTENT_TYPE}\\\"\\nHeader set X-Content-Type-Options \\\"nosniff\\\"\\n\\n</IfModule>\",\"language\":\"shell\"},\"id\":\"d3d4e7b8-8467-46b1-abd2-52f5210810b4\",\"isHidden\":false,\"type\":\"code\"},{\"content\":{\"text\":\"<p>And yeah, this code block above is example of syntax highlighting features Zero One has 🤓☝️</p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\" uk-text-small\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\" uk-text-muted\"},\"id\":\"d5f12578-a120-4792-a192-e53bcdaed7bf\",\"isHidden\":false,\"type\":\"text\"},{\"content\":{\"level\":\"h4\",\"text\":\"Zero One improvements\",\"headingsize\":\"\",\"headingstyle\":\"\",\"headingcolor\":\"\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\"},\"id\":\"c338002a-7d9b-448a-9e07-77aad487dd26\",\"isHidden\":false,\"type\":\"heading\"},{\"content\":{\"text\":\"<ul><li>Few styling improvements for buttons and custom decimal list</li><li>Kirby Robots txt plugin updated to the latest version</li><li><strong>New feature: </strong>Card block now has an image and link option 🚀<ul><li>Now you can create beautiful cards with image top/bottom and link it some other content</li></ul></li></ul>\",\"liststyle\":\" uk-list-circle\",\"listcolor\":\"\",\"listsize\":\" uk-list-collapse\",\"listdivider\":\"\",\"column\":\"\"},\"id\":\"0a12306b-3794-4321-acf8-93f89c27de71\",\"isHidden\":false,\"type\":\"list\"},{\"content\":{\"text\":\"<p>Check out the <a href=\\\"https://www.one.thezero.club/changelog#4.5.1.1-08.08.2023\\\" target=\\\"_blank\\\" rel=\\\"noreferrer\\\">full changelog</a> for all details.</p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"77607bf3-f85f-4734-a34f-1cd4c3e40f33\",\"isHidden\":false,\"type\":\"text\"},{\"content\":{\"text\":\"<h2>Version 4.5.1</h2><h6>19.07.2023</h6><p>Hi there, here we go! The new update is ready 🥳 Actually this is only the first part of one big update. And this is the smaller part, but it brings some important fixes and improvements. We didn't want you to wait all the way, and to lower the pressure on us here it is.</p><h4>What this update brings:</h4>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"9a9e9a56-5a28-4247-b138-c4446ad543da\",\"isHidden\":false,\"type\":\"text\"},{\"content\":{\"text\":\"<ul><li>Complete PHP 8.2 compatibility in all environments</li><li>Kirby updated to 3.9.5</li><li>New Style Compiler options, and general styling improvements<ul><li><strong>You can now fine-grain shadows per element, and add your own shadows </strong>🚀</li><li><strong>You can now change responsive breakpoints</strong> 🚀</li><li>Offcanvas overlay options</li></ul></li><li>SEO improvements<ul><li>Site SEO settings improved<ul><li>Basic Structured Data (Schema) added, you can turn it on in Site SEO &amp; Files tab</li></ul></li><li>Page SEO improved<ul><li>Now when you omit a page from the sitemap “noindex, nofollow” will also be added to that page</li></ul></li></ul></li><li>New Email option in Site Settings (in the sidebar), to choose or not to see the sender's IP address</li><li><strong>Page Options to hide Navbar and Footer </strong>🚀 Great for landing pages</li><li><strong>Advanced tab added all pages. Now you can add custom CSS to the page</strong> 🚀</li><li><strong>Blog, Work, and Shop templates now have the option to add additional content using Layout Builder before or after subpages listing</strong> 🚀</li><li>More layouts added to Layout Builder and Subgrid block 🚀</li><li><strong>Button block now has anchor link as one of the options</strong> 🚀</li><li>Various fixes to smaller issues users reported</li></ul>\",\"liststyle\":\" uk-list-circle\",\"listcolor\":\"\",\"listsize\":\" uk-list-collapse\",\"listdivider\":\"\",\"column\":\"\"},\"id\":\"c2b19ee7-ba66-48a1-beb3-15436b5b064a\",\"isHidden\":false,\"type\":\"list\"},{\"content\":{\"text\":\"<p>Check out the <a href=\\\"https://www.one.thezero.club/changelog#4.5.1-19.07.2023\\\" target=\\\"_blank\\\" rel=\\\"noreferrer\\\">full changelog</a> for all details.</p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"4964eb22-d8cc-4986-b501-d41cfedf60c6\",\"isHidden\":false,\"type\":\"text\"},{\"content\":{\"text\":\"<h2>Version 4.5.0</h2><h6>10.02.2023</h6><p>And finally, this update arrived 🙏 We are sorry it took longer than expected, we wanted to make many improvements, and make the better organization of the old codebase.</p><h4>What this update brings:</h4>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"024d4d06-6d83-442f-b246-e6d0320a653f\",\"isHidden\":false,\"type\":\"text\"},{\"content\":{\"text\":\"<ul><li><strong>New Main Menu Builder</strong> 🚀 Now you can choose whether the main navigation will be generated from pages structure, or you will create custom navigation with the builder. Also, the builder brings solutions for landing pages and link anchors</li><li><strong>Mega menu possibilities</strong> 🚀 Now you can turn your subpages dropdowns to mega menus, customize width and background, similar to what you can do with layout backgrounds.</li><li><strong>Icons for menu items</strong> 🚀</li><li><strong>Additional icon for right-side navigation </strong>🚀</li><li><strong>Products search block</strong> 🚀</li><li><strong>Products list block</strong> 🚀</li><li><strong>New Audio/Podcast block</strong> 🚀</li><li><strong>New Typed (Animated) text block</strong> 🚀</li><li><strong>New Syntax Highlighting option for Code block</strong> 🚀</li><li><strong>New custom navigation block</strong> 🚀</li></ul>\",\"liststyle\":\" uk-list-circle\",\"listcolor\":\"\",\"listsize\":\" uk-list-collapse\",\"listdivider\":\"\",\"column\":\"\"},\"id\":\"567df529-a7be-41a4-9192-93979c805217\",\"isHidden\":false,\"type\":\"list\"},{\"content\":{\"text\":\"<p>And much more! Check out the full <a href=\\\"https://www.one.thezero.club/changelog#4.5.0-10.02.2023\\\" target=\\\"_blank\\\" rel=\\\"noopener noreferrer\\\">changelog</a>. </p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"1b20330d-f09b-442c-9816-37397b088242\",\"isHidden\":false,\"type\":\"text\"},{\"content\":{\"text\":\"<h2>Version 4.4.0</h2><h6>11.08.2022</h6><p>Thank God, this update is finally finished 🙏 It was super difficult in terms of strategy and amount of changes, but also in user experience aspects and testing. That's why it took much longer than expected to complete. But you will love the results! 🚀</p><h4>New Layout Builder has arrived! 🚀</h4><p>Many many new things are possible now, but it is just a starter of what's coming in the next couple of updates.</p><p>You can see <a href=\\\"https://www.thezero.club/demo/one/builders/layout-builder\\\" target=\\\"_blank\\\" rel=\\\"noreferrer\\\">Layout Builder</a> in action. Make sure to check out the subpages too, there are some interesting examples of new possibilities!</p><p>Yeeey, there is a new demo <a href=\\\"https://www.thezero.club/demo/one-furniture/\\\" target=\\\"_blank\\\" rel=\\\"noreferrer\\\">Zero One Furniture shop</a>.</p><p>And much more, check out the <a href=\\\"https://www.one.thezero.club/changelog#4.4.0-11.08.2022\\\" target=\\\"_blank\\\" rel=\\\"noreferrer\\\">changelog</a>.</p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"9249fbe1-42e3-4ba7-845a-3c2d09d53502\",\"isHidden\":false,\"type\":\"text\"},{\"content\":{\"text\":\"<h2>Version 4.3.2</h2><h6>11.05.2022</h6><p>This update brings some cool stuff:</p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"e70a3001-436e-419d-9f20-045e0d38888a\",\"isHidden\":false,\"type\":\"text\"},{\"content\":{\"text\":\"<ul><li>SVG shape divider for header area (<a href=\\\"https://twitter.com/YourZeroBase/status/1516364339606925317?cxt=HHwWisC5xabVmosqAAAA\\\" target=\\\"_blank\\\" rel=\\\"noopener noreferrer\\\">see video</a>) 🚀</li><li>Custom cover sizes for Projects and a few more options (Masonry possible, too) 🚀</li><li>New options for Site Styling (compiler)</li><li>Snipcart updated to 3.4.0 version with new scripts loader, only when called. Speed boost 🚀</li><li>Many new footer options 🚀</li><li>New custom product fields (checkbox, text, textarea, read-only)</li><li>Articles now support multiple authors (co-authors)</li><li>Improved image performance</li></ul>\",\"liststyle\":\" uk-list-circle\",\"listcolor\":\"\",\"listsize\":\" uk-list-collapse\",\"listdivider\":\"\",\"column\":\"\"},\"id\":\"ceb10099-ed8e-4838-8646-1f15fa9a77b8\",\"isHidden\":false,\"type\":\"list\"},{\"content\":{\"text\":\"<p>Check out the <a href=\\\"https://www.one.thezero.club/changelog#4.3.2-11.05.2022\\\" target=\\\"_blank\\\" rel=\\\"noopener noreferrer\\\">full changelog</a>.</p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"c428c633-4433-4298-a836-4653bad78e33\",\"isHidden\":false,\"type\":\"text\"},{\"content\":{\"text\":\"<h2>Version 4.3.1</h2><h6>09.04.2022</h6><p><strong>Improvements, fixes and new features! 🚀</strong></p><p>This update brings:</p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"b9b7de21-647f-46f6-8e5c-593ed97d5331\",\"isHidden\":false,\"type\":\"text\"},{\"content\":{\"text\":\"<ul><li>PHP 8.1 compatibility</li><li>All images now auto-convert to WebP with a fallback to the original, even the background images! 🚀 And you don't have to do anything. 😎 Just update to this version and your website will be more than a double lighter.</li><li>Variable products! 🚀 Now your products can have custom options 🥳 </li><li>Product quantity now has cool buttons! 🐱‍🏍</li><li>New Cookie consent option! New inbuilt option for cookie consent. You can choose between popup or modal 🥳</li><li>Gallery content block improved! Thanks to Demlak for this 🙏</li><li>And more!</li></ul>\",\"liststyle\":\" uk-list-circle\",\"listcolor\":\"\",\"listsize\":\" uk-list-collapse\",\"listdivider\":\"\",\"column\":\"\"},\"id\":\"2fb6eab8-4c32-4436-bd51-4c9a02b84178\",\"isHidden\":false,\"type\":\"list\"},{\"content\":{\"text\":\"<p>Check out the <a href=\\\"https://www.one.thezero.club/changelog#4.3.1-09.04.2022\\\" target=\\\"_blank\\\" rel=\\\"noopener noreferrer\\\">full changelog</a>.</p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"ff88b0e8-cd16-46dd-9147-c17300548aa9\",\"isHidden\":false,\"type\":\"text\"},{\"content\":{\"text\":\"<h2>Version 4.3.0</h2><h6>24.02.2022</h6><p><strong>And finally! Zero One has e-commerce power! </strong>🚀</p><p>It took longer than we expected, but it is better than many anticipated 😎 It is a full-feature e-commerce shop, with all power you can expect from the best.</p><p>You can check out the <a href=\\\"https://www.thezero.club/demo/one/shop\\\" target=\\\"_blank\\\" rel=\\\"noreferrer\\\">shop demo</a>.</p><p>And see <a href=\\\"https://www.one.thezero.club/guide/shop-page\\\" target=\\\"_blank\\\" title=\\\"Shop documentation\\\" rel=\\\"noreferrer\\\">shop documentation pages</a>. </p><p>But, that's not all, there are many other improvements too.</p><p>Check out the <a href=\\\"https://www.one.thezero.club/changelog#4.3.0-24.02.2022\\\" target=\\\"_blank\\\" rel=\\\"noreferrer\\\">full changelog</a>.</p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"63406b16-a960-4207-937c-9734576ce182\",\"isHidden\":false,\"type\":\"text\"},{\"content\":{\"text\":\"<h2>Version 4.2.0</h2><h6>12.01.2022</h6><p>This update brings several important fixes and one long-anticipated feature. 🚀</p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"ba07aa14-3636-4c27-98b8-1ad14218433c\",\"isHidden\":false,\"type\":\"text\"},{\"content\":{\"text\":\"<ul><li><strong>NEW</strong> Navbar transparent options, site-wide and page override (Project and Article also)</li><li>Editor permissions improved</li><li><strong>NEW</strong> Main navigation dropdown page option. Select whether a specific page should have subpages visible in the main navigation. Now you can have multiple Blog or Work pages without issues.</li></ul>\",\"liststyle\":\" uk-list-circle\",\"listcolor\":\"\",\"listsize\":\" uk-list-collapse\",\"listdivider\":\"\",\"column\":\"\"},\"id\":\"dc72700e-7a0c-4c72-9f37-19d31a16f60b\",\"isHidden\":false,\"type\":\"list\"},{\"content\":{\"text\":\"<h2>Version 4.1.0</h2><h6>10.12.2021</h6><p><strong>In short:</strong></p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"db4ec7dc-986a-4912-be53-09050324fd92\",\"isHidden\":false,\"type\":\"text\"},{\"content\":{\"text\":\"<ul><li>Kirby updated to 3.6.1.1 and compatibility changes made<ul><li><strong>FEATURE:</strong> Now you can copy-paste blocks and more than that! 🚀</li><li><strong>FEATURE: </strong>Writing experience is improved with the new Writer/Text field 🚀</li></ul></li><li>UIkit updated to 3.9.4</li><li>All plugins are updated</li><li>Cachebuster plugin replaced with <a href=\\\"https://github.com/bnomei/kirby3-fingerprint\\\" target=\\\"_blank\\\" rel=\\\"noreferrer\\\">Kirby 3 Fingerprint</a> plugin</li><li>New maintenance options in the panel:<ul><li><strong>FEATURE: </strong>Now you can clear the pages cache from the panel<strong> </strong>🚀</li><li><strong>FEATURE: </strong>You can create a website backup from the panel<strong> </strong>🚀</li></ul></li><li><strong>FEATURE: </strong>New topbar option</li><li><strong>FEATURE: </strong>New fancy page transition effects 🚀</li><li><strong>FEATURE: </strong>New Site Settings options</li><li>General panel improvements</li><li><strong>FEATURE: </strong>Improved custom CSS experience 🚀</li><li>Contact form submit anchor added</li><li>SEO meta improvements</li><li>Many code reorganizations, optimizations, and improvements</li></ul>\",\"liststyle\":\" uk-list-circle\",\"listcolor\":\"\",\"listsize\":\" uk-list-collapse\",\"listdivider\":\"\",\"column\":\"\"},\"id\":\"ea7d5061-3b45-4788-bf4a-3e530a70c2a1\",\"isHidden\":false,\"type\":\"list\"},{\"content\":{\"level\":\"h2\",\"text\":\"Version 4.0.2\",\"headingsize\":\"\",\"headingstyle\":\"\",\"headingcolor\":\"\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\"},\"id\":\"42802371-30c0-459a-804f-5bfcc06910bd\",\"isHidden\":false,\"type\":\"heading\"},{\"content\":{\"text\":\"<p><strong>In short:</strong></p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"ef6eb1f2-9cc6-4ced-b361-46616fa6c792\",\"isHidden\":false,\"type\":\"text\"},{\"content\":{\"text\":\"<ul><li>Kirby updated to 3.5.7.1</li><li>Language switch improvements</li><li>Sticky navbar now has a fixed option</li><li>Table block now supports Html elements</li><li>New content blocks<ul><li>Banner</li><li>Contact form</li></ul></li></ul>\",\"liststyle\":\" uk-list-circle\",\"listcolor\":\"\",\"listsize\":\" uk-list-collapse\",\"listdivider\":\"\",\"column\":\"\"},\"id\":\"ed23c487-2cdd-460d-8a58-ad563c524398\",\"isHidden\":false,\"type\":\"list\"},{\"content\":{\"level\":\"h2\",\"text\":\"Version 4.0.0\",\"headingsize\":\"\",\"headingstyle\":\"\",\"headingcolor\":\"\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\"},\"id\":\"cfdf5aac-2a1f-4e27-9e11-f38f75cb9065\",\"isHidden\":false,\"type\":\"heading\"},{\"content\":{\"text\":\"<p><strong>Here we go! Zero One becomes a Kirby plugin!</strong> 🚀</p><p>We completely restructured everything, went through every theme file, made many improvements, and added many new options.</p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"58c6a71d-0022-4fb2-81a2-184662e13318\",\"isHidden\":false,\"type\":\"text\"},{\"content\":{\"text\":\"<p><strong>Here goes the list of notable improvements:</strong></p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"3e490a00-8df9-4a11-9b80-9102526d2c3d\",\"isHidden\":false,\"type\":\"text\"},{\"content\":{\"text\":\"<ul><li>Page Builder visual and performance improvements</li><li>Improvement of every Page Builder section</li><li>Improvement of every Content blocks block</li><li>New Content blocks<ul><li>Accordion</li><li>Button</li><li>Table</li></ul></li><li>Advanced background options all over the place, in blocks, header, and footer</li><li>Parallax background is possible now</li><li>The grid section has many new options, sub-grid is possible now too</li><li>Hero has a video background option</li><li>The navbar now can have a centred logo and can be styled by your liking</li><li>New navbar links effect (you can choose between old and new effect)</li><li>New header options</li><li>Improved animations in many places</li><li>New styling options, now your website can have shadows or rounded corners on some elements</li><li>Improved buttons</li><li>New Work/Projects options and styling improvements</li><li>Article styling improvement</li><li>New slideshow options</li><li>And many more small fixes and improvements</li></ul>\",\"liststyle\":\" uk-list-circle\",\"listcolor\":\"\",\"listsize\":\" uk-list-collapse\",\"listdivider\":\"\",\"column\":\"\"},\"id\":\"cead2db6-268d-47f2-91f9-a20e0ab02cd3\",\"isHidden\":false,\"type\":\"list\"},{\"content\":{\"text\":\"<p><strong>But, most importantly Zero One becomes a plugin! </strong>Why is this so great? Because you can overwrite any plugin file by copying it to your theme folder. Change it, extend it, and safely update Zero One to new versions without worry. Your changes will stay untouched. Like a WordPress child theme, but more powerful.</p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"663c7f8b-dd35-46d1-9e3c-b3d9d510ec82\",\"isHidden\":false,\"type\":\"text\"}]","title":"","blockclass":"","blockid":"","editorwidth":"xsmall","editorback":"default","editorheadings":"false"},"id":"614e8535-99b1-4d69-a101-04ad14e4e29a","isHidden":false,"type":"editor"}]
+
+----
+
+Hidenavbar: false
+
+----
+
+Disallowsubmenu: false
+
+----
+
+Newtab: false
+
+----
+
+Menuitemicon: bolt
+
+----
+
+Megamenu: false
+
+----
+
+Megamenuwidth: 
+
+----
+
+Megamenuitemwidth: 
+
+----
+
+Megamenubackground: false
+
+----
+
+Megamenubackgroundimage: 
+
+----
+
+Megamenubackgroundimageposition: 
+
+----
+
+Megamenubackgroundimagesize: 
+
+----
+
+Megamenubackgroundimagerepeat: 
+
+----
+
+Megamenubackgroundgradientoverlay: false
+
+----
+
+Megamenubackgroundgradienttransition: 
+
+----
+
+Transparentnavbar: 
+
+----
+
+Navbarinverse: false
+
+----
+
+Headersection: true
+
+----
+
+Alttitle: 
+
+----
+
+Intro: Preview of latest changes and improvements to Zero One theme.
+
+----
+
+Headerbackgroundtoggle: false
+
+----
+
+Header: 
+
+----
+
+Headerimageposition: 
+
+----
+
+Headerimagesize: 
+
+----
+
+Headerimagerepeat: 
+
+----
+
+Headertextcolor: 
+
+----
+
+Backgroundparalax: 
+
+----
+
+Shapedividertoggle: false
+
+----
+
+Shapedivider: 
+
+----
+
+Shapedividerposition: 
+
+----
+
+Customshapedivider: 
+
+----
+
+Shapedividerheight: 
+
+----
+
+Hidefooter: false
+
+----
+
+Sitemap: true
+
+----
+
+Metafile: - file://Ezb8ByWMtGr3hI2U
+
+----
+
+Metatitle: 
+
+----
+
+Metadescription: 
+
+----
+
+Customcss: 
+
+----
+
+Uuid: oc3k96t1tAJJ7c4u

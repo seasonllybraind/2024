@@ -1,0 +1,30 @@
+title: Archive
+
+accept:
+  type: archive
+
+fields:
+  author:
+    label: 
+      en: Author
+      de: Autor
+    type: text
+    width: 1/4
+  license:
+    label: 
+      en: License
+      de: Lizenz
+    type: select
+    width: 1/4
+    options:
+      - CC BY 4.0
+      - CC BY-SA 4.0
+      - CC BY-NC 4.0
+      - CC BY-ND 4.0
+      - RM (Rights Managed)
+      - Editorial Use
+      - RF (Royalty Free)
+      - Public Domain
+  sitemap:
+    extends: fields/sitemap
+    width: 1/4

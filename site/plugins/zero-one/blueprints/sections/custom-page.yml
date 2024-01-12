@@ -1,0 +1,13 @@
+# This is additional file for custom page options
+# Main blueprint file: blueprints/tabs/page-options.yml
+# It is very useful when you want to add your custom page options to all pages
+type: fields
+fields:
+  customPageFields:
+    label: 
+      en: Custom Settings
+      de: Benutzerdefinierte Einstellungen
+    type: hidden
+    help: 
+      en: This is a custom Page section. It is very useful when you want to add additional custom Page options, by overriding this blueprint section.
+      de: Dies ist ein benutzerdefinierter Seitenabschnitt. Es ist sehr nützlich, wenn Sie zusätzliche benutzerdefinierte Seitenoptionen hinzufügen möchten, indem Sie diesen Blueprint-Abschnitt überschreiben.

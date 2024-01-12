@@ -1,0 +1,185 @@
+Title: Work
+
+----
+
+Perpage: 6
+
+----
+
+Projectsstyle: grid3
+
+----
+
+Gridgap: uk-grid-medium
+
+----
+
+Pagewidth: 
+
+----
+
+Projectsmasonry: true
+
+----
+
+Layoutbuilderposition: true
+
+----
+
+Layout: [{"attrs":{"gridwidth":"uk-container","tabletwidth":"","mobilewidth":"","columnsverticalalign":" uk-flex-middle","columnshorizontalalign":"","containerexpand":"","columngap":"","columnsdivider":"false","gridmasonry":"false","gridparallax":"false","sectiontoggle":"true","sectionsize":"","sectioncolor":" uk-section-muted","sectionremovepadding":"","backgroundstyle":"color","backgroundimage":[],"mediavideosource":"url","mediavideo":[],"mediavideourl":"","backgroundimageposition":" uk-background-center-center","backgroundimagesize":" uk-background-cover","backgroundimagerepeat":" no-repeat","sectiontextcolor":" uk-light","backgroundoverlaycolor":"rgba(0,0,0,0.3)","backgroundgradientoverlay":"false","backgroundgradienttransition":"","backgroundoverlaycolor2":"rgba(0,0,0,0.3)","backgroundparalax":"","shapedividertoggle":"false","shapedivider":"","shapedividerposition":"","shapedividercolor":"#ffffff","customshapedivider":"","shapedividerheight":"150px","preservecolor":"false","sectionclass":"","sectionid":"","hidden":"","visible":"","animationswitch":"true","animationtype":"uk-animation-slide-bottom-small","animationdelay":null},"columns":[{"blocks":[{"content":{"text":"<h2>Add content after, or before, projects listing</h2>","textalign":"","textaligntablet":"","textalignmobile":"","textsize":"","texttransform":"","textwrapping":"","textcolor":""},"id":"95478fc0-4117-466f-8130-37a5db1cd957","isHidden":false,"type":"text"}],"id":"8f544708-978a-4be5-9423-c5a2ea10c3e4","width":"1/3"},{"blocks":[{"content":{"text":"<p>You can add content before or after projects listing on the work page, using Layout Builder, and create call-outs or anything you need.</p>","textalign":"","textaligntablet":"","textalignmobile":"","textsize":"","texttransform":"","textwrapping":"","textcolor":""},"id":"6d35ab06-ed29-435c-b715-c94f05f549f1","isHidden":false,"type":"text"}],"id":"f6bdf941-99da-44d6-8a54-e705eab81c32","width":"1/3"},{"blocks":[{"content":{"columnwidth":"","tabletwidth":"","mobilewidth":"","columnheight":"","columnminheight":"","columnmaxheight":"","textalign":" uk-text-center@m","textaligntablet":"","textalignmobile":"","textsize":"","texttransform":"","textwrapping":"","columnstyle":"none","columncardsize":"","columncardhover":"false","columncardcolor":" uk-card-default","columntile":"","columnbackground":"","columntextcolor":" uk-light","backgroundstyle":"color","backgroundimage":[],"backgroundimageposition":" uk-background-center-center","backgroundimagesize":" uk-background-cover","backgroundimagerepeat":" no-repeat","backgroundparalax":"","mediavideosource":"url","mediavideo":[],"mediavideourl":"","backgroundoverlaycolor":"rgba(0,0,0,0.3)","backgroundgradientoverlay":"false","backgroundgradienttransition":"","backgroundoverlaycolor2":"rgba(0,0,0,0.3)","columnpadding":"","itemfirst":"","itemlast":"","borderrounded":"false","columnshadow":"","columnclass":"","columnid":"","hidden":"","visible":"","animationswitch":"false","animationtype":"","animationdelay":null},"id":"2eb2874b-fab2-42c2-bb4b-59f3049d9194","isHidden":false,"type":"z-column"},{"content":{"text":"Purchase Zero One","buttonicon":"","linktype":"internal","link":"","internalpage":["page://ZVoGDWAqLvo5X5c1"],"anchor":"","filelink":[],"emaillink":"","phonelink":"","target":"false","buttonstyle":" uk-button-primary","buttonsize":" uk-button-large","margintop":""},"id":"9111c8fd-d347-4d26-b11a-b8aa8ca4a788","isHidden":false,"type":"button"},{"content":{"text":"<p>Get full access and join 550+ customers</p>","textalign":"","textaligntablet":"","textalignmobile":"","textsize":" uk-text-small","texttransform":"","textwrapping":"","textcolor":" uk-text-muted"},"id":"c564f500-96d7-4bd1-9a74-6f9ce7e7c9ee","isHidden":false,"type":"text"}],"id":"3eac927d-2f72-426b-8d93-e7701ef27cdc","width":"1/3"}],"id":"1308655d-a9bb-409e-8691-9d33de511c9d"}]
+
+----
+
+Hidenavbar: false
+
+----
+
+Disallowsubmenu: true
+
+----
+
+Newtab: false
+
+----
+
+Menuitemicon: 
+
+----
+
+Megamenu: false
+
+----
+
+Megamenuwidth: 
+
+----
+
+Megamenuitemwidth: 
+
+----
+
+Megamenubackground: false
+
+----
+
+Megamenubackgroundimage: 
+
+----
+
+Megamenubackgroundimageposition: 
+
+----
+
+Megamenubackgroundimagesize: 
+
+----
+
+Megamenubackgroundimagerepeat: 
+
+----
+
+Megamenubackgroundgradientoverlay: false
+
+----
+
+Megamenubackgroundgradienttransition: 
+
+----
+
+Transparentnavbar: 
+
+----
+
+Navbarinverse: false
+
+----
+
+Headersection: true
+
+----
+
+Alttitle: 
+
+----
+
+Intro: This projects layout display is just one of many possible options.
+
+----
+
+Headerbackgroundtoggle: false
+
+----
+
+Header: 
+
+----
+
+Headerimageposition: uk-background-center-center
+
+----
+
+Headerimagesize: uk-background-cover
+
+----
+
+Headerimagerepeat: no-repeat
+
+----
+
+Headertextcolor: uk-light
+
+----
+
+Headeroverlaycolor: #0000004d
+
+----
+
+Backgroundparalax: 
+
+----
+
+Shapedividertoggle: false
+
+----
+
+Shapedivider: 
+
+----
+
+Shapedividerposition: 
+
+----
+
+Customshapedivider: 
+
+----
+
+Shapedividerheight: 
+
+----
+
+Hidefooter: false
+
+----
+
+Sitemap: true
+
+----
+
+Metafile: 
+
+----
+
+Metatitle: 
+
+----
+
+Metadescription: 
+
+----
+
+Customcss: 
+
+----
+
+Uuid: g0RWBaCPt5RXiKrE

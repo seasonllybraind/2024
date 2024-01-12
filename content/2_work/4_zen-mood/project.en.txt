@@ -1,0 +1,109 @@
+Title: Zen mood
+
+----
+
+Selectbuilder: page-builder
+
+----
+
+Layout: 
+
+----
+
+Animation: true
+
+----
+
+Modules: [{"content":{"herocontentoption":"","contentblocks":"","herotext":"## To study Zen is to study the self, to study the self is to forget the self.\n\nZazen is an attitude of spiritual awakening, which when practiced, can become the source from which all the actions of daily life flow - eating, sleeping, breathing, walking, working, talking, thinking, and so on.","herohtml":"","herostyle":"image","herocover":["file:\/\/juziI2Cthc9DyeAC"],"backgroundimageposition":" uk-background-center-center","backgroundimagesize":" uk-background-cover","backgroundimagerepeat":" no-repeat","sectiontextcolor":" uk-light","backgroundoverlaycolor":"#00000066","backgroundparalax":"","mediavideosource":"","mediavideo":[],"mediavideourl":"","shapedividertoggle":"false","shapedivider":"","shapedividerposition":"","shapedividercolor":null,"customshapedivider":"","shapedividerheight":"","title":"","blockclass":"","blockid":"","herosize":"large","herotextwidth":"small","herotextalign":"","heroheadings":"false","herocard":"false","herocardcolor":"","herocardhover":"false"},"id":"a8bc0cb0-c113-4e1b-9c72-285f12d76a12","isHidden":false,"type":"hero"},{"content":{"texteditor":"[{\"content\":{\"level\":\"h2\",\"text\":\"So, what is Zen?\",\"headingsize\":\"\",\"headingstyle\":\"\",\"headingcolor\":\"\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\"},\"id\":\"17a83298-9ef0-4e49-b250-94063bb92b45\",\"isHidden\":false,\"type\":\"heading\"},{\"content\":{\"text\":\"<p>At the heart of the Japanese culture lies Zen, a school of Mahayana Buddhism. Zen is, first and foremost, a practice that was uninterruptedly transmitted from master to disciple, and that goes back to the spiritual <a href=\\\"https:\\\/\\\/zen-buddhism.net\\\/zen-concepts\\\/satori.html\\\" target=\\\"_blank\\\" rel=\\\"noopener noreferrer nofollow\\\">Enlightenment<\\\/a> of a man named Siddh\\u0101rtha Gautama (Shakyamuni Gotama in Japanese) - The Buddha - 2500 years ago in India.<\\\/p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"c8433fc5-9a64-4290-98d6-ba9988637197\",\"isHidden\":false,\"type\":\"text\"},{\"content\":{\"text\":\"<p>The practice of <a href=\\\"https:\\\/\\\/www.zenlightenment.net\\\/practice\\\/zen-meditation.html\\\" target=\\\"_blank\\\" rel=\\\"noopener noreferrer nofollow\\\">Zen meditation<\\\/a> or Zazen (\\u5ea7\\u7985 - <em>za<\\\/em> meaning sitting, and <em>Zen<\\\/em> meaning meditation in Japanese), is the core of Zen Buddhism: without it, there is no Zen. Zen meditation, is a way of vigilance and self-discovery which is practiced while sitting on a meditation cushion. It is the experience of living from moment to moment, in the here and now. It is through the practice of Zazen that Gautama got enlightened and became the Buddha.<\\\/p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"1f77e8c4-d06d-40ed-bbcc-b029be3d3f09\",\"isHidden\":false,\"type\":\"text\"}]","title":"","blockclass":"","blockid":"","editorwidth":"small","editorback":"muted","editorheadings":"false"},"id":"03fccbf0-e5ad-4bbc-9aa4-ff435bbc26e4","isHidden":false,"type":"editor"},{"content":{"fittext":"[{\"content\":{\"level\":\"h3\",\"text\":\"History of Zen\",\"headingsize\":\"\",\"headingstyle\":\"\",\"headingcolor\":\"\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\"},\"id\":\"cff21635-63d7-41ac-a46c-1262cba6c848\",\"isHidden\":false,\"type\":\"heading\"},{\"content\":{\"text\":\"<p><em>A long time ago in India, the Buddha, resolute in solving the problem of human suffering, realized Enlightenment while practicing Zen meditation under a tree.<\\\/em><\\\/p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"c20d4164-051d-4945-86c5-6502a00d3e80\",\"isHidden\":false,\"type\":\"text\"},{\"content\":{\"text\":\"<p>The Buddha realized intuitively that even if we possess everything we desire, we still are often unsatisfied. This is because true happiness does not depend on what we have, but on what we are.<\\\/p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"c99693fd-3e40-4ea3-b536-e75974443bbf\",\"isHidden\":false,\"type\":\"text\"},{\"content\":{\"text\":\"<p>The Awakened One left a teaching, practice, and doctrine that everyone can experience in daily life. This is called dharma in Sanskrit.<\\\/p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"ecd218d3-e0d8-4eb6-a755-5c0b33fd26af\",\"isHidden\":false,\"type\":\"text\"},{\"content\":{\"text\":\"<p>According to tradition, the transmission of Zen from master and disciple has formed an uninterrupted \\u2018spiritual bloodline' that has lasted for more than 2500 years.<\\\/p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"2f62087e-c53e-4234-9843-a645465f1ad1\",\"isHidden\":false,\"type\":\"text\"}]","fitimage":["file:\/\/pvHvBDNEnmajavTs"],"title":"","blockclass":"","blockid":"","fitwidth":"full","fitchoosesides":"image","fitimagesize":"half","fittextback":"secondary","fittextpadding":"large","fittextalign":"left","fitheadings":"false","viewportheight":"false"},"id":"9eb355a0-3897-46f7-98c0-227cd3a640ee","isHidden":false,"type":"text-image"},{"content":{"columns":[{"columnwidth":"uk-width-1-1","columnclass":"","columntitle":"","columncontenthtml":"markdown","columneditor":"","columncontent":"## The four noble truths\n\n*After Buddha gave up worldly life and sat down for meditation under the Bodhi tree, he attained enlightenment. He laid down his teachings in easily understandable language for the common man in the form of Four Noble truths.*\n\nThough Buddhism is now divided into several schools each of which has its own set of beliefs, the essence of Buddhism is summed up in the Four Noble Truths enunciated by the (link: https:\/\/www.zenlightenment.net\/history\/who-is-buddha.html text: Buddha target: _blank).","columnhtml":"","subcolumns":[],"columncard":"false","columncardsize":"","columncardhover":"false","columncardcolor":""},{"columnwidth":"uk-width-1-2@m","columnclass":"","columntitle":"","columncontenthtml":"markdown","columneditor":"","columncontent":"### To live means to suffer\n\nDuring his meditation, he realized that \u2018life is suffering.\u2019 The reason for this being the fact that human beings are not perfect. Likewise, the world inhabited by them is also ridden with imperfections.","columnhtml":"","subcolumns":[],"columncard":"false","columncardsize":"","columncardhover":"false","columncardcolor":""},{"columnwidth":"uk-width-1-2@m","columnclass":"","columntitle":"","columncontenthtml":"markdown","columneditor":"","columncontent":"### The origin of suffering is attachment\n\nAll of us have desires and cravings. Since we cannot satisfy ALL our desires and cravings, we get disturbed and angry, which is but another manifestation of suffering.","columnhtml":"","subcolumns":[],"columncard":"false","columncardsize":"","columncardhover":"false","columncardcolor":""},{"columnwidth":"uk-width-1-2@m","columnclass":"","columntitle":"","columncontenthtml":"markdown","columneditor":"","columncontent":"### The cessation of suffering is attainable\n\nBuddha stated that to put an end to suffering, we need to control our desires or practice non-attachment. This may sound difficult but can be achieved through diligent practice.","columnhtml":"","subcolumns":[],"columncard":"false","columncardsize":"","columncardhover":"false","columncardcolor":""},{"columnwidth":"uk-width-1-2@m","columnclass":"","columntitle":"","columncontenthtml":"markdown","columneditor":"","columncontent":"### The path to the cessation of suffering\n\nBuddha says that salvation (Nirvana\/Satori) is a condition that can be attained by leading a balanced life. And to lead a balanced life, one needs to follow the Eightfold path which is a \u2018gradual path of self-improvement.\u2019","columnhtml":"","subcolumns":[],"columncard":"false","columncardsize":"","columncardhover":"false","columncardcolor":""}],"title":"","blockclass":"","blockid":"","sectionsize":"","sectioncolor":" uk-section-default","sectionremovepadding":"","backgroundimage":[],"backgroundimageposition":"","backgroundimagesize":"","backgroundimagerepeat":"","sectiontextcolor":"","backgroundoverlaycolor":null,"backgroundparalax":"","shapedividertoggle":"false","shapedivider":"","shapedividerposition":"","shapedividercolor":null,"customshapedivider":"","shapedividerheight":"","gridwidth":" uk-container-small","columnstack":"mobile","columngap":" uk-grid-large","columnsverticalalign":"","columnshorizontalalign":"","columnsdivider":"true","centertext":"false","gridheadings":"false","columnsparallax":"false"},"id":"0f215b9e-7cb0-47d8-acdc-03d805bdb9df","isHidden":false,"type":"grid"},{"content":{"herocontentoption":"","contentblocks":"","herotext":"> \"One who conquers himself is greater than another who conquers a thousand times a thousand on the battlefield.\"\n**- Buddha**","herohtml":"","herostyle":"image","herocover":["file:\/\/hlx9KkDwkJdzCECu"],"backgroundimageposition":" uk-background-center-center","backgroundimagesize":" uk-background-cover","backgroundimagerepeat":" no-repeat","sectiontextcolor":" uk-light","backgroundoverlaycolor":"#00000066","backgroundparalax":"paralaxY","mediavideosource":"","mediavideo":[],"mediavideourl":"","shapedividertoggle":"false","shapedivider":"","shapedividerposition":"","shapedividercolor":null,"customshapedivider":"","shapedividerheight":"","title":"","blockclass":"","blockid":"","herosize":"xlarge","herotextwidth":"small","herotextalign":"","heroheadings":"false","herocard":"false","herocardcolor":"","herocardhover":"false"},"id":"fdd642dd-ee6b-4d4a-a7ae-16f4e64197e4","isHidden":false,"type":"hero"}]
+
+----
+
+Projectinfo:
+
+- 
+  projectcolumn: '**Goal:** Personal growth'
+
+----
+
+Tagslabel: Tags:
+
+----
+
+Tags: consulting
+
+----
+
+Transparentnavbar: 
+
+----
+
+Navbarinverse: false
+
+----
+
+Alttitle: 
+
+----
+
+Intro: Zen is not a theory, an idea, or a piece of knowledge. It is not a belief, dogma, or religion; but rather, it is a practical experience.
+
+----
+
+Headerimageoption: false
+
+----
+
+Headerimage: 
+
+----
+
+Headerimageposition: 
+
+----
+
+Headerimagesize: 
+
+----
+
+Headerimagerepeat: 
+
+----
+
+Headertextcolor: 
+
+----
+
+Backgroundparalax: 
+
+----
+
+Cover:
+
+- 
+  id: >
+    work/zen-mood/calgary-photo-pro-axb4hfzswmy-unsplash.jpg
+  clip:
+    width: 955
+    height: 1272
+    left: 523
+    top: 0
+
+----
+
+Metafile: - file://juziI2Cthc9DyeAC
+
+----
+
+Sitemap: true
+
+----
+
+Metatitle: 
+
+----
+
+Metadescription: 
+
+----
+
+Uuid: 4cg7jYiCLBN4reYr

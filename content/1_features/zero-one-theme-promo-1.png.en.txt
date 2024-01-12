@@ -1,0 +1,13 @@
+Uuid: Ezb8ByWMtGr3hI2U
+
+----
+
+Template: image
+
+----
+
+Caption: 
+
+----
+
+Sitemap: true

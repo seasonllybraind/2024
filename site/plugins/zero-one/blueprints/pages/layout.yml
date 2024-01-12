@@ -1,0 +1,38 @@
+title: Layout Builder
+icon: grid
+
+tabs:
+
+  # content tab
+  content:
+    label: 
+      en: Content
+      de: Inhalt
+    icon: text
+    columns:
+      # main
+      - width: 3/4
+        sections:
+          # Layout Builder sections
+          layoutBuilder:
+            extends: sections/layout-builder
+
+      # sidebar
+      - width: 1/4
+        sections:
+          # pages
+          published:
+            extends: sections/page-published
+
+          draft:
+            extends: sections/page-draft
+
+  # header tab
+  header: tabs/page-options
+
+  # seo tab
+  seo: tabs/seo
+
+  # advanced tab
+  advanced: tabs/page-advanced
+  

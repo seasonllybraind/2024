@@ -1,0 +1,149 @@
+Title: Hero section
+
+----
+
+Animation: true
+
+----
+
+Modules: [{"content":{"herocontentoption":"markdown","contentblocks":"","herotext":"# Make it stand out just with color.\n\nLorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.","herohtml":"","herostyle":"primary","herocover":[],"backgroundimageposition":"","backgroundimagesize":"","backgroundimagerepeat":"","sectiontextcolor":"","backgroundoverlaycolor":null,"backgroundparalax":"","mediavideosource":"","mediavideo":[],"mediavideourl":"","shapedividertoggle":"false","shapedivider":"","shapedividerposition":"","shapedividercolor":null,"customshapedivider":"","shapedividerheight":"","title":"Make it stand just with color","blockclass":"","blockid":"","herosize":"large","herotextwidth":"large","herotextalign":"left","heroheadings":"false","herocard":"false","herocardcolor":"","herocardhover":"false"},"id":"b3661795-563b-423f-a159-ce213aa3d828","isHidden":false,"type":"hero"},{"content":{"herocontentoption":"","contentblocks":"","herotext":"# But with an image is often better.\n\nLorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.","herohtml":"","herostyle":"image","herocover":["file:\/\/EDVhdCEhuYq9Noq2"],"backgroundimageposition":" uk-background-center-center","backgroundimagesize":" uk-background-cover","backgroundimagerepeat":" no-repeat","sectiontextcolor":" uk-light","backgroundoverlaycolor":"#0000004d","backgroundparalax":"","mediavideosource":"","mediavideo":[],"mediavideourl":"","shapedividertoggle":"false","shapedivider":"","shapedividerposition":"","shapedividercolor":null,"customshapedivider":"","shapedividerheight":"","title":"But with an image is often better","blockclass":"","blockid":"","herosize":"large","herotextwidth":"large","herotextalign":"left","heroheadings":"false","herocard":"false","herocardcolor":"","herocardhover":"false"},"id":"f301b290-cad3-41c0-bfac-781d346bcf6b","isHidden":false,"type":"hero"},{"content":{"herocontentoption":"","contentblocks":"","herotext":"## And with video is spectacular!\n\nLorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Onsectetur adipisicing elit, sed do eiusmod tempor.","herohtml":"","herostyle":"video","herocover":[],"backgroundimageposition":" uk-background-center-center","backgroundimagesize":" uk-background-cover","backgroundimagerepeat":" no-repeat","sectiontextcolor":" uk-light","backgroundoverlaycolor":"rgba(0,0,0,0.3)","backgroundparalax":"","mediavideosource":"url","mediavideo":[],"mediavideourl":"https:\/\/www.youtube-nocookie.com\/embed\/yCuBFNMgjfc?autoplay=1&amp;controls=0&amp;showinfo=0&amp;rel=0&amp;loop=1&amp;modestbranding=1&amp;wmode=transparent","shapedividertoggle":"false","shapedivider":"","shapedividerposition":"","shapedividercolor":null,"customshapedivider":"","shapedividerheight":"","title":"Video background","blockclass":"","blockid":"","herosize":"large","herotextwidth":"large","herotextalign":"left","heroheadings":"true","herocard":"false","herocardcolor":"","herocardhover":"false"},"id":"79cd41c6-650f-4916-a929-b6058747ab47","isHidden":false,"type":"hero"},{"content":{"herocontentoption":"markdown","contentblocks":"","herotext":"# Make container smaller.\n\nLorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.","herohtml":"","herostyle":"secondary","herocover":[],"backgroundimageposition":"","backgroundimagesize":"","backgroundimagerepeat":"","sectiontextcolor":"","backgroundoverlaycolor":null,"backgroundparalax":"","mediavideosource":"","mediavideo":[],"mediavideourl":"","shapedividertoggle":"false","shapedivider":"","shapedividerposition":"","shapedividercolor":null,"customshapedivider":"","shapedividerheight":"","title":"Make container smaller","blockclass":"","blockid":"","herosize":"large","herotextwidth":"small","herotextalign":"left","heroheadings":"false","herocard":"false","herocardcolor":"","herocardhover":"false"},"id":"4a156126-5cba-423d-8b07-93a62872672d","isHidden":false,"type":"hero"},{"content":{"herocontentoption":"","contentblocks":"","herotext":"# Make it larger & add Parallax effect.\n\nLorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\n\n(link: # text: Hi, I am button class: uk-button uk-button-default uk-margin-top)","herohtml":"","herostyle":"image","herocover":["file:\/\/hvPa62Njgk2bN6hv"],"backgroundimageposition":" uk-background-center-center","backgroundimagesize":" uk-background-cover","backgroundimagerepeat":" no-repeat","sectiontextcolor":" uk-light","backgroundoverlaycolor":"#00000066","backgroundparalax":"paralaxY","mediavideosource":"","mediavideo":[],"mediavideourl":"","shapedividertoggle":"false","shapedivider":"","shapedividerposition":"","shapedividercolor":null,"customshapedivider":"","shapedividerheight":"","title":"Make it larger","blockclass":"","blockid":"","herosize":"xlarge","herotextwidth":"large","herotextalign":"left","heroheadings":"false","herocard":"false","herocardcolor":"","herocardhover":"false"},"id":"15b500ad-fb80-423b-a155-4b4c8cae3c96","isHidden":false,"type":"hero"},{"content":{"herocontentoption":"","contentblocks":"","herotext":"# And center the text when needed.\n\nLorem ipsum dolor sit amet, consectetur adipisicing elit.\n\n(link: # text: Hi there, I am button class: uk-button uk-button-primary uk-button-large uk-margin-top)","herohtml":"","herostyle":"muted","herocover":[],"backgroundimageposition":"","backgroundimagesize":"","backgroundimagerepeat":"","sectiontextcolor":"","backgroundoverlaycolor":null,"backgroundparalax":"","mediavideosource":"","mediavideo":[],"mediavideourl":"","shapedividertoggle":"false","shapedivider":"","shapedividerposition":"","shapedividercolor":null,"customshapedivider":"","shapedividerheight":"","title":"- And center the text when needed","blockclass":"","blockid":"","herosize":"large","herotextwidth":"small","herotextalign":"center","heroheadings":"false","herocard":"false","herocardcolor":"","herocardhover":"false"},"id":"54d71a11-a036-41d1-817b-58cdfc61cbb4","isHidden":false,"type":"hero"}]
+
+----
+
+Disallowsubmenu: false
+
+----
+
+Newtab: false
+
+----
+
+Menuitemicon: 
+
+----
+
+Megamenu: false
+
+----
+
+Megamenuwidth: 
+
+----
+
+Megamenuitemwidth: 
+
+----
+
+Megamenubackground: false
+
+----
+
+Megamenubackgroundimage: 
+
+----
+
+Megamenubackgroundimageposition: 
+
+----
+
+Megamenubackgroundimagesize: 
+
+----
+
+Megamenubackgroundimagerepeat: 
+
+----
+
+Megamenubackgroundgradientoverlay: false
+
+----
+
+Megamenubackgroundgradienttransition: 
+
+----
+
+Transparentnavbar: 
+
+----
+
+Navbarinverse: false
+
+----
+
+Headersection: true
+
+----
+
+Alttitle: 
+
+----
+
+Intro: Say it loud, so everybody can hear it.
+
+----
+
+Headerbackgroundtoggle: false
+
+----
+
+Header: 
+
+----
+
+Headerimageposition: 
+
+----
+
+Headerimagesize: 
+
+----
+
+Headerimagerepeat: 
+
+----
+
+Headertextcolor: 
+
+----
+
+Backgroundparalax: 
+
+----
+
+Shapedividertoggle: false
+
+----
+
+Shapedivider: 
+
+----
+
+Shapedividerposition: 
+
+----
+
+Customshapedivider: 
+
+----
+
+Shapedividerheight: 
+
+----
+
+Metafile: 
+
+----
+
+Sitemap: true
+
+----
+
+Metatitle: 
+
+----
+
+Metadescription: 
+
+----
+
+Uuid: Mh3Ej9LeYQZSXzgo

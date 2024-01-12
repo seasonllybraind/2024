@@ -1,0 +1,24 @@
+type: fields
+fields:
+  modules:
+    label: 
+      en: Page sections
+      de: Seitenabschnitte
+    type: blocks
+    fieldsets:
+      - grid
+      - editor
+      - text-image
+      - hero
+      - cpt
+      - media-image
+      - media-video
+      - gallery
+      - slider
+      - slideshow
+      - articles
+      - projects
+      - products
+    help: 
+      en: Click on the three dots to add a new section. Double-click section to open it.
+      de: Klicken Sie auf die drei Punkte, um einen neuen Abschnitt hinzuzufügen. Doppelklicken Sie auf den Abschnitt, um ihn zu öffnen.

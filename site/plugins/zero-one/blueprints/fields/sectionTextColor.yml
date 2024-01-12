@@ -1,0 +1,9 @@
+label:
+  en: Text color
+  de: Textfarbe
+type: select
+default: " uk-light"
+options:
+  " uk-light": Light
+  " uk-dark": Dark
+width: 1/3

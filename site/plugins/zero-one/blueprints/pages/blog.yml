@@ -1,0 +1,418 @@
+title: Blog
+icon: text
+
+options:
+  duplicate: false
+
+tabs:
+
+  # content tab
+  content:
+    label: 
+      en: Articles
+      de: Artikel
+    icon: text-justify
+    columns:
+      left:
+        width: 1/2
+        sections:
+          listed:
+            extends: sections/articles
+            headline: 
+              en: Published articles
+              de: Veröffentlichte Artikel 
+            status: listed
+
+      right:
+        width: 1/2
+        sections:
+
+          blogCategories:
+            type: fields
+            fields:
+              categories:
+                label: 
+                  en: Categories
+                  de: Kategorien
+                type: tags
+                help: 
+                  en: Define all categories here. Use lower case for best URL organisation.
+                  de: Definieren Sie hier alle Kategorien. Verwenden Sie Kleinbuchstaben für die beste URL-Organisation.
+
+          drafts:
+            extends: sections/articles
+            headline: 
+              en: Drafts
+              de: Entwürfe
+            status: draft
+
+          unlisted:
+            extends: sections/articles
+            headline: 
+              en: In Review
+              de: Unveröffentlicht
+            status: unlisted
+
+  # blog settings tab
+  settingsBlog:
+    label: 
+      en: Blog Settings
+      de: Blog Einstellungen
+    icon: text
+    columns:
+      left:
+        width: 2/3
+        sections:
+          settings:
+            type: fields
+            fields:
+              blogSettingsHeadline:
+                label: 
+                  en: Blog Settings
+                  de: Blog Einstellungen
+                type: headline
+              dateFormatinfo:
+                label: 
+                  en: Date format info
+                  de: Informationen zum Datumsformat
+                type: info
+                text:
+                  en: |
+                    Learn more what date format options are avaliable at (link: https://code.tutsplus.com/tutorials/working-with-date-and-time-in-php--cms-31768 text: code.tutsplus.com/tutorials/working-with-date-and-time-in-php--cms-31768 target: _blank)
+                  de: |
+                    Erfahren Sie mehr darüber, welche Optionen für Datumsformate verfügbar sind (link: https://code.tutsplus.com/tutorials/working-with-date-and-time-in-php--cms-31768 text: code.tutsplus.com/tutorials/working-with-date-and-time-in-php--cms-31768 target: _blank)
+
+              dateFormat:
+                label: 
+                  en: Date format
+                  de: Datumsformat
+                type: text
+                default: 'd.m.Y'
+                placeholder: 'd.m.Y'
+                width: 1/4
+                
+              perpage:
+                label: 
+                  en: Articles per page
+                  de: Artikel pro Seite
+                type: number
+                min: 1
+                max: 20
+                default: 10
+                width: 1/4
+              articleTitleSize:
+                label: 
+                  en: Title size
+                  de: Titelgröße
+                type: select
+                placeholder: H2
+                options:
+                  "uk-h1": H1
+                  "uk-h3": H3
+                  "uk-h4": H4
+                  "uk-h5": H5
+                help: 
+                  en: Article title size
+                  de: Größe des Artikeltitels
+                width: 1/4
+              listingStyle:
+                label: 
+                  en: Article listing style
+                  de: Stil der Artikelauflistung
+                type: select
+                placeholder: Grid
+                options: 
+                  classic: Classic
+                width: 1/4
+              
+              sidebarBlog:
+                label: 
+                  en: Blog sidebar
+                  de: Blog-Seitenleiste
+                type: radio
+                columns: 2
+                help: 
+                  en: Enable/disable the blog sidebar
+                  de: Aktivieren / Deaktivieren Sie die Blog-Seitenleiste
+                options:
+                  yes: 
+                    en: "Enable"
+                    de: "Aktivieren"
+                  no: 
+                    en: "Disable"
+                    de: "Deaktivieren"
+                width: 1/2
+
+              sidebarProfile:
+                label: 
+                  en: Profile Section
+                  de: Profilabschnitt
+                extends: fields/blogSettings
+
+              sidebarCategories:
+                label: 
+                  en: Categories
+                  de: Kategorien
+                extends: fields/blogSettings
+
+              sidebarArchive:
+                label: 
+                  en: Archive
+                  de: Archiv
+                extends: fields/blogSettings
+
+              sidebarTags:
+                label: Tag Cloud
+                extends: fields/blogSettings
+
+              sidebarSocialmedia:
+                label: Social Media Icons
+                extends: fields/blogSettings
+
+          # layout builder headline
+          layoutBuilderHeadline:
+            type: fields
+            fields:
+              linelayoutBuilder:
+                type: line
+              layoutBuilderHeadline:
+                label: 
+                  en: Content before/after articles
+                  de: Inhalt vor/nach den Artikeln
+                type: headline
+                help: 
+                  en: Add content before or after articles using Layout Builder
+                  de: Fügen Sie mit Layout Builder Inhalte vor oder nach Artikeln hinzu
+              layoutBuilderPosition:
+                label: 
+                  en: Before or after articles
+                  de: Vorher oder nachher Artikel
+                type: toggle
+                text:
+                  - 
+                    en: Before
+                    de: Vor
+                  - 
+                    en: After
+                    de: Nach
+                width: 1/3
+
+          # Layout Builder sections
+          layoutBuilder:
+            extends: sections/layout-builder
+
+      right:
+        width: 1/3
+        sections:
+          settingsProfile:
+            type: fields
+            when:
+              sidebarProfile: true
+            fields:
+              profileTitle:
+                label: 
+                  en: Sidebar Profile Section
+                  de: Seitenleistenprofilabschnitt
+                type: headline
+              profileImage:
+                label: 
+                  en: Profile Image
+                  de: Profilbild
+                extends: fields/image
+                max: 1
+                layout: cards
+                image:
+                  cover: true
+              profileHeading:
+                type: text
+                label: 
+                  en: Profile Heading
+                  de: Profilüberschrift
+                maxlength: 80
+                help: 
+                  en: Short profile title.
+                  de: Kurzprofiltitel.
+              profileText:
+                type: textarea
+                label: 
+                  en: Profile Text
+                  de: Profiltext
+                maxlength: 250
+                help: 
+                  en: Short profile description.
+                  de: Kurze Profilbeschreibung.
+
+  # article settings tab
+  settingsArticle:
+    label: 
+      en: Article Settings
+      de: Artikeleinstellungen
+    icon: document
+    columns:
+      left:
+        width: 1/2
+        sections:
+          settingsArticle:
+            type: fields
+            fields:
+              coverWidthArticle:
+                label: 
+                  en: Article Cover image width
+                  de: Artikel Titelbildbreite
+                type: radio
+                columns: 3
+                default: large
+                options:
+                  default: 
+                    en: Default
+                    de: Standard
+                  large: Large
+                  full: Full-width
+              shareSwitch:
+                label: 
+                  en: Article share icons
+                  de: Artikelfreigabesymbole
+                type: toggle
+                default: true
+                width: 1/2
+              inverseImageTextColor:
+                label: 
+                  en: Inverse featured image text color
+                  de: Inverse Textfarbe des vorgestellten Bildes
+                type: toggle
+                default: false
+                width: 1/2
+
+      right:
+        width: 1/2
+        sections:
+          optionsArticle:
+            type: fields
+            fields:
+              sidebarArticle:
+                label: 
+                  en: Article sidebar
+                  de: Artikel Seitenleiste
+                type: radio
+                columns: 2
+                default: no
+                help: 
+                  en: Enable/disable the article sidebar
+                  de: Aktivieren / Deaktivieren Sie die Artikelseitenleiste
+                options:
+                  yes: 
+                    en: "Enable"
+                    de: "Aktivieren"
+                  no: 
+                    en: "Disable"
+                    de: "Deaktivieren"
+
+              sidebarArticleLatestPosts:
+                label: 
+                  en: Latest Posts
+                  de: Neueste Beiträge
+                extends: fields/articleSettings
+
+              sidebarArticleCategories:
+                label: 
+                  en: Categories
+                  de: Kategorien
+                extends: fields/articleSettings
+
+              sidebarArticleArchive:
+                label: 
+                  en: Archive
+                  de: Archiv
+                extends: fields/articleSettings
+
+              sidebarArticleTags:
+                label: Tag Cloud
+                extends: fields/articleSettings
+
+              sidebarArticleSocialmedia:
+                label: Social Media Icons
+                extends: fields/articleSettings
+              
+  # comments tab
+  comments:
+    label: 
+      en: Comments
+      de: Bemerkungen
+    icon: chat
+    columns:
+      left:
+        width: 2/3
+        sections:
+          commentsOption:
+            type: fields
+            fields:
+              commentsOptionSelect:
+                label: 
+                  en: Comments options
+                  de: Kommentaroptionen
+                type: radio
+                columns: 3
+                default: none
+                options:
+                  commentions: Kirby Commentions
+                  embed: Embed
+                  none: None
+          # Commentions
+          commentions:
+            type: commentions
+            show: all
+            when:
+              commentsOptionSelect: commentions
+          # Embed comments
+          embedComments:
+            type: fields
+            when: 
+              commentsOptionSelect: embed
+            fields:
+              commentsCode:
+                label: 
+                  en: Comments code
+                  de: Kommentare Code
+                type: textarea
+                size: medium
+                buttons: false
+                font: monospace
+                help: 
+                    en: Embed comments code added here will be displayed under the every article. 
+                    de: Der hier hinzugefügte Code für eingebettete Kommentare wird unter jedem Artikel angezeigt.
+                placeholder: 
+                  en: Add Disqus or some other embed comments system code.
+                  de: Fügen Sie Disqus oder einen anderen Systemcode für eingebettete Kommentare hinzu.
+      
+      right:
+        width: 1/3
+        sections:
+          commentionsOption:
+            type: fields
+            when:
+              commentsOptionSelect: commentions
+            fields:
+              webmentions:
+                label: Webmentions
+                type: toggle
+                default: false
+              info:
+                label: Info
+                type: info
+                text: |
+                  Dear admin,
+                
+                  To completely enable Webmentions on your website you must do few more things.
+
+                  Check out (link: https://www.one.thezero.club/guide/blog-section/webmentions text: www.one.thezero.club/guide/blog-section/webmentions target: _blank)
+                when:
+                  webmentions: true
+
+  # header tab
+  header: tabs/page-options
+
+  # seo tab
+  seo: tabs/seo
+  
+  # advanced tab
+  advanced: tabs/page-advanced

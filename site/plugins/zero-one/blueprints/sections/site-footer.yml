@@ -1,0 +1,355 @@
+type: fields
+fields:
+  # footer style
+  footerStyle:
+    label: 
+      en: Footer Style
+      de: Fußzeilenstil
+    type: select
+    placeholder: None
+    help: 
+      en: Choose footer style.
+      de: Wählen Sie den Fußzeilenstil.
+    options:
+      columns: 
+        en: Columns
+        de: Spalte
+      compact: 
+        en: Compact
+        de: Kompakt
+    width: 1/3
+  # footer background
+  footerColor:
+    label: 
+      en: Footer background
+      de: Fußzeilenhintergrund
+    type: select
+    default: default
+    placeholder: None
+    options:
+      default: 
+        en: Default
+        de: Standard
+      muted: 
+        en: Muted
+        de: Stumm geschaltet
+      primary: 
+        en: Primary
+        de: Primär
+      secondary: 
+        en: Secondary
+        de: Sekundär
+      image: 
+        en: Image
+        de: Bild
+    width: 1/3
+  footerWidth:
+    label: 
+      en: Footer width
+      de: Fußzeilenbreite
+    type: select
+    placeholder: Default
+    options:
+      "uk-container-xlarge": 
+        en: Large
+        de: Groß
+      "uk-container-expand": 
+        en: Expand
+        de: Expandieren
+    width: 1/3
+    when:
+      footerStyle: columns
+  # footer columns
+  footerColumns:
+    label: 
+      en: Footer Content
+      de: Fußzeileninhalt
+    type: structure
+    columns: 
+      columnTitle: 
+        width: 1/2
+      columnWidth: 
+        width: 1/4
+      columnContent:
+        width: 1/4
+    help: 
+      en: Add footer content columns.
+      de: Fügen Sie Fußzeileninhaltsspalten hinzu.
+    fields:
+      columnWidth:
+        label: 
+          en: Column width
+          de: Spaltenbreite
+        type: select
+        default: "uk-width-expand@m"
+        options:
+          "uk-width-expand@m": 
+            en: Expand
+            de: Erweitern
+          "uk-width-1-1": 1/1
+          "uk-width-1-2@m": 1/2
+          "uk-width-1-3@m": 1/3
+          "uk-width-2-3@m": 2/3
+          "uk-width-1-4@m": 1/4
+          "uk-width-3-4@m": 3/4
+          "uk-width-1-5@m": 1/5
+          "uk-width-2-5@m": 2/5
+          "uk-width-3-5@m": 3/5
+          "uk-width-4-5@m": 4/5
+          "uk-width-1-6@m": 1/6
+          "uk-width-5-6@m": 5/6
+          "uk-width-auto@m": Auto
+        width: 1/3
+      columnClass:
+        label: 
+          en: Column class
+          de: Spaltenklasse 
+        type: text
+        placeholder: my-custom-class
+        width: 1/3
+      columnTitle:
+        label: 
+          en: Column title
+          de: Spaltentitel
+        type: text
+        placeholder: 
+          en: Add column title
+          de: Spaltentitel hinzufügen
+        default: Column
+        width: 1/3
+      # column content
+      columnContent:
+        label: 
+          en: Content format
+          de: Inhalt Format
+        type: radio
+        columns: 3
+        default: markdown
+        help: 
+          en: Choose whether the column content is Content blocks, KirbyText Markdown or plain HTML.
+          de: Wählen Sie aus, ob der Spalteninhalt Inhaltsblöcke, KirbyText Markdown oder reines HTML ist.
+        options:
+          editor: Content blocks
+          markdown: KirbyText
+          html: HTML
+      # editor
+      columnEditor:
+        extends: fields/blockEditor
+        when:
+          columnContent: editor
+      # markdown
+      footerColumn:
+        label: 
+          en: Column
+          de: Spalte
+        type: textarea
+        when:
+          columnContent: markdown
+      # html
+      columnHTML:
+        label: 
+          en: Column content HTML
+          de: Spalteninhalt HTML
+        type: textarea
+        buttons: false
+        font: monospace
+        size: medium
+        when:
+          columnContent: html
+      # column card
+      columnCard:
+        label: 
+          en: Add card to column
+          de: Karte zur Spalte hinzufügen
+        type: toggle
+        default: false
+        width: 1/3
+      # card size
+      columnCardSize:
+        label: 
+          en: Card size
+          de: Kartengröße
+        type: select
+        placeholder: Default
+        options: 
+          " uk-card-small": Small
+          " uk-card-large": Large
+        width: 1/3
+        when:
+          columnCard: true
+      # card hover
+      columnCardHover:
+        label: 
+          en: Add hover effect
+          de: Schwebeeffekt hinzufügen
+        type: toggle
+        default: false
+        width: 1/3
+        when:
+          columnCard: true
+      # card color
+      columnCardColor:
+        label: 
+          en: Card background
+          de: Kartenhintergrund 
+        type: select
+        default: " uk-card-default"
+        placeholder: None
+        options:
+          " uk-card-default": 
+            en: Default
+            de: Standard
+          " uk-card-primary": 
+            en: Primary
+            de: Primär
+          " uk-card-secondary": 
+            en: Secondary
+            de: Sekundär
+        width: 1/3
+        when:
+          columnCard: true
+    when: 
+      footerStyle: columns
+  # footer compact
+  footerCompactText:
+    extends: fields/blockEditor
+    help: 
+      en: Add footer content.
+      de: Fügen Sie Fußzeileninhalte hinzu.
+    when: 
+      footerStyle: compact
+
+  # footer image
+  backgroundImage:
+    label: Background image
+    extends: fields/backgroundImage
+    when:
+      footerColor: image
+  backgroundImagePosition:
+    label: 
+      en: Image position
+      de: Bildhintergrundposition
+    type: select
+    default: "uk-background-center-center"
+    options:
+      "uk-background-top-left":
+        en: Top Left
+        de: Oben Links
+      "uk-background-top-center": 
+        en: Top Center
+        de: Oben Zentrum
+      "uk-background-top-right": 
+        en: Top Right
+        de: Oben Rechts
+      "uk-background-center-left": 
+        en: Center Left
+        de: Zentrum Links
+      "uk-background-center-center": 
+        en: Center Center
+        de: Zentrum Zentrum
+      "uk-background-center-right": 
+        en: Center Right
+        de: Zentrum Rechts
+      "uk-background-bottom-left": 
+        en: Bottom Left
+        de: Unten Links
+      "uk-background-bottom-center": 
+        en: Bottom Center
+        de: Unten Zentrum
+      "uk-background-bottom-right": 
+        en: Bottom Right
+        de: Unten Rechts
+    width: 1/3
+    when:
+      footerColor: image
+  backgroundImageSize:
+    label:
+      en: Image size
+      de: Bildgröße
+    type: select
+    default: "uk-background-cover"
+    options:
+      "uk-background-cover": Cover
+      "uk-background-contain": Contain
+    width: 1/3
+    when:
+      footerColor: image
+  backgroundImageRepeat:
+    label: 
+      en: Repeat image
+      de: Wiederholungsbild
+    type: select
+    default: "no-repeat"
+    options:
+      "no-repeat": No repeat
+      "repeat": Repeat
+      "repeat-x": Repeat X
+      "repeat-y": Repeat Y
+    width: 1/3
+    when:
+      footerColor: image
+  footerTextColor:
+    label:
+      en: Text color
+      de: Textfarbe
+    type: select
+    default: "uk-light"
+    options:
+      "uk-light": Light
+      "uk-dark": Dark
+    width: 1/3
+    when:
+      footerColor: image
+  backgroundOverlayColor:
+    extends: fields/backgroundOverlayColor
+    when:
+      footerColor: image
+  # footer copyright
+  copyrightLine:
+    type: line
+  subfooterToggle:
+    label: 
+      en: Copyright and social icons
+      de: Urheberrecht und soziale Symbole
+    type: toggle
+    text:
+      - "Hide"
+      - "Show"
+    width: 1/3
+  copyright:
+    label: 
+      en: Copyright
+      de: Urheberrechte
+    type:  text
+    help: 
+      en: HTML allowed
+      de: HTML erlaubt
+    width: 2/3
+    when:
+      subfooterToggle: true
+  # footer animate
+  footerAnimateline:
+    type: line
+  animateFooter:
+    label: 
+      en: Animate footer
+      de: Fußzeile animieren
+    type: toggle
+    translate: false
+    width: 1/3
+  animateElement:
+    label: 
+      en: What to animate
+      de: Was animieren
+    type: select
+    placeholder: Whole footer
+    options:
+      divs: 
+        en: Inner divs
+        de: Innere div
+    width: 1/3
+    when:
+      animateFooter: true
+      footerStyle: columns
+  footerGap:
+    type: gap

@@ -1,0 +1,106 @@
+name: Editor
+label: - {{title}}
+icon: edit
+
+tabs:
+  # content tab
+  content:
+    label: 
+      en: Content
+      de: Inhalt
+    icon: edit
+    fields:
+      # text
+      textEditor: 
+        extends: fields/blockEditor
+
+  # settings tab
+  settings:
+    label: 
+      en: Settings
+      de: die Einstellungen
+    icon: cog
+    fields:
+      title:
+        label: 
+          en: Section title
+          de: Abschnittsüberschrift
+        type: text
+        placeholder: My custom Section name
+        width: 1/3
+      blockClass:
+        label: 
+          en: Section custom class
+          de: Abschnitt benutzerdefinierte Klasse
+        type: text
+        placeholder: my-custom-class
+        before: '.'
+        width: 1/3
+      # section id
+      blockID:
+        label: 
+          en: Section ID
+          de: Abschnitts-ID
+        type: text
+        placeholder: my-custom-id
+        before: '#'
+        width: 1/3
+      
+      # editor settings headline
+      fitHeadline:
+        label: Options
+        type: headline
+        numbered: false
+      # width
+      editorWidth:
+        label: 
+          en: Section width
+          de: Abschnittsbreite
+        type: select
+        default: large
+        options:
+          large: 
+            en: Large
+            de: Groß
+          small: 
+            en: Small
+            de: Klein
+          xsmall: 
+            en: XSmall
+            de: XKlein
+        width: 1/3
+      # text backgorund
+      editorBack:
+        label: 
+          en: Content background
+          de: Inhaltshintergrund
+        type: select
+        default: default
+        options:
+          default: 
+            en: Default
+            de: Standard
+          muted: 
+            en: Muted
+            de: Stumm geschaltet
+          primary: 
+            en: Primary
+            de: Primär
+          secondary: 
+            en: Secondary
+            de: Sekundär
+        width: 1/3
+      # headings larger
+      editorHeadings:
+        label: 
+          en: Headings large
+          de: Überschriften groß
+        type: toggle
+        default: false
+        help: 
+          en: Make headings (h1, h2, h3) larger.
+          de: Machen Sie die Überschriften (h1, h2, h3) größer.
+        width: 1/3
+      gapEnd:
+        type: gap
+        width: 1/1

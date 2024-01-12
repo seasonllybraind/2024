@@ -1,0 +1,153 @@
+Title: Full width video section
+
+----
+
+Animation: true
+
+----
+
+Modules: [{"content":{"columns":[{"columnwidth":"uk-width-1-1","columnclass":"","columntitle":"","columncontenthtml":"","columneditor":"","columncontent":"## It can be medium size.\n\nThis one is also self-hosted.","columnhtml":"","subcolumns":[],"columncard":"false","columncardsize":"","columncardhover":"false","columncardcolor":""}],"title":"- Medium size","blockclass":"","blockid":"","sectionsize":" uk-section-large","sectioncolor":" uk-section-secondary","sectionremovepadding":"","backgroundimage":[],"backgroundimageposition":"","backgroundimagesize":"","backgroundimagerepeat":"","sectiontextcolor":"","backgroundoverlaycolor":null,"backgroundparalax":"","shapedividertoggle":"false","shapedivider":"","shapedividerposition":"","shapedividercolor":null,"customshapedivider":"","shapedividerheight":"","gridwidth":"","columnstack":"tablet","columngap":"","columnsverticalalign":"","columnshorizontalalign":"","columnsdivider":"false","centertext":"true","gridheadings":"false","columnsparallax":"false"},"id":"63b35d71-4e72-4afc-99ea-7825652786e6","isHidden":false,"type":"grid"},{"content":{"mediavideosource":"upload","mediavideo":["file:\/\/uPyRJUKgOWKbMYh1"],"mediavideourl":"","mediavideoheight":"medium","title":"- Medium self hosted","blockclass":"","blockid":""},"id":"220236fa-7adb-4784-ad87-2c9b413bf89d","isHidden":false,"type":"media-video"},{"content":{"columns":[{"columnwidth":"uk-width-1-1","columnclass":"","columntitle":"","columncontenthtml":"","columneditor":"","columncontent":"## It can be large size.\n\nThis one is embedded from YouTube.","columnhtml":"","subcolumns":[],"columncard":"false","columncardsize":"","columncardhover":"false","columncardcolor":""}],"title":"- Large size","blockclass":"","blockid":"","sectionsize":" uk-section-large","sectioncolor":" uk-section-secondary","sectionremovepadding":"","backgroundimage":[],"backgroundimageposition":"","backgroundimagesize":"","backgroundimagerepeat":"","sectiontextcolor":"","backgroundoverlaycolor":null,"backgroundparalax":"","shapedividertoggle":"false","shapedivider":"","shapedividerposition":"","shapedividercolor":null,"customshapedivider":"","shapedividerheight":"","gridwidth":"","columnstack":"tablet","columngap":"","columnsverticalalign":"","columnshorizontalalign":"","columnsdivider":"false","centertext":"true","gridheadings":"false","columnsparallax":"false"},"id":"ddb245a3-2944-44ab-8ff2-de649ef5269a","isHidden":false,"type":"grid"},{"content":{"mediavideosource":"url","mediavideo":[],"mediavideourl":"https:\/\/www.youtube-nocookie.com\/embed\/yCuBFNMgjfc?autoplay=1&amp;controls=0&amp;showinfo=0&amp;rel=0&amp;loop=1&amp;modestbranding=1&amp;wmode=transparent","mediavideoheight":"large","title":"- Large YouTube","blockclass":"","blockid":""},"id":"844807cb-de91-4f1c-9b94-326efc11becb","isHidden":false,"type":"media-video"},{"content":{"columns":[{"columnwidth":"uk-width-1-1","columnclass":"","columntitle":"","columncontenthtml":"","columneditor":"","columncontent":"## It can be viewport size.\n\nThis one is embedded from Vimeo.","columnhtml":"","subcolumns":[],"columncard":"false","columncardsize":"","columncardhover":"false","columncardcolor":""}],"title":"- Viewport size","blockclass":"","blockid":"","sectionsize":" uk-section-large","sectioncolor":" uk-section-secondary","sectionremovepadding":"","backgroundimage":[],"backgroundimageposition":"","backgroundimagesize":"","backgroundimagerepeat":"","sectiontextcolor":"","backgroundoverlaycolor":null,"backgroundparalax":"","shapedividertoggle":"false","shapedivider":"","shapedividerposition":"","shapedividercolor":null,"customshapedivider":"","shapedividerheight":"","gridwidth":"","columnstack":"tablet","columngap":"","columnsverticalalign":"","columnshorizontalalign":"","columnsdivider":"false","centertext":"true","gridheadings":"false","columnsparallax":"false"},"id":"fdc2df44-d9f9-4365-94b2-b7163b02a939","isHidden":false,"type":"grid"},{"content":{"mediavideosource":"url","mediavideo":[],"mediavideourl":"https:\/\/player.vimeo.com\/video\/288344114","mediavideoheight":"viewport","title":"- Viewport Vimeo","blockclass":"","blockid":""},"id":"9213e939-4106-4af9-9c04-6b42e1878c0e","isHidden":false,"type":"media-video"}]
+
+----
+
+Disallowsubmenu: false
+
+----
+
+Newtab: false
+
+----
+
+Menuitemicon: 
+
+----
+
+Megamenu: false
+
+----
+
+Megamenuwidth: 
+
+----
+
+Megamenuitemwidth: 
+
+----
+
+Megamenubackground: false
+
+----
+
+Megamenubackgroundimage: 
+
+----
+
+Megamenubackgroundimageposition: 
+
+----
+
+Megamenubackgroundimagesize: 
+
+----
+
+Megamenubackgroundimagerepeat: 
+
+----
+
+Megamenubackgroundgradientoverlay: false
+
+----
+
+Megamenubackgroundgradienttransition: 
+
+----
+
+Transparentnavbar: 
+
+----
+
+Navbarinverse: false
+
+----
+
+Headersection: true
+
+----
+
+Alttitle: 
+
+----
+
+Intro:
+
+Yup, its a video, but full width.
+
+Supporting self-hosted and iframe third party (YouTube, Vimeo) video.
+
+----
+
+Headerbackgroundtoggle: false
+
+----
+
+Header: 
+
+----
+
+Headerimageposition: 
+
+----
+
+Headerimagesize: 
+
+----
+
+Headerimagerepeat: 
+
+----
+
+Headertextcolor: 
+
+----
+
+Backgroundparalax: 
+
+----
+
+Shapedividertoggle: false
+
+----
+
+Shapedivider: 
+
+----
+
+Shapedividerposition: 
+
+----
+
+Customshapedivider: 
+
+----
+
+Shapedividerheight: 
+
+----
+
+Metafile: 
+
+----
+
+Sitemap: true
+
+----
+
+Metatitle: 
+
+----
+
+Metadescription: 
+
+----
+
+Uuid: gHeDuqg0extXbWsG

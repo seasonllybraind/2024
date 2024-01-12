@@ -1,0 +1,73 @@
+name: 
+  en: Full width image
+  de: Bild in voller Breite
+label: - {{title}}
+icon: file-image
+
+tabs:
+  # content tab
+  content:
+    label: 
+      en: Content
+      de: Inhalt
+    icon: edit
+    fields:
+      mediaImage:
+        label: 
+          en: Section image
+          de: Schnittbild
+        extends: fields/image
+        multiple: false
+        help: 
+          en: Choose section image.
+          de: Wählen Sie ein Abschnittsbild.
+        image:
+          cover: true
+      # section height
+      mediaImageHeight:
+        label: 
+          en: Media section height
+          de: Höhe des Medienabschnitts
+        type: radio
+        default: large
+        columns: 3
+        options:
+          medium: Medium
+          large: 
+            en: Large
+            de: Groß
+          viewport: 
+            en: Viewport
+            de: Ansichtsfenster
+
+  # settings tab
+  settings:
+    label: 
+      en: Settings
+      de: die Einstellungen
+    icon: cog
+    fields:
+      title:
+        label: 
+          en: Section title
+          de: Abschnittsüberschrift
+        type: text
+        placeholder: My custom Block name
+        width: 1/3
+      blockClass:
+        label: 
+          en: Section custom class
+          de: Abschnitt benutzerdefinierte Klasse
+        type: text
+        placeholder: my-custom-class
+        before: '.'
+        width: 1/3
+      # block id
+      blockID:
+        label: 
+          en: Section ID
+          de: Abschnitts-ID
+        type: text
+        placeholder: my-custom-id
+        before: '#'
+        width: 1/3

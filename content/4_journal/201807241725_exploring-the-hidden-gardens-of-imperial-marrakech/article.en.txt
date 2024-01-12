@@ -1,0 +1,49 @@
+Title: Exploring the Hidden Gardens of Imperial Marrakech
+
+----
+
+Date: 2018-07-24 17:25:00
+
+----
+
+Author: 
+
+----
+
+Desc: The game’s not big enough unless it scares you a little. Wait a minute – you’ve been declared dead. You can’t give orders around here. I’ll alert the crew. What? We’re not at all alike! Flair is what marks the difference between artistry and mere competence.
+
+----
+
+Text: [{"content":{"text":"<p>Did you come here for something in particular or just general Riker-bashing? And blowing into maximum warp speed, you appeared for an instant to be in two places at once. We have a saboteur aboard. We know you\u2019re <a href=\"#\" rel=\"noopener noreferrer nofollow\">dealing in stolen<\/a> ore. But I wanna talk about the assassination attempt on Lieutenant Worf. Could someone survive inside a transporter buffer for 75 years? Fate. It protects fools, little children, and ships named \u201cEnterprise.\u201d<\/p>","textalign":"","textaligntablet":"","textalignmobile":"","textsize":"","texttransform":"","textwrapping":"","textcolor":""},"id":"3eb3883b-8af4-4346-b95a-f9e2b1c5dbee","isHidden":false,"type":"text"},{"content":{"text":"There is a way out of every box, a solution to every puzzle; it\u2019s just a matter of finding it.","citation":"John Doe"},"id":"1052daf5-4d9d-4cea-bac6-564e29c0cadb","isHidden":false,"type":"quote"},{"content":{"text":"<p>Could someone survive inside a transporter buffer for 75 years? Fate. It protects fools, little children, and ships named \u201cEnterprise.\u201d<\/p>","textalign":"","textaligntablet":"","textalignmobile":"","textsize":"","texttransform":"","textwrapping":"","textcolor":""},"id":"4e891f11-e39a-466e-a91e-a87c67cedcc4","isHidden":false,"type":"text"},{"content":{"level":"h3","text":"Lorem ipsum dolor sit amet","headingsize":"","headingstyle":"","headingcolor":"","textalign":"","textaligntablet":"","textalignmobile":"","texttransform":"","textwrapping":""},"id":"41ba7dce-dbce-41d0-a766-4e6ae59791f3","isHidden":false,"type":"heading"},{"content":{"text":"<p>Did you come here for something in particular or just general Riker-bashing? And blowing into maximum warp speed, you appeared for an instant to be in two places at once. We have a saboteur aboard. We know you\u2019re dealing in stolen ore. But I wanna talk about the assassination attempt on <a href=\"#\" rel=\"noopener noreferrer nofollow\">Lieutenant Worf<\/a>. Could someone survive inside a transporter buffer for 75 years? Fate. It protects fools, little children, and ships named \u201cEnterprise.\u201d<\/p>","textalign":"","textaligntablet":"","textalignmobile":"","textsize":"","texttransform":"","textwrapping":"","textcolor":""},"id":"041c62e0-5b2a-4677-bb01-b805cab7e79e","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":[{"id":"hidden-gardens-of-marrakesh.jpg"}],"src":"","ratio":"","alt":"","resizewidth":null,"caption":"","captionclass":"false","width":"","widthmobile":"","align":"","float":"","borderradius":"","shadow":"","linkoption":"","link":"","newtab":"false"},"id":"0abca40c-abaf-48b7-9a5f-74ddadc5faf0","isHidden":false,"type":"image"},{"content":{"text":"<p>What\u2019s a knock-out like you doing in a computer-generated gin joint like this? But the probability of making a six is no greater than that of rolling a seven. I guess it\u2019s better to be lucky than good.<\/p>","textalign":"","textaligntablet":"","textalignmobile":"","textsize":"","texttransform":"","textwrapping":"","textcolor":""},"id":"be2f5e94-7c38-4df6-a53a-0982449a9c60","isHidden":false,"type":"text"},{"content":{"text":"<p>Damage report! I\u2019ve had twelve years to think about it. And if I had it to do over again, I would have grabbed the phaser and pointed it at you instead of them. Some days you get the bear, and some days the bear gets you. Ensign Babyface! I\u2019m afraid I still don\u2019t understand, sir. Mr. Crusher, ready a collision course with the Borg ship. Yesterday I did not know how to eat gagh. You\u2019re going to be an interesting companion.<\/p>","textalign":"","textaligntablet":"","textalignmobile":"","textsize":"","texttransform":"","textwrapping":"","textcolor":""},"id":"05dbc990-4bc0-48ee-8d9f-fd8fa9243e1d","isHidden":false,"type":"text"},{"content":{"text":"<ul><li>Lorem ipsum dolor sit amet.<\/li><li>At vero eos et <a href=\"#\" rel=\"noopener noreferrer nofollow\">accusamus et iusto<\/a> odio.<\/li><li>Excepteur <em>sint occaecat<\/em> cupidatat non proident.<\/li><\/ul>","liststyle":" uk-list-disc","listcolor":"","listsize":"","listdivider":"","column":""},"id":"5d986b2d-3477-486b-8191-57c26edf0b61","isHidden":false,"type":"list"},{"content":{"text":"<p>Could someone survive inside a transporter buffer for 75 years? Fate. It protects fools, little children, and ships named \u201cEnterprise.\u201d<\/p>","textalign":"","textaligntablet":"","textalignmobile":"","textsize":"","texttransform":"","textwrapping":"","textcolor":""},"id":"5ad48e31-6cad-427e-a768-0089c0de3019","isHidden":false,"type":"text"}]
+
+----
+
+Cover: - file://4ztXBhwIis8wLtqW
+
+----
+
+Transparentnavbar: 
+
+----
+
+Navbarinverse: false
+
+----
+
+Related: 
+
+----
+
+Category: travel
+
+----
+
+Tags: explore
+
+----
+
+Featured: no
+
+----
+
+Uuid: aouk22ET6ZxmSSdu

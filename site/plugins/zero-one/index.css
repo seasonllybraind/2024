@@ -1,0 +1,193 @@
+/* Subcolumn structure */
+.k-structure-field .k-field-name-subcolumns .k-structure-form {
+  background: #d4dfec;
+}
+
+/* Default Zero Blocks */
+.k-block .k-block-figure .k-button {
+  color: #333;
+  font-size: 1rem;
+}
+
+/* Gallery Article Block */
+.k-block-type-gallery-article ul {
+  display: grid;
+  grid-gap: .75rem;
+  grid-template-columns: repeat(auto-fit, minmax(6rem, 1fr));
+  line-height: 0;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+.k-block-type-gallery-article li:empty {
+  padding-bottom: 100%;
+  background: grey;
+}
+.k-block-type-gallery-article li {
+  display: flex;
+  position: relative;
+  align-items: center;
+  justify-content: center;
+}
+.k-block-type-gallery-article li img {
+  flex-grow: 1;
+  max-width: 100%;
+  height: 200px;
+  object-fit: cover;
+}
+
+/* Audio */
+
+.k-block-type-audio-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 1rem;
+  background: black;
+  color: white;
+}
+.k-block-type-audio-poster {
+  width: 12rem;
+  flex:max(12rem, 100%/2);
+  margin-right: 1rem;
+  background: #333;
+}
+.k-block-type-audio-content {
+  flex:max(12rem, 100%/2);
+}
+.k-block-type-audio-title,
+.k-block-type-audio-subtitle {
+  font-size: 1.5rem;
+}
+.k-block-type-audio-title {
+  font-weight: 600;
+}
+.k-block-type-audio-subtitle {
+  margin-bottom: 1rem;
+  color: #999;
+}
+.k-block-type-audio-description {
+  line-height: 1.5;
+}
+.k-block-type-audio-element {
+  margin-top: 2rem;
+  height: 2rem;
+  max-width: 100%;
+}
+
+/* Accordion */
+details {
+  margin-left: 1rem;
+  margin-bottom: 20px;
+}
+details summary {
+  margin-left: -1rem;
+  margin-bottom: .5rem;
+  font-weight: 600;
+  list-style-image: url(data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%2213%22%20height%3D%2213%22%20viewBox%3D%220%200%2013%2013%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%0A%20%20%20%20%3Crect%20fill%3D%22%230e071d%22%20width%3D%2213%22%20height%3D%221%22%20x%3D%220%22%20y%3D%226%22%20%2F%3E%0A%20%20%20%20%3Crect%20fill%3D%22%230e071d%22%20width%3D%221%22%20height%3D%2213%22%20x%3D%226%22%20y%3D%220%22%20%2F%3E%0A%3C%2Fsvg%3E);
+}
+details[open] summary {
+  list-style-image: url(data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%2213%22%20height%3D%2213%22%20viewBox%3D%220%200%2013%2013%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%0A%20%20%20%20%3Crect%20fill%3D%22%230e071d%22%20width%3D%2213%22%20height%3D%221%22%20x%3D%220%22%20y%3D%226%22%20%2F%3E%0A%3C%2Fsvg%3E);
+}
+details summary .k-writer {
+  display: inline-block;
+  width: calc(100% - 2rem);
+}
+
+/* Banner */
+.k-block-type-banner-overlay-content {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  background: white;
+  padding: 40px;
+  width: 50%;
+}
+.k-block-type-banner-heading {
+  margin-bottom: 15px;
+}
+
+/* Button block */
+.k-block-type-button button {
+  border: 2px solid #000;
+  display: inline-flex;
+  border-radius: 3rem;
+  padding: .25rem 1.5rem;
+  cursor: pointer;
+}
+.k-block-type-button button:empty::after {
+  content: "Button text …";
+  color: var(--color-text-light);
+}
+.k-block-type-button button:focus {
+  outline: 0;
+  border-color: var(--color-focus);
+}
+.k-block-type-button input {
+  border: 2px solid #000;
+  border-radius: 3rem;
+  padding: .25rem .75rem;
+  cursor: pointer;
+  font: inherit;
+  text-align: center;
+}
+.k-block-type-button input:focus {
+  outline: 0;
+  border-color: var(--color-focus);
+}
+
+/* Column options block */
+.k-block-container-type-z-column {
+  background: #f5f5f5;
+}
+.k-block-type-z-column
+
+/* Image Block */
+.k-block-type-image .k-block-figure-container {
+  text-align: left;
+}
+
+/* Info Block */
+.k-block-type-info input {
+  background-color: black;
+  color: white;
+  font: inherit;
+  font-size: inherit;
+  font-weight: bold;
+  padding: 15px;
+  border: none;
+  width: 100%;
+}
+.k-block-type-info input:focus {
+  outline: 0;
+  border-color: none;
+}
+
+/* Intro Block */
+.k-block-type-intro input {
+  font: inherit;
+  font-size: 21px;
+  font-style: italic;
+  border: none;
+  width: 100%;
+}
+
+.k-block-type-intro input:focus {
+  outline: 0;
+  border-color: none;
+}
+
+/* Table block */
+.k-block-type-table-preview th {
+  background: #f7f7f7;
+  font-family: inherit;
+  font-size: inherit;
+}
+
+/* Z Table block */
+.table-field {
+    overflow-x:auto;
+}
+.table-field .row-cell {
+    min-width: 100px;
+}
+

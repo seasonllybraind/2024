@@ -1,0 +1,324 @@
+title: 
+  en: Project
+  de: Projekt
+icon: globe
+
+status:
+  draft:
+    label: 
+      en: Draft
+      de: Entwurf
+    text: 
+      en: The project is still in draft mode. It can only be seen by editors with panel access.
+      de: Das Projekt befindet sich noch im Entwurfsmodus. Es kann nur von Redakteuren mit Panel-Zugriff gesehen werden.
+  unlisted:
+    label: 
+      en: In Review
+      de: Unveröffentlicht
+    text: 
+      en: The project is online and can be visited with the direct URL. The team must still give the final go to publish it.
+      de: Das Projekt ist online und kann mit der direkten URL besucht werden. Das Team muss noch die endgültige Entscheidung treffen, um es zu veröffentlichen.
+  listed:
+    label: 
+      en: Published
+      de: Veröffentlicht
+    text: 
+      en: The project is online and listed on the website.
+      de: Das Projekt ist online und auf der Website aufgeführt.
+
+tabs:
+  # content tab
+  content:
+    label: 
+      en: Content
+      de: Inhalt
+    icon: text
+    columns:
+      - width: 2/3
+        sections:
+          # select builder
+          selectBuilder:
+            type: fields
+            fields:
+              selectBuilder:
+                type: toggles
+                label: 
+                  en: Select builder
+                  de: Builder auswählen
+                default: layout-builder
+                options:
+                  - value: layout-builder
+                    text: Layout Builder (New)
+                    icon: grid
+                  - value: page-builder
+                    text: Page Builder (Old)
+                    icon: layers
+          # Layout Builder sections
+          layoutBuilder:
+            extends: sections/layout-builder
+            when:
+              selectBuilder: layout-builder
+          # Builder options
+          sectionsSettings:
+            extends: sections/builder-options
+            when:
+                selectBuilder: page-builder
+          # Builder sections
+          sectionsBuilder:
+            extends: sections/page-builder
+            when:
+                selectBuilder: page-builder
+
+      - width: 1/3
+        sticky: true
+        sections:
+          files:
+            headline: 
+              en: Files
+              de: Dateien
+            type: files
+            query: page.files
+            info: "{{ file.dimensions }}"
+            image:
+              cover: true
+
+  # settings tab
+  settings:
+    label: 
+      en: Project settings
+      de: Projekt Einstellungen
+    icon: settings
+    columns:
+        - width: 2/3
+          sections:
+            content:
+              type: fields
+              fields:
+                # Project info
+                projectSettings:
+                  label: 
+                    en: Project Details
+                    de: Projekt Details
+                  type: headline
+                projectInfo:
+                  label: 
+                    en: Project info
+                    de: Projekt info
+                  type: structure
+                  help: 
+                    en: Add project info columns. Maximum 4 columns is allowed.
+                    de: Fügen Sie Projektinformationsspalten hinzu. Maximal 4 Spalten sind zulässig.
+                  max: 4
+                  fields:
+                    projectColumn:
+                      label: 
+                        en: Info content
+                        de: Info Inhalt
+                      type: textarea
+                # Tags
+                tagsLabel:
+                  label: 
+                    en: Tags label
+                    de: Tags Etikett
+                  type: text
+                  default: 'Tags:'
+                  placeholder: 'Tags:'
+                  width: 1/3
+                tags:
+                  label: 
+                    en: Project Tags
+                    de: Projeckt Tags
+                  type: tags
+                  width: 2/3
+                # navbar settings
+                navbarSettings:
+                  label: 
+                    en: Navbar Settings
+                    de: Navbar-Einstellungen
+                  type: headline
+                transparentNavbar:
+                  label: 
+                    en: Transparent navbar
+                    de: Transparente Navigationsleiste
+                  type: select
+                  placeholder: Site default
+                  options:
+                    transparent: Transparent
+                    non-transparent: Non-transparent
+                  help: 
+                    en: Override default site setting.
+                    de: Überschreiben Sie die Standard-Site-Einstellung.
+                  width: 1/3
+                navbarInverse:
+                  label: 
+                    en: Inverse colors and logo
+                    de: Farben und Logo invertieren
+                  type: toggle
+                  width: 1/3
+                  when:
+                    transparentNavbar: transparent
+                # header settings
+                headerSettings:
+                  label: 
+                    en: Header Settings
+                    de: Header-Einstellungen
+                  type: headline
+                # alternative title
+                altTitle:
+                  extends: fields/altTitle
+                # intro text
+                intro:
+                  label: 
+                    en: Intro
+                    de: Einführungstext
+                  type: textarea
+                  help: 
+                    en: Short project intro.
+                    de: Kurzes Projekt-Intro.
+                # header image
+                headerImageOption:
+                  label: 
+                    en: Header background image
+                    de: Header Hintergrundbild
+                  type: toggle
+                  default: false
+                  width: 1/3
+                headerImage:
+                  label: 
+                    en: Project header image
+                    de: Projektkopfbild
+                  extends: fields/image
+                  multiple: false
+                  width: 2/3
+                  when:
+                    headerImageOption: true
+                headerImagePosition:
+                  label: 
+                    en: Image position
+                    de: Bildhintergrundposition
+                  type: select
+                  default: "uk-background-center-center"
+                  options:
+                    "uk-background-top-left":
+                      en: Top Left
+                      de: Oben Links
+                    "uk-background-top-center": 
+                      en: Top Center
+                      de: Oben Zentrum
+                    "uk-background-top-right": 
+                      en: Top Right
+                      de: Oben Rechts
+                    "uk-background-center-left": 
+                      en: Center Left
+                      de: Zentrum Links
+                    "uk-background-center-center": 
+                      en: Center Center
+                      de: Zentrum Zentrum
+                    "uk-background-center-right": 
+                      en: Center Right
+                      de: Zentrum Rechts
+                    "uk-background-bottom-left": 
+                      en: Bottom Left
+                      de: Unten Links
+                    "uk-background-bottom-center": 
+                      en: Bottom Center
+                      de: Unten Zentrum
+                    "uk-background-bottom-right": 
+                      en: Bottom Right
+                      de: Unten Rechts
+                  width: 1/3
+                  when:
+                    headerImageOption: true
+                headerImageSize:
+                  label:
+                    en: Image size
+                    de: Bildgröße
+                  type: select
+                  default: "uk-background-cover"
+                  options:
+                    "uk-background-cover": Cover
+                    "uk-background-contain": Contain
+                  width: 1/3
+                  when:
+                    headerImageOption: true
+                headerImageRepeat:
+                  label: 
+                    en: Repeat image
+                    de: Wiederholungsbild
+                  type: select
+                  default: "no-repeat"
+                  options:
+                    "no-repeat": No repeat
+                    "repeat": Repeat
+                    "repeat-x": Repeat X
+                    "repeat-y": Repeat Y
+                  width: 1/3
+                  when:
+                    headerImageOption: true
+                headerTextColor:
+                  label:
+                    en: Text color
+                    de: Textfarbe
+                  type: select
+                  default: "uk-light"
+                  options:
+                    "uk-light": Light
+                    "uk-dark": Dark
+                  width: 1/3
+                  when:
+                    headerImageOption: true
+                headerOverlayColor:
+                  label: 
+                    en: Image overlay color
+                    de: Bildüberlagerungsfarbe
+                  type: colors
+                  alpha: true
+                  default: 'rgba(0,0,0,0.3)'
+                  width: 1/3
+                  when:
+                    headerImageOption: true
+                backgroundParalax:
+                  label: Paralax background
+                  type: select
+                  width: 1/3
+                  options:
+                    paralaxY: Paralax Y axis
+                    paralaxX: Paralax X axis
+                  when:
+                    headerImageOption: true
+
+        - width: 1/3
+          sections:
+            
+            coverimg:
+              type: fields
+              fields:
+                cover:
+                  label: 
+                    en: Cover
+                    de: Abdeckung
+                  extends: fields/projectCover
+                  multiple: false
+                  layout: cards
+                  image:
+                    cover: true
+                  help: 
+                    en: Hover the cover image with your mouse and click on the crop icon in the right top corner to choose the crop position. Min width is 600px and min height is 800px.
+                    de: Bewegen Sie die Maus über das Titelbild und klicken Sie auf das Zuschneidesymbol in der rechten oberen Ecke, um die Zuschneideposition auszuwählen. Die Mindestbreite beträgt 600 Pixel und die Mindesthöhe 800 Pixel. 
+
+            files:
+              headline: 
+                en: Files
+                de: Dateien
+              type: files
+              query: page.files
+              info: "{{ file.dimensions }}"
+              image:
+                cover: true
+
+  # seo tab
+  seo: tabs/seo
+
+  # advanced tab
+  advanced: tabs/page-advanced
+  

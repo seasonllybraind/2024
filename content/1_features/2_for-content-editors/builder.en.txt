@@ -1,0 +1,149 @@
+Title: For content editors
+
+----
+
+Animation: true
+
+----
+
+Modules: [{"content":{"fittext":"[{\"content\":{\"level\":\"h2\",\"text\":\"Wealth of site options.\",\"headingsize\":\"\",\"headingstyle\":\"\",\"headingcolor\":\"\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\"},\"id\":\"c2977a01-257a-4158-aa99-fa85f66974ba\",\"isHidden\":false,\"type\":\"heading\"},{\"content\":{\"text\":\"Full design control.\"},\"id\":\"af7b13cf-36ca-4178-8cd6-0c1f2350c8b2\",\"isHidden\":false,\"type\":\"intro\"},{\"content\":{\"text\":\"<p>Make the website look follow your brand guidelines with ease. Add logo and customize the navigation, choose button or icons, align center or right.<\\\/p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"f76db5cb-b39b-4fca-aadd-a3bd13accfea\",\"isHidden\":false,\"type\":\"text\"},{\"content\":{\"text\":\"<p>Customize the header section as you like, align, choose heading size or add a background image if needed. Add your social links, and create a footer with an advanced grid builder to suit your needs.<\\\/p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"dbcdda99-5274-4a94-a936-e881777e64c8\",\"isHidden\":false,\"type\":\"text\"},{\"content\":{\"text\":\"<p>Input your site meta as a backup for individual pages, and change site labels to suit your content and style.<\\\/p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"cb245be2-c3cd-4551-957f-4686b18ae6cc\",\"isHidden\":false,\"type\":\"text\"},{\"content\":{\"text\":\"<p>From version 2.0.0 Zero One theme has in-built <a href=\\\"https:\\\/\\\/www.one.thezero.club\\\/guide\\\/theme-styling\\\" target=\\\"_blank\\\" rel=\\\"noopener noreferrer nofollow\\\">Theme styler<\\\/a>. And it is not just simple styler, it is actually stylesheet compiler, which means, it compiles all Less\\\/CSS into one minified CSS file. Which adds greatly to website speed.<\\\/p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"98bdce07-7e2b-4c4b-8af2-08bde0173927\",\"isHidden\":false,\"type\":\"text\"}]","fitimage":["file:\/\/OBRJiKQCUQyBkuCc"],"title":"- Site options","blockclass":"","blockid":"","fitwidth":"large","fitchoosesides":"image","fitimagesize":"half","fittextback":"muted","fittextpadding":"large","fittextalign":"left","fitheadings":"false","viewportheight":"false"},"id":"8f554d49-d6f5-420b-a8e6-22fbe8b1e1c5","isHidden":false,"type":"text-image"},{"content":{"fittext":"[{\"content\":{\"level\":\"h2\",\"text\":\"Powerful Page Builder.\",\"headingsize\":\"\",\"headingstyle\":\"\",\"headingcolor\":\"\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\"},\"id\":\"506107c4-43b3-48b4-b7ce-53d13b7f37d2\",\"isHidden\":false,\"type\":\"heading\"},{\"content\":{\"text\":\"Versatile, lightweight & flexible.\"},\"id\":\"c11e1e1d-9cc1-4f73-9242-a8fe8fe1300f\",\"isHidden\":false,\"type\":\"intro\"},{\"content\":{\"text\":\"<p>A simple drag and drop interface means you\\u2019ll never need to touch a line of code. You can rely on <a rel=\\\"noopener noreferrer nofollow\\\">Page Builder<\\\/a> to do what it does best - all the difficult work, generating light-weight, SEO-friendly code.<\\\/p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"990835d7-ea81-46f2-9a85-3c4be22fcc77\",\"isHidden\":false,\"type\":\"text\"},{\"content\":{\"text\":\"<p>Zero One has two types of Page Builders:<\\\/p><h4>Layout builder<\\\/h4><p>Magical layout system with inner blocks powering infinite creative possibilities.<\\\/p><h4>Page Builder<\\\/h4><p>Page sections that stack one below another. Very easy to use.<\\\/p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"d47f47f0-b65e-428e-8939-88c4d4477594\",\"isHidden\":false,\"type\":\"text\"},{\"content\":{\"text\":\"Learn more\",\"buttonicon\":\"\",\"linktype\":\"internal\",\"link\":\"\",\"internalpage\":[\"page:\\\/\\\/pplFXDLgBuXrPpu4\"],\"filelink\":[],\"emaillink\":\"\",\"phonelink\":\"\",\"target\":\"false\",\"buttonstyle\":\" uk-button-link\",\"buttonsize\":\" uk-button-small\",\"margintop\":\" uk-margin-small-top\"},\"id\":\"c7d8169b-6ce7-448b-b8d5-204694ea0a5f\",\"isHidden\":false,\"type\":\"button\"}]","fitimage":["file:\/\/fGR9dIDXeFKDp80b"],"title":"- Page Builder","blockclass":"","blockid":"","fitwidth":"large","fitchoosesides":"text","fitimagesize":"half","fittextback":"muted","fittextpadding":"large","fittextalign":"left","fitheadings":"false","viewportheight":"false"},"id":"0cdc8a47-8126-4f3e-bbd3-fb82aeb83a9f","isHidden":false,"type":"text-image"},{"content":{"fittext":"[{\"content\":{\"level\":\"h2\",\"text\":\"Content Blocks.\",\"headingsize\":\"\",\"headingstyle\":\"\",\"headingcolor\":\"\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\"},\"id\":\"6d319b8f-d704-4272-8720-d285dbe73dc3\",\"isHidden\":false,\"type\":\"heading\"},{\"content\":{\"text\":\"Easy but powerful content creation.\"},\"id\":\"43a94cb2-ebe8-4e11-83eb-e352c1ce58bb\",\"isHidden\":false,\"type\":\"intro\"},{\"content\":{\"text\":\"<p><em>In Zero One almost all content can be created with Content Blocks.<\\\/em><\\\/p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"e9a7f75a-aa2b-4932-966d-e56bc74506d8\",\"isHidden\":false,\"type\":\"text\"},{\"content\":{\"text\":\"<p>Kirby 3.5 version introduced a new standard for content creation and curation, and that's a <a href=\\\"https:\\\/\\\/getkirby.com\\\/docs\\\/reference\\\/panel\\\/fields\\\/blocks\\\" target=\\\"_blank\\\" title=\\\"Getkirby documentation page\\\" rel=\\\"noopener noreferrer nofollow\\\">Blocks field<\\\/a>. Zero One uses this new power heavily.<\\\/p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"af96bc54-1c29-49c7-996a-4be370520224\",\"isHidden\":false,\"type\":\"text\"},{\"content\":{\"text\":\"<p>What content blocks do you have at your disposal? Well, we try to give you everything you could need, from headings, paragraph texts, lists, quotes, buttons, intros, accordions, and simple tables, to code, images, galleries, and videos, either embed or self-hosted. Of course, there is also a <a href=\\\"https:\\\/\\\/getkirby.com\\\/docs\\\/guide\\\/content\\\/text-formatting\\\" target=\\\"_blank\\\" title=\\\"Markdown text formating\\\" rel=\\\"noopener noreferrer\\\">Kirby markdown<\\\/a> block with its own power. Every block has its own set of powerful options.<\\\/p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"f5609879-66aa-4f4a-8b6f-1ef2aa6a58e8\",\"isHidden\":false,\"type\":\"text\"},{\"content\":{\"text\":\"<p>And additionally, we are constantly working on new blocks. There are many new ones in preparation and development, from testimonials, tabs, audio, banner, to form builder, to name a few. You can also suggest to us what block you would love to see in Zero One.<\\\/p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"cfeddb1c-b648-4a0b-a8fb-60653cfed956\",\"isHidden\":false,\"type\":\"text\"}]","fitimage":["file:\/\/f4LiqrqEUnCCNZ4L"],"title":"Content blocks","blockclass":"","blockid":"","fitwidth":"large","fitchoosesides":"image","fitimagesize":"half","fittextback":"muted","fittextpadding":"large","fittextalign":"left","fitheadings":"false","viewportheight":"false"},"id":"d11c4667-d683-4a19-8edf-593d24da254a","isHidden":false,"type":"text-image"},{"content":{"fittext":"[{\"content\":{\"level\":\"h2\",\"text\":\"Fine grain blog options.\",\"headingsize\":\"\",\"headingstyle\":\"\",\"headingcolor\":\"\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\"},\"id\":\"47c4a423-70c8-457a-abf1-c8b119f4f46b\",\"isHidden\":false,\"type\":\"heading\"},{\"content\":{\"text\":\"Developed for easy-to-use experience.\"},\"id\":\"a888fe28-3fc8-4328-b396-54cf5727f661\",\"isHidden\":false,\"type\":\"intro\"},{\"content\":{\"text\":\"<p>Kirby doesn't come with blog functionality by default, although it has a prospect to become one of the best in that area considering what options live under the Kirby hood.<\\\/p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"b5bcfa29-be5f-4644-8ad8-5646eb6e4b1d\",\"isHidden\":false,\"type\":\"text\"},{\"content\":{\"text\":\"<p>The Zero One blog has everything you expect from it. Like WordPress but better, primarily because of Kirby's extensibility and flexibility.<\\\/p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"cdbebfce-058b-4e40-9cd9-34545316b673\",\"isHidden\":false,\"type\":\"text\"},{\"content\":{\"text\":\"<p>Create categories, choose whether or not you want a sidebar, select sidebar elements you want, and start writing your stuff.<\\\/p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"6dc1cf50-f31e-4dd6-b98a-66c2a7d7f938\",\"isHidden\":false,\"type\":\"text\"},{\"content\":{\"text\":\"<p>Articles have options of their own. Add tags, author, sidebar if needed, choose whether it is featured or not, and optionally select related articles. <\\\/p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"8e609632-cc0b-4a47-9898-af39a7895e04\",\"isHidden\":false,\"type\":\"text\"}]","fitimage":["file:\/\/HAoojxgI0pVOpdVh"],"title":"- Blog","blockclass":"","blockid":"","fitwidth":"large","fitchoosesides":"text","fitimagesize":"half","fittextback":"muted","fittextpadding":"large","fittextalign":"left","fitheadings":"false","viewportheight":"false"},"id":"bd461d08-436f-4791-8d0a-40a56e4bb00f","isHidden":false,"type":"text-image"},{"content":{"fittext":"[{\"content\":{\"level\":\"h2\",\"text\":\"Projects presentation as it should be.\",\"headingsize\":\"\",\"headingstyle\":\"\",\"headingcolor\":\"\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\"},\"id\":\"0131aa71-06cf-468c-bfee-c9caae886412\",\"isHidden\":false,\"type\":\"heading\"},{\"content\":{\"text\":\"Show the best of you.\"},\"id\":\"e8e68885-8fe7-4bbd-978f-ff4bd078da42\",\"isHidden\":false,\"type\":\"intro\"},{\"content\":{\"text\":\"<p>You\\u2019ve worked hard, collaborated, and iterated your work based on feedback. Now it\\u2019s time to show it off to a larger audience.<\\\/p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"091cb3fe-03c3-4448-87e2-7248c02f8a64\",\"isHidden\":false,\"type\":\"text\"},{\"content\":{\"text\":\"<p>The thing is, though, that no matter how great the work is, a poor presentation can send all the hours you\\u2019ve spent right down the drain. To help with that, we made an effort to create project options that will make your work look, top class.<\\\/p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"060285c5-8420-4b3f-93a4-870951f077f9\",\"isHidden\":false,\"type\":\"text\"},{\"content\":{\"text\":\"<p>Integrated page builder, with project info options, and some slick animation effects will give your work the boost it deserves.<\\\/p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"f38ce54a-6b79-4d6d-a391-20f5e556ef32\",\"isHidden\":false,\"type\":\"text\"},{\"content\":{\"text\":\"Demo projects\",\"buttonicon\":\"\",\"linktype\":\"internal\",\"link\":\"\",\"internalpage\":[\"page:\\\/\\\/g0RWBaCPt5RXiKrE\"],\"filelink\":[],\"emaillink\":\"\",\"phonelink\":\"\",\"target\":\"false\",\"buttonstyle\":\" uk-button-link\",\"buttonsize\":\" uk-button-small\",\"margintop\":\" uk-margin-small-top\"},\"id\":\"584b0142-65c8-4a59-8af5-13fc07fd933e\",\"isHidden\":false,\"type\":\"button\"}]","fitimage":["file:\/\/0YcMccIYXuXZm8ZM"],"title":"- Projects","blockclass":"","blockid":"","fitwidth":"large","fitchoosesides":"image","fitimagesize":"half","fittextback":"muted","fittextpadding":"large","fittextalign":"left","fitheadings":"false","viewportheight":"false"},"id":"938da23b-17fa-4783-9251-e369a7f83c54","isHidden":false,"type":"text-image"},{"content":{"fittext":"[{\"content\":{\"level\":\"h2\",\"text\":\"Images under control.\",\"headingsize\":\"\",\"headingstyle\":\"\",\"headingcolor\":\"\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\"},\"id\":\"a3c4d17e-2163-442f-9b74-3c32057464a2\",\"isHidden\":false,\"type\":\"heading\"},{\"content\":{\"text\":\"A picture is worth a thousand words.\"},\"id\":\"f2c5c47a-4cf0-445d-bd36-726b71c8ece6\",\"isHidden\":false,\"type\":\"intro\"},{\"content\":{\"text\":\"<p>For every content presentation images are of ultimate importance, they bring the topic to life and can also contribute to your website\\u2019s SEO.<\\\/p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"05d65512-45d8-45c7-8c52-7818f67e6026\",\"isHidden\":false,\"type\":\"text\"},{\"content\":{\"text\":\"<p>Zero One has everything in place to support your images. Supporting alternative text and caption completely, but also some additional elements you might need.<\\\/p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"cd92c3c3-2f27-4751-9d71-c4c479778396\",\"isHidden\":false,\"type\":\"text\"},{\"content\":{\"text\":\"<p>Responsive images (srcset) are supported where it was possible, in article content especially. <\\\/p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"60e94792-2625-4ebf-9da6-e204445c8561\",\"isHidden\":false,\"type\":\"text\"},{\"content\":{\"text\":\"<p><a href=\\\"https:\\\/\\\/github.com\\\/mullema\\\/k3-image-clip\\\" target=\\\"_blank\\\" rel=\\\"noopener noreferrer\\\">Image clip<\\\/a> Kirby plugin is integrated for projects cover image cropping. And sitemap is supporting images. <\\\/p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"79583a4d-f9f7-4de6-8f83-c4a7f7fd01ab\",\"isHidden\":false,\"type\":\"text\"}]","fitimage":["file:\/\/ivdmjEwaqqVGU1hT"],"title":"- Images under control","blockclass":"","blockid":"","fitwidth":"large","fitchoosesides":"text","fitimagesize":"half","fittextback":"muted","fittextpadding":"large","fittextalign":"left","fitheadings":"false","viewportheight":"false"},"id":"7b161baf-f696-46b2-89da-45b5fd7eee61","isHidden":false,"type":"text-image"},{"content":{"columns":[{"columnwidth":"uk-width-1-1","columnclass":"","columntitle":"","columncontenthtml":"markdown","columneditor":"","columncontent":"## Explore the rest of Zero One features.\n\nYou can check out the (link: features text: list of notable features).","columnhtml":"","subcolumns":[],"columncard":"false","columncardsize":"","columncardhover":"false","columncardcolor":""},{"columnwidth":"uk-width-1-2@m","columnclass":"","columntitle":"","columncontenthtml":"editor","columneditor":"[{\"content\":{\"text\":\"<span uk-icon=\\\"icon: social; ratio: 2\\\"><\\\/span>\"},\"id\":\"90d36e17-8516-4caf-b65d-a944e3edfe4d\",\"isHidden\":false,\"type\":\"markdown\"},{\"content\":{\"level\":\"h3\",\"text\":\"SEO\\\/SEM master features.\",\"headingsize\":\"\",\"headingstyle\":\"\",\"headingcolor\":\"\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\"},\"id\":\"59971a8a-9ff4-40d0-8fb5-ac9271bcf681\",\"isHidden\":false,\"type\":\"heading\"},{\"content\":{\"text\":\"<p>There\\u2019s no need for a plugin to manage and update your site\\u2019s SEO settings. From page titles to meta descriptions, URLs to Open Graph settings \\u2014 optimize every page of your site.<\\\/p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"db1e1980-9a24-4f24-99db-8a8f14387671\",\"isHidden\":false,\"type\":\"text\"},{\"content\":{\"text\":\"Learn more\",\"buttonicon\":\"\",\"linktype\":\"internal\",\"link\":\"\",\"internalpage\":[\"page:\\\/\\\/XpdDligeUqLhH7js\"],\"filelink\":[],\"emaillink\":\"\",\"phonelink\":\"\",\"target\":\"false\",\"buttonstyle\":\" uk-button-link\",\"buttonsize\":\" uk-button-small\",\"margintop\":\" uk-margin-small-top\"},\"id\":\"15e93325-1537-4f68-a13e-dc5a4adf4d14\",\"isHidden\":false,\"type\":\"button\"}]","columncontent":"### SEO\/SEM master features.\n\nThere\u2019s no need for a plugin to manage and update your site\u2019s SEO settings. From page titles to meta descriptions, URLs to Open Graph settings \u2014 optimize every page of your site.\n\n(link: features\/for-seo-sem-masters text: Learn more)","columnhtml":"","subcolumns":[],"columncard":"false","columncardsize":"","columncardhover":"false","columncardcolor":""},{"columnwidth":"uk-width-1-2@m","columnclass":"","columntitle":"","columncontenthtml":"editor","columneditor":"[{\"content\":{\"text\":\"<span uk-icon=\\\"icon: git-branch; ratio: 2\\\"><\\\/span>\"},\"id\":\"09e0e7ea-737e-4e6b-a5bd-c1f59f743967\",\"isHidden\":false,\"type\":\"markdown\"},{\"content\":{\"level\":\"h3\",\"text\":\"Developer features.\",\"headingsize\":\"\",\"headingstyle\":\"\",\"headingcolor\":\"\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\"},\"id\":\"d14af53d-01f1-4fec-9e57-60a16d9f7482\",\"isHidden\":false,\"type\":\"heading\"},{\"content\":{\"text\":\"<p>Zero One is created to be customized, extended and scaled. With no restrains whatsoever. It is also a gold mine for Kirby beginners because it offers solutions for various common problems.<\\\/p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"310b9fb8-2927-4682-b362-273745c8c6ef\",\"isHidden\":false,\"type\":\"text\"},{\"content\":{\"text\":\"Learn more\",\"buttonicon\":\"\",\"linktype\":\"internal\",\"link\":\"\",\"internalpage\":[\"page:\\\/\\\/UU4nSZ3OtqRd9qkp\"],\"filelink\":[],\"emaillink\":\"\",\"phonelink\":\"\",\"target\":\"false\",\"buttonstyle\":\" uk-button-link\",\"buttonsize\":\" uk-button-small\",\"margintop\":\" uk-margin-small-top\"},\"id\":\"ee85665d-d952-4573-b10d-1503fd5e0afc\",\"isHidden\":false,\"type\":\"button\"}]","columncontent":"### Developer features.\n\nZero One is created to be customized, extended and scaled. With no restrains whatsoever. It is also a gold mine for Kirby beginners because it offers solutions for various common problems.\n\n(link: features\/for-developers text: Learn more)","columnhtml":"","subcolumns":[],"columncard":"false","columncardsize":"","columncardhover":"false","columncardcolor":""}],"title":"- Features","blockclass":"","blockid":"","sectionsize":" uk-section-large","sectioncolor":" uk-section-default","sectionremovepadding":"","backgroundimage":[],"backgroundimageposition":"","backgroundimagesize":"","backgroundimagerepeat":"","sectiontextcolor":"","backgroundoverlaycolor":null,"backgroundparalax":"","shapedividertoggle":"false","shapedivider":"","shapedividerposition":"","shapedividercolor":null,"customshapedivider":"","shapedividerheight":"","gridwidth":" uk-container-small","columnstack":"mobile","columngap":"","columnsverticalalign":"","columnshorizontalalign":"","columnsdivider":"true","centertext":"false","gridheadings":"false","columnsparallax":"false"},"id":"14c2bcec-e786-49f4-88a0-0e3803b6cc60","isHidden":false,"type":"grid"},{"content":{"cpttext":"#### Make Zero One yours.\n\n### From Zero to Hero in a snap.\n\nThe ultimate Kirby CMS toolkit awaits.","cptlinktext":"Purchase Zero One","cptlink":["page:\/\/ZVoGDWAqLvo5X5c1"],"cptbuttoncolor":" uk-button-primary","cptbuttonsize":"large","title":"","blockclass":"","blockid":"","cptsize":"","cpttextwidth":"large","cptheadings":"true","cptstyle":"image","cptimage":["file:\/\/YrPrpcCKhGEWn8Xl"],"cptimageposition":" uk-background-center-center","cptimagesize":" uk-background-cover","cptimagerepeat":" no-repeat","cpttextcolor":" uk-light","cptoverlaycolor":"#00000099"},"id":"9e10c103-cf76-4434-b68a-9ed113d144a1","isHidden":false,"type":"cpt"}]
+
+----
+
+Disallowsubmenu: false
+
+----
+
+Newtab: false
+
+----
+
+Menuitemicon: file-text
+
+----
+
+Megamenu: false
+
+----
+
+Megamenuwidth: 
+
+----
+
+Megamenuitemwidth: 
+
+----
+
+Megamenubackground: false
+
+----
+
+Megamenubackgroundimage: 
+
+----
+
+Megamenubackgroundimageposition: 
+
+----
+
+Megamenubackgroundimagesize: 
+
+----
+
+Megamenubackgroundimagerepeat: 
+
+----
+
+Megamenubackgroundgradientoverlay: false
+
+----
+
+Megamenubackgroundgradienttransition: 
+
+----
+
+Transparentnavbar: 
+
+----
+
+Navbarinverse: false
+
+----
+
+Headersection: true
+
+----
+
+Alttitle: Content editing features
+
+----
+
+Intro: It's like a Wordpress but way better.
+
+----
+
+Headerbackgroundtoggle: false
+
+----
+
+Header: 
+
+----
+
+Headerimageposition: 
+
+----
+
+Headerimagesize: 
+
+----
+
+Headerimagerepeat: 
+
+----
+
+Headertextcolor: 
+
+----
+
+Backgroundparalax: 
+
+----
+
+Shapedividertoggle: false
+
+----
+
+Shapedivider: 
+
+----
+
+Shapedividerposition: 
+
+----
+
+Customshapedivider: 
+
+----
+
+Shapedividerheight: 
+
+----
+
+Metafile: - file://f4LiqrqEUnCCNZ4L
+
+----
+
+Sitemap: true
+
+----
+
+Metatitle: 
+
+----
+
+Metadescription: It’s like a Wordpress but way better. A wealth of site options. Fine-grain blog options. Page Builder beauty. Projects presentation as it should be. And more...
+
+----
+
+Uuid: pfTecGNp34J24IpD

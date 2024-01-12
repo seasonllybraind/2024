@@ -1,0 +1,49 @@
+Title: They love you, be kind to them
+
+----
+
+Date: 2018-12-09 17:00:00
+
+----
+
+Author: 
+
+----
+
+Desc: We finished our first sensor sweep of the neutral zone. You did exactly what you had to do. You considered all your options, you tried every alternative.
+
+----
+
+Text: [{"content":{"text":"<p>Could someone survive inside a transporter buffer for 75 years? Fate. It protects fools, little children, and ships named \u201cEnterprise.\u201d<\/p>","textalign":"","textaligntablet":"","textalignmobile":"","textsize":"","texttransform":"","textwrapping":"","textcolor":""},"id":"2335d223-b618-42c9-b587-146e9ec99760","isHidden":false,"type":"text"},{"content":{"text":"<p>Did you come here for something in particular or just general Riker-bashing? And blowing into maximum warp speed, you appeared for an instant to be in two places at once. We have a saboteur aboard. We know you\u2019re dealing in stolen ore. But I wanna talk about the assassination attempt on <a href=\"#\" rel=\"noopener noreferrer\">Lieutenant Worf<\/a>. Could someone survive inside a transporter buffer for 75 years? Fate. It protects fools, little children, and ships named \u201cEnterprise.\u201d<\/p>","textalign":"","textaligntablet":"","textalignmobile":"","textsize":"","texttransform":"","textwrapping":"","textcolor":""},"id":"f0be81a4-dd02-48b0-8d8a-42a8445bc538","isHidden":false,"type":"text"},{"content":{"level":"h2","text":"The beauty of life","headingsize":"","headingstyle":"","headingcolor":"","textalign":"","textaligntablet":"","textalignmobile":"","texttransform":"","textwrapping":""},"id":"4f2b0843-6136-4891-b046-9193ac02a188","isHidden":false,"type":"heading"},{"content":{"text":"<p>The Orbit invites comparisons. Described as congealed intestines, a melted roller coaster, a loop of string arrested in mid-fall, it seems we cannot talk about it without talking about other things. Instead of evaluation, we end up with similes. This tendency to describe what the structure is like betrays a sense of unease over what it is. The tower is, of course, strikingly redundant\u2014an inept attempt to satisfy the vague sense that something is missing, another useless thingy to add to Stratford\u2019s menagerie of future relics. But its uselessness is to the point: Boris Johnson and Anish Kapoor have said that the tower is \u2018mythic,\u2019 which both acknowledges its unreality and reveals that they want more than they know how to get.<\/p>","textalign":"","textaligntablet":"","textalignmobile":"","textsize":"","texttransform":"","textwrapping":"","textcolor":""},"id":"37f40cf1-aeaa-4ba6-a3dc-879e92e703b7","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":[{"id":"jay-short-wcyfx0rjalk-unsplash.jpg"}],"src":"","ratio":"","alt":"","resizewidth":null,"caption":"","captionclass":"false","width":"","widthmobile":"","align":"","float":"","borderradius":"","shadow":"","linkoption":"","link":"","newtab":"false"},"id":"62d3f797-7c06-4d6a-9a03-0f41ca4dde34","isHidden":false,"type":"image"},{"content":{"text":"<p>If this picture of things begins to unnerve rather than inspire, we might start to hedge our bets, we might start to feel adrift and crave the certainty of a centre, the magic of a tower. Once the word \u2018global\u2019 starts to lose its meaning, the passing of the games may leave us feeling bereft.<\/p>","textalign":"","textaligntablet":"","textalignmobile":"","textsize":"","texttransform":"","textwrapping":"","textcolor":""},"id":"4343ca54-427f-4aca-963f-2bfbefc5dfa4","isHidden":false,"type":"text"},{"content":{"text":"<p>I\u2019m afraid I still don\u2019t understand, sir. Flair is what marks the difference between artistry and mere competence. Computer, belay that order. Yesterday I did not know how to eat gagh. Mr. Worf, you sound like a man who\u2019s <a href=\"#\" rel=\"noopener noreferrer\">asking his friend<\/a> if he can start dating his sister. Not if I weaken first. What? We\u2019re not at all alike! I\u2019ll be sure to note that in my log.<\/p>","textalign":"","textaligntablet":"","textalignmobile":"","textsize":"","texttransform":"","textwrapping":"","textcolor":""},"id":"2249a6e2-f332-4a32-83f0-548929278fc8","isHidden":false,"type":"text"},{"content":{"text":"There is a way out of every box, a solution to every puzzle, it\u2019s just a matter of finding it.","citation":""},"id":"cdc793b7-1564-48cb-805e-a0e7b1cac650","isHidden":false,"type":"quote"},{"content":{"text":"<p>What\u2019s a knock-out like you doing in a computer-generated gin joint like this? But the probability of making a six is no greater than that of <a href=\"#\" rel=\"noopener noreferrer\">rolling a seven<\/a>. I guess it\u2019s better to be lucky than good. Yesterday I did not know how to eat gagh.<\/p>","textalign":"","textaligntablet":"","textalignmobile":"","textsize":"","texttransform":"","textwrapping":"","textcolor":""},"id":"0c13c1fd-db27-4bb0-a4f9-58402136a08f","isHidden":false,"type":"text"},{"content":{"text":"<ul><li><strong>Aliquam<\/strong> erat volutpat eleifend mi<\/li><li>Lacinia scelerisque lacinia quis<\/li><li>Consectetuer <em>adipiscing<\/em> elit et ultrices<\/li><li>Magnis dis parturient montes<\/li><\/ul>","liststyle":" uk-list-disc","listcolor":"","listsize":"","listdivider":"","column":""},"id":"9dc205ed-8e80-418a-97b9-dd2ed856a621","isHidden":false,"type":"list"},{"content":{"text":"<p>What\u2019s a knock-out like you doing in a computer-generated gin joint like this? Wouldn\u2019t that bring about chaos? What? We\u2019re not at all alike! Some days you get the bear, and some days the bear gets you. I\u2019d like to think that I haven\u2019t changed those things, sir.<\/p>","textalign":"","textaligntablet":"","textalignmobile":"","textsize":"","texttransform":"","textwrapping":"","textcolor":""},"id":"1721f42d-5793-4347-b756-54e4ac89de51","isHidden":false,"type":"text"},{"content":{"text":"Frustratingly, nothing is known about the author of this highly entertaining compendium. His portrait (which appears only in the second edition) is supplied, but he offers no biographical information about himself."},"id":"f26eb3ee-c015-4d29-a11d-fbd3d254e9b7","isHidden":false,"type":"info"},{"content":{"level":"h3","text":"Triumph of creation","headingsize":"","headingstyle":"","headingcolor":"","textalign":"","textaligntablet":"","textalignmobile":"","texttransform":"","textwrapping":""},"id":"6874ae3e-ea8b-4a69-bc55-a7bcc3bcc3ed","isHidden":false,"type":"heading"},{"content":{"text":"<p>The second part treats fireworks \u201cfor tryumph and recreation.\u201d Its title-page is illustrated with a woodcut depicting a \u201cgreen man\u2019 wielding a fire club. With obscure and mythical origins, green men dressed in foliage and garlands traditionally led processions of fireworkers from medieval times. The customary greeting amongst the firework fraternity is still \u201cstay green.\u201d<\/p>","textalign":"","textaligntablet":"","textalignmobile":"","textsize":"","texttransform":"","textwrapping":"","textcolor":""},"id":"6e075af8-d306-49e0-a4b7-640afedea49b","isHidden":false,"type":"text"},{"content":{"text":"<ol><li><strong>Aliquam<\/strong> erat volutpat eleifend mi<\/li><li>Lacinia scelerisque lacinia quis<\/li><li>Consectetuer <em>adipiscing<\/em> elit et ultrices<\/li><li>Magnis dis parturient montes<\/li><\/ol>","liststyle":"","listcolor":"","listsize":"","listdivider":"","column":""},"id":"720cbd33-2903-4254-b00b-0fd99cd2cffc","isHidden":false,"type":"list"},{"content":{"text":"<p>There was a time when I could read the whole of <em>Usenet<\/em>\u2014not just because I was a student looking for an excuse to avoid my assignments, but because <em>Usenet<\/em> was once tractable, readable by a single determined person. Today, I can\u2019t even keep up with a single high-traffic message-board. I can\u2019t read all my emails. I can\u2019t read every item posted to every site I like. I certainly can\u2019t plough through the entire edit-history of every <em>Wikipedia<\/em> entry I read. I\u2019ve come to grips with this\u2014with acquiring information on a probabilistic basis, instead of the old, deterministic, cover-to-cover approach I learned in the offline world.<\/p>","textalign":"","textaligntablet":"","textalignmobile":"","textsize":"","texttransform":"","textwrapping":"","textcolor":""},"id":"1d874802-41cd-4d0d-8702-78701caeb531","isHidden":false,"type":"text"}]
+
+----
+
+Cover: - file://wn3YMzT7huYQJDLy
+
+----
+
+Transparentnavbar: 
+
+----
+
+Navbarinverse: false
+
+----
+
+Related: 
+
+----
+
+Category: lifestyle
+
+----
+
+Tags: love, family
+
+----
+
+Featured: no
+
+----
+
+Uuid: 2mWk22R2ADONWRys

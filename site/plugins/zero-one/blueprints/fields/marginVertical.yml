@@ -1,0 +1,52 @@
+label: 
+  en: Margin vertical
+  de: Margin vertikal
+type: select
+placeholder: None
+options:
+  " uk-margin": 
+    en: Default*
+    de: Standard*
+  " uk-margin-top": 
+    en: Default top
+    de: Standardoberteil
+  " uk-margin-bottom": 
+    en: Default bottom
+    de: Standardunterseite
+  " uk-margin-small": 
+    en: Small*
+    de: Klein*
+  " uk-margin-small-top": 
+    en: Small top
+    de: Kleines Oberteil
+  " uk-margin-small-bottom": 
+    en: Small bottom
+    de: Kleine Unterseite
+  " uk-margin-medium": 
+    en: Medium*
+    de: Mittel*
+  " uk-margin-medium-top": 
+    en: Medium Top
+    de: Mittleres Oberteil
+  " uk-margin-medium-bottom": 
+    en: Medium bottom
+    de: Mittlere Unterseite
+  " uk-margin-large": 
+    en: Large*
+    de: Groß*
+  " uk-margin-large-top": 
+    en: Large top
+    de: Großes Oberteil
+  " uk-margin-large-bottom": 
+    en: Large bottom
+    de: Große Unterseite
+  " uk-margin-xlarge": 
+    en: XLarge*
+    de: XGroß*
+  " uk-margin-xlarge-top": 
+    en: XLarge top
+    de: XGroßes Oberteil
+  " uk-margin-xlarge-bottom": 
+    en: XLarge bottom
+    de: XGroße Unterseite
+width: 1/3

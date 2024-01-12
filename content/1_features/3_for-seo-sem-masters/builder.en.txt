@@ -1,0 +1,149 @@
+Title: For SEO/SEM masters
+
+----
+
+Animation: true
+
+----
+
+Modules: [{"content":{"fittext":"[{\"content\":{\"level\":\"h2\",\"text\":\"It is super fast.\",\"headingsize\":\"\",\"headingstyle\":\"\",\"headingcolor\":\"\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\"},\"id\":\"38b96fa6-ccf8-4779-9c69-0100a33f493f\",\"isHidden\":false,\"type\":\"heading\"},{\"content\":{\"text\":\"Born to be a winner.\"},\"id\":\"6642ea9b-672b-4756-b310-481503f4f603\",\"isHidden\":false,\"type\":\"intro\"},{\"content\":{\"text\":\"<p>The test presented here is for the home page, which has a slideshow, lots of images, and content, but still, the result is almost perfect. We even didn't optimize images. Also, note that we are not using Kirby caching. So we could go for the 99% with ease but wanted to present natural results without effort.<\\\/p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"2bf02cd5-c088-4740-8c06-352c05157285\",\"isHidden\":false,\"type\":\"text\"},{\"content\":{\"text\":\"<p>Test it yourself: <a href=\\\"https:\\\/\\\/gtmetrix.com\\\/\\\" target=\\\"_blank\\\" rel=\\\"noopener noreferrer nofollow\\\">https:\\\/\\\/gtmetrix.com<\\\/a><\\\/p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"375ce894-b3ee-4e03-b2c2-73a9cc62d127\",\"isHidden\":false,\"type\":\"text\"},{\"content\":{\"text\":\"<p>One of the superb features of Zero One is that <strong>all images are automatically converted to WebP with original image backup for older browsers<\\\/strong> (even the background images). Also, you can fine-grain every image size with the latest Zero One versions.<\\\/p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"68b47230-a151-46a2-a69e-de74a5e5a53c\",\"isHidden\":false,\"type\":\"text\"},{\"content\":{\"text\":\"<p>Lazy load for images is integrated, and several other JS features make it faster.<\\\/p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"c2c78a6c-d0f9-4cb0-9081-ea8b746118fe\",\"isHidden\":false,\"type\":\"text\"}]","fitimage":["file:\/\/ZDReQS6tD23qPoQv"],"title":"- It is fast","blockclass":"","blockid":"","fitwidth":"large","fitchoosesides":"image","fitimagesize":"half","fittextback":"muted","fittextpadding":"large","fittextalign":"left","fitheadings":"false","viewportheight":"false"},"id":"5c52511a-5ecd-4de9-b747-c5c6c1ba7dee","isHidden":false,"type":"text-image"},{"content":{"fittext":"[{\"content\":{\"level\":\"h2\",\"text\":\"SEO optimized out of the box.\",\"headingsize\":\"\",\"headingstyle\":\"\",\"headingcolor\":\"\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\"},\"id\":\"a0d9a8ef-7edc-469e-a0da-2af84659adb3\",\"isHidden\":false,\"type\":\"heading\"},{\"content\":{\"text\":\"Because content is king.\"},\"id\":\"120fbdab-2b0c-4a28-bbf5-1c87b29fae6f\",\"isHidden\":false,\"type\":\"intro\"},{\"content\":{\"text\":\"<p>Well-structured content options, with two aspects in mind: search engines and readers. Headings, intro paragraphs, lists, quotes, links, images.. everything with good HTML semantics.<\\\/p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"96442770-714d-41a8-89c0-95a779b3d89d\",\"isHidden\":false,\"type\":\"text\"},{\"content\":{\"text\":\"<p><strong>This test score is actually higher<\\\/strong>, it didn't recognize robots.txt and sitemap.xml because this theme is in the domain subfolder. Also, the test expects Google Analytics and HTML Microdata, but because this is website specific it is up to you to add it. Checkout everything yourself: <\\\/p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"caf756b6-1352-4c57-9414-a1a815a50cbc\",\"isHidden\":false,\"type\":\"text\"},{\"content\":{\"text\":\"<p><a href=\\\"https:\\\/\\\/seositecheckup.com\\\/seo-audit\\\/www.thezero.club\\\/demo\\\/one\\\" target=\\\"_blank\\\" rel=\\\"noopener noreferrer nofollow\\\">https:\\\/\\\/seositecheckup.com\\\/seo-audit\\\/www.thezero.club\\\/demo\\\/one<\\\/a><\\\/p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"8ffe420e-1d8d-4201-b6c8-1594c0d7a3e5\",\"isHidden\":false,\"type\":\"text\"},{\"content\":{\"text\":\"<p>Of course, media queries are fully respected, and Zero One supports almost every device that exists, from smart watch to mega TV screens.<\\\/p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"efe98cbb-e756-4f6f-8e3f-ddbb94905eeb\",\"isHidden\":false,\"type\":\"text\"}]","fitimage":["file:\/\/JBol2rU8J8g9l52K"],"title":"- SEO optimized","blockclass":"","blockid":"","fitwidth":"large","fitchoosesides":"text","fitimagesize":"half","fittextback":"muted","fittextpadding":"large","fittextalign":"left","fitheadings":"false","viewportheight":"false"},"id":"6aaf3eaa-2e5f-4187-928a-13e4c4174c26","isHidden":false,"type":"text-image"},{"content":{"fittext":"[{\"content\":{\"level\":\"h2\",\"text\":\"Google says: Great job!\",\"headingsize\":\"\",\"headingstyle\":\"\",\"headingcolor\":\"\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\"},\"id\":\"712338e6-63e0-46af-97d3-a2b02cb2d1e8\",\"isHidden\":false,\"type\":\"heading\"},{\"content\":{\"text\":\"Let's make it easy for Google.\"},\"id\":\"608657cd-f6f0-4c9d-aef8-63c43259681e\",\"isHidden\":false,\"type\":\"intro\"},{\"content\":{\"text\":\"<p>When tested with Google PageSpeed Insights both scores are almost perfect.<\\\/p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"0388110c-d82c-42b7-9676-94eef84e3394\",\"isHidden\":false,\"type\":\"text\"},{\"content\":{\"text\":\"<p>The desktop score is 98 which is good as it gets. For a page with a slideshow, so many images, and content it is a top-class score.<\\\/p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"6d1eb80c-c74c-4a9a-823d-920ed3fd3a9e\",\"isHidden\":false,\"type\":\"text\"},{\"content\":{\"text\":\"<p>The mobile score is a bit lower, but mostly because Google would like you to serve images in next-gen formats for smaller devices. But as said earlier we could optimize images a lot better on that page, but wanted to get the natural result without fine-grain optimization.<\\\/p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"94eb73e9-584d-46e1-a80a-4e32ea84f78c\",\"isHidden\":false,\"type\":\"text\"},{\"content\":{\"text\":\"<p>Respect Google if you want him to respect you.<\\\/p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"dc643ad6-d4e7-4608-95d9-ea1ecf36d312\",\"isHidden\":false,\"type\":\"text\"}]","fitimage":["file:\/\/5g60rf1YGpXdzsPS"],"title":"- Google say Yes","blockclass":"","blockid":"","fitwidth":"large","fitchoosesides":"image","fitimagesize":"half","fittextback":"muted","fittextpadding":"large","fittextalign":"left","fitheadings":"false","viewportheight":"false"},"id":"87d64473-300f-460b-aaaa-d06f70caed4a","isHidden":false,"type":"text-image"},{"content":{"fittext":"[{\"content\":{\"level\":\"h2\",\"text\":\"Full control over meta tags.\",\"headingsize\":\"\",\"headingstyle\":\"\",\"headingcolor\":\"\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\"},\"id\":\"a36f0d68-66a2-40f1-a679-2b6732e95b47\",\"isHidden\":false,\"type\":\"heading\"},{\"content\":{\"text\":\"Tell them what they need to know.\"},\"id\":\"d79f2fcf-5cc2-402d-be4e-4ead35e1aef1\",\"isHidden\":false,\"type\":\"intro\"},{\"content\":{\"text\":\"<p>Favicons, meta tags, open graphs, Twitter tags options are made with special care to support flexibility and control.<\\\/p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"d59c7706-3fa7-45a0-b546-dd4fc13fd395\",\"isHidden\":false,\"type\":\"text\"},{\"content\":{\"text\":\"<p>There are so many favicon sizes, but we selected the 6 most prominent ones to cover all devices and browsers. They are auto-generated from one PNG you insert.<\\\/p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"8f13e87f-a2a7-4de6-b418-1ba6732e31c3\",\"isHidden\":false,\"type\":\"text\"},{\"content\":{\"text\":\"<p>Custom meta tags options per page, article, project are integrated with a backup if empty from site meta. Input is also forwarded to open graph tags.<\\\/p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"75779dc2-7ebf-447b-80d6-ab1500caadbd\",\"isHidden\":false,\"type\":\"text\"},{\"content\":{\"text\":\"<p>So you can have full control over your SEO\\\/SEM data.<\\\/p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"d023b58b-548f-4d6f-877c-5edce28a41f3\",\"isHidden\":false,\"type\":\"text\"}]","fitimage":["file:\/\/lBuXf3X2Pw2vo5VY"],"title":"- Meta tags","blockclass":"","blockid":"","fitwidth":"large","fitchoosesides":"text","fitimagesize":"half","fittextback":"muted","fittextpadding":"large","fittextalign":"left","fitheadings":"false","viewportheight":"false"},"id":"e63dd044-bab0-4452-bd6a-31d888b03f57","isHidden":false,"type":"text-image"},{"content":{"fittext":"[{\"content\":{\"level\":\"h2\",\"text\":\"Extend it further with ease.\",\"headingsize\":\"\",\"headingstyle\":\"\",\"headingcolor\":\"\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\"},\"id\":\"1f63f927-0a5d-4262-aeb1-147d1e0af62f\",\"isHidden\":false,\"type\":\"heading\"},{\"content\":{\"text\":\"Every website is unique.\"},\"id\":\"84d77276-b7fc-43b2-ad3d-5f15e37e8d39\",\"isHidden\":false,\"type\":\"intro\"},{\"content\":{\"text\":\"<p>There are some things we decided not to include. We leave that to you.<\\\/p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"086fa560-8bc1-4e07-9229-9994d14caaad\",\"isHidden\":false,\"type\":\"text\"},{\"content\":{\"text\":\"<p><strong>The website analytics<\\\/strong> option is one of those things. Yes, Google Analytics is the most used, but not the only one, and there is not only one way to install it.<\\\/p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"79276f63-865d-4e62-8b7f-15b1b3b9915b\",\"isHidden\":false,\"type\":\"text\"},{\"content\":{\"text\":\"<p><strong>Structured data<\\\/strong> or microdata options are also something we didn't add. It is also in many ways content-specific.<\\\/p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"15f7ea7f-1528-40cf-92cd-d9aca5f417b3\",\"isHidden\":false,\"type\":\"text\"},{\"content\":{\"text\":\"<p>But we will add soon a tutorial in our documentation on how to easily extend Zero One with dynamic and maintainable structured data.<\\\/p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"b480be63-803f-4cea-86d1-c2847159e196\",\"isHidden\":false,\"type\":\"text\"}]","fitimage":["file:\/\/faF1vcHMgxMI8S1H"],"title":"- Extend it further","blockclass":"","blockid":"","fitwidth":"large","fitchoosesides":"image","fitimagesize":"half","fittextback":"muted","fittextpadding":"large","fittextalign":"left","fitheadings":"false","viewportheight":"false"},"id":"072659fb-2b91-48c0-bc11-c966ccb470e9","isHidden":false,"type":"text-image"},{"content":{"columns":[{"columnwidth":"uk-width-1-1","columnclass":"","columntitle":"","columncontenthtml":"markdown","columneditor":"","columncontent":"## Explore the rest of Zero One features.\n\nYou can check out the (link: features text: list of notable features).","columnhtml":"","subcolumns":[],"columncard":"false","columncardsize":"","columncardhover":"false","columncardcolor":""},{"columnwidth":"uk-width-1-2@m","columnclass":"","columntitle":"","columncontenthtml":"editor","columneditor":"[{\"content\":{\"text\":\"<span uk-icon=\\\"icon: file-text; ratio: 2\\\"><\\\/span>\"},\"id\":\"d28368c0-a82e-448a-93db-06248c32b54a\",\"isHidden\":false,\"type\":\"markdown\"},{\"content\":{\"level\":\"h3\",\"text\":\"Content editor features.\",\"headingsize\":\"\",\"headingstyle\":\"\",\"headingcolor\":\"\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\"},\"id\":\"37967444-85f0-4ca1-a150-01b5c5324725\",\"isHidden\":false,\"type\":\"heading\"},{\"content\":{\"text\":\"<p>Custom-made panels and options for every content type. Kirby Blocks Editor, Kirbytext, and Page Builder in just the right places to extend flexibility to maximum.<\\\/p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"e839261a-4363-4504-81f6-fd6cfde28df4\",\"isHidden\":false,\"type\":\"text\"},{\"content\":{\"text\":\"Learn more\",\"buttonicon\":\"\",\"linktype\":\"internal\",\"link\":\"\",\"internalpage\":[\"page:\\\/\\\/pfTecGNp34J24IpD\"],\"filelink\":[],\"emaillink\":\"\",\"phonelink\":\"\",\"target\":\"false\",\"buttonstyle\":\" uk-button-link\",\"buttonsize\":\" uk-button-small\",\"margintop\":\" uk-margin-small-top\"},\"id\":\"20750138-e389-416a-8ed4-046582247926\",\"isHidden\":false,\"type\":\"button\"}]","columncontent":"### Content editor features.\n\nCustom made panels for every content type. Kirby Editor, Kirbytext and Page Bulder on just the right places to extend flexibility to maximum.\n\n(link: features\/for-content-editors text: Learn more)","columnhtml":"","subcolumns":[],"columncard":"false","columncardsize":"","columncardhover":"false","columncardcolor":""},{"columnwidth":"uk-width-1-2@m","columnclass":"","columntitle":"","columncontenthtml":"editor","columneditor":"[{\"content\":{\"text\":\"<span uk-icon=\\\"icon: git-branch; ratio: 2\\\"><\\\/span>\"},\"id\":\"a3cd0790-807f-4e0a-b0b4-e72e98630091\",\"isHidden\":false,\"type\":\"markdown\"},{\"content\":{\"level\":\"h3\",\"text\":\"Developer features.\",\"headingsize\":\"\",\"headingstyle\":\"\",\"headingcolor\":\"\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\"},\"id\":\"0c3f3ff4-074a-41e9-852c-1cfd731b7ceb\",\"isHidden\":false,\"type\":\"heading\"},{\"content\":{\"text\":\"<p>Zero One is created to be customized, extended, and scaled. With no restrains whatsoever. It is also a gold mine for Kirby beginners because it offers solutions for various common problems.<\\\/p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"82f4d620-4adb-4a4a-a59e-1e0b4daf240c\",\"isHidden\":false,\"type\":\"text\"},{\"content\":{\"text\":\"Learn more\",\"buttonicon\":\"\",\"linktype\":\"internal\",\"link\":\"\",\"internalpage\":[\"page:\\\/\\\/UU4nSZ3OtqRd9qkp\"],\"filelink\":[],\"emaillink\":\"\",\"phonelink\":\"\",\"target\":\"false\",\"buttonstyle\":\" uk-button-link\",\"buttonsize\":\" uk-button-small\",\"margintop\":\" uk-margin-small-top\"},\"id\":\"0d741d21-95be-4ead-a012-07a67243072b\",\"isHidden\":false,\"type\":\"button\"}]","columncontent":"### Developer features.\n\nZero One is created to be customized, extended, and scaled. With no restrains whatsoever. It is also a gold mine for Kirby beginners because it offers solutions for various common problems.\n\n(link: features\/for-developers text: Learn more)","columnhtml":"","subcolumns":[],"columncard":"false","columncardsize":"","columncardhover":"false","columncardcolor":""}],"title":"- Explore features","blockclass":"","blockid":"","sectionsize":" uk-section-large","sectioncolor":" uk-section-default","sectionremovepadding":"","backgroundimage":[],"backgroundimageposition":"","backgroundimagesize":"","backgroundimagerepeat":"","sectiontextcolor":"","backgroundoverlaycolor":null,"backgroundparalax":"","shapedividertoggle":"false","shapedivider":"","shapedividerposition":"","shapedividercolor":null,"customshapedivider":"","shapedividerheight":"","gridwidth":" uk-container-small","columnstack":"mobile","columngap":"","columnsverticalalign":"","columnshorizontalalign":"","columnsdivider":"true","centertext":"false","gridheadings":"false","columnsparallax":"false"},"id":"6f64aa11-deec-4dfc-9e4a-e2fb24f98310","isHidden":false,"type":"grid"},{"content":{"cpttext":"#### Make Zero One yours.\n\n### From Zero to Hero in a snap.\n\nThe ultimate Kirby CMS toolkit awaits.","cptlinktext":"Purchase Zero One","cptlink":["page:\/\/ZVoGDWAqLvo5X5c1"],"cptbuttoncolor":" uk-button-primary","cptbuttonsize":"large","title":"","blockclass":"","blockid":"","cptsize":"","cpttextwidth":"large","cptheadings":"true","cptstyle":"image","cptimage":["file:\/\/YrPrpcCKhGEWn8Xl"],"cptimageposition":" uk-background-center-center","cptimagesize":" uk-background-cover","cptimagerepeat":" no-repeat","cpttextcolor":" uk-light","cptoverlaycolor":"#00000099"},"id":"96ce3cf4-f914-475a-a8f3-7419482c5dee","isHidden":false,"type":"cpt"}]
+
+----
+
+Disallowsubmenu: false
+
+----
+
+Newtab: false
+
+----
+
+Menuitemicon: social
+
+----
+
+Megamenu: false
+
+----
+
+Megamenuwidth: 
+
+----
+
+Megamenuitemwidth: 
+
+----
+
+Megamenubackground: false
+
+----
+
+Megamenubackgroundimage: 
+
+----
+
+Megamenubackgroundimageposition: 
+
+----
+
+Megamenubackgroundimagesize: 
+
+----
+
+Megamenubackgroundimagerepeat: 
+
+----
+
+Megamenubackgroundgradientoverlay: false
+
+----
+
+Megamenubackgroundgradienttransition: 
+
+----
+
+Transparentnavbar: 
+
+----
+
+Navbarinverse: false
+
+----
+
+Headersection: true
+
+----
+
+Alttitle: SEO/SEM Features
+
+----
+
+Intro: Your website's search engine rankings supercharged.
+
+----
+
+Headerbackgroundtoggle: false
+
+----
+
+Header: 
+
+----
+
+Headerimageposition: 
+
+----
+
+Headerimagesize: 
+
+----
+
+Headerimagerepeat: 
+
+----
+
+Headertextcolor: 
+
+----
+
+Backgroundparalax: 
+
+----
+
+Shapedividertoggle: false
+
+----
+
+Shapedivider: 
+
+----
+
+Shapedividerposition: 
+
+----
+
+Customshapedivider: 
+
+----
+
+Shapedividerheight: 
+
+----
+
+Metafile: - file://ZDReQS6tD23qPoQv
+
+----
+
+Sitemap: true
+
+----
+
+Metatitle: 
+
+----
+
+Metadescription: Your website’s search engine rankings supercharged. It is super fast. Born to be a winner. SEO optimized out of the box. Google says: Great job. Full control.
+
+----
+
+Uuid: XpdDligeUqLhH7js

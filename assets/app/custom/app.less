@@ -1,0 +1,221 @@
+// Import UIkit default theme (uikit.theme.less or uikit.less with only core styles)
+@import "../src/less/uikit.less";
+
+// UIkit Theme
+@import "elements/_import.less";
+
+// For theme variables go to elements/variables.less
+
+// Custom theme classes
+// ========================================================================
+
+*, ::after, ::before {
+    box-sizing: border-box;
+    text-rendering: optimizeLegibility;
+    outline: 0;
+}
+
+/* Language */
+.tm-language {
+    letter-spacing: 1px;
+}
+
+/* Topbar */
+#topbar {
+    height: 38px;
+    background: @global-muted-background;
+}
+#topbar .uk-container {
+    padding-top: 7px;
+}
+#topbar ul li a svg {
+    padding-bottom: 8px;
+}
+
+/* Transparent navbar */
+.tm-transparent-navbar-negative {
+    margin-top: -@navbar-nav-item-height;
+}
+.tm-transparent-navbar-positive {
+    margin-top: @navbar-nav-item-height;
+}
+
+/* Banner */
+.tm-banner-overlay {
+    position: relative;
+    background: @global-background;
+    top: -40px;
+    left: -20px;
+    max-width: 90%;
+    padding: 20px;
+}
+
+// Contact anchor
+a.tm-contact {
+    display: block;
+    position: relative;
+    top: -250px;
+    visibility: hidden;
+}
+
+/* Heading larger */
+.tm-heading h1 {
+    font-size: @heading-large-font-size-m * 0.85;
+    line-height: @heading-large-line-height;
+}
+.tm-heading h2 {
+    font-size: @heading-large-font-size-m * 0.85;
+    line-height: @heading-large-line-height;
+}
+.tm-heading h3 {
+    font-size:  @heading-medium-font-size-m * 0.825;
+    line-height: @heading-large-line-height;
+}
+
+/* Heading Tablet Landscape and bigger */
+@media (min-width: @breakpoint-medium) {
+
+    .tm-heading h1 {
+        font-size: @heading-large-font-size-l;
+    }
+    .tm-heading h2 {
+        font-size: @heading-medium-font-size-l;
+    }
+    .tm-heading h3 {
+        font-size: @heading-medium-font-size-l * 0.875;
+    }
+
+}
+
+/* Heading Laptop and bigger */
+@media (min-width: @breakpoint-large) {
+
+    .tm-heading h1 {
+        font-size: @heading-large-font-size-l;
+    }
+    .tm-heading h2 {
+        font-size: @heading-medium-font-size-l;
+    }
+    .tm-heading h3 {
+        font-size: @heading-medium-font-size-m;
+    }
+}
+
+/* Hover move */
+.tm-hover-move-up {
+    opacity: 1;
+    transform: translateY(0px);
+    transition: transform 0.32s ease;
+}
+.tm-hover-move-up:hover {
+    transform: translateY(-7px);
+}
+
+/* Padding XLarge for Image - Text section */
+.tm-padding-vertical-xlarge {
+    padding-top: @global-large-gutter*2;
+    padding-left: @global-large-gutter;
+    padding-bottom: @global-large-gutter*2;
+    padding-right:  @global-large-gutter;
+}
+
+/* Sidebar */
+.tm-sidebar-block {
+    padding: 15px;
+    margin-bottom: 5px;
+}
+
+/* Helpers */
+.tm-video {
+    position: relative;
+    overflow: hidden;
+    padding-top: 56.25%;
+}
+.tm-video iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: 0;
+}
+
+@media only screen and (max-width: 959px) {
+    .tm-min-height {
+        min-height: 300px;
+    }
+}
+
+/* Form */
+.tm-hon {
+    display: none;
+}
+
+/* Swup js */
+
+.transition-fade {
+    transition: 0.5s;
+    opacity: 1;
+  }
+  
+  html.is-animating .transition-fade {
+    opacity: 0;
+  }
+  
+  .tm-progress-bar {
+    height: 3px;
+    background-color: @global-primary-background;
+  }
+
+/* Mobile nav submenu */
+.uk-parent .subnav-toggle {
+    transition: transform .1s ease-in-out;
+  }
+  
+  .uk-parent.uk-open .subnav-toggle {
+    transform: rotate(-90deg);
+  }
+
+/* Custom list checkbox */
+.uk-list-checkbox > * { padding-left: @list-padding-left; }
+
+.uk-list-checkbox > ::before {
+    content: "";
+    display: list-item;
+    position: relative;
+    left: -@list-padding-left;
+    width: @list-padding-left;
+    height: @list-marker-height;
+    margin-bottom: -@list-marker-height;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+}
+.uk-list-checkbox > ::before {
+    width: 20px;
+    background-image: url("data:image/svg+xml;charset=UTF-8,%3csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' fill='%23000000'%3e%3cg%3e%3cpath d='M 26,26L 6,26 L 6,6 l 14.752,0 L 22,4L 6,4 C 4.896,4, 4,4.896, 4,6l0,20 c0,1.104, 0.896,2, 2,2l 20,0 c 1.104,0, 2-0.896, 2-2L 28,12.794 L 26,16L 26,26 zM 29.366,2.228C 29.13,2.074, 28.864,2, 28.602,2c-0.456,0-0.904,0.224-1.172,0.634L 16.558,18.318l-4.206-4.8 C 11.782,12.992, 10.898,13.026, 10.372,13.594S 9.882,15.048, 10.45,15.572l 5.056,5.77c 0.032,0.052, 0.082,0.092, 0.122,0.14l 0.128,0.146 c 0.016,0.014, 0.036,0.018, 0.052,0.032c 0.040,0.032, 0.064,0.076, 0.106,0.106c 0.086,0.056, 0.18,0.092, 0.274,0.126 c 0.022,0.008, 0.040,0.022, 0.062,0.028c 0.14,0.046, 0.286,0.074, 0.43,0.074c 0.006,0, 0.012-0.004, 0.018-0.004 c 0.38,0.002, 0.758-0.138, 1.036-0.438c 0.052-0.056, 0.072-0.124, 0.114-0.186c 0.002-0.002, 0.004-0.004, 0.006-0.006l 11.918-17.194 C 30.194,3.52, 30.014,2.652, 29.366,2.228z'%3e%3c/path%3e%3c/g%3e%3c/svg%3e");
+}
+.uk-light .uk-list-checkbox > ::before, .uk-section-primary:not(.uk-preserve-color) .uk-list-checkbox > ::before, .uk-section-secondary:not(.uk-preserve-color) .uk-list-checkbox > ::before, .uk-tile-primary:not(.uk-preserve-color) .uk-list-checkbox > ::before, .uk-tile-secondary:not(.uk-preserve-color) .uk-list-checkbox > ::before, .uk-card-primary.uk-card-body .uk-list-checkbox > ::before, .uk-card-primary > :not([class*="uk-card-media"]) .uk-list-checkbox > ::before, .uk-card-secondary.uk-card-body .uk-list-checkbox > ::before, .uk-card-secondary > :not([class*="uk-card-media"]) .uk-list-checkbox > ::before, .uk-overlay-primary .uk-list-checkbox > ::before, .uk-offcanvas-bar .uk-list-checkbox > ::before, .uk-overlay-secondary .uk-list-checkbox > ::before, .uk-overlay-gradient .uk-list-checkbox > ::before {
+    background-image: url("data:image/svg+xml;charset=UTF-8,%3csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' fill='%23ffffff'%3e%3cg%3e%3cpath d='M 26,26L 6,26 L 6,6 l 14.752,0 L 22,4L 6,4 C 4.896,4, 4,4.896, 4,6l0,20 c0,1.104, 0.896,2, 2,2l 20,0 c 1.104,0, 2-0.896, 2-2L 28,12.794 L 26,16L 26,26 zM 29.366,2.228C 29.13,2.074, 28.864,2, 28.602,2c-0.456,0-0.904,0.224-1.172,0.634L 16.558,18.318l-4.206-4.8 C 11.782,12.992, 10.898,13.026, 10.372,13.594S 9.882,15.048, 10.45,15.572l 5.056,5.77c 0.032,0.052, 0.082,0.092, 0.122,0.14l 0.128,0.146 c 0.016,0.014, 0.036,0.018, 0.052,0.032c 0.040,0.032, 0.064,0.076, 0.106,0.106c 0.086,0.056, 0.18,0.092, 0.274,0.126 c 0.022,0.008, 0.040,0.022, 0.062,0.028c 0.14,0.046, 0.286,0.074, 0.43,0.074c 0.006,0, 0.012-0.004, 0.018-0.004 c 0.38,0.002, 0.758-0.138, 1.036-0.438c 0.052-0.056, 0.072-0.124, 0.114-0.186c 0.002-0.002, 0.004-0.004, 0.006-0.006l 11.918-17.194 C 30.194,3.52, 30.014,2.652, 29.366,2.228z'%3e%3c/path%3e%3c/g%3e%3c/svg%3e");
+}
+
+/* Audio player */
+.tm-audio {
+    width: 100%;
+}
+
+/* Scroll to top button */
+.tm-totop-button {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    z-index: 100;
+    opacity: 0;
+    transform: translateY(100px);
+    transition: all 0.5s ease;
+}
+.tm-show-totop {
+    @media only screen and (min-width: 641px) {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}

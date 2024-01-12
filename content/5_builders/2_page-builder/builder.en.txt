@@ -1,0 +1,149 @@
+Title: Page Builder
+
+----
+
+Animation: true
+
+----
+
+Modules: [{"content":{"columns":[{"columnwidth":"uk-width-1-1","columnclass":"","columntitle":"Title","columncontenthtml":"markdown","columneditor":"","columncontent":"# Page Builder\n\n##### Intuitive and easy to use\n\nBuild websites that load faster, and speed up the process of building them.","columnhtml":"","subcolumns":[],"columncard":"false","columncardsize":"","columncardhover":"false","columncardcolor":""},{"columnwidth":"uk-width-expand@m","columnclass":"","columntitle":"Video","columncontenthtml":"markdown","columneditor":"","columncontent":"(video: https:\/\/www.youtube-nocookie.com\/embed\/s8cOFYKa5Lc?autoplay=0&amp;showinfo=0&amp;rel=0&amp;modestbranding=1&amp;playsinline=1 class: tm-video uk-border-rounded uk-box-shadow-large)","columnhtml":"","subcolumns":[],"columncard":"false","columncardsize":"","columncardhover":"false","columncardcolor":""}],"title":"","blockclass":"","blockid":"","sectionsize":"","sectioncolor":" uk-section-primary","sectionremovepadding":"","backgroundimage":[],"backgroundimageposition":"","backgroundimagesize":"","backgroundimagerepeat":"","sectiontextcolor":"","backgroundoverlaycolor":null,"backgroundparalax":"","shapedividertoggle":"false","shapedivider":"","shapedividerposition":"","shapedividercolor":null,"customshapedivider":"","shapedividerheight":"","gridwidth":" uk-container-small","columnstack":"tablet","columngap":"","columnsverticalalign":"","columnshorizontalalign":"","columnsdivider":"false","centertext":"true","gridheadings":"true","columnsparallax":"false"},"id":"6addbfcf-292a-4a65-98ab-0447625e36be","isHidden":false,"type":"grid"},{"content":{"columns":[{"columnwidth":"uk-width-4-5@m","columnclass":"","columntitle":"","columncontenthtml":"editor","columneditor":"[{\"content\":{\"level\":\"h2\",\"text\":\"Design and build your website visually.\",\"headingsize\":\"\",\"headingstyle\":\"\",\"headingcolor\":\"\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\"},\"id\":\"8dddba16-510d-4157-a430-17c06f25081d\",\"isHidden\":false,\"type\":\"heading\"},{\"content\":{\"text\":\"<p>Zero One has two types of Page Builder blocks: Content Blocks and Page Sections.<\\\/p><p>Below you can see Page sections, and for Content blocks check out <a href=\\\"page-builder\\\/content-blocks\\\" rel=\\\"noopener noreferrer nofollow\\\">this page<\\\/a>.<\\\/p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"54e81965-2a23-456e-99af-e6cff9213c9f\",\"isHidden\":false,\"type\":\"text\"}]","columncontent":"","columnhtml":"","subcolumns":[],"columncard":"false","columncardsize":"","columncardhover":"false","columncardcolor":""},{"columnwidth":"uk-width-1-4@m","columnclass":"","columntitle":"","columncontenthtml":"markdown","columneditor":"","columncontent":"#### Grid.\n\nCreate layouts in endless variations with this section.\n\n(link: builders\/page-builder\/grid text: Learn more)","columnhtml":"","subcolumns":[],"columncard":"false","columncardsize":"","columncardhover":"false","columncardcolor":""},{"columnwidth":"uk-width-1-4@m","columnclass":"","columntitle":"","columncontenthtml":"markdown","columneditor":"","columncontent":"#### Full width text - image.\n\nThe section you will love, we are completely sure of that.\n\n(link: builders\/page-builder\/full-width-text-image text: Learn more)","columnhtml":"","subcolumns":[],"columncard":"false","columncardsize":"","columncardhover":"false","columncardcolor":""},{"columnwidth":"uk-width-1-4@m","columnclass":"","columntitle":"","columncontenthtml":"markdown","columneditor":"","columncontent":"#### Editor.\n\nSection featuring new Kirby CMS Editor with few more options.\n\n(link: builders\/page-builder\/editor text: Learn more)","columnhtml":"","subcolumns":[],"columncard":"false","columncardsize":"","columncardhover":"false","columncardcolor":""},{"columnwidth":"uk-width-1-4@m","columnclass":"","columntitle":"","columncontenthtml":"markdown","columneditor":"","columncontent":"#### Hero.\n\nSay it loud, so everybody can hear you.\n\n(link: builders\/page-builder\/hero text: Learn more)","columnhtml":"","subcolumns":[],"columncard":"false","columncardsize":"","columncardhover":"false","columncardcolor":""},{"columnwidth":"uk-width-1-4@m","columnclass":"","columntitle":"","columncontenthtml":"markdown","columneditor":"","columncontent":"#### Call to action.\n\nMake visitors click where you want them to click.\n\n(link: builders\/page-builder\/call-to-action text: Learn more)","columnhtml":"","subcolumns":[],"columncard":"false","columncardsize":"","columncardhover":"false","columncardcolor":""},{"columnwidth":"uk-width-1-4@m","columnclass":"","columntitle":"","columncontenthtml":"markdown","columneditor":"","columncontent":"#### Full width image.\n\nThere is nothing mysterious here. It's an image, but full width.\n\n(link: builders\/page-builder\/full-width-image text: Learn more)","columnhtml":"","subcolumns":[],"columncard":"false","columncardsize":"","columncardhover":"false","columncardcolor":""},{"columnwidth":"uk-width-1-4@m","columnclass":"","columntitle":"","columncontenthtml":"markdown","columneditor":"","columncontent":"#### Full width video.\n\nSupporting self-hosted and iframe third-party video.\n\n(link: builders\/page-builder\/full-width-video text: Learn more)","columnhtml":"","subcolumns":[],"columncard":"false","columncardsize":"","columncardhover":"false","columncardcolor":""},{"columnwidth":"uk-width-1-4@m","columnclass":"","columntitle":"","columncontenthtml":"markdown","columneditor":"","columncontent":"#### Gallery.\n\nDisplay photos of any purpose as a lightbox gallery.\n\n(link: builders\/page-builder\/gallery text: Learn more)","columnhtml":"","subcolumns":[],"columncard":"false","columncardsize":"","columncardhover":"false","columncardcolor":""},{"columnwidth":"uk-width-1-4@m","columnclass":"","columntitle":"","columncontenthtml":"markdown","columneditor":"","columncontent":"#### Slider.\n\nEverybody like sliders, especially if they are smooth like these.\n\n(link: builders\/page-builder\/slider text: Learn more)","columnhtml":"","subcolumns":[],"columncard":"false","columncardsize":"","columncardhover":"false","columncardcolor":""},{"columnwidth":"uk-width-1-4@m","columnclass":"","columntitle":"","columncontenthtml":"markdown","columneditor":"","columncontent":"#### Slideshow.\n\nClients love slideshows. Well, don\u2019t worry, we got you covered.\n\n(link: builders\/page-builder\/slideshow text: Learn more)","columnhtml":"","subcolumns":[],"columncard":"false","columncardsize":"","columncardhover":"false","columncardcolor":""},{"columnwidth":"uk-width-1-4@m","columnclass":"","columntitle":"","columncontenthtml":"markdown","columneditor":"","columncontent":"#### Latest articles.\n\nDisplay the latest posts on any page with Page Builder.\n\n(link: builders\/page-builder\/latest-articles text: Learn more)","columnhtml":"","subcolumns":[],"columncard":"false","columncardsize":"","columncardhover":"false","columncardcolor":""},{"columnwidth":"uk-width-1-4@m","columnclass":"","columntitle":"","columncontenthtml":"markdown","columneditor":"","columncontent":"#### Latest projects.\n\nDisplay the latest projects on any page with Page Builder.\n\n(link: builders\/page-builder\/latest-projects text: Learn more)","columnhtml":"","subcolumns":[],"columncard":"false","columncardsize":"","columncardhover":"false","columncardcolor":""}],"title":"","blockclass":"","blockid":"","sectionsize":" uk-section-large","sectioncolor":" uk-section-secondary","sectionremovepadding":"","backgroundimage":[],"backgroundimageposition":"","backgroundimagesize":"","backgroundimagerepeat":"","sectiontextcolor":"","backgroundoverlaycolor":null,"backgroundparalax":"","shapedividertoggle":"false","shapedivider":"","shapedividerposition":"","shapedividercolor":null,"customshapedivider":"","shapedividerheight":"","gridwidth":" uk-container-large","columnstack":"mobile","columngap":" uk-grid-large","columnsverticalalign":"","columnshorizontalalign":" uk-flex-center","columnsdivider":"true","centertext":"true","gridheadings":"false","columnsparallax":"false"},"id":"3eb56f51-63c3-42ff-a227-79fe11a350be","isHidden":false,"type":"grid"},{"content":{"cpttext":"#### Need to kickstart your next web project?\n\n### Make Zero One yours.\n\nThe ultimate Kirby CMS toolkit awaits.","cptlinktext":"Purchase Zero One","cptlink":["page:\/\/ZVoGDWAqLvo5X5c1"],"cptbuttoncolor":" uk-button-primary","cptbuttonsize":"large","title":"","blockclass":"","blockid":"","cptsize":"","cpttextwidth":"large","cptheadings":"true","cptstyle":"image","cptimage":["file:\/\/YrPrpcCKhGEWn8Xl"],"cptimageposition":" uk-background-center-center","cptimagesize":" uk-background-cover","cptimagerepeat":" no-repeat","cpttextcolor":" uk-light","cptoverlaycolor":"#000000b3"},"id":"9119d171-9755-484c-aaf0-277a04376e20","isHidden":false,"type":"cpt"}]
+
+----
+
+Disallowsubmenu: false
+
+----
+
+Newtab: false
+
+----
+
+Menuitemicon: grid
+
+----
+
+Megamenu: false
+
+----
+
+Megamenuwidth: 
+
+----
+
+Megamenuitemwidth: 
+
+----
+
+Megamenubackground: false
+
+----
+
+Megamenubackgroundimage: 
+
+----
+
+Megamenubackgroundimageposition: 
+
+----
+
+Megamenubackgroundimagesize: 
+
+----
+
+Megamenubackgroundimagerepeat: 
+
+----
+
+Megamenubackgroundgradientoverlay: false
+
+----
+
+Megamenubackgroundgradienttransition: 
+
+----
+
+Transparentnavbar: 
+
+----
+
+Navbarinverse: false
+
+----
+
+Headersection: false
+
+----
+
+Alttitle: 
+
+----
+
+Intro: Hello there.
+
+----
+
+Headerbackgroundtoggle: false
+
+----
+
+Header: 
+
+----
+
+Headerimageposition: 
+
+----
+
+Headerimagesize: 
+
+----
+
+Headerimagerepeat: 
+
+----
+
+Headertextcolor: 
+
+----
+
+Backgroundparalax: 
+
+----
+
+Shapedividertoggle: false
+
+----
+
+Shapedivider: 
+
+----
+
+Shapedividerposition: 
+
+----
+
+Customshapedivider: 
+
+----
+
+Shapedividerheight: 
+
+----
+
+Metafile: - file://zx5JyyTcfRgwFFn3
+
+----
+
+Sitemap: true
+
+----
+
+Metatitle: 
+
+----
+
+Metadescription: Page Builder Dream. Build websites that load faster, and speed up the process of building them. Intuitive content editing that don’t sacrifice functionality.
+
+----
+
+Uuid: 4Bpc1tN5H1ysoSpX

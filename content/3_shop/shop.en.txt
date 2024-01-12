@@ -1,0 +1,185 @@
+Title: Shop
+
+----
+
+Categories: snipcart, custom, catalog
+
+----
+
+Perpage: 9
+
+----
+
+Productsstyle: grid3
+
+----
+
+Pagewidth: large
+
+----
+
+Customtabs:
+
+- 
+  tabname: 30-Day Return
+  tabcontent: '[{"content":{"text":"<p>We want you to feel like every item is the perfect match for your home. If it’s not the right fit, we’ll help you get it sorted and have you on your way.</p><p>You can return most items for a refund or store credit <strong>within 30 days of delivery</strong>. Return shipping costs apply, and the item must be in its original condition and packaging to be accepted.</p><p><strong>There are a few items that can’t be returned:</strong></p>","textalign":"","textaligntablet":"","textalignmobile":"","textsize":"","texttransform":"","textwrapping":"","textcolor":""},"id":"570a8367-c68e-4ece-b79c-6f6eb62fbd04","isHidden":false,"type":"text"},{"content":{"text":"<ul><li>Clearance items</li><li>Gift cards</li><li>Personalized items</li><li>Bundled items at discounted rates</li><li>Items you have already assembled</li><li>Items marked “Non-Returnable” on the sale page</li><li>Open Box Items</li></ul>","liststyle":" uk-list-circle","listcolor":"","listsize":" uk-list-collapse","listdivider":"","column":""},"id":"2a05e131-29d7-433f-b70a-69a494e9a2f5","isHidden":false,"type":"list"},{"content":{"text":"<p><strong>Any outbound shipping charges collected on the order will not be refunded. This includes:</strong></p>","textalign":"","textaligntablet":"","textalignmobile":"","textsize":"","texttransform":"","textwrapping":"","textcolor":""},"id":"cb08a55b-2b97-4a18-8b9b-dfd728da1a66","isHidden":false,"type":"text"},{"content":{"text":"<ul><li>Upgraded shipping charges (expedited, express, room of choice, etc.)</li><li>Assembly services included with delivery</li></ul>","liststyle":" uk-list-circle","listcolor":"","listsize":" uk-list-collapse","listdivider":"","column":""},"id":"64c0f87d-aa14-4ebf-9d90-c318e4631599","isHidden":false,"type":"list"},{"content":{"text":"<p>However, if your item is damaged or defective, these exceptions do not apply. In this case, we’ll take care of it and work with you to find the best solution.</p>","textalign":"","textaligntablet":"","textalignmobile":"","textsize":"","texttransform":"","textwrapping":"","textcolor":""},"id":"820466c3-3b39-4c2c-a730-31d48f2bbd89","isHidden":false,"type":"text"}]'
+
+----
+
+Layoutbuilderposition: true
+
+----
+
+Layout: [{"attrs":{"gridwidth":"uk-container","tabletwidth":"","mobilewidth":"","columnsverticalalign":" uk-flex-middle","columnshorizontalalign":"","containerexpand":"","columngap":"","columnsdivider":"false","gridmasonry":"false","gridparallax":"false","sectiontoggle":"true","sectionsize":"","sectioncolor":" uk-section-muted","sectionremovepadding":"","backgroundstyle":"color","backgroundimage":[],"mediavideosource":"url","mediavideo":[],"mediavideourl":"","backgroundimageposition":" uk-background-center-center","backgroundimagesize":" uk-background-cover","backgroundimagerepeat":" no-repeat","sectiontextcolor":" uk-light","backgroundoverlaycolor":"rgba(0,0,0,0.3)","backgroundgradientoverlay":"false","backgroundgradienttransition":"","backgroundoverlaycolor2":"rgba(0,0,0,0.3)","backgroundparalax":"","shapedividertoggle":"false","shapedivider":"","shapedividerposition":"","shapedividercolor":"#ffffff","customshapedivider":"","shapedividerheight":"150px","preservecolor":"false","sectionclass":"","sectionid":"","hidden":"","visible":"","animationswitch":"true","animationtype":"uk-animation-slide-bottom-small","animationdelay":null},"columns":[{"blocks":[{"content":{"level":"h2","text":"Add content after, or before, products listing","headingsize":"","headingstyle":"","headingcolor":"","textalign":"","textaligntablet":"","textalignmobile":"","texttransform":"","textwrapping":""},"id":"c0e87a89-fc30-4a0d-a685-9e91bd984cef","isHidden":false,"type":"heading"}],"id":"8d39c3c9-d143-48bc-9121-236bd6571c17","width":"1/3"},{"blocks":[{"content":{"text":"<p>You can add content before or after products listing on the shop page, using Layout Builder, and create call-outs or anything you need.</p>","textalign":"","textaligntablet":"","textalignmobile":"","textsize":"","texttransform":"","textwrapping":"","textcolor":""},"id":"beb801f0-251f-4518-8a2f-46aba6b3635a","isHidden":false,"type":"text"}],"id":"0a8d5f71-b0da-4fa8-9d28-be5a840eda29","width":"1/3"},{"blocks":[{"content":{"columnwidth":"","tabletwidth":"","mobilewidth":"","columnheight":"","columnminheight":"","columnmaxheight":"","textalign":" uk-text-center@m","textaligntablet":"","textalignmobile":"","textsize":"","texttransform":"","textwrapping":"","columnstyle":"none","columncardsize":"","columncardhover":"false","columncardcolor":" uk-card-default","columntile":"","columnbackground":"","columntextcolor":" uk-light","backgroundstyle":"color","backgroundimage":[],"backgroundimageposition":" uk-background-center-center","backgroundimagesize":" uk-background-cover","backgroundimagerepeat":" no-repeat","backgroundparalax":"","mediavideosource":"url","mediavideo":[],"mediavideourl":"","backgroundoverlaycolor":"rgba(0,0,0,0.3)","backgroundgradientoverlay":"false","backgroundgradienttransition":"","backgroundoverlaycolor2":"rgba(0,0,0,0.3)","columnpadding":"","itemfirst":"","itemlast":"","borderrounded":"false","columnshadow":"","columnclass":"","columnid":"","hidden":"","visible":"","animationswitch":"false","animationtype":"","animationdelay":null},"id":"3275b106-9a9d-423a-8570-cde60725b3a8","isHidden":false,"type":"z-column"},{"content":{"text":"Purchase Zero One","buttonicon":"","linktype":"internal","link":"","internalpage":["page://ZVoGDWAqLvo5X5c1"],"anchor":"","filelink":[],"emaillink":"","phonelink":"","target":"false","buttonstyle":" uk-button-primary","buttonsize":" uk-button-large","margintop":""},"id":"523b6cdf-2875-4ced-893d-d00d87614671","isHidden":false,"type":"button"},{"content":{"text":"<p>Get full access and join 550+ customers</p>","textalign":"","textaligntablet":"","textalignmobile":"","textsize":" uk-text-small","texttransform":"","textwrapping":"","textcolor":" uk-text-muted"},"id":"71499296-7705-49cb-81cd-8df31ed7f679","isHidden":false,"type":"text"}],"id":"55e4012c-9959-4852-a9e7-f20175f5e8e4","width":"1/3"}],"id":"80bb421f-64f7-4ebd-bca2-237bf9b4fac1"}]
+
+----
+
+Hidenavbar: false
+
+----
+
+Disallowsubmenu: true
+
+----
+
+Newtab: false
+
+----
+
+Menuitemicon: 
+
+----
+
+Megamenu: false
+
+----
+
+Megamenuwidth: 
+
+----
+
+Megamenuitemwidth: 
+
+----
+
+Megamenubackground: false
+
+----
+
+Megamenubackgroundimage: 
+
+----
+
+Megamenubackgroundimageposition: 
+
+----
+
+Megamenubackgroundimagesize: 
+
+----
+
+Megamenubackgroundimagerepeat: 
+
+----
+
+Megamenubackgroundgradientoverlay: false
+
+----
+
+Megamenubackgroundgradienttransition: 
+
+----
+
+Transparentnavbar: 
+
+----
+
+Navbarinverse: false
+
+----
+
+Headersection: true
+
+----
+
+Alttitle: 
+
+----
+
+Intro: Welcome to Zero One example shop! Every product has different options selected so you can understand some possibilities.
+
+----
+
+Headerbackgroundtoggle: false
+
+----
+
+Header: 
+
+----
+
+Headerimageposition: uk-background-center-center
+
+----
+
+Headerimagesize: uk-background-cover
+
+----
+
+Headerimagerepeat: no-repeat
+
+----
+
+Headertextcolor: uk-light
+
+----
+
+Headeroverlaycolor: rgba(0,0,0,0.2)
+
+----
+
+Backgroundparalax: 
+
+----
+
+Shapedividertoggle: false
+
+----
+
+Shapedivider: 
+
+----
+
+Shapedividerposition: 
+
+----
+
+Customshapedivider: 
+
+----
+
+Shapedividerheight: 
+
+----
+
+Hidefooter: false
+
+----
+
+Sitemap: true
+
+----
+
+Metafile: 
+
+----
+
+Metatitle: Kirby CMS Ecommerce shop
+
+----
+
+Metadescription: Welcome to Zero One example shop! Every product has different options selected so you can understand some possibilities and flexibility.
+
+----
+
+Uuid: j6UdCityDszLAsSL

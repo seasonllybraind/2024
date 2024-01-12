@@ -1,0 +1,85 @@
+name: 
+  en: Fancy gallery
+  de: Schicke Galerie
+icon: images
+
+preview: zimageslider
+
+tabs:
+  # content tab
+  content:
+    label: 
+      en: Content
+      de: Inhalt
+    icon: edit
+    fields:
+      # gallery
+      gallery:
+        extends: fields/image
+        layout: cardlets
+        text: "{{ file.alt.or(file.filename) }}"
+
+  # settings tab
+  settings:
+    label: 
+      en: Settings
+      de: die Einstellungen
+    icon: cog
+    fields:
+      title:
+        label: 
+          en: Section title
+          de: Abschnittsüberschrift
+        type: text
+        placeholder: My custom Section name
+        width: 1/3
+      blockClass:
+        label: 
+          en: Section custom class
+          de: Abschnitt benutzerdefinierte Klasse
+        type: text
+        placeholder: my-custom-class
+        before: '.'
+        width: 1/3
+      # section id
+      blockID:
+        label: 
+          en: Section ID
+          de: Abschnitts-ID
+        type: text
+        placeholder: my-custom-id
+        before: '#'
+        width: 1/3
+      # gallery grid
+      galleryGrid:
+        label: 
+          en: Gallery grid columns
+          de: Galerie-Rasterspalten
+        type: select
+        default: three
+        options:
+          two: 
+            en: Two
+            de: Zwei
+          three: 
+            en: Three
+            de: Drei
+          four: 
+            en: Four
+            de: Vier
+        width: 1/3
+      # gallery thumbnails
+      galleryThumbnails:
+        label: 
+          en: Gallery thumbnails
+          de: Miniaturansichten der Galerie
+        type: select
+        default: cropped
+        options:
+          cropped: 
+            en: Cropped
+            de: Abgeschnitten
+          masonry: 
+            en: Masonry
+            de: Mauerwerk
+        width: 1/3

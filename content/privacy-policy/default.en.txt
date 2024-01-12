@@ -1,0 +1,173 @@
+Title: Privacy policy
+
+----
+
+Pagewidth: xsmall
+
+----
+
+Text: [{"content":{"text":"<p>Version: 31-03-2022<br>Version number: 1.0</p><p>We respect the privacy of visitors to our website and ensure that the personal information you provide is treated confidentially. You can read below how we do this exactly, and which personal data we collect from you for which purposes.</p><h3>The use of personal data</h3><p>When using our website, we obtain certain information from you. That can be personal data. We only store and use the personal data that you provide directly, in the context of the service you have requested (for example via the contact form or to create a login), or of which it is clear that they are provided to us in order to process. We will not use your personal data for other purposes unless you have given permission in advance, or we are allowed or required to do so by law.</p><h3>Purposes of use</h3><p>To provide you with the best possible service, we need to store your personal data in certain cases. We use your personal data for:</p>","textalign":"","textaligntablet":"","textalignmobile":"","textsize":"","texttransform":"","textwrapping":"","textcolor":""},"id":"630db5ee-aa0a-4342-b360-9425ec20d295","isHidden":false,"type":"text"},{"content":{"text":"<ul><li>providing access to our website;</li><li>using the functionalities on our website;</li><li>the execution of agreements, transactions and services;</li><li>relationship management, including contacting you if you so request;</li><li>obtaining insight into the use of our website;</li><li>product and service development;</li><li>determining strategy and policy;</li><li>making the internet offer more interesting by showing advertising that matches your interests.</li></ul>","liststyle":" uk-list-disc","listcolor":"","listsize":"","listdivider":"","column":""},"id":"f6e241fb-e104-4944-9fec-e41f0a2e6e1b","isHidden":false,"type":"list"},{"content":{"text":"<h3>Description of the personal data</h3><p>For the above purposes, we will process the following personal data about you:</p>","textalign":"","textaligntablet":"","textalignmobile":"","textsize":"","texttransform":"","textwrapping":"","textcolor":""},"id":"a304c16a-310b-456e-b346-a20e0e46c320","isHidden":false,"type":"text"},{"content":{"text":"<ul><li>Name and address details;</li><li>e-mail address;</li><li>mobile number;</li><li>IP address;</li><li>technical browser information;</li><li>cookie ID;</li><li>click and surfing behaviour;</li><li>Retention periods</li><li>We do not store your personal data for longer than is necessary to achieve the purposes stated in this privacy and cookie statement.</li></ul>","liststyle":" uk-list-disc","listcolor":"","listsize":"","listdivider":"","column":""},"id":"93cd4354-42b7-4149-befe-6ae055007508","isHidden":false,"type":"list"},{"content":{"text":"<h3>Confidentiality &amp; disclosure to third parties</h3><p>We treat your personal data confidentially. We do not provide the personal data that we collect via our website to third parties for direct marketing purposes of these parties. Furthermore, we will not provide the information you provide to other parties unless you have given prior permission for this, this is necessary for the context of the execution of the agreement or we may or must do this on the basis of the law.</p><h3>Data Security</h3><p>We handle the processed data with care, among other things to prevent unauthorized persons from unintentionally gaining access to this data. In this way, we ensure that only the necessary persons have access to your data and that access to your personal data is protected.</p><h3>Cookies</h3><p>Cookies are used on this website. Cookies are small information files that can be automatically stored on or read from your device (including a PC, tablet or smartphone) when you visit a website. This is done via the web browser on the device. The information that a cookie obtains about your use of the website can be transferred to our own secure servers or those of a third party.</p><h3>Cookies are used on our website to:</h3>","textalign":"","textaligntablet":"","textalignmobile":"","textsize":"","texttransform":"","textwrapping":"","textcolor":""},"id":"9186f0a4-ea7d-402b-b809-46e68ac8477f","isHidden":false,"type":"text"},{"content":{"text":"<ul><li>to enable functionalities of the website and to protect the website (technical or functional cookies);</li><li>to analyze the use of the website and to improve the website on that basis (analytical cookies);</li><li>to make it possible to share our website via social media (social media cookies).</li></ul>","liststyle":" uk-list-disc","listcolor":"","listsize":"","listdivider":"","column":""},"id":"92e3e96a-cc74-473e-aa35-e510cb194560","isHidden":false,"type":"list"},{"content":{"text":"<p><strong>Technical or functional cookies</strong><br>The main purpose of cookies is to save you time and effort. For example, if you adjust a web page to your personal preferences you navigate a website or add a product to the cart, the chosen settings and preferences are remembered for future use thanks to cookies. When you visit the website again later, the previously entered data can be retrieved by the cookies, so that you can easily use the possibilities of the website again as you have set it up previously. We use the following technical cookies:</p>","textalign":"","textaligntablet":"","textalignmobile":"","textsize":"","texttransform":"","textwrapping":"","textcolor":""},"id":"24ecadfa-fce8-4423-8b7e-d9e2a0042c55","isHidden":false,"type":"text"},{"content":{"text":"<ul><li>thezero.club</li><li>google.com</li><li>snipcart.com</li></ul>","liststyle":" uk-list-disc","listcolor":"","listsize":"","listdivider":"","column":""},"id":"1072625a-8830-41c4-93c1-4c4194ff2a1c","isHidden":false,"type":"list"},{"content":{"text":"<p><strong>Analytical cookies</strong><br>In addition, cookies are used on this website to keep statistics, so that we can gain insight into the use of our website and the effectiveness of our campaigns. We use the following analytical cookies:</p><ul><li><p>google.com</p></li></ul><p><strong>Advertising cookies</strong><br>We also use advertising cookies so that we can improve the online advertising offering for you and gain insight into our campaign performance. We use the following advertising cookies:</p><p>n/a</p><p><strong>Social media cookies</strong><br>To make it possible for you to share our information on this website via the various social media channels, we use the following cookies:</p><p>n/a</p><p><strong>Enable and disable cookies</strong><br>You can choose whether or not to accept cookies. Most browsers automatically accept cookies, but you can usually change your browser settings to not accept cookies if you prefer (see your browser help page for exact instructions). If you choose not to accept cookies, you may not be able to take full advantage of the interactive features of this website or other sites you visit.</p><p><strong>Delete cookies</strong><br>Most cookies have an expiration date. That means they expire automatically after a certain period of time and no longer record any data from your site visit. You can also choose to manually delete the cookies before the expiration date has passed. For more information about this, you can consult the manual of your browser.</p><h3>Links to other third-party websites</h3><p>Our internet pages contain links to other websites. This privacy and cookie statement does not apply to third-party websites connected to our website through links. We cannot guarantee that these third parties will handle your personal data in a reliable or secure manner. We, therefore, recommend that you read the privacy policy of these websites before using these websites.</p><h3>Your legal rights</h3><p>You can request us to change, move, supplement or delete this data. You can do this by contacting us via email at <a href=\"mailto:support@thezero.club\">support@thezero.club</a>.</p><h3>Changes to this privacy and cookie statement</h3><p>We reserve the right to change this privacy and cookie statement. Changes will be published on our website. It is therefore recommended that you consult this policy regularly so that you are aware of any changes.</p><h3>Personal Data Authority</h3><p>Of course, we are also happy to help you if you have complaints about the processing of your personal data. Under the privacy legislation, you have the right to file a complaint with the Serbian Data Protection Authority against our processing of your personal data. You can contact the Serbian Data Protection Authority for this.</p>","textalign":"","textaligntablet":"","textalignmobile":"","textsize":"","texttransform":"","textwrapping":"","textcolor":""},"id":"04e0bf05-8b86-42c4-ac9b-c5bb72641f27","isHidden":false,"type":"text"}]
+
+----
+
+Enablesidebar: false
+
+----
+
+Sidebartext: 
+
+----
+
+Hidenavbar: false
+
+----
+
+Disallowsubmenu: false
+
+----
+
+Newtab: false
+
+----
+
+Menuitemicon: 
+
+----
+
+Megamenu: false
+
+----
+
+Megamenuwidth: 
+
+----
+
+Megamenuitemwidth: 
+
+----
+
+Megamenubackground: false
+
+----
+
+Megamenubackgroundimage: 
+
+----
+
+Megamenubackgroundimageposition: 
+
+----
+
+Megamenubackgroundimagesize: 
+
+----
+
+Megamenubackgroundimagerepeat: 
+
+----
+
+Megamenubackgroundgradientoverlay: false
+
+----
+
+Megamenubackgroundgradienttransition: 
+
+----
+
+Transparentnavbar: 
+
+----
+
+Navbarinverse: false
+
+----
+
+Headersection: true
+
+----
+
+Alttitle: 
+
+----
+
+Intro: By using our site you accept the conditions.
+
+----
+
+Headerbackgroundtoggle: true
+
+----
+
+Header: - file://yslbqWt0yFFPjlSj
+
+----
+
+Headerimageposition: uk-background-center-center
+
+----
+
+Headerimagesize: uk-background-cover
+
+----
+
+Headerimagerepeat: no-repeat
+
+----
+
+Headertextcolor: uk-light
+
+----
+
+Headeroverlaycolor: rgba(0, 0, 0, 0.3)
+
+----
+
+Backgroundparalax: paralaxY
+
+----
+
+Shapedividertoggle: false
+
+----
+
+Shapedivider: 
+
+----
+
+Shapedividerposition: 
+
+----
+
+Customshapedivider: 
+
+----
+
+Shapedividerheight: 
+
+----
+
+Hidefooter: false
+
+----
+
+Metafile: - file://yslbqWt0yFFPjlSj
+
+----
+
+Sitemap: true
+
+----
+
+Metatitle: 
+
+----
+
+Metadescription: 
+
+----
+
+Customcss: 
+
+----
+
+Uuid: etg6dYH14uV5Y3O5

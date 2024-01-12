@@ -1,0 +1,192 @@
+name: 
+  en: Custom navigation
+  de: Benutzerdefinierte Navigation
+icon: list-bullet
+
+preview: zpages
+
+tabs:
+  # content tab
+  content:
+    label: 
+      en: Content
+      de: Inhalt
+    icon: edit
+    fields:
+      pages:
+        label: 
+          en: Pages
+          de: Seiten
+        type: select
+        options:
+          child: 
+            en: Child pages
+            de: Untergeordnete Seiten
+          sibling: 
+            en: Same level pages
+            de: Seiten auf gleicher Ebene
+          site: 
+            en: Main site pages
+            de: Hauptseiten
+          custom:
+            en: Select parent
+            de: Übergeordnetes auswählen
+        width: 1/3
+      info:
+        label: Information
+        type: info
+        text: 
+          en: This block displays a list of pages. You can choose several options.
+          de: Dieser Block zeigt eine Liste von Seiten an. Sie können mehrere Optionen auswählen.
+        width: 2/3
+
+      pagesParent:
+        label: 
+          en: Parent page
+          de: Übergeordnete Seite
+        type: pages
+        empty: Select parent page
+        multiple: false
+        width: 1/3
+        when:
+          pages: custom
+
+      navigationStyle:
+        label: Navigation style
+        type: select
+        default: list
+        options:
+          list: List
+          nav: Vertical nav
+          subnav: Horizontal nav
+        width: 1/3
+
+      # list
+      listStyle:
+        label: 
+          en: List Style
+          de: Listenstil 
+        type: select
+        placeholder: None
+        options:
+          " uk-list-disc": Bullet
+          " uk-list-circle": Circle
+          " uk-list-square": Square
+          " uk-list-hyphen": Hyphen
+          " uk-list-decimal": Decimal
+          " uk-list-checkbox": Checkbox
+        width: 1/3
+        when:
+          navigationStyle: list
+      listColor:
+        label: 
+          en: List Color
+          de: Listenfarbe
+        type: select
+        placeholder: Default
+        options:
+          " uk-list-muted": Muted
+          " uk-list-emphasis": Emphasis
+          " uk-list-primary": Primary
+          " uk-list-secondary": Secondary
+        width: 1/3
+        when:
+          navigationStyle: list
+      listSize:
+        label: 
+          en: List Size
+          de: Listengröße
+        type: select
+        placeholder: Default
+        options:
+          " uk-list-collapse": Collapse
+          " uk-list-large": Large
+        width: 1/3
+        when:
+          navigationStyle: list
+      listDivider:
+        label: 
+          en: List Divider
+          de: Listenteiler
+        type: select
+        placeholder: None
+        options:
+          " uk-list-divider": Line
+          " uk-list-striped": Striped
+        width: 1/3
+        when:
+          navigationStyle: list
+      column:
+        label: 
+          en: Columns
+          de: Spalten
+        type: select
+        options:
+          " uk-column-1-1 uk-column-1-2@s": 1/2
+          " uk-column-1-1 uk-column-1-3@s": 1/3
+          " uk-column-1-1 uk-column-1-2@s uk-column-1-4@m": 1/4
+          " uk-column-1-1 uk-column-1-2@s uk-column-1-5@m": 1/5
+          " uk-column-1-1 uk-column-1-2@s uk-column-1-6@m": 1/6
+        width: 1/3
+        when:
+          navigationStyle: list
+
+      # nav
+      navDefault:
+        label: Default color
+        type: toggle
+        width: 1/3
+        when:
+          navigationStyle: nav
+      navCenter:
+        label: Center nav
+        type: toggle
+        width: 1/3
+        when:
+          navigationStyle: nav
+
+      # subnav
+      subnavDivider:
+        label: Subnav divider
+        type: toggle
+        width: 1/3
+        when:
+          navigationStyle: subnav
+      subnavPill:
+        label: Subnav pill
+        type: toggle
+        width: 1/3
+        when:
+          navigationStyle: subnav
+
+  # settings tab
+  settings:
+    label: 
+      en: Settings
+      de: die Einstellungen
+    icon: cog
+    fields:
+      title:
+        label: 
+          en: Block title
+          de: Blocktitel
+        type: text
+        placeholder: My custom block name
+        width: 1/3
+      blockClass:
+        label: 
+          en: Block custom class
+          de: Benutzerdefinierte Klasse
+        type: text
+        placeholder: my-custom-class
+        before: '.'
+        width: 1/3
+      # section id
+      blockID:
+        label: 
+          en: Block ID
+          de: ID
+        type: text
+        placeholder: my-custom-id
+        before: '#'
+        width: 1/3

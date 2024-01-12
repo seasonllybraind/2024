@@ -1,0 +1,94 @@
+name: 
+  en: Full width video
+  de: Video in voller Breite
+label: - {{title}}
+icon: file-video
+
+tabs:
+  # content tab
+  content:
+    label: 
+      en: Content
+      de: Inhalt
+    icon: edit
+    fields:
+      # video
+      mediaVideoSource:
+        label: 
+          en: Choose video source
+          de: Wählen Sie die Videoquelle
+        type: radio
+        default: url
+        columns: 2
+        options:
+          url: URL
+          upload: 
+            en: Upload
+            de: Hochladen
+      mediaVideo:
+        label: 
+          en: Video file
+          de: Videodatei
+        extends: fields/video
+        multiple: false
+        help: 
+          en: Choose the section video.
+          de: Wählen Sie den Abschnitt Video.
+        when:
+          mediaVideoSource: "upload" 
+      mediaVideoUrl:
+        label: Video URL (iframe)
+        type: url
+        help: 
+          en: For YouTube and Vimeo must be Embed url.
+          de: Für YouTube und Vimeo muss URL einbetten.
+        when:
+          mediaVideoSource: "url"
+      # section height
+      mediaVideoHeight:
+        label: 
+          en: Media section height
+          de: Höhe des Medienabschnitts
+        type: radio
+        default: large
+        columns: 3
+        options:
+          medium: Medium
+          large: 
+            en: Large
+            de: Groß
+          viewport: 
+            en: Viewport
+            de: Ansichtsfenster
+
+  # settings tab
+  settings:
+    label: 
+      en: Settings
+      de: die Einstellungen
+    icon: cog
+    fields:
+      title:
+        label: 
+          en: Section title
+          de: Abschnittsüberschrift
+        type: text
+        placeholder: My custom Block name
+        width: 1/3
+      blockClass:
+        label: 
+          en: Section custom class
+          de: Abschnitt benutzerdefinierte Klasse
+        type: text
+        placeholder: my-custom-class
+        before: '.'
+        width: 1/3
+      # block id
+      blockID:
+        label: 
+          en: Section ID
+          de: Abschnitts-ID
+        type: text
+        placeholder: my-custom-id
+        before: '#'
+        width: 1/3

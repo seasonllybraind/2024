@@ -1,0 +1,173 @@
+Title: Responsive image test
+
+----
+
+Layout: [{"attrs":{"gridwidth":"","tabletwidth":"","mobilewidth":"","columnsverticalalign":"","columnshorizontalalign":"","containerexpand":"","columngap":"","columnsdivider":"false","gridmasonry":"false","gridparallax":"false","sectiontoggle":"true","sectionsize":"","sectioncolor":" uk-section-default","sectionremovepadding":"","backgroundstyle":"color","backgroundimage":[],"mediavideosource":"url","mediavideo":[],"mediavideourl":"","backgroundimageposition":" uk-background-center-center","backgroundimagesize":" uk-background-cover","backgroundimagerepeat":" no-repeat","sectiontextcolor":" uk-light","backgroundoverlaycolor":"rgba(0,0,0,0.3)","backgroundgradientoverlay":"false","backgroundgradienttransition":"","backgroundoverlaycolor2":"rgba(0,0,0,0.3)","backgroundparalax":"","shapedividertoggle":"false","shapedivider":"","shapedividerposition":"","shapedividercolor":"#ffffff","customshapedivider":"","shapedividerheight":"150px","preservecolor":"false","sectionclass":"","sectionid":"","hidden":"","visible":"","animationswitch":"false","animationtype":"","animationdelay":""},"columns":[{"blocks":[{"content":{"location":"kirby","image":[{"id":"angry-businesswoman-looking-her-watch-with-copy-space.jpg"}],"src":"","ratio":"","alt":"","resizewidth":"","caption":"","captionclass":"false","width":"","widthmobile":"","align":"","float":"","borderradius":"","shadow":"","linkoption":"lightbox","link":"https://imagekit.io/responsive-images/","newtab":"true"},"id":"852cdba3-cccd-4d97-b423-7b8456df8de7","isHidden":false,"type":"image"}],"id":"e2bfa984-4542-48e7-bcd5-8a14754a3de4","width":"1/1"}],"id":"c5ee0fe9-2352-41a5-8b60-0ed72ad04545"}]
+
+----
+
+Hidenavbar: false
+
+----
+
+Disallowsubmenu: false
+
+----
+
+Newtab: false
+
+----
+
+Menuitemicon: 
+
+----
+
+Megamenu: false
+
+----
+
+Megamenuwidth: 
+
+----
+
+Megamenuitemwidth: 
+
+----
+
+Megamenubackground: false
+
+----
+
+Megamenubackgroundimage: 
+
+----
+
+Megamenubackgroundimageposition: uk-background-center-center
+
+----
+
+Megamenubackgroundimagesize: uk-background-cover
+
+----
+
+Megamenubackgroundimagerepeat: no-repeat
+
+----
+
+Megamenubackgroundoverlaycolor: rgba(0,0,0,0.3)
+
+----
+
+Megamenubackgroundgradientoverlay: false
+
+----
+
+Megamenubackgroundgradienttransition: 
+
+----
+
+Megamenubackgroundoverlaycolor2: rgba(0,0,0,0.3)
+
+----
+
+Transparentnavbar: 
+
+----
+
+Navbarinverse: false
+
+----
+
+Headersection: true
+
+----
+
+Alttitle: 
+
+----
+
+Intro: 
+
+----
+
+Headerbackgroundtoggle: false
+
+----
+
+Header: 
+
+----
+
+Headerimageposition: uk-background-center-center
+
+----
+
+Headerimagesize: uk-background-cover
+
+----
+
+Headerimagerepeat: no-repeat
+
+----
+
+Headertextcolor: uk-light
+
+----
+
+Headeroverlaycolor: rgba(0,0,0,0.2)
+
+----
+
+Backgroundparalax: 
+
+----
+
+Shapedividertoggle: false
+
+----
+
+Shapedivider: 
+
+----
+
+Shapedividerposition: 
+
+----
+
+Shapedividercolor: #ffffff
+
+----
+
+Customshapedivider: 
+
+----
+
+Shapedividerheight: 150px
+
+----
+
+Hidefooter: false
+
+----
+
+Sitemap: true
+
+----
+
+Metafile: 
+
+----
+
+Metatitle: 
+
+----
+
+Metadescription: 
+
+----
+
+Customcss: 
+
+----
+
+Uuid: 6hXsMqPkTjfXUj8A

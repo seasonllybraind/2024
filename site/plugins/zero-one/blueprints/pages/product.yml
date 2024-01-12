@@ -1,0 +1,677 @@
+title: 
+  en: Product
+  de: Produkt
+icon: tag
+
+status:
+  draft:
+    label: 
+      en: Draft
+      de: Entwurf
+    text: 
+      en: The product is still in draft mode. It can only be seen by editors with panel access.
+      de: Das Produkt befindet sich noch im Entwurfsmodus. Es kann nur von Redakteuren mit Panel-Zugriff gesehen werden.
+  unlisted:
+    label: 
+      en: In Review
+      de: Unveröffentlicht
+    text: 
+      en: The product is online and can be visited with the direct URL. The team must still give the final go to publish it.
+      de: Das Produkt ist online und kann mit der direkten URL besucht werden. Das Team muss noch die endgültige Entscheidung treffen, um es zu veröffentlichen.
+  listed:
+    label: 
+      en: Published
+      de: Veröffentlicht
+    text: 
+      en: The product is online and listed on the website.
+      de: Das Produkt ist online und auf der Website aufgeführt.
+
+tabs:
+  # content tab
+  content:
+    label: 
+      en: Product info
+      de: Produktinformation
+    icon: text
+    columns:
+      - width: 2/3
+        sections:
+          # product data
+          data:
+            type: fields
+            fields:
+              productPrice:
+                label: 
+                  en: Product price
+                  de: Produktpreis
+                type: headline
+              productType:
+                label: 
+                  en: Product type
+                  de: Produktart 
+                type: select
+                placeholder: Choose product type
+                options:
+                  custom: 
+                    en: Custom
+                    de: Benutzerdefinierter
+                  snipcart: Snipcart
+                width: 1/4
+              snipcartInfo:
+                label: Snipcart info
+                type: info
+                text: 
+                  en: Make sure you added your Snipcart API in Shop settings.
+                  de: Stellen Sie sicher, dass Sie Ihre Snipcart-API in den Shop-Einstellungen hinzugefügt haben.
+                width: 3/4
+                when:
+                  productType: snipcart
+              # Snipcart price
+              snipcartPrice:
+                label: 
+                  en: Regular price
+                  de: Regulärer Preis
+                type: number
+                step: .01
+                min: 0
+                default: 0.00
+                before: '{{site.defaultCurrencysymbol}}'
+                translate: false
+                required: true
+                help: 
+                  en: You choose the currency inside Snipcart account.
+                  de: Sie wählen die Währung innerhalb des Snipcart-Kontos.
+                width: 1/3
+                when:
+                  productType: snipcart
+              snipcartDiscountprice:
+                label: 
+                  en: Discounted price
+                  de: Reduzierter Preis
+                type: number
+                step: .01
+                min: 0
+                translate: false
+                placeholder: 0.00
+                before: '{{site.defaultCurrencysymbol}}'
+                help: 
+                  en: Optional. It will override regular price. 
+                  de: Optional. Es überschreibt den regulären Preis.
+                width: 1/3
+                when:
+                  productType: snipcart
+              snipcartProductid:
+                label: Product ID
+                type: text
+                maxlength: 20
+                minlenght: 3
+                width: 1/3
+                help: If empty page slug will be used.
+                when:
+                  productType: snipcart
+              snipcartMaxquantity:
+                label: 
+                  en: Max quantity
+                  de: Maximale Menge
+                type: number
+                min: 1
+                translate: false
+                width: 1/3
+                when:
+                  productType: snipcart
+              snipcartMinquantity:
+                label: 
+                  en: Min quantity
+                  de: Mindestmenge 
+                type: number
+                min: 1
+                default: 1
+                required: true
+                translate: false
+                width: 1/3
+                when:
+                  productType: snipcart
+              snipcartTaxable:
+                label: Exclude from tax
+                type: toggle
+                help: 
+                  en: Remove tax from product.
+                  de: Entfernen Sie die Steuer vom Produkt.
+                width: 1/3
+                when:
+                  productType: snipcart
+              lineVariable:
+                type: line
+                when:
+                  productType: snipcart
+              productVariations:
+                label: 
+                  en: Product variations
+                  de: Produktvariationen
+                type: structure
+                max: 4
+                empty: 
+                  en: No variations yet.
+                  de: Noch keine Variationen.
+                help: 
+                  en: Add product variations/options.
+                  de: Produktvariationen/Optionen hinzufügen.
+                columns:
+                  variationName:
+                    width: 2/3
+                  variationType: 
+                    width: 1/3
+                fields:
+                  variationType:
+                    label: 
+                      en: Variation type
+                      de: Variationstyp
+                    type: select
+                    options:
+                      options: Options
+                      checkbox: Checkbox
+                      text: Text
+                      textarea: Textarea
+                      readonly: Readonly
+                    required: true
+                    width: 1/3
+                  variationName:
+                    label: 
+                      en: Variation name
+                      de: Variationsname
+                    type: text
+                    required: true
+                    width: 1/3
+                  variationLayout:
+                    label: Layout
+                    type: select
+                    placeholder: Stacked
+                    options:
+                      horizontal: Horizontal
+                    width: 1/3
+                    when:
+                      variationType: options
+                  checkboxPrice:
+                    label: 
+                      en: Additional price (optional)
+                      de: Mehrpreis (optional)
+                    type: number
+                    step: .01
+                    min: 0
+                    translate: false
+                    placeholder: 0.00
+                    before: '{{site.defaultCurrencysymbol}}'
+                    help: 
+                      en: If the checkbox has an additional price.
+                      de: Wenn das Kontrollkästchen einen zusätzlichen Preis hat.
+                    width: 1/3
+                    when:
+                      variationType: checkbox
+                  variationText:
+                    label: 
+                      en: Product text box (only visible in the cart)
+                      de: Textfeld Produkt (nur im Warenkorb sichtbar)
+                    type: info
+                    text: 
+                      en: This option adds additional text input for the product. So customer can write something.
+                      de: Diese Option fügt eine zusätzliche Texteingabe für das Produkt hinzu. So können Kunden etwas schreiben.
+                    when:
+                      variationType: text
+                  variationTextarea:
+                    label: 
+                      en: Product textarea box (only visible in the cart)
+                      de: Textfeld für das Produkt (nur im Warenkorb sichtbar)
+                    type: info
+                    text: 
+                      en: This option adds additional textarea input for the product. So customer can write something.
+                      de: Diese Option fügt eine zusätzliche Textfeldeingabe für das Produkt hinzu. So kann der Kunde etwas schreiben.
+                    when:
+                      variationType: textarea
+                  variationReadonly:
+                    label: 
+                      en: Product readonly field (only visible in the cart)
+                      de: Schreibgeschütztes Produktfeld (nur im Warenkorb sichtbar)
+                    type: text
+                    when:
+                      variationType: readonly
+                  variationReadonlyinfo:
+                    label: Readonly info
+                    type: info
+                    text: 
+                      en: This option adds read-only information. You can add some important note for customer.
+                      de: Diese Option fügt schreibgeschützte Informationen hinzu. Sie können eine wichtige Notiz für den Kunden hinzufügen.
+                    when:
+                      variationType: readonly
+                  variationOptions:
+                    label: 
+                      en: Variation options
+                      de: Variationsmöglichkeiten
+                    type: structure
+                    empty: 
+                      en: No options yet.
+                      de: Noch keine Optionen.
+                    columns:
+                      optionName:
+                        width: 1/2
+                      additionalPrice:
+                        width: 1/2
+                        align: right
+                    fields:
+                      optionName:
+                        label: 
+                          en: Option name
+                          de: Optionsname
+                        type: text
+                        width: 1/2
+                      additionalPrice:
+                        label: 
+                          en: Additional price (optional)
+                          de: Mehrpreis (optional)
+                        type: number
+                        step: .01
+                        min: 0
+                        translate: false
+                        placeholder: 0.00
+                        before: '{{site.defaultCurrencysymbol}}'
+                        help: 
+                          en: If the product option has an additional price.
+                          de: Wenn die Produktoption einen zusätzlichen Preis hat.
+                        width: 1/2
+                    when:
+                      variationType: options
+                when:
+                  productType: snipcart
+              lineDigital:
+                type: line
+                when:
+                  productType: snipcart
+              snipcartProductguid:
+                label: Digital product GUID
+                type: text
+                help: 
+                  en: If this is digital product.
+                  de: Wenn dies ein digitales Produkt ist.
+                width: 1/4
+                when:
+                  productType: snipcart
+              snipcartDigitalinfo:
+                label: Digital product info
+                type: info
+                text:
+                  en: |
+                    Upload product files in your Snipcart account at (link: https://app.snipcart.com/dashboard/digital target: _blank).
+                  de: |
+                    Laden Sie Produktdateien in Ihr Snipcart-Konto unter hoch (link: https://app.snipcart.com/dashboard/digital target: _blank).
+                width: 3/4
+                when:
+                  productType: snipcart
+              # Custom price
+              gapCustomprice:
+                type: gap
+                width: 3/4
+                when:
+                  productType: custom
+              customPrice:
+                label: 
+                  en: Regular price
+                  de: Regulärer Preis
+                type: number
+                step: .01
+                min: 0
+                translate: false
+                placeholder: 0.00
+                before: '{{site.defaultCurrencysymbol}}'
+                help: 
+                  en: It can be empty.
+                  de: Es kann leer sein.
+                width: 1/3
+                when:
+                  productType: custom
+              customDiscountprice:
+                label: 
+                  en: Discounted price
+                  de: Reduzierter Preis
+                type: number
+                step: .01
+                min: 0
+                translate: false
+                placeholder: 0.00
+                before: '{{site.defaultCurrencysymbol}}'
+                help: 
+                  en: Optional. It will override regular price. 
+                  de: Optional. Es überschreibt den regulären Preis.
+                width: 1/3
+                when:
+                  productType: custom
+              customFree:
+                label: Free product
+                type: toggle
+                help: 
+                  en: Adds "Free" label to product.
+                  de: Fügt dem Produkt das Etikett "Kostenlos" hinzu.
+                width: 1/3
+                when:
+                  productType: custom
+              lineCustomprice:
+                type: line
+                when:
+                  productType: custom
+              customLinkexternal:
+                label: 
+                  en: Link to external page
+                  de: Link zu externer Seite
+                type: url
+                width: 1/2
+                when:
+                  productType: custom
+              customLinkinternal:
+                label: 
+                  en: Link to internal page
+                  de: Link zur internen Seite
+                type: pages
+                multiple: false
+                help: 
+                  en: If set, overrides link to external page.
+                  de: Wenn gesetzt, wird der Link zu einer externen Seite überschrieben.
+                width: 1/2
+                when:
+                  productType: custom
+              customButtontext:
+                label: Button text
+                type: text
+                placeholder: Purchase product
+                width: 2/3
+                when:
+                  productType: custom
+              customNewtab:
+                label: 
+                  en: Open in new tab
+                  de: In neuem Tab öffnen
+                type: toggle
+                width: 1/3
+                when:
+                  productType: custom
+              lineOutOfstock:
+                type: line
+              outofstock:
+                label: 
+                  en: Out of stock
+                  de: Ausverkauft
+                type: toggle
+                width: 1/4
+              outofstockInfo:
+                label: Out of stock info
+                type: info
+                text: 
+                  en: Announce that product is not available at a the moment.
+                  de: Kündigen Sie an, dass das Produkt im Moment nicht verfügbar ist. 
+                width: 3/4
+
+          # intro text
+          introText:
+            type: fields
+            fields:
+              productContent:
+                label: 
+                  en: Product content
+                  de: Produktinhalt
+                type: headline
+              productShort:
+                label: Short product info
+                type: text
+                maxlength: 100
+              productIntro: 
+                label: 
+                  en: Product intro text
+                  de: Produkt-Einführungstext
+                type: textarea
+                help: 
+                  en: Short product information.
+                  de: Kurze Produktinformationen.
+              # product description headline
+              productDescriptionHeadline:
+                label: 
+                  en: Product description
+                  de: Produktbeschreibung
+                type: headline
+              # select builder type
+              selectBuilder:
+                type: toggles
+                label: 
+                  en: Select builder
+                  de: Builder auswählen
+                default: content-blocks
+                options:
+                  - value: content-blocks
+                    text: Content blocks
+                    icon: layers
+                  - value: layout-builder
+                    text: Layout Builder
+                    icon: grid
+          # product description
+          productDescription:
+            type: fields
+            fields:
+              productDescription:
+                extends: fields/blockEditor
+                label: 
+                  en: Product description
+                  de: Produktbeschreibung
+                help: 
+                  en: Detailed product information.
+                  de: Detaillierte Produktinformationen.
+            when:
+              selectBuilder: content-blocks
+
+          # Layout Builder sections
+          layoutBuilder:
+            extends: sections/layout-builder
+            when:
+              selectBuilder: layout-builder
+
+          # additional
+          additional:
+            type: fields
+            fields:
+              additionalInfo:
+                label: 
+                  en: Additional info
+                  de: Zusätzliche Informationen
+                type: headline
+              shippingToggle:
+                label:
+                  en: Product shipping
+                  de: Produktversand
+                type: toggle
+                width: 1/3
+              shippingInfo:
+                label: 
+                  en: Shipping notice
+                  de: Versandnachricht
+                type: info
+                text: 
+                  en: |
+                    If you use Snipcart, you must allow and setup shipping options at (link: https://app.snipcart.com/dashboard/carriers target: _blank)
+                  de: |
+                    Wenn Sie Snipcart verwenden, müssen Sie die Versandoptionen unter zulassen und einrichten (link: https://app.snipcart.com/dashboard/carriers target: _blank)
+                when: 
+                  shippingToggle: true
+              productWeight:
+                label: 
+                  en: Product weight
+                  de: Produktgewicht
+                type: number
+                after: gr.
+                validate: integer
+                translate: false
+                width: 1/4
+                help: 
+                  en: Cannot have decimals
+                  de: Kann keine Dezimalstellen haben
+                when: 
+                  shippingToggle: true
+              productLength:
+                label: 
+                  en: Product length
+                  de: Produktlänge
+                type: number
+                after: cm
+                validate: integer
+                translate: false
+                width: 1/4
+                help: 
+                  en: Cannot have decimals
+                  de: Kann keine Dezimalstellen haben
+                when: 
+                  shippingToggle: true
+              productHeight:
+                label: 
+                  en: Product height
+                  de: Produkthöhe
+                type: number
+                after: cm
+                validate: integer
+                translate: false
+                width: 1/4
+                help: 
+                  en: Cannot have decimals
+                  de: Kann keine Dezimalstellen haben
+                when: 
+                  shippingToggle: true
+              productWidth:
+                label: 
+                  en: Product width
+                  de: Produktbreite
+                type: number
+                after: cm
+                validate: integer
+                translate: false
+                width: 1/4
+                help: 
+                  en: Cannot have decimals
+                  de: Kann keine Dezimalstellen haben
+                when: 
+                  shippingToggle: true
+              additionalInformation:
+                label: Additional details
+                type: structure
+                fields:
+                  attribute:
+                    label: Attribute
+                    type: text
+                    width: 1/2
+                  value:
+                    label: Value
+                    type: text
+                    width: 1/2
+
+          # custom tab
+          customTab:
+            type: fields
+            fields:
+              customTab:
+                label: Custom tab
+                type: headline
+              customTabs:
+                label: Custom tabs
+                type: structure
+                fields:
+                  tabName:
+                    label: Tab name
+                    type: text
+                  tabContent:
+                    label: Tab content
+                    extends: fields/blockEditor
+
+      - width: 1/3
+        sections:
+          # product images
+          coverimg:
+            type: fields
+            fields:
+              productImages:
+                label: 
+                  en: Product images
+                  de: Produktbilder
+                type: headline
+              cover:
+                label: 
+                  en: Cover
+                  de: Abdeckung
+                extends: fields/productCover
+                multiple: false
+                layout: cards
+                help: 
+                  en: Hover the cover image with your mouse and click on the crop icon in the right top corner to choose the crop position. You can set up default width and height in Shop settings.
+                  de: Bewegen Sie die Maus über das Titelbild und klicken Sie auf das Zuschneidesymbol in der rechten oberen Ecke, um die Zuschneideposition auszuwählen. Sie können die Standardbreite und -höhe in den Shop-Einstellungen festlegen.
+                image:
+                  cover: true
+              gallery:
+                label: Gallery
+                extends: fields/productCover
+                help: 
+                  en: Hover images and click on the crop icon on the left to choose the photo crop position. Min width and min height are 800px.
+                  de: Bewegen Sie den Mauszeiger über Bilder und klicken Sie links auf das Zuschneidesymbol, um die Position zum Zuschneiden des Fotos auszuwählen. Mindestbreite und Mindesthöhe sind 800 Pixel.
+
+          # product meta
+          productMeta:
+            type: fields
+            fields:
+              productMetaheadline:
+                label: 
+                  en: Product meta
+                  de: Produktmeta
+                type: headline
+              category:
+                label: 
+                  en: Category
+                  de: Kategorie
+                type: select
+                max: 1
+                options: query
+                query: page.parent.categories.split
+                help: 
+                  en: Create categories in Shop settings.
+                  de: Erstellen Sie Kategorien in den Shop-Einstellungen.
+              tags: true
+                help: 
+                  en: Use all small caps when naming tags, your URLs will be prettier. 
+                  de: Verwenden Sie bei der Benennung von Tags ausschließlich Kapitälchen, Ihre URLs werden hübscher.
+              featured:
+                label: 
+                  en: Featured Product
+                  de: Vorgestelltes Produkt
+                type: toggle
+                help: 
+                  en: Featured products are more visible in Shop archives listing.
+                  de: Ausgewählte Produkte sind in der Auflistung des Shop-Archivs besser sichtbar.
+              new:
+                label: 
+                  en: New Product
+                  de: Neues Produkt
+                type: toggle
+                help: 
+                  en: Make sure everyone see the new product.
+                  de: Stellen Sie sicher, dass jeder das neue Produkt sieht.
+
+          relatedpages:
+            type: fields
+            fields:
+              related:
+                label: 
+                  en: Related products
+                  de: Verwandte Produkte 
+                type: pages
+                status: listed
+                query: page.siblings(false)
+                limit: 10
+                max: 5
+                empty: 
+                  en: No products selected
+                  de: Keine Produkte ausgewählt 
+                help: 
+                  en: You can choose related products (maximum 5). If you don't choose, it will be selected automatically.
+                  de: Sie können verwandte Produkte auswählen (maximal 5). Wenn Sie es nicht auswählen, wird es automatisch ausgewählt. 
+
+  # seo tab
+  seo: tabs/seo

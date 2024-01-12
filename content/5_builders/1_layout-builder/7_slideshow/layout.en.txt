@@ -1,0 +1,153 @@
+Title: Slideshow
+
+----
+
+Layout: [{"attrs":{"gridwidth":"uk-container","tabletwidth":"","mobilewidth":"","columnsverticalalign":"","columnshorizontalalign":"","containerexpand":"","columngap":"","columnsdivider":"false","gridmasonry":"false","gridparallax":"false","sectiontoggle":"true","sectionsize":"","sectioncolor":" uk-section-muted","sectionremovepadding":"","backgroundstyle":"color","backgroundimage":[],"mediavideosource":"url","mediavideo":[],"mediavideourl":"","backgroundimageposition":" uk-background-center-center","backgroundimagesize":" uk-background-cover","backgroundimagerepeat":" no-repeat","sectiontextcolor":" uk-light","backgroundoverlaycolor":"rgba(0,0,0,0.3)","backgroundgradientoverlay":"false","backgroundgradienttransition":"","backgroundoverlaycolor2":"rgba(0,0,0,0.3)","backgroundparalax":"","shapedividertoggle":"false","shapedivider":"","shapedividerposition":"","shapedividercolor":"#ffffff","customshapedivider":"","shapedividerheight":"150px","preservecolor":"false","sectionclass":"","sectionid":"","hidden":"","visible":"","animationswitch":"true","animationtype":"uk-animation-slide-bottom-small","animationdelay":null},"columns":[{"blocks":[{"content":{"level":"h2","text":"Box the slideshow","headingsize":"","headingstyle":"","headingcolor":"","textalign":" uk-text-center@m","textaligntablet":" uk-text-center@s","textalignmobile":"","texttransform":"","textwrapping":""},"id":"f207e2b8-e1ce-415d-8678-92c2fb6578ff","isHidden":false,"type":"heading"},{"content":{"text":"<p>Choose the slider width you like.<\/p>","textalign":" uk-text-center@m","textaligntablet":" uk-text-center@s","textalignmobile":"","textsize":"","texttransform":"","textwrapping":"","textcolor":""},"id":"7cf49564-23c6-432d-a580-90125c816c96","isHidden":false,"type":"text"},{"content":{"slideshow":[{"slidename":"Boxed Water Is Better","slideimage":["file:\/\/H2Jg1AhdorlakL9H"],"contentblocks":"[{\"content\":{\"level\":\"h2\",\"text\":\"Boxed Water Is Better\",\"headingsize\":\" uk-heading-small\",\"headingstyle\":\"\",\"headingcolor\":\"\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\"},\"id\":\"889a719a-2d10-49be-95c4-b9ff054f4419\",\"isHidden\":false,\"type\":\"heading\"},{\"content\":{\"text\":\"<p>A sustainable alternative to plastic water bottles.<\\\/p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\" uk-text-large\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"390a24e9-5e68-4de3-a87d-91990537603a\",\"isHidden\":false,\"type\":\"text\"},{\"content\":{\"text\":\"Learn more\",\"buttonicon\":\"\",\"linktype\":\"internal\",\"link\":\"\",\"internalpage\":[\"page:\\\/\\\/p4xYvF7upaxHSD48\"],\"filelink\":[],\"emaillink\":\"\",\"phonelink\":\"\",\"target\":\"false\",\"buttonstyle\":\" uk-button-default\",\"buttonsize\":\"\",\"margintop\":\" uk-margin-top\"},\"id\":\"5e8eaf8f-95d8-4527-9955-9a4ea7e3d27e\",\"isHidden\":false,\"type\":\"button\"}]","slidecontentposition":" uk-position-bottom-left","slidecontentpositioncenter":" uk-position-center","slidecontentwidth":""},{"slidename":"Running Heaven","slideimage":["file:\/\/PdP1mrkIdCKjx93e"],"contentblocks":"[{\"content\":{\"level\":\"h2\",\"text\":\"Running Heaven\",\"headingsize\":\" uk-heading-small\",\"headingstyle\":\"\",\"headingcolor\":\"\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\"},\"id\":\"889a719a-2d10-49be-95c4-b9ff054f4419\",\"isHidden\":false,\"type\":\"heading\"},{\"content\":{\"text\":\"<p>Through sport, we have the power to change lives.<\\\/p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\" uk-text-large\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"390a24e9-5e68-4de3-a87d-91990537603a\",\"isHidden\":false,\"type\":\"text\"},{\"content\":{\"text\":\"Learn more\",\"buttonicon\":\"\",\"linktype\":\"internal\",\"link\":\"\",\"internalpage\":[\"page:\\\/\\\/FCmS1Q6438Ijl0wr\"],\"filelink\":[],\"emaillink\":\"\",\"phonelink\":\"\",\"target\":\"false\",\"buttonstyle\":\" uk-button-default\",\"buttonsize\":\"\",\"margintop\":\" uk-margin-top\"},\"id\":\"5e8eaf8f-95d8-4527-9955-9a4ea7e3d27e\",\"isHidden\":false,\"type\":\"button\"}]","slidecontentposition":" uk-position-bottom-left","slidecontentpositioncenter":" uk-position-center","slidecontentwidth":""},{"slidename":"Zen mood","slideimage":["file:\/\/7lmhHjJcIMSe9K1a"],"contentblocks":"[{\"content\":{\"level\":\"h2\",\"text\":\"Zen mood\",\"headingsize\":\" uk-heading-small\",\"headingstyle\":\"\",\"headingcolor\":\"\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\"},\"id\":\"889a719a-2d10-49be-95c4-b9ff054f4419\",\"isHidden\":false,\"type\":\"heading\"},{\"content\":{\"text\":\"<p>Zen is not a theory, an idea, or a piece of knowledge. It is not a belief, dogma, or religion; but rather, it is a practical experience.<\\\/p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\" uk-text-large\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"390a24e9-5e68-4de3-a87d-91990537603a\",\"isHidden\":false,\"type\":\"text\"},{\"content\":{\"text\":\"Learn more\",\"buttonicon\":\"\",\"linktype\":\"internal\",\"link\":\"\",\"internalpage\":[\"page:\\\/\\\/4cg7jYiCLBN4reYr\"],\"filelink\":[],\"emaillink\":\"\",\"phonelink\":\"\",\"target\":\"false\",\"buttonstyle\":\" uk-button-default\",\"buttonsize\":\"\",\"margintop\":\" uk-margin-top\"},\"id\":\"5e8eaf8f-95d8-4527-9955-9a4ea7e3d27e\",\"isHidden\":false,\"type\":\"button\"}]","slidecontentposition":" uk-position-bottom-left","slidecontentpositioncenter":" uk-position-center","slidecontentwidth":" uk-width-2-3@s"}],"title":"","blockclass":"","blockid":"","slideshowstyle":"gradient-cover","inversetextcolor":"false","slideshowanimation":"fade","slidecontentpadding":" uk-padding-small","slidecontentpositionsize":"","slideshowkenburns":"false","slideshowautoplay":"true","slideshowsize":"true","slideshowminheight":500,"slideshowmaxheight":null,"slideshowratio":"21:9","slideshownavigationtype":"arrows"},"id":"97fa23fc-dbb6-42d3-9f80-6680bd9fb37c","isHidden":false,"type":"z-slideshow"}],"id":"74961090-52b2-4e8e-9c88-357d8263f49e","width":"1\/1"}],"id":"e5f4e0e5-475a-40d0-83ca-2ee905b2939f"},{"attrs":{"gridwidth":"uk-container","tabletwidth":"","mobilewidth":"","columnsverticalalign":"","columnshorizontalalign":"","containerexpand":"","columngap":"","columnsdivider":"false","gridmasonry":"false","gridparallax":"false","sectiontoggle":"true","sectionsize":" uk-section-large","sectioncolor":" uk-section-primary","sectionremovepadding":"","backgroundstyle":"color","backgroundimage":[],"mediavideosource":"url","mediavideo":[],"mediavideourl":"","backgroundimageposition":" uk-background-center-center","backgroundimagesize":" uk-background-cover","backgroundimagerepeat":" no-repeat","sectiontextcolor":" uk-light","backgroundoverlaycolor":"rgba(0,0,0,0.3)","backgroundgradientoverlay":"false","backgroundgradienttransition":"","backgroundoverlaycolor2":"rgba(0,0,0,0.3)","backgroundparalax":"","shapedividertoggle":"false","shapedivider":"","shapedividerposition":"","shapedividercolor":"#ffffff","customshapedivider":"","shapedividerheight":"150px","preservecolor":"false","sectionclass":"","sectionid":"","hidden":"","visible":"","animationswitch":"false","animationtype":"uk-animation-slide-bottom-small","animationdelay":null},"columns":[{"blocks":[{"content":{"columnwidth":"","tabletwidth":"","mobilewidth":"","columnheight":"","columnminheight":"","columnmaxheight":"","textalign":"","textaligntablet":"","textalignmobile":"","textsize":"","texttransform":"","textwrapping":"","columnstyle":"none","columncardsize":"","columncardhover":"false","columncardcolor":" uk-card-default","columntile":"","columnbackground":"","columntextcolor":" uk-light","backgroundstyle":"color","backgroundimage":[],"backgroundimageposition":" uk-background-center-center","backgroundimagesize":" uk-background-cover","backgroundimagerepeat":" no-repeat","backgroundparalax":"","mediavideosource":"url","mediavideo":[],"mediavideourl":"","backgroundoverlaycolor":"rgba(0,0,0,0.3)","backgroundgradientoverlay":"false","backgroundgradienttransition":"","backgroundoverlaycolor2":"rgba(0,0,0,0.3)","columnpadding":"","itemfirst":"","itemlast":"","borderrounded":"false","columnshadow":"","columnclass":"","columnid":"","hidden":"","visible":"","animationswitch":"true","animationtype":"uk-animation-slide-bottom-small","animationdelay":null},"id":"36b145ba-67dd-4634-99b9-d38b07dee130","isHidden":false,"type":"z-column"},{"content":{"level":"h2","text":"Add it to any column size","headingsize":"","headingstyle":"","headingcolor":"","textalign":"","textaligntablet":"","textalignmobile":"","texttransform":"","textwrapping":""},"id":"2fde1019-5081-485a-bec5-5b353674b0b6","isHidden":false,"type":"heading"},{"content":{"text":"<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<\/p>","textalign":"","textaligntablet":"","textalignmobile":"","textsize":" uk-text-large","texttransform":"","textwrapping":"","textcolor":""},"id":"82c7ddcd-7a3c-4281-9f36-b31d0bc60f79","isHidden":false,"type":"text"},{"content":{"text":"<p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<\/p>","textalign":"","textaligntablet":"","textalignmobile":"","textsize":"","texttransform":"","textwrapping":"","textcolor":""},"id":"34cc4ac3-599c-4ae9-b1b6-ffa93d5bb434","isHidden":false,"type":"text"},{"content":{"text":"See projects","buttonicon":"","linktype":"internal","link":"","internalpage":["page:\/\/g0RWBaCPt5RXiKrE"],"filelink":[],"emaillink":"","phonelink":"","target":"false","buttonstyle":" uk-button-link","buttonsize":" uk-button-small","margintop":" uk-margin-small-top"},"id":"f5b2367c-8111-4401-bb03-08f361495c47","isHidden":false,"type":"button"}],"id":"5e1abf55-91c4-48f6-ac69-5e536e2ca4b4","width":"1\/3"},{"blocks":[{"content":{"columnwidth":"","tabletwidth":"","mobilewidth":"","columnheight":"","columnminheight":"","columnmaxheight":"","textalign":"","textaligntablet":"","textalignmobile":"","textsize":"","texttransform":"","textwrapping":"","columnstyle":"none","columncardsize":"","columncardhover":"false","columncardcolor":" uk-card-default","columntile":"","columnbackground":"","columntextcolor":" uk-light","backgroundstyle":"color","backgroundimage":[],"backgroundimageposition":" uk-background-center-center","backgroundimagesize":" uk-background-cover","backgroundimagerepeat":" no-repeat","backgroundparalax":"","mediavideosource":"url","mediavideo":[],"mediavideourl":"","backgroundoverlaycolor":"rgba(0,0,0,0.3)","backgroundgradientoverlay":"false","backgroundgradienttransition":"","backgroundoverlaycolor2":"rgba(0,0,0,0.3)","columnpadding":"","itemfirst":"","itemlast":"","borderrounded":"false","columnshadow":"","columnclass":"","columnid":"","hidden":"","visible":"","animationswitch":"true","animationtype":"uk-animation-slide-bottom-small","animationdelay":400},"id":"3b9b4686-df0a-4833-b8b8-6a7967847ffe","isHidden":false,"type":"z-column"},{"content":{"slideshow":[{"slidename":"Boxed Water Is Better","slideimage":["file:\/\/H2Jg1AhdorlakL9H"],"contentblocks":"[{\"content\":{\"level\":\"h2\",\"text\":\"Boxed Water Is Better\",\"headingsize\":\" uk-heading-small\",\"headingstyle\":\"\",\"headingcolor\":\"\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\"},\"id\":\"889a719a-2d10-49be-95c4-b9ff054f4419\",\"isHidden\":false,\"type\":\"heading\"},{\"content\":{\"text\":\"<p>A sustainable alternative to plastic water bottles.<\\\/p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\" uk-text-large\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"390a24e9-5e68-4de3-a87d-91990537603a\",\"isHidden\":false,\"type\":\"text\"},{\"content\":{\"text\":\"Learn more\",\"buttonicon\":\"\",\"linktype\":\"internal\",\"link\":\"\",\"internalpage\":[\"page:\\\/\\\/p4xYvF7upaxHSD48\"],\"filelink\":[],\"emaillink\":\"\",\"phonelink\":\"\",\"target\":\"false\",\"buttonstyle\":\" uk-button-default\",\"buttonsize\":\"\",\"margintop\":\" uk-margin-top\"},\"id\":\"5e8eaf8f-95d8-4527-9955-9a4ea7e3d27e\",\"isHidden\":false,\"type\":\"button\"}]","slidecontentposition":" uk-position-bottom-left","slidecontentpositioncenter":" uk-position-center","slidecontentwidth":""},{"slidename":"Running Heaven","slideimage":["file:\/\/PdP1mrkIdCKjx93e"],"contentblocks":"[{\"content\":{\"level\":\"h2\",\"text\":\"Running Heaven\",\"headingsize\":\" uk-heading-small\",\"headingstyle\":\"\",\"headingcolor\":\"\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\"},\"id\":\"889a719a-2d10-49be-95c4-b9ff054f4419\",\"isHidden\":false,\"type\":\"heading\"},{\"content\":{\"text\":\"<p>Through sport, we have the power to change lives.<\\\/p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\" uk-text-large\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"390a24e9-5e68-4de3-a87d-91990537603a\",\"isHidden\":false,\"type\":\"text\"},{\"content\":{\"text\":\"Learn more\",\"buttonicon\":\"\",\"linktype\":\"internal\",\"link\":\"\",\"internalpage\":[\"page:\\\/\\\/FCmS1Q6438Ijl0wr\"],\"filelink\":[],\"emaillink\":\"\",\"phonelink\":\"\",\"target\":\"false\",\"buttonstyle\":\" uk-button-default\",\"buttonsize\":\"\",\"margintop\":\" uk-margin-top\"},\"id\":\"5e8eaf8f-95d8-4527-9955-9a4ea7e3d27e\",\"isHidden\":false,\"type\":\"button\"}]","slidecontentposition":" uk-position-bottom-left","slidecontentpositioncenter":" uk-position-center","slidecontentwidth":""},{"slidename":"Zen mood","slideimage":["file:\/\/7lmhHjJcIMSe9K1a"],"contentblocks":"[{\"content\":{\"level\":\"h2\",\"text\":\"Zen mood\",\"headingsize\":\" uk-heading-small\",\"headingstyle\":\"\",\"headingcolor\":\"\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\"},\"id\":\"889a719a-2d10-49be-95c4-b9ff054f4419\",\"isHidden\":false,\"type\":\"heading\"},{\"content\":{\"text\":\"<p>Zen is not a theory, an idea, or a piece of knowledge. It is not a belief, dogma, or religion; but rather, it is a practical experience.<\\\/p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\" uk-text-large\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"390a24e9-5e68-4de3-a87d-91990537603a\",\"isHidden\":false,\"type\":\"text\"},{\"content\":{\"text\":\"Learn more\",\"buttonicon\":\"\",\"linktype\":\"internal\",\"link\":\"\",\"internalpage\":[\"page:\\\/\\\/4cg7jYiCLBN4reYr\"],\"filelink\":[],\"emaillink\":\"\",\"phonelink\":\"\",\"target\":\"false\",\"buttonstyle\":\" uk-button-default\",\"buttonsize\":\"\",\"margintop\":\" uk-margin-top\"},\"id\":\"5e8eaf8f-95d8-4527-9955-9a4ea7e3d27e\",\"isHidden\":false,\"type\":\"button\"}]","slidecontentposition":" uk-position-bottom-left","slidecontentpositioncenter":" uk-position-center","slidecontentwidth":" uk-width-2-3@s"}],"title":"","blockclass":"","blockid":"","slideshowstyle":"gradient-cover","inversetextcolor":"false","slideshowanimation":"fade","slidecontentpadding":" uk-padding-small","slidecontentpositionsize":"","slideshowkenburns":"false","slideshowautoplay":"true","slideshowsize":"true","slideshowminheight":500,"slideshowmaxheight":null,"slideshowratio":"16:9","slideshownavigationtype":"arrows"},"id":"aadf9c96-37a6-4527-b446-e1bc9f721d44","isHidden":false,"type":"z-slideshow"}],"id":"6d41c938-b3c1-40c8-92f9-e421389f114c","width":"2\/3"}],"id":"4672d3c2-63ce-4e5c-8df8-6804a255bf3c"},{"attrs":{"gridwidth":"","tabletwidth":"","mobilewidth":"","columnsverticalalign":"","columnshorizontalalign":"","containerexpand":"","columngap":"","columnsdivider":"false","gridmasonry":"false","gridparallax":"false","sectiontoggle":"true","sectionsize":"","sectioncolor":" uk-section-primary","sectionremovepadding":" uk-padding-remove-vertical","backgroundstyle":"color","backgroundimage":[],"mediavideosource":"url","mediavideo":[],"mediavideourl":"","backgroundimageposition":" uk-background-center-center","backgroundimagesize":" uk-background-cover","backgroundimagerepeat":" no-repeat","sectiontextcolor":" uk-light","backgroundoverlaycolor":"rgba(0,0,0,0.3)","backgroundgradientoverlay":"false","backgroundgradienttransition":"","backgroundoverlaycolor2":"rgba(0,0,0,0.3)","backgroundparalax":"","shapedividertoggle":"false","shapedivider":"","shapedividerposition":"","shapedividercolor":"#ffffff","customshapedivider":"","shapedividerheight":"150px","preservecolor":"false","sectionclass":"","sectionid":"","hidden":"","visible":"","animationswitch":"false","animationtype":"","animationdelay":null},"columns":[{"blocks":[{"content":{"columnwidth":"","tabletwidth":"","mobilewidth":"","columnheight":"","columnminheight":"","columnmaxheight":"","textalign":"","textaligntablet":"","textalignmobile":"","textsize":"","texttransform":"","textwrapping":"","columnstyle":"none","columncardsize":"","columncardhover":"false","columncardcolor":" uk-card-default","columntile":"","columnbackground":"","columntextcolor":" uk-light","backgroundstyle":"color","backgroundimage":[],"backgroundimageposition":" uk-background-center-center","backgroundimagesize":" uk-background-cover","backgroundimagerepeat":" no-repeat","backgroundparalax":"","mediavideosource":"url","mediavideo":[],"mediavideourl":"","backgroundoverlaycolor":"rgba(0,0,0,0.3)","backgroundgradientoverlay":"false","backgroundgradienttransition":"","backgroundoverlaycolor2":"rgba(0,0,0,0.3)","columnpadding":"","itemfirst":"","itemlast":"","borderrounded":"false","columnshadow":"","columnclass":"","columnid":"","hidden":"","visible":"","animationswitch":"true","animationtype":"","animationdelay":null},"id":"60facb84-f9ff-4348-9051-0eb2580b2902","isHidden":false,"type":"z-column"},{"content":{"level":"h2","text":"Or make it full-width","headingsize":"","headingstyle":"","headingcolor":"","textalign":" uk-text-center@m","textaligntablet":" uk-text-center@s","textalignmobile":"","texttransform":"","textwrapping":""},"id":"10f83233-4525-4cf5-849d-101a810b149e","isHidden":false,"type":"heading"},{"content":{"text":"<p>And viewport height if needed.<\/p>","textalign":" uk-text-center@m","textaligntablet":" uk-text-center@s","textalignmobile":"","textsize":"","texttransform":"","textwrapping":"","textcolor":""},"id":"17599af1-2d57-4a1f-b787-3cf280135718","isHidden":false,"type":"text"},{"content":{"slideshow":[{"slidename":"Boxed Water Is Better","slideimage":["file:\/\/H2Jg1AhdorlakL9H"],"contentblocks":"[{\"content\":{\"level\":\"h2\",\"text\":\"Boxed Water Is Better\",\"headingsize\":\" uk-heading-small\",\"headingstyle\":\"\",\"headingcolor\":\"\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\"},\"id\":\"889a719a-2d10-49be-95c4-b9ff054f4419\",\"isHidden\":false,\"type\":\"heading\"},{\"content\":{\"text\":\"<p>A sustainable alternative to plastic water bottles.<\\\/p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\" uk-text-large\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"390a24e9-5e68-4de3-a87d-91990537603a\",\"isHidden\":false,\"type\":\"text\"},{\"content\":{\"text\":\"Learn more\",\"buttonicon\":\"\",\"linktype\":\"internal\",\"link\":\"\",\"internalpage\":[\"page:\\\/\\\/p4xYvF7upaxHSD48\"],\"filelink\":[],\"emaillink\":\"\",\"phonelink\":\"\",\"target\":\"false\",\"buttonstyle\":\" uk-button-default\",\"buttonsize\":\"\",\"margintop\":\" uk-margin-top\"},\"id\":\"5e8eaf8f-95d8-4527-9955-9a4ea7e3d27e\",\"isHidden\":false,\"type\":\"button\"}]","slidecontentposition":"container","slidecontentpositioncenter":" uk-position-center","slidecontentwidth":""},{"slidename":"Running Heaven","slideimage":["file:\/\/PdP1mrkIdCKjx93e"],"contentblocks":"[{\"content\":{\"level\":\"h2\",\"text\":\"Running Heaven\",\"headingsize\":\" uk-heading-small\",\"headingstyle\":\"\",\"headingcolor\":\"\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\"},\"id\":\"889a719a-2d10-49be-95c4-b9ff054f4419\",\"isHidden\":false,\"type\":\"heading\"},{\"content\":{\"text\":\"<p>Through sport, we have the power to change lives.<\\\/p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\" uk-text-large\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"390a24e9-5e68-4de3-a87d-91990537603a\",\"isHidden\":false,\"type\":\"text\"},{\"content\":{\"text\":\"Learn more\",\"buttonicon\":\"\",\"linktype\":\"internal\",\"link\":\"\",\"internalpage\":[\"page:\\\/\\\/FCmS1Q6438Ijl0wr\"],\"filelink\":[],\"emaillink\":\"\",\"phonelink\":\"\",\"target\":\"false\",\"buttonstyle\":\" uk-button-default\",\"buttonsize\":\"\",\"margintop\":\" uk-margin-top\"},\"id\":\"5e8eaf8f-95d8-4527-9955-9a4ea7e3d27e\",\"isHidden\":false,\"type\":\"button\"}]","slidecontentposition":"container","slidecontentpositioncenter":" uk-position-center","slidecontentwidth":""},{"slidename":"Zen mood","slideimage":["file:\/\/7lmhHjJcIMSe9K1a"],"contentblocks":"[{\"content\":{\"level\":\"h2\",\"text\":\"Zen mood\",\"headingsize\":\" uk-heading-small\",\"headingstyle\":\"\",\"headingcolor\":\"\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\"},\"id\":\"889a719a-2d10-49be-95c4-b9ff054f4419\",\"isHidden\":false,\"type\":\"heading\"},{\"content\":{\"text\":\"<p>Zen is not a theory, an idea, or a piece of knowledge. It is not a belief, dogma, or religion; but rather, it is a practical experience.<\\\/p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\" uk-text-large\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"390a24e9-5e68-4de3-a87d-91990537603a\",\"isHidden\":false,\"type\":\"text\"},{\"content\":{\"text\":\"Learn more\",\"buttonicon\":\"\",\"linktype\":\"internal\",\"link\":\"\",\"internalpage\":[\"page:\\\/\\\/4cg7jYiCLBN4reYr\"],\"filelink\":[],\"emaillink\":\"\",\"phonelink\":\"\",\"target\":\"false\",\"buttonstyle\":\" uk-button-default\",\"buttonsize\":\"\",\"margintop\":\" uk-margin-top\"},\"id\":\"5e8eaf8f-95d8-4527-9955-9a4ea7e3d27e\",\"isHidden\":false,\"type\":\"button\"}]","slidecontentposition":"container","slidecontentpositioncenter":" uk-position-center","slidecontentwidth":" uk-width-2-3@s"}],"title":"","blockclass":"","blockid":"","slideshowstyle":"gradient-cover","inversetextcolor":"false","slideshowanimation":"fade","slidecontentpadding":" uk-padding-small","slidecontentpositionsize":"","slideshowkenburns":"false","slideshowautoplay":"true","slideshowsize":"false","slideshowminheight":500,"slideshowmaxheight":500,"slideshowratio":"16:9","slideshownavigationtype":"arrows"},"id":"e1a4d4ff-4802-4bb7-a955-f76cd630f75b","isHidden":false,"type":"z-slideshow"}],"id":"b38860db-0f47-49f6-96cf-5c41db65dd39","width":"1\/1"}],"id":"057b29a3-c9d8-4fcb-8b01-fc642c67e78f"}]
+
+----
+
+Disallowsubmenu: false
+
+----
+
+Newtab: false
+
+----
+
+Menuitemicon: play-circle
+
+----
+
+Megamenu: false
+
+----
+
+Megamenuwidth: 
+
+----
+
+Megamenuitemwidth: 
+
+----
+
+Megamenubackground: false
+
+----
+
+Megamenubackgroundimage: 
+
+----
+
+Megamenubackgroundimageposition: 
+
+----
+
+Megamenubackgroundimagesize: 
+
+----
+
+Megamenubackgroundimagerepeat: 
+
+----
+
+Megamenubackgroundgradientoverlay: false
+
+----
+
+Megamenubackgroundgradienttransition: 
+
+----
+
+Transparentnavbar: 
+
+----
+
+Navbarinverse: false
+
+----
+
+Headersection: true
+
+----
+
+Alttitle: 
+
+----
+
+Intro: Slideshow your content.
+
+----
+
+Headerbackgroundtoggle: false
+
+----
+
+Header: 
+
+----
+
+Headerimageposition: uk-background-center-center
+
+----
+
+Headerimagesize: uk-background-cover
+
+----
+
+Headerimagerepeat: no-repeat
+
+----
+
+Headertextcolor: uk-light
+
+----
+
+Headeroverlaycolor: rgba(0,0,0,0.2)
+
+----
+
+Backgroundparalax: 
+
+----
+
+Shapedividertoggle: false
+
+----
+
+Shapedivider: 
+
+----
+
+Shapedividerposition: 
+
+----
+
+Shapedividercolor: #ffffff
+
+----
+
+Customshapedivider: 
+
+----
+
+Shapedividerheight: 150px
+
+----
+
+Metafile: 
+
+----
+
+Sitemap: true
+
+----
+
+Metatitle: 
+
+----
+
+Metadescription: 
+
+----
+
+Uuid: sDIdsUoIOo7qAEip

@@ -1,0 +1,20 @@
+name: 
+  en: Column options
+  de: Spaltenoptionen
+icon: settings
+
+tabs:
+  # width tab
+  size: tabs/z-column-size
+
+  # text tab
+  text: tabs/z-column-text
+  
+  # style tab
+  style: tabs/z-column-style
+
+  # utility tab
+  utility: tabs/z-column-utility
+
+  # advanced tab
+  advanced: tabs/z-column-advanced

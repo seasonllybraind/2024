@@ -1,0 +1,149 @@
+Title: Slider section
+
+----
+
+Animation: true
+
+----
+
+Modules: [{"content":{"columns":[{"columnwidth":"uk-width-expand@m","columnclass":"","columntitle":"","columncontenthtml":"","columneditor":"","columncontent":"## Let's be elegant.\n\nChoose the image size, container width, background color and present your stuff as it deserves.","columnhtml":"","subcolumns":[],"columncard":"false","columncardsize":"","columncardhover":"false","columncardcolor":""}],"title":"","blockclass":"","blockid":"","sectionsize":" uk-section-small","sectioncolor":" uk-section-default","sectionremovepadding":" uk-padding-remove-bottom","backgroundimage":[],"backgroundimageposition":"","backgroundimagesize":"","backgroundimagerepeat":"","sectiontextcolor":"","backgroundoverlaycolor":null,"backgroundparalax":"","shapedividertoggle":"false","shapedivider":"","shapedividerposition":"","shapedividercolor":null,"customshapedivider":"","shapedividerheight":"","gridwidth":"","columnstack":"tablet","columngap":"","columnsverticalalign":"","columnshorizontalalign":"","columnsdivider":"false","centertext":"true","gridheadings":"false","columnsparallax":"false"},"id":"028967b1-3840-4a42-b8de-8551c3e3560c","isHidden":false,"type":"grid"},{"content":{"slider":["file:\/\/UkhdqCiXp55WpLRM","file:\/\/2MFccBAW5KajHL0i","file:\/\/SebAoLsgxBWudW3H","file:\/\/rzAuUruvmIzsXj12","file:\/\/fixab4fA4ihyKR5k"],"title":"- Small 1-1","blockclass":"","blockid":"","sliderback":"default","sliderwidth":"small","sliderimgwidth":" uk-width-1-1@m"},"id":"b2be74f5-35ce-422e-82a6-f83018e9a6af","isHidden":false,"type":"slider"},{"content":{"slider":["file:\/\/UkhdqCiXp55WpLRM","file:\/\/2MFccBAW5KajHL0i","file:\/\/SebAoLsgxBWudW3H","file:\/\/rzAuUruvmIzsXj12","file:\/\/fixab4fA4ihyKR5k"],"title":"- Large 2-3","blockclass":"","blockid":"","sliderback":"muted","sliderwidth":"large","sliderimgwidth":" uk-width-2-3@m"},"id":"7b19702d-3def-420c-bf75-cc8101524d74","isHidden":false,"type":"slider"},{"content":{"slider":["file:\/\/UkhdqCiXp55WpLRM","file:\/\/2MFccBAW5KajHL0i","file:\/\/SebAoLsgxBWudW3H","file:\/\/rzAuUruvmIzsXj12","file:\/\/fixab4fA4ihyKR5k"],"title":"- Large 1-2","blockclass":"","blockid":"","sliderback":"secondary","sliderwidth":"large","sliderimgwidth":" uk-width-1-2@m"},"id":"bfd64a1e-1485-4ea5-ab7e-3a1f5c65e85b","isHidden":false,"type":"slider"},{"content":{"slider":["file:\/\/UkhdqCiXp55WpLRM","file:\/\/2MFccBAW5KajHL0i","file:\/\/SebAoLsgxBWudW3H","file:\/\/rzAuUruvmIzsXj12","file:\/\/fixab4fA4ihyKR5k"],"title":"- Large 1-3","blockclass":"","blockid":"","sliderback":"primary","sliderwidth":"large","sliderimgwidth":" uk-width-1-3@m"},"id":"7bc2a064-cfe0-4893-9977-c215e327a3b5","isHidden":false,"type":"slider"}]
+
+----
+
+Disallowsubmenu: false
+
+----
+
+Newtab: false
+
+----
+
+Menuitemicon: 
+
+----
+
+Megamenu: false
+
+----
+
+Megamenuwidth: 
+
+----
+
+Megamenuitemwidth: 
+
+----
+
+Megamenubackground: false
+
+----
+
+Megamenubackgroundimage: 
+
+----
+
+Megamenubackgroundimageposition: 
+
+----
+
+Megamenubackgroundimagesize: 
+
+----
+
+Megamenubackgroundimagerepeat: 
+
+----
+
+Megamenubackgroundgradientoverlay: false
+
+----
+
+Megamenubackgroundgradienttransition: 
+
+----
+
+Transparentnavbar: 
+
+----
+
+Navbarinverse: false
+
+----
+
+Headersection: true
+
+----
+
+Alttitle: 
+
+----
+
+Intro: Everybody like sliders, especially if they are smooth like these.
+
+----
+
+Headerbackgroundtoggle: false
+
+----
+
+Header: 
+
+----
+
+Headerimageposition: 
+
+----
+
+Headerimagesize: 
+
+----
+
+Headerimagerepeat: 
+
+----
+
+Headertextcolor: 
+
+----
+
+Backgroundparalax: 
+
+----
+
+Shapedividertoggle: false
+
+----
+
+Shapedivider: 
+
+----
+
+Shapedividerposition: 
+
+----
+
+Customshapedivider: 
+
+----
+
+Shapedividerheight: 
+
+----
+
+Metafile: 
+
+----
+
+Sitemap: true
+
+----
+
+Metatitle: 
+
+----
+
+Metadescription: 
+
+----
+
+Uuid: QXkgzzCvKbUCuG79

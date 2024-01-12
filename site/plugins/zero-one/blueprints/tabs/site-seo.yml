@@ -1,0 +1,260 @@
+label: 
+  en: Site SEO & Files
+  de: Site SEO & Dateien
+icon: search
+columns:
+  - width: 2/3
+    sections:
+      meta:
+        type: fields
+        fields:
+          # Meta title
+          metaHeadline:
+            label: 
+              en: Site meta data
+              de: Metadaten der Website
+            type: headline
+          metaInfo:
+            label: Meta informations
+            type: info
+            text:
+              en: These informations are only used as a backup. You don't need to add it if you add Meta informations to every page.
+              de: Diese Informationen werden nur als Backup verwendet. Sie müssen es nicht hinzufügen, wenn Sie jeder Seite Metainformationen hinzufügen.
+          # Meta Image
+          metaFile:
+            label: Site Meta Image
+            multiple: false
+            extends: fields/image
+            help: 
+              en: Recommended image size 1200x630. Used for Home Page, but also as a backup for page Meta Image.
+              de: Empfohlene Bildgröße 1200x630. Wird für die Startseite, aber auch als Backup für das Seiten-Meta-Image verwendet.
+          # Meta Title
+          metaTitle:
+            label: 
+              en: Site Meta Title
+              de: Site-Meta-Titel
+            type: text
+            maxlength: 70
+            help: 
+              en: The page title will be shown if no Site Meta Title is given.
+              de: Der Seitentitel wird angezeigt, wenn kein Site-Metatitel angegeben ist.
+          # Meta Description
+          metaDescription:
+            label: 
+              en: Site Meta Description
+              de: Site Meta Beschreibung
+            type: textarea
+            size: small
+            maxlength: 160
+            buttons: false
+            help: 
+              en: The site meta description will be shown if no page description is given.
+              de: Die Site-Meta-Beschreibung wird angezeigt, wenn keine Seitenbeschreibung angegeben ist.
+
+      robots:
+        type: fields
+        fields:
+          # robots
+          robotsHeadline:
+            label: Robots txt
+            type: headline
+          robotsInfo:
+            label: 
+              en: Robots informations
+              de: Robots info
+            type: info
+            theme: positive
+            text:
+              en: |
+                Your website already has Robots txt (robots.txt) file generated. 
+                (link: https://github.com/bnomei/kirby3-robots-txt text: Kirby3 Robots txt plugin target: _blank) helps with that. You can check the plugin documentation for advanced options.
+
+                **You can see your Robots txt on this URL (link: {{ site.root.url }}/robots.txt target: _blank)**
+              de: |
+                Auf Ihrer Website ist bereits eine Robots-txt-Datei (robots.txt) generiert.
+                (link: https://github.com/bnomei/kirby3-robots-txt text: Kirby3 Robots txt plugin target: _blank) hilft dabei. Sie können in der Plugin-Dokumentation nach erweiterten Optionen suchen.
+
+                **Sie können Ihren Robots-Text unter dieser URL sehen (link: {{ site.root.url }}/robots.txt target: _blank)**
+          robotsImportantInfo:
+            label: 
+              en: Important note
+              de: Wichtiger Hinweis
+            type: info
+            theme: negative
+            text:
+              en: |
+                **When you turn (link: https://getkirby.com/docs/reference/system/options/debug text: debugging on target: _blank) in the config file** robots file will tell web crawlers (Google, Bing, etc) to stop indexing the website. 
+                So if you turn on the debugging on the live/production website, make sure to do it for short amount of time.
+              de: |
+                **Wenn Sie (link: https://getkirby.com/docs/reference/system/options/debug text: das Debuggen target: _blank) in der Konfigurationsdatei aktivieren**, weist die Robots-Datei Webcrawler (Google, Bing usw.) an, die Indizierung der Website zu beenden.
+                So if you turn on the debugging on the live/production website, make sure to do it for short amount of time.
+              
+      sitemap:
+        type: fields
+        fields:
+          # sitemap
+          sitemapHeadline:
+            label: Sitemap xml
+            type: headline
+          sitemapInfo:
+            label: 
+              en: Sitemap informations
+              de: Sitemap info
+            type: info
+            theme: positive
+            text:
+              en: |
+                Your website already has Sitemap xml (sitemap.xml) file generated. 
+
+                **You can see your Sitemap xml on this URL (link: {{ site.root.url }}/sitemap.xml target: _blank)**
+              de: |
+                Für Ihre Website ist bereits eine XML-Sitemap-Datei (sitemap.xml) generiert.
+
+                **Sie können Ihre Sitemap-XML unter dieser URL sehen (link: {{ site.root.url }}/sitemap.xml target: _blank)**
+          sitemapExclude:
+            label: 
+              en: Exclude from sitemap
+              de: Aus Sitemap ausschließen
+            type: info
+            text: 
+              en: Every page and image has in its options an option to exclude it from the sitemap.
+              de: Jede Seite und jedes Bild verfügt in ihren Optionen über die Option, sie aus der Sitemap auszuschließen.
+
+      structuredData:
+        type: fields
+        fields:
+          # structured data
+          schemaHeadline:
+            label: 
+              en: Structured data (Schema markup)
+              de: Strukturierte Daten (Schema-Markup)
+            type: headline
+          schemaInfo:
+            label: 
+              en: Structured data (Schema markup) info
+              de: Strukturierte Daten (Schema-Markup) info
+            type: info
+            text: 
+              en: |
+                When you turn Structured Data (Schema markup) on, it will be added on all pages.
+                Articles and Home page will get more complex Structured data snippets, while other pages will have simple snippets.
+              de: |
+                Wenn Sie strukturierte Daten (Schema-Markup) aktivieren, werden diese auf allen Seiten hinzugefügt.
+                Artikel und die Homepage erhalten komplexere Snippets mit strukturierten Daten, während andere Seiten über einfache Snippets verfügen.
+
+          useSchema:
+            label: 
+              en: Use schema
+              de: Verwenden Sie ein Schema
+            type: toggle
+            width: 1/3
+          companyType:
+            label: Type
+            type: toggle
+            help: 
+              en: Company or Person
+              de: Firma oder Person
+            text:
+              - 
+                en: Company
+                de: Firma
+              - Person
+            width: 1/3
+            when:
+              useSchema: true
+          schemaTypeGap:
+            type: gap
+            width: 1/3
+            when:
+              useSchema: true
+          companyName:
+            label: Name
+            type: text
+            help: 
+              en: If empty the website name will be used.
+              de: Wenn leer, wird der Name der Website verwendet.
+            width: 1/3
+            when:
+              useSchema: true
+          companyEmail:
+            label: Email
+            type: text
+            placeholder: email(at)domain.com
+            width: 1/3
+            when:
+              useSchema: true
+          companyPhone:
+            label:
+              en: Phone
+              de: Telefon
+            type: text
+            placeholder: ( 33 1) 42 68 53 00
+            width: 1/3
+            when:
+              useSchema: true
+          companyAddress:
+            label: 
+              en: Address
+              de: Adresse
+            type: toggle
+            width: 1/3
+            when:
+              useSchema: true
+          companyAddressInfo:
+            label: 
+              en: Address info
+              de: Informationen zur Adresse
+            type: info
+            text: 
+              en: You must add all address fields.
+              de: Sie müssen alle Adressfelder hinzufügen.
+            width: 2/3
+            when:
+              useSchema: true
+              companyAddress: true
+          companyLocality:
+            label: 
+              en: Locality
+              de: Lokalität
+            placeholder: Paris, France
+            type: text
+            help: 
+              en: Enter city and country
+              de: Geben Sie Stadt und Land ein
+            width: 1/3
+            when:
+              useSchema: true
+              companyAddress: true
+          companyPostal:
+            label: 
+              en: Postal code
+              de: Postleitzahl
+            type: text
+            width: 1/3
+            when:
+              useSchema: true
+              companyAddress: true
+          companyStreet:
+            label: 
+              en: Street address
+              de: Straßenadresse
+            type: text
+            placeholder: Street name 10
+            width: 1/3
+            when:
+              useSchema: true
+              companyAddress: true
+
+  - width: 1/3
+    sections:
+      # Files
+      metaFiles:
+        headline: 
+          en: Files
+          de: Dateien
+        type: files
+        info: "{{ file.dimensions }} {{ file.niceSize }}"
+        search: true
+        help: 
+          en: Click on the file and add its meta information.
+          de: Klicken Sie auf die Datei und fügen Sie ihre Metainformationen hinzu.

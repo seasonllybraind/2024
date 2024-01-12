@@ -1,0 +1,59 @@
+type: group
+fields:
+  linkType:
+    label: 
+      en: Link type
+      de: Linktyp
+    type: toggles
+    default: page
+    options: 
+      - value: page
+        text: 
+          en: Website page
+          de: Website-Seite
+        icon: layers
+      - value: external
+        text: URL link
+        icon: url
+    width: 2/3
+  newTab:
+    label: 
+      en: New tab
+      de: Neuer Tab
+    type: toggle
+    width: 1/3
+  icon:
+    extends: fields/icons
+    label: Icon
+    placeholder: None
+    width: 1/3
+  linkTitle:
+    type: text
+    label: 
+      en: Link title
+      de: Linktitel
+    width: 2/3
+  pageLink:
+    label: 
+      en: Page link
+      de: Seitenlink
+    type: pages
+    multiple: false
+    width: 1/2
+    when:
+      linkType: page
+  externalLink:
+    type: url
+    label: 
+      en: External link
+      de: Externer Link
+    width: 1/2
+    when:
+      linkType: external
+  anchor:
+    type: slug
+    label: 
+      en: Anchor
+      de: Anker
+    before: '#'
+    width: 1/4

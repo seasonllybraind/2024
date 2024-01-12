@@ -1,0 +1,25 @@
+/* Cookie popup */
+#cookiePopup {
+    display: none;
+    background: @global-background;
+    border: @global-border solid 1px;
+    max-width: 400px;
+    position: fixed;
+    margin-left: @global-small-gutter;
+    margin-right: @global-small-gutter;
+    bottom: @global-small-gutter;
+    box-shadow: @global-medium-box-shadow;
+    z-index: 500;
+    & when (@global-borders-rounded = true) {
+        border-radius: 7px;
+    }
+  }
+
+@media only screen and (max-width: 420px) {
+    #cookiePopup {
+        max-width: 100%;
+        margin-left: 0;
+        margin-right: 0;
+        bottom: 0;
+      }
+}

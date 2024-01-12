@@ -1,0 +1,20 @@
+type: fields
+fields:
+  performanceHeadline:
+    label: 
+      en: Performance settings
+      de: Performance-Einstellungen
+    type: headline
+    numbered: false
+  # cachebusting
+  cachebusting:
+    label: 
+      en: Cachebusting
+      de: Cache-Busting
+    type: toggle
+    translate: false
+    help: 
+      en: |
+        Turn on/off scripts cachebusting. (link: https://www.keycdn.com/support/what-is-cache-busting text: Learn more target: _blank)
+      de: |
+        Aktivieren/deaktivieren Sie das Cachebusting von Skripten. (link: https://www.keycdn.com/support/what-is-cache-busting text: Mehr erfahren target: _blank)

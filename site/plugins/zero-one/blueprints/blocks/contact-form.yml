@@ -1,0 +1,21 @@
+name: Contact form
+icon: email
+
+fields:
+  info:
+    label: Info
+    type: info
+    text:
+      en: |
+        This block displays contact form. 
+        For sending and receiving will use the email you added to Site Settings tab.
+      de: |
+        Dieser Block zeigt das Kontaktformular an.
+        Zum Senden und Empfangen wird die E-Mail verwendet, die Sie der Registerkarte Site-Einstellungen hinzugefügt haben. 
+  warning:
+    label: Warning
+    type: info
+    theme: negative
+    text: 
+      en: You can add only one contact form per page.
+      de: Sie können nur ein Kontaktformular pro Seite hinzufügen. 

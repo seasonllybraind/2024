@@ -1,0 +1,149 @@
+Title: Services
+
+----
+
+Animation: true
+
+----
+
+Modules: [{"content":{"herocontentoption":"","contentblocks":"","herotext":"# Full-service Design & Development\n\nFrom a team of passionate creators delivering engaging digital products.","herohtml":"","herostyle":"","herocover":[],"backgroundimageposition":"","backgroundimagesize":"","backgroundimagerepeat":"","sectiontextcolor":"","backgroundoverlaycolor":null,"backgroundparalax":"","mediavideosource":"","mediavideo":[],"mediavideourl":"","shapedividertoggle":"false","shapedivider":"","shapedividerposition":"","shapedividercolor":null,"customshapedivider":"","shapedividerheight":"","title":"- Title","blockclass":"","blockid":"","herosize":"medium","herotextwidth":"small","herotextalign":"center","heroheadings":"false","herocard":"false","herocardcolor":"","herocardhover":"false"},"id":"57c6ef5c-32d8-4c29-ac42-a3343f748f4d","isHidden":false,"type":"hero"},{"content":{"herocontentoption":"","contentblocks":"","herotext":"## Branding.\n\nWe build and activate brands through cultural insight, strategic vision, and the power of emotion. Help them to recognize their actual personality and make the best reflection of it in the market.\n\n(link: # text: Enquire Now \u00bb)","herohtml":"","herostyle":"image","herocover":["file:\/\/vXYcbcFxzPd7Dw5I"],"backgroundimageposition":" uk-background-center-center","backgroundimagesize":" uk-background-cover","backgroundimagerepeat":" no-repeat","sectiontextcolor":" uk-light","backgroundoverlaycolor":"#00000059","backgroundparalax":"paralaxY","mediavideosource":"","mediavideo":[],"mediavideourl":"","shapedividertoggle":"false","shapedivider":"","shapedividerposition":"","shapedividercolor":null,"customshapedivider":"","shapedividerheight":"","title":"- Design","blockclass":"","blockid":"","herosize":"large","herotextwidth":"small","herotextalign":"left","heroheadings":"true","herocard":"false","herocardcolor":"","herocardhover":"false"},"id":"d8e04663-83ce-42ce-9dab-73ef7dc981c7","isHidden":false,"type":"hero"},{"content":{"columns":[{"columnwidth":"uk-width-1-2@m","columnclass":"","columntitle":"","columncontenthtml":"markdown","columneditor":"","columncontent":"## Graphic Design.\n\nLaunching an attractive and scalable website quickly and affordably is important for modern startups \u2014 Zero One offers massive value without looking 'bargain-bin'.\n\n(link: # text: Enquire Now \u00bb)","columnhtml":"","subcolumns":[],"columncard":"false","columncardsize":"","columncardhover":"false","columncardcolor":""},{"columnwidth":"uk-width-1-2@m","columnclass":"","columntitle":"","columncontenthtml":"markdown","columneditor":"","columncontent":"## Product Design.\n\nLaunching an attractive and scalable website quickly and affordably is important for modern startups \u2014 Zero One offers massive value without looking 'bargain-bin'.\n\n(link: # text: Enquire Now \u00bb)","columnhtml":"","subcolumns":[],"columncard":"false","columncardsize":"","columncardhover":"false","columncardcolor":""}],"title":"- Design","blockclass":"","blockid":"","sectionsize":" uk-section-large","sectioncolor":" uk-section-default","sectionremovepadding":"","backgroundimage":[],"backgroundimageposition":"","backgroundimagesize":"","backgroundimagerepeat":"","sectiontextcolor":"","backgroundoverlaycolor":null,"backgroundparalax":"","shapedividertoggle":"false","shapedivider":"","shapedividerposition":"","shapedividercolor":null,"customshapedivider":"","shapedividerheight":"","gridwidth":" uk-container-small","columnstack":"mobile","columngap":"","columnsverticalalign":"","columnshorizontalalign":"","columnsdivider":"false","centertext":"false","gridheadings":"false","columnsparallax":"false"},"id":"3ccfa657-d631-4d48-947b-6c1b5437edc3","isHidden":false,"type":"grid"},{"content":{"herocontentoption":"","contentblocks":"","herotext":"## Digital Experience.\n\nReach out your clients better through website & mobile app. Boost conversation rate for your business faster.\n\n(link: # text: Enquire Now \u00bb)","herohtml":"","herostyle":"image","herocover":["file:\/\/9KynkETFXG54M2jf"],"backgroundimageposition":" uk-background-center-center","backgroundimagesize":" uk-background-cover","backgroundimagerepeat":" no-repeat","sectiontextcolor":" uk-light","backgroundoverlaycolor":"#00000059","backgroundparalax":"paralaxY","mediavideosource":"","mediavideo":[],"mediavideourl":"","shapedividertoggle":"false","shapedivider":"","shapedividerposition":"","shapedividercolor":null,"customshapedivider":"","shapedividerheight":"","title":"- Development","blockclass":"","blockid":"","herosize":"large","herotextwidth":"small","herotextalign":"left","heroheadings":"true","herocard":"false","herocardcolor":"","herocardhover":"false"},"id":"3cafb27e-ccd5-4a64-b91d-fa752657b92c","isHidden":false,"type":"hero"},{"content":{"columns":[{"columnwidth":"uk-width-1-2@m","columnclass":"","columntitle":"","columncontenthtml":"markdown","columneditor":"","columncontent":"## Websites.\n\nLaunching an attractive and scalable website quickly and affordably is important for modern startups \u2014 Zero One offers massive value without looking 'bargain-bin'.\n\n(link: # text: Enquire Now \u00bb)","columnhtml":"","subcolumns":[],"columncard":"false","columncardsize":"","columncardhover":"false","columncardcolor":""},{"columnwidth":"uk-width-1-2@m","columnclass":"","columntitle":"","columncontenthtml":"markdown","columneditor":"","columncontent":"## Apps.\n\nLaunching an attractive and scalable website quickly and affordably is important for modern startups \u2014 Zero One offers massive value without looking 'bargain-bin'.\n\n(link: # text: Enquire Now \u00bb)","columnhtml":"","subcolumns":[],"columncard":"false","columncardsize":"","columncardhover":"false","columncardcolor":""}],"title":"- Development","blockclass":"","blockid":"","sectionsize":" uk-section-large","sectioncolor":" uk-section-default","sectionremovepadding":"","backgroundimage":[],"backgroundimageposition":"","backgroundimagesize":"","backgroundimagerepeat":"","sectiontextcolor":"","backgroundoverlaycolor":null,"backgroundparalax":"","shapedividertoggle":"false","shapedivider":"","shapedividerposition":"","shapedividercolor":null,"customshapedivider":"","shapedividerheight":"","gridwidth":" uk-container-small","columnstack":"mobile","columngap":"","columnsverticalalign":"","columnshorizontalalign":"","columnsdivider":"false","centertext":"false","gridheadings":"false","columnsparallax":"false"},"id":"ca880e02-4c2b-4a95-a0f0-4a7e813bf742","isHidden":false,"type":"grid"},{"content":{"herocontentoption":"","contentblocks":"","herotext":"## Advertising & SEO.\n\nOur search and social ad strategies boost awareness and drive acquisition by reaching potential customers.\n\n(link: # text: Enquire Now \u00bb)","herohtml":"","herostyle":"image","herocover":["file:\/\/LoO2QHCc4ng4cDNV"],"backgroundimageposition":" uk-background-center-center","backgroundimagesize":" uk-background-cover","backgroundimagerepeat":" no-repeat","sectiontextcolor":" uk-light","backgroundoverlaycolor":"#00000066","backgroundparalax":"paralaxY","mediavideosource":"","mediavideo":[],"mediavideourl":"","shapedividertoggle":"false","shapedivider":"","shapedividerposition":"","shapedividercolor":null,"customshapedivider":"","shapedividerheight":"","title":"- Marketing","blockclass":"","blockid":"","herosize":"large","herotextwidth":"small","herotextalign":"left","heroheadings":"true","herocard":"false","herocardcolor":"","herocardhover":"false"},"id":"c8c9f83c-5796-4ec5-86cb-4ba2f26a3531","isHidden":false,"type":"hero"},{"content":{"columns":[{"columnwidth":"uk-width-1-2@m","columnclass":"","columntitle":"","columncontenthtml":"markdown","columneditor":"","columncontent":"## Analysis.\n\nLaunching an attractive and scalable website quickly and affordably is important for modern startups \u2014 Zero One offers massive value without looking 'bargain-bin'.\n\n(link: # text: Enquire Now \u00bb)","columnhtml":"","subcolumns":[],"columncard":"false","columncardsize":"","columncardhover":"false","columncardcolor":""},{"columnwidth":"uk-width-1-2@m","columnclass":"","columntitle":"","columncontenthtml":"markdown","columneditor":"","columncontent":"## Growth Hacking.\n\nLaunching an attractive and scalable website quickly and affordably is important for modern startups \u2014 Zero One offers massive value without looking 'bargain-bin'.\n\n(link: # text: Enquire Now \u00bb)","columnhtml":"","subcolumns":[],"columncard":"false","columncardsize":"","columncardhover":"false","columncardcolor":""}],"title":"- Marketing","blockclass":"","blockid":"","sectionsize":" uk-section-large","sectioncolor":" uk-section-default","sectionremovepadding":"","backgroundimage":[],"backgroundimageposition":"","backgroundimagesize":"","backgroundimagerepeat":"","sectiontextcolor":"","backgroundoverlaycolor":null,"backgroundparalax":"","shapedividertoggle":"false","shapedivider":"","shapedividerposition":"","shapedividercolor":null,"customshapedivider":"","shapedividerheight":"","gridwidth":" uk-container-small","columnstack":"mobile","columngap":"","columnsverticalalign":"","columnshorizontalalign":"","columnsdivider":"false","centertext":"false","gridheadings":"false","columnsparallax":"false"},"id":"8828dbd7-2744-41cf-876a-0f7debfaadaf","isHidden":false,"type":"grid"},{"content":{"herocontentoption":"markdown","contentblocks":"","herotext":"### Grow With Zero.\n\nSpecific needs require specific services.\n\n(link: contact text: Schedule a Free Consultation class: uk-button uk-button-primary uk-margin-small-top)","herohtml":"","herostyle":"muted","herocover":[],"backgroundimageposition":"","backgroundimagesize":"","backgroundimagerepeat":"","sectiontextcolor":"","backgroundoverlaycolor":null,"backgroundparalax":"","mediavideosource":"","mediavideo":[],"mediavideourl":"","shapedividertoggle":"false","shapedivider":"","shapedividerposition":"","shapedividercolor":null,"customshapedivider":"","shapedividerheight":"","title":"- Grow with Zero","blockclass":"","blockid":"","herosize":"medium","herotextwidth":"small","herotextalign":"center","heroheadings":"true","herocard":"false","herocardcolor":"","herocardhover":"false"},"id":"699e994a-52be-4804-a705-7049bdcf2c74","isHidden":false,"type":"hero"}]
+
+----
+
+Disallowsubmenu: false
+
+----
+
+Newtab: false
+
+----
+
+Menuitemicon: 
+
+----
+
+Megamenu: false
+
+----
+
+Megamenuwidth: 
+
+----
+
+Megamenuitemwidth: 
+
+----
+
+Megamenubackground: false
+
+----
+
+Megamenubackgroundimage: 
+
+----
+
+Megamenubackgroundimageposition: 
+
+----
+
+Megamenubackgroundimagesize: 
+
+----
+
+Megamenubackgroundimagerepeat: 
+
+----
+
+Megamenubackgroundgradientoverlay: false
+
+----
+
+Megamenubackgroundgradienttransition: 
+
+----
+
+Transparentnavbar: 
+
+----
+
+Navbarinverse: false
+
+----
+
+Headersection: false
+
+----
+
+Alttitle: 
+
+----
+
+Intro: 
+
+----
+
+Headerbackgroundtoggle: false
+
+----
+
+Header: 
+
+----
+
+Headerimageposition: 
+
+----
+
+Headerimagesize: 
+
+----
+
+Headerimagerepeat: 
+
+----
+
+Headertextcolor: 
+
+----
+
+Backgroundparalax: 
+
+----
+
+Shapedividertoggle: false
+
+----
+
+Shapedivider: 
+
+----
+
+Shapedividerposition: 
+
+----
+
+Customshapedivider: 
+
+----
+
+Shapedividerheight: 
+
+----
+
+Metafile: 
+
+----
+
+Sitemap: true
+
+----
+
+Metatitle: 
+
+----
+
+Metadescription: 
+
+----
+
+Uuid: py41rd8GWipYDcCQ

@@ -1,0 +1,65 @@
+//
+// Component: Dotnav
+//
+// ========================================================================
+
+
+// Variables
+// ========================================================================
+
+@dotnav-margin-horizontal:                      20px;
+@dotnav-margin-vertical:                        @dotnav-margin-horizontal;
+
+@dotnav-item-width:                             5px;
+@dotnav-item-height:                            @dotnav-item-width;
+@dotnav-item-border-radius:                     100%;
+
+@dotnav-item-background:                        @global-secondary-background;
+
+@dotnav-item-hover-background:                  fade(@global-color, 40%);
+@dotnav-item-onclick-background:                @global-primary-background;
+@dotnav-item-active-background:                 @global-primary-background;
+
+
+// Component
+// ========================================================================
+
+.hook-dotnav() {
+    padding: 10px;
+}
+
+.hook-dotnav-item() {
+    transition: all 0.3s ease-in-out;
+}
+
+.hook-dotnav-item-hover() {}
+
+.hook-dotnav-item-onclick() {}
+
+.hook-dotnav-item-active() {
+    width: 30px;
+    border-radius: 5px;
+}
+
+
+// Miscellaneous
+// ========================================================================
+
+.hook-dotnav-misc() {}
+
+
+// Inverse
+// ========================================================================
+
+@inverse-dotnav-item-background:               fade(@inverse-global-color, 50%);
+@inverse-dotnav-item-hover-background:         fade(@inverse-global-color, 90%);
+@inverse-dotnav-item-onclick-background:       fade(@inverse-global-color, 50%);
+@inverse-dotnav-item-active-background:        fade(@inverse-global-color, 90%);
+
+@inverse-dotnav-item-border:                   fade(@inverse-global-color, 90%);
+
+.hook-inverse-dotnav() {}
+.hook-inverse-dotnav-item() {}
+.hook-inverse-dotnav-item-hover() {}
+.hook-inverse-dotnav-item-onclick() {}
+.hook-inverse-dotnav-item-active() {}

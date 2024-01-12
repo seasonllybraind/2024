@@ -1,0 +1,9 @@
+label:
+  en: Image size
+  de: Bildgröße
+type: select
+default: " uk-background-cover"
+options:
+  " uk-background-cover": Cover
+  " uk-background-contain": Contain
+width: 1/3

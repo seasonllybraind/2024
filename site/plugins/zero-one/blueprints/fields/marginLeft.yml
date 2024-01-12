@@ -1,0 +1,22 @@
+label: 
+  en: Margin left
+  de: Margin links
+type: select
+placeholder: None
+options:
+  " uk-margin-left": 
+    en: Default left
+    de: Standard links
+  " uk-margin-small-left": 
+    en: Small left
+    de: Klein links
+  " uk-margin-medium-left": 
+    en: Medium left
+    de: Mittel links
+  " uk-margin-large-left": 
+    en: Large left
+    de: Groß links
+  " uk-margin-xlarge-left": 
+    en: XLarge left
+    de: XGroß links
+width: 1/3

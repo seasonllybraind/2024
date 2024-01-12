@@ -1,0 +1,161 @@
+Title: Builders
+
+----
+
+Layout: [{"attrs":{"gridwidth":"uk-container","tabletwidth":"uk-width-1-2@s ","mobilewidth":"","columnsverticalalign":"","columnshorizontalalign":"","containerexpand":"","columngap":"","columnsdivider":"false","gridmasonry":"false","gridparallax":"false","sectiontoggle":"true","sectionsize":" uk-section-xlarge","sectioncolor":"custom","sectionremovepadding":"","backgroundstyle":"image","backgroundimage":["file:\/\/0cDw6qKlYGVpfaYM"],"mediavideosource":"url","mediavideo":[],"mediavideourl":"","backgroundimageposition":" uk-background-center-center","backgroundimagesize":" uk-background-cover","backgroundimagerepeat":" no-repeat","sectiontextcolor":" uk-light","backgroundoverlaycolor":"rgba(0, 0, 0, 0)","backgroundgradientoverlay":"false","backgroundgradienttransition":"","backgroundoverlaycolor2":"rgba(0,0,0,0.3)","backgroundparalax":"","shapedividertoggle":"false","shapedivider":"","shapedividerposition":"","shapedividercolor":"#ffffff","customshapedivider":"","shapedividerheight":"150px","preservecolor":"false","sectionclass":"","sectionid":"","hidden":"","visible":"","animationswitch":"true","animationtype":"uk-animation-slide-bottom-small","animationdelay":null},"columns":[{"blocks":[{"content":{"level":"h2","text":"Layout Builder","headingsize":" uk-heading-large","headingstyle":"","headingcolor":"","textalign":"","textaligntablet":"","textalignmobile":"","texttransform":"","textwrapping":""},"id":"6387a922-7e00-4e34-a904-c822e4317c84","isHidden":false,"type":"heading"},{"content":{"level":"h3","text":"Super powerful &amp; flexible","headingsize":" uk-h4","headingstyle":"","headingcolor":"","textalign":"","textaligntablet":"","textalignmobile":"","texttransform":"","textwrapping":""},"id":"bf4fb733-352e-4af9-bd2e-15c2b05ea780","isHidden":false,"type":"heading"},{"content":{"text":"<p>Layout Builder is a magical layout system with inner blocks powering infinite creative possibilities. Based on the new Kirby Layout field, but extended with powerful options and <strong><u>our own Column block<\/u><\/strong>, and with 30+ content blocks, it is the website building tool with really infinite possibilities. Easy for beginners, but super-useful for experienced website designers\/developers who will have a great ride exploring all that is possible with this builder.<\/p>","textalign":"","textaligntablet":"","textalignmobile":"","textsize":"","texttransform":"","textwrapping":"","textcolor":""},"id":"33ae6ada-c200-48fd-8d3c-1a2aba800e4f","isHidden":false,"type":"text"},{"content":{"text":"Learn more","buttonicon":"","linktype":"internal","link":"","internalpage":["page:\/\/MQVCYDQ0djJoHxu9"],"filelink":[],"emaillink":"","phonelink":"","target":"false","buttonstyle":" uk-button-link","buttonsize":"","margintop":" uk-margin-top"},"id":"1fd296f1-ac23-4adc-aee6-c9031cdffd1d","isHidden":false,"type":"button"}],"id":"7fedbb92-182b-4dd9-9855-a4f209a71cd3","width":"1\/2"},{"blocks":[],"id":"230e5781-45db-4257-983d-32ce11872b7f","width":"1\/2"}],"id":"aed5671d-6197-4ab7-b20a-5f0a7546565f"},{"attrs":{"gridwidth":"uk-container","tabletwidth":"uk-width-1-2@s ","mobilewidth":"","columnsverticalalign":"","columnshorizontalalign":"","containerexpand":"","columngap":"","columnsdivider":"false","gridmasonry":"false","gridparallax":"false","sectiontoggle":"true","sectionsize":" uk-section-xlarge","sectioncolor":"custom","sectionremovepadding":"","backgroundstyle":"image","backgroundimage":["file:\/\/PSaOFzk7kOAplzdt"],"mediavideosource":"url","mediavideo":[],"mediavideourl":"","backgroundimageposition":" uk-background-center-center","backgroundimagesize":" uk-background-cover","backgroundimagerepeat":" no-repeat","sectiontextcolor":" uk-light","backgroundoverlaycolor":"rgba(0, 0, 0, 0.4)","backgroundgradientoverlay":"true","backgroundgradienttransition":"to bottom right","backgroundoverlaycolor2":"rgba(0, 0, 0, 0)","backgroundparalax":"","shapedividertoggle":"false","shapedivider":"","shapedividerposition":"","shapedividercolor":"#ffffff","customshapedivider":"","shapedividerheight":"150px","preservecolor":"false","sectionclass":"","sectionid":"","hidden":"","visible":"","animationswitch":"true","animationtype":"uk-animation-slide-bottom-small","animationdelay":null},"columns":[{"blocks":[{"content":{"level":"h2","text":"Page Builder","headingsize":" uk-heading-large","headingstyle":"","headingcolor":"","textalign":"","textaligntablet":"","textalignmobile":"","texttransform":"","textwrapping":""},"id":"1377636e-a9cc-4200-bc1e-e39b163ef8d6","isHidden":false,"type":"heading"},{"content":{"level":"h3","text":"Intuitive and easy to use","headingsize":" uk-h4","headingstyle":"","headingcolor":"","textalign":"","textaligntablet":"","textalignmobile":"","texttransform":"","textwrapping":""},"id":"01efbb45-1f20-446d-be62-719582c1bf5b","isHidden":false,"type":"heading"},{"content":{"text":"<p>Page Builder uses a system of block sections that are somewhat pre-completed designs into which you insert content. So it is very quick to understand and work with him. Of course, there are plenty of options and flexibility in each section-block, especially in the Grid block.<\/p>","textalign":"","textaligntablet":"","textalignmobile":"","textsize":"","texttransform":"","textwrapping":"","textcolor":""},"id":"2e98c189-838d-4434-8be6-39ded3f9cd94","isHidden":false,"type":"text"},{"content":{"text":"Learn more","buttonicon":"","linktype":"internal","link":"","internalpage":["page:\/\/4Bpc1tN5H1ysoSpX"],"filelink":[],"emaillink":"","phonelink":"","target":"false","buttonstyle":" uk-button-link","buttonsize":"","margintop":" uk-margin-top"},"id":"1ecc3db4-2a28-463e-8a7b-1e490f7d9fbe","isHidden":false,"type":"button"}],"id":"1c607dbf-d40b-44b9-b1f7-e8af8acb79fc","width":"1\/2"},{"blocks":[],"id":"b4770399-9052-4ba0-a9d6-687cf8c3adf2","width":"1\/2"}],"id":"6edaf050-7862-40e3-b064-255afd16521a"}]
+
+----
+
+Disallowsubmenu: false
+
+----
+
+Newtab: false
+
+----
+
+Menuitemicon: 
+
+----
+
+Megamenu: true
+
+----
+
+Megamenuwidth: 3
+
+----
+
+Megamenuitemwidth: 3
+
+----
+
+Megamenubackground: true
+
+----
+
+Megamenubackgroundimage: - file://0cDw6qKlYGVpfaYM
+
+----
+
+Megamenubackgroundimageposition: uk-background-center-center
+
+----
+
+Megamenubackgroundimagesize: uk-background-cover
+
+----
+
+Megamenubackgroundimagerepeat: no-repeat
+
+----
+
+Megamenubackgroundoverlaycolor: #0e071d
+
+----
+
+Megamenubackgroundgradientoverlay: true
+
+----
+
+Megamenubackgroundgradienttransition: to bottom right
+
+----
+
+Megamenubackgroundoverlaycolor2: #0e071d1a
+
+----
+
+Transparentnavbar: 
+
+----
+
+Navbarinverse: false
+
+----
+
+Headersection: true
+
+----
+
+Alttitle: Page Builders
+
+----
+
+Intro: Intuitive content editing that doesn’t sacrifice functionality.
+
+----
+
+Headerbackgroundtoggle: false
+
+----
+
+Header: 
+
+----
+
+Headerimageposition: uk-background-center-center
+
+----
+
+Headerimagesize: uk-background-cover
+
+----
+
+Headerimagerepeat: no-repeat
+
+----
+
+Headertextcolor: uk-light
+
+----
+
+Headeroverlaycolor: rgba(0,0,0,0.2)
+
+----
+
+Backgroundparalax: 
+
+----
+
+Shapedividertoggle: false
+
+----
+
+Shapedivider: 
+
+----
+
+Shapedividerposition: 
+
+----
+
+Shapedividercolor: #ffffff
+
+----
+
+Customshapedivider: 
+
+----
+
+Shapedividerheight: 150px
+
+----
+
+Metafile: - file://YpVH0BKfRymRNfFp
+
+----
+
+Sitemap: true
+
+----
+
+Metatitle: Page Builders
+
+----
+
+Metadescription: You can rely on Zero One page builders to do what they do best - all the difficult work, generating lightweight, SEO-friendly code.
+
+----
+
+Uuid: pplFXDLgBuXrPpu4

@@ -1,0 +1,132 @@
+name: 
+  en: Latest projects
+  de: Neueste Projekte
+label: - {{title}}
+icon: list-numbers
+
+fields:
+  # section title
+  title:
+    label: 
+      en: Section title
+      de: Abschnittsüberschrift
+    type: text
+    placeholder: My custom Section name
+    width: 1/3
+  # block id
+  blockID:
+    label: 
+      en: Section ID
+      de: Abschnitts-ID
+    type: text
+    placeholder: my-custom-id
+    before: '#'
+    width: 1/3
+  # block class
+  blockClass:
+    label: 
+      en: Section custom class
+      de: Abschnitt benutzerdefinierte Klasse
+    type: text
+    placeholder: my-custom-class
+    before: '.'
+    width: 1/3
+  # section size
+  sectionSize:
+    extends: fields/sectionSize
+  # project color
+  projectsColor:
+    label: 
+      en: Section background color
+      de: Abschnitt Hintergrundfarbe
+    type: select
+    placeholder: Default
+    options:
+      " uk-background-muted": 
+        en: Muted
+        de: Stumm geschaltet
+      " uk-background-primary uk-light": 
+        en: Primary
+        de: Primär
+      " uk-background-secondary uk-light": 
+        en: Secondary
+        de: Sekundär
+    width: 1/3
+  # text option
+  projectsTextOption: 
+    label: 
+      en: Text position option
+      de: Option für die Textposition
+    type: select
+    default: left
+    options:
+      top: Top
+      left: 
+        en: Left
+        de: Links
+    width: 1/3
+  # cover size
+  projectsCover:
+    label: 
+      en: Projects cover size
+      de: Projekte decken Größe ab
+    type: toggle
+    text:
+      - "Inherit"
+      - "Custom"
+    help: 
+      en: Define cover image size.
+      de: Definieren Sie die Größe des Titelbilds.
+    width: 1/3
+  coverWidth:
+    label: 
+      en: Cover image width
+      de: Breite des Titelbilds
+    type: number
+    placeholder: 600
+    default: 600
+    after: 'px'
+    help: 
+      en: Default width is 600px.
+      de: Die Standardbreite beträgt 600 Pixel.
+    width: 1/3
+    when:
+      projectsCover: true
+  coverHeight:
+    label: 
+      en: Cover image height
+      de: Höhe des Titelbilds
+    type: number
+    placeholder: 800
+    default: 800
+    after: 'px'
+    help: 
+      en: Default height is 800px.
+      de: Die Standardhöhe beträgt 800 Pixel.
+    width: 1/3
+    when:
+      projectsCover: true
+  # text
+  projectsText: 
+    label: Editor
+    type: textarea
+  # Select products
+  projects:
+    label: 
+      en: Select work/projects page
+      de: Wählen Sie die Seite Arbeit/Projekte aus 
+    type: pages
+    query: site.index.filterBy('template', 'in', ['work'])
+    multiple: false
+    subpages: false
+    empty: 
+      en: No work/projects page selected
+      de: Keine Arbeits-/Projektseite ausgewählt 
+  infoProjects:
+    label: Info
+    type: info
+    text: 
+      en: If no work/projects page is selected, projects from the first work/projects page Kirby find will be displayed.
+      de: Wenn keine Arbeits-/Projektseite ausgewählt ist, werden Projekte von der ersten Arbeits-/Projektseite von Kirby Find angezeigt. 
+  endGap:
+    type: gap

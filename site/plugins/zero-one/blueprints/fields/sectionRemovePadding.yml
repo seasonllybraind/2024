@@ -1,0 +1,15 @@
+label: 
+  en: Remove section padding
+  de: Abschnittspolster entfernen
+type: select
+options:
+  " uk-padding-remove-top": 
+    en: Remove top padding
+    de: Entfernen Sie die obere
+  " uk-padding-remove-bottom": 
+    en: Remove bottom padding
+    de: Entfernen Sie die untere
+  " uk-padding-remove-vertical": 
+    en: Remove top and bottom
+    de: Entfernen Sie oben und unten
+width: 1/3

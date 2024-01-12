@@ -1,0 +1,10 @@
+label: 
+  en: Animation delay
+  de: Animationsverzögerung
+type: number
+after: "ms"
+placeholder: 200
+help: In miliseconds
+min: 0
+max: 5000
+width: 1/3

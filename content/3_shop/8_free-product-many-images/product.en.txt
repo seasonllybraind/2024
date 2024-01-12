@@ -1,0 +1,241 @@
+Title: Free product many images
+
+----
+
+Producttype: custom
+
+----
+
+Snipcartprice: 1220
+
+----
+
+Snipcartproductid: 
+
+----
+
+Snipcartminquantity: 1
+
+----
+
+Snipcarttaxable: false
+
+----
+
+Productvariations: 
+
+----
+
+Snipcartproductguid: 
+
+----
+
+Customprice: 1220
+
+----
+
+Customfree: true
+
+----
+
+Customlinkexternal: 
+
+----
+
+Customlinkinternal: - page://LmFfSOmJM1nGod7a
+
+----
+
+Custombuttontext: Order product
+
+----
+
+Customnewtab: true
+
+----
+
+Outofstock: false
+
+----
+
+Productshort: Twill Upholstery & Natural Wood Finish Frame
+
+----
+
+Productintro:
+
+Sturdy yet elegant and comfortable without being overly plush, rounded edges and curved back wrap around to provide the perfect resting spot for arms.
+
+A truly original take on the classic armchair. The Modern Leisure Chair by Deets boasts a low-slung back and high-set arms with body-hugging form. The chair’s exposed Ashwood frame adds warmth, while luxe linen upholstery softens the piece. 
+
+### Features
+
+- Frame Material: Ash Wood
+- Lounge chair of mid-century modern design
+- Available in the natural wood frame finish
+- Offered in linen weave and twill fabric upholstery options
+- Assembly is not required
+- Can be special ordered (COM/COL) for volume commercial orders
+- Suitable for both residential and commercial use
+
+---
+
+**This is a Custom product with a link to the website internal page.**
+
+----
+
+Selectbuilder: 
+
+----
+
+Productdescription: [{"content":{"text":"<p>This Modern Leisure Chair is a premium reproduction of one of the most classic designs from the mid-century modern era. A rare combination and its misleadingly complex construction stem from the designer's extensive knowledge of wood. </p><p>The fluid lines and minimalist style create an airy feel while the Y-back creates a truly organic impression. The Modern Leisure Chair design starts with a semi-circle back that integrates into the highly curved rear legs. Four horizontal crossbars are placed below the seating platform. </p><p>The 2 side crossbars are of even height while the front is placed on a slightly higher plane and the back is placed lower. The back of the chair features the signature \"Y\" feature. It is flat in shape and designed with back comfort in mind. The seat is handwoven with natural rattan providing a comfortable long-lasting platform. 3 coats of polyurethane finish the surface. </p><p>This chair is often used as a dining chair, occasional chair, and home office chair.</p>","textalign":"","textaligntablet":"","textalignmobile":"","textsize":"","texttransform":"","textwrapping":"","textcolor":""},"id":"efb4bbd1-8d8f-4fc0-8655-abbc8bdfaece","isHidden":false,"type":"text"}]
+
+----
+
+Layout: 
+
+----
+
+Shippingtoggle: true
+
+----
+
+Productweight: 11000
+
+----
+
+Productlength: 93
+
+----
+
+Productheight: 76
+
+----
+
+Productwidth: 85
+
+----
+
+Additionalinformation:
+
+- 
+  attribute: Main Material
+  value: Solid Wood
+- 
+  attribute: Leg Material
+  value: Solid Wood
+- 
+  attribute: Upholstered
+  value: 'Yes'
+- 
+  attribute: Back Style
+  value: Solid back
+- 
+  attribute: Foldable
+  value: 'No'
+- 
+  attribute: Product Care
+  value: Wipe clean with a dry cloth
+
+----
+
+Customtabs: 
+
+----
+
+Cover:
+
+- 
+  id: >
+    shop/modern-leisure-chair/modern-chair-gray-background.jpg
+
+----
+
+Gallery:
+
+- 
+  id: >
+    two-chairs-wooden-floor-living-room-with-raw-concrete-wall-loft-style.jpg
+- 
+  id: >
+    chair-bicycle-with-raw-concrete-wall-wooden-floor-copy-space-mock-up-3d-rendering.jpg
+  clip:
+    width: 1535
+    height: 1539
+    left: 33
+    top: 0
+- 
+  id: >
+    interior-with-white-wall-wooden-chair-wooden-floor-lamp-empty-wall-background.jpg
+  clip:
+    width: 1212
+    height: 1212
+    left: 19
+    top: 0
+- 
+  id: >
+    living-room-interior-wall-warm-tones-gray-armchair-with-wood-cabinet-3d-rendering.jpg
+  clip:
+    width: 1441
+    height: 1440
+    left: 460
+    top: 0
+- 
+  id: >
+    living-room-scandinavian-interior-design.jpg
+  clip:
+    width: 1282
+    height: 1280
+    left: 638
+    top: 0
+- 
+  id: >
+    mid-century-modern-living-room-interior-design-with-monstera-tree.jpg
+  clip:
+    width: 1282
+    height: 1280
+    left: 621
+    top: 0
+
+----
+
+Category: custom
+
+----
+
+Tags: free
+
+----
+
+Featured: false
+
+----
+
+New: false
+
+----
+
+Related:
+
+- page://gv7UoQnYfQ3Vwhzb
+- page://wsO7m12jnZKIwyYQ
+
+----
+
+Metafile: - file://im7CnjKDYv61a9bC
+
+----
+
+Sitemap: true
+
+----
+
+Metatitle: 
+
+----
+
+Metadescription: 
+
+----
+
+Uuid: iVfCW3n2fjvLf4PO

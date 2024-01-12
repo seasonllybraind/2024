@@ -1,0 +1,57 @@
+title: 
+  en: Image
+  de: Bild
+
+accept:
+  type: image
+
+columns:
+  - width: 1/2
+    sections:
+      content:
+        type: fields
+        fields:
+          caption:
+            label: 
+              en: Caption
+              de: Bildbeschriftung
+            type: textarea
+            size: medium
+  - width: 1/2
+    sections:
+      meta:
+        type: fields
+        fields:
+          alt:
+            label: 
+              en: Alternative Text
+              de: Alternativer Text
+            type: text
+          photographer:
+            label: 
+              en: Author
+              de: Autor
+            type: text
+            width: 2/3
+          license:
+            label: 
+              en: License
+              de: Lizenz
+            type: select
+            width: 1/3
+            options:
+              - Unsplash
+              - CC BY 4.0
+              - CC BY-SA 4.0
+              - CC BY-NC 4.0
+              - CC BY-ND 4.0
+              - RM (Rights Managed)
+              - Editorial Use
+              - RF (Royalty Free)
+              - Public Domain
+          link:
+            label: Link
+            type: url
+          sitemap:
+            extends: fields/sitemap
+            width: 1/2

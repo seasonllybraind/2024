@@ -1,0 +1,153 @@
+Title: Showcase projects
+
+----
+
+Layout: [{"attrs":{"gridwidth":"uk-container","tabletwidth":"uk-width-1-2@s ","mobilewidth":"","columnsverticalalign":"","columnshorizontalalign":"","containerexpand":"","columngap":" uk-grid-large","columnsdivider":"false","gridmasonry":"false","gridparallax":"false","sectiontoggle":"true","sectionsize":" uk-section-large","sectioncolor":" uk-section-muted","sectionremovepadding":"","backgroundstyle":"color","backgroundimage":[],"mediavideosource":"url","mediavideo":[],"mediavideourl":"","backgroundimageposition":" uk-background-center-center","backgroundimagesize":" uk-background-cover","backgroundimagerepeat":" no-repeat","sectiontextcolor":" uk-light","backgroundoverlaycolor":"rgba(0,0,0,0.3)","backgroundgradientoverlay":"false","backgroundgradienttransition":"","backgroundoverlaycolor2":"rgba(0,0,0,0.3)","backgroundparalax":"","shapedividertoggle":"false","shapedivider":"","shapedividerposition":"","shapedividercolor":"#ffffff","customshapedivider":"","shapedividerheight":"150px","preservecolor":"false","sectionclass":"","sectionid":"","hidden":"","visible":"","animationswitch":"true","animationtype":"uk-animation-slide-bottom-small","animationdelay":null},"columns":[{"blocks":[{"content":{"level":"h2","text":"A Digital &amp; Kirby design studio based in Belgrade.","headingsize":"","headingstyle":"","headingcolor":"","textalign":"","textaligntablet":"","textalignmobile":"","texttransform":"","textwrapping":""},"id":"b01eaeb6-9706-45b2-a832-035da99150ab","isHidden":false,"type":"heading"},{"content":{"text":"<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<\/p>","textalign":"","textaligntablet":"","textalignmobile":"","textsize":" uk-text-large","texttransform":"","textwrapping":"","textcolor":""},"id":"49e769e0-87d3-4a39-8012-031e552486de","isHidden":false,"type":"text"},{"content":{"text":"<p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<\/p>","textalign":"","textaligntablet":"","textalignmobile":"","textsize":"","texttransform":"","textwrapping":"","textcolor":""},"id":"b54a95bb-db3f-478d-955a-8adaf8b61e37","isHidden":false,"type":"text"},{"content":{"text":"All projects","buttonicon":"","linktype":"internal","link":"","internalpage":["page:\/\/g0RWBaCPt5RXiKrE"],"filelink":[],"emaillink":"","phonelink":"","target":"false","buttonstyle":" uk-button-link","buttonsize":" uk-button-small","margintop":" uk-margin-small-top"},"id":"b242e2ba-f8b5-4699-b02e-a14117c6b62f","isHidden":false,"type":"button"}],"id":"27530940-6a6f-41c4-9a4c-dcd76d43fd33","width":"1\/3"},{"blocks":[{"content":{"projectscover":"true","coverwidth":600,"coverheight":800,"projects":[],"maxprojects":null,"columnwidth":"uk-child-width-1-2@m","tabletwidth":"uk-child-width-1-1@s ","autoplay":"true","finite":"false","slidesets":"false","title":"","blockid":"","blockclass":""},"id":"d691d64e-fb20-43d2-bd03-250396e0c14a","isHidden":false,"type":"z-projects"}],"id":"456de8a6-6b62-42ff-94ce-498828b026e6","width":"2\/3"}],"id":"dd108ffa-a319-422f-b670-46832b97fb48"},{"attrs":{"gridwidth":"uk-container","tabletwidth":"","mobilewidth":"","columnsverticalalign":"","columnshorizontalalign":"","containerexpand":"","columngap":"","columnsdivider":"false","gridmasonry":"false","gridparallax":"false","sectiontoggle":"true","sectionsize":" uk-section-large","sectioncolor":" uk-section-primary","sectionremovepadding":"","backgroundstyle":"color","backgroundimage":[],"mediavideosource":"url","mediavideo":[],"mediavideourl":"","backgroundimageposition":" uk-background-center-center","backgroundimagesize":" uk-background-cover","backgroundimagerepeat":" no-repeat","sectiontextcolor":" uk-light","backgroundoverlaycolor":"rgba(0,0,0,0.3)","backgroundgradientoverlay":"false","backgroundgradienttransition":"","backgroundoverlaycolor2":"rgba(0,0,0,0.3)","backgroundparalax":"","shapedividertoggle":"false","shapedivider":"","shapedividerposition":"","shapedividercolor":"#ffffff","customshapedivider":"","shapedividerheight":"150px","preservecolor":"false","sectionclass":"","sectionid":"","hidden":"","visible":"","animationswitch":"true","animationtype":"uk-animation-slide-bottom-small","animationdelay":null},"columns":[{"blocks":[{"content":{"level":"h2","text":"A Digital &amp; Kirby design studio based in Belgrade.","headingsize":"","headingstyle":"","headingcolor":"","textalign":" uk-text-center@m","textaligntablet":" uk-text-center@s","textalignmobile":"","texttransform":"","textwrapping":""},"id":"714b16e3-acb1-4d22-a30f-891abcb17c58","isHidden":false,"type":"heading"},{"content":{"text":"<p>Check out our work<\/p>","textalign":" uk-text-center@m","textaligntablet":" uk-text-center@s","textalignmobile":"","textsize":" uk-text-large","texttransform":"","textwrapping":"","textcolor":""},"id":"c359b1c1-f0f5-4e8f-83c8-1cff4d5d2774","isHidden":false,"type":"text"},{"content":{"projectscover":"true","coverwidth":600,"coverheight":800,"projects":[],"maxprojects":null,"columnwidth":"uk-child-width-1-3@m","tabletwidth":"uk-child-width-1-2@s ","autoplay":"true","finite":"false","slidesets":"false","title":"","blockid":"","blockclass":""},"id":"84bd6f8a-f694-4eea-9e86-d31803e10a8e","isHidden":false,"type":"z-projects"}],"id":"a6f2c47b-8281-419f-b28f-867dd53d3342","width":"1\/1"}],"id":"59880a82-875a-4423-a11a-dc274d90d5fd"}]
+
+----
+
+Disallowsubmenu: false
+
+----
+
+Newtab: false
+
+----
+
+Menuitemicon: star
+
+----
+
+Megamenu: false
+
+----
+
+Megamenuwidth: 
+
+----
+
+Megamenuitemwidth: 
+
+----
+
+Megamenubackground: false
+
+----
+
+Megamenubackgroundimage: 
+
+----
+
+Megamenubackgroundimageposition: 
+
+----
+
+Megamenubackgroundimagesize: 
+
+----
+
+Megamenubackgroundimagerepeat: 
+
+----
+
+Megamenubackgroundgradientoverlay: false
+
+----
+
+Megamenubackgroundgradienttransition: 
+
+----
+
+Transparentnavbar: 
+
+----
+
+Navbarinverse: false
+
+----
+
+Headersection: true
+
+----
+
+Alttitle: 
+
+----
+
+Intro: Feature your projects on any page.
+
+----
+
+Headerbackgroundtoggle: false
+
+----
+
+Header: 
+
+----
+
+Headerimageposition: uk-background-center-center
+
+----
+
+Headerimagesize: uk-background-cover
+
+----
+
+Headerimagerepeat: no-repeat
+
+----
+
+Headertextcolor: uk-light
+
+----
+
+Headeroverlaycolor: rgba(0,0,0,0.2)
+
+----
+
+Backgroundparalax: 
+
+----
+
+Shapedividertoggle: false
+
+----
+
+Shapedivider: 
+
+----
+
+Shapedividerposition: 
+
+----
+
+Shapedividercolor: #ffffff
+
+----
+
+Customshapedivider: 
+
+----
+
+Shapedividerheight: 150px
+
+----
+
+Metafile: 
+
+----
+
+Sitemap: true
+
+----
+
+Metatitle: 
+
+----
+
+Metadescription: 
+
+----
+
+Uuid: 8bYiBwdSqAgzbebl

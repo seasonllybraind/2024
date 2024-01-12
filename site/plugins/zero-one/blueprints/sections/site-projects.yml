@@ -1,0 +1,40 @@
+type: fields
+fields:
+  projectsHeadline:
+    label: 
+      en: Projects cover image
+      de: Titelbild der Projekte
+    type: headline
+  coverWidth:
+    label: 
+      en: Cover image width
+      de: Breite des Titelbilds
+    type: number
+    placeholder: 600
+    default: 600
+    after: 'px'
+    help: 
+      en: Default width is 600px.
+      de: Die Standardbreite beträgt 600 Pixel.
+    width: 1/3
+  coverHeight:
+    label: 
+      en: Cover image height
+      de: Höhe des Titelbilds
+    type: number
+    placeholder: 800
+    default: 800
+    after: 'px'
+    help: 
+      en: Default height is 800px.
+      de: Die Standardhöhe beträgt 800 Pixel.
+    width: 1/3
+  coverRatio:
+    label: Ratio
+    type: toggle
+    text: 
+      - "Fixed"
+      - "Freestyle"
+    width: 1/3
+  projectsGap:
+    type: gap

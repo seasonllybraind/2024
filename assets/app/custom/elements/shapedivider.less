@@ -1,0 +1,62 @@
+/* Shape divider */
+.tm-shape-divider-wrap {
+    position: absolute;
+    top: auto;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    line-height: 0;
+    width: 100%;
+    height: 150px;
+    transform: translateZ(0);
+    overflow: hidden;
+}
+.tm-shape-divider-wrap svg {
+    width: calc(100% + 1.3px);
+    left: 0;
+    height: 100%;
+    position: relative;
+    display: block;
+}
+.tm-shape-divider-wrap[data-position="top"] svg {
+    transform: rotate(180deg);
+}
+
+/* mountains */
+.tm-shape-divider-wrap[data-style="mountains"] svg path:first-child {
+    opacity: 0.1;
+}
+.tm-shape-divider-wrap[data-style="mountains"] svg path:nth-child(2) {
+    opacity: 0.12;
+}
+.tm-shape-divider-wrap[data-style="mountains"] svg path:nth-child(3) {
+    opacity: 0.18;
+}
+.tm-shape-divider-wrap[data-style="mountains"] svg path:nth-child(4) {
+    opacity: 0.33;
+}
+
+/* fan */
+.tm-shape-divider-wrap[data-style="fan"] svg polygon:nth-child(2) {
+    opacity: 0.15;
+}
+.tm-shape-divider-wrap[data-style="fan"] svg rect {
+    opacity: 0.3;
+}
+
+/* curve opacity */
+.tm-shape-divider-wrap[data-style="curve-opacity"] svg path:nth-child(1), .tm-shape-divider-wrap[data-style="waves-opacity-2"] svg path:nth-child(1) {
+    opacity: 0.15;
+}
+.tm-shape-divider-wrap[data-style="curve-opacity"] svg path:nth-child(2), .tm-shape-divider-wrap[data-style="waves-opacity-2"] svg path:nth-child(2) {
+    opacity: 0.3;
+}
+.tm-shape-divider-wrap[data-style="waves-opacity"] svg path:first-child {
+    opacity: 0.6;
+}
+
+@media only screen and (max-width: 800px) {
+    .tm-shape-divider-wrap {
+        max-height: 80px;
+    }
+  }

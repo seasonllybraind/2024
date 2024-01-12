@@ -1,0 +1,51 @@
+//
+// Component: Off-canvas
+//
+// ========================================================================
+
+
+// Variables
+// ========================================================================
+
+@offcanvas-bar-width:                           300px;
+@offcanvas-bar-width-s:                         400px;
+
+@offcanvas-overlay-background:                  rgba(56,56,56,.3);
+@offcanvas-overlay-background-blurred:          false; // true, false
+
+
+// Bar
+// ========================================================================
+
+.hook-offcanvas-bar() {}
+.uk-offcanvas-bar-animation { 
+    transition: left .6s cubic-bezier(.77,0,.175,1); 
+}
+.uk-offcanvas-reveal {
+    transition: width .6s cubic-bezier(.77,0,.175,1);
+}
+.uk-offcanvas-container {
+    transition: left .6s cubic-bezier(.77,0,.175,1);
+}
+
+
+// Close
+// ========================================================================
+
+.hook-offcanvas-close() {}
+
+
+// Overlay
+// ========================================================================
+
+.hook-offcanvas-overlay() {
+    & when (@offcanvas-overlay-background-blurred = true) {
+        backdrop-filter: blur(3px);
+    }
+}
+
+
+// Miscellaneous
+// ========================================================================
+
+.hook-offcanvas-misc() {}

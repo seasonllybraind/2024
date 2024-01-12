@@ -1,0 +1,173 @@
+Title: Showcase
+
+----
+
+Layout: [{"attrs":{"gridwidth":"uk-container","tabletwidth":"uk-width-1-2@s ","mobilewidth":"","columnsverticalalign":"","columnshorizontalalign":"","containerexpand":"","columngap":"","columnsdivider":"false","gridmasonry":"false","gridparallax":"false","sectiontoggle":"true","sectionsize":"","sectioncolor":" uk-section-default","sectionremovepadding":" uk-padding-remove-top","backgroundstyle":"color","backgroundimage":[],"mediavideosource":"url","mediavideo":[],"mediavideourl":"","backgroundimageposition":" uk-background-center-center","backgroundimagesize":" uk-background-cover","backgroundimagerepeat":" no-repeat","sectiontextcolor":" uk-light","backgroundoverlaycolor":"rgba(0,0,0,0.3)","backgroundgradientoverlay":"false","backgroundgradienttransition":"","backgroundoverlaycolor2":"rgba(0,0,0,0.3)","backgroundparalax":"","shapedividertoggle":"false","shapedivider":"","shapedividerposition":"","shapedividercolor":"#ffffff","customshapedivider":"","shapedividerheight":"150px","preservecolor":"false","sectionclass":"","sectionid":"","hidden":"","visible":"","animationswitch":"true","animationtype":"uk-animation-slide-bottom-small","animationdelay":""},"columns":[{"blocks":[{"content":{"location":"kirby","image":[{"id":"tu-workshop.png"}],"src":"","ratio":"","alt":"TU Workshop","resizewidth":900,"caption":"TU Workshop | The best tourism workshop in South-Eastern Europe","captionclass":"false","width":"","widthmobile":"","align":"","float":"","borderradius":"","shadow":" uk-box-shadow-xlarge","linkoption":"link","link":"https://www.tuworkshop.net/","newtab":"true"},"id":"b149e2b7-0947-4014-8e02-bbba5d86be1a","isHidden":false,"type":"image"}],"id":"10494cfc-4774-45c7-9f8f-e8feee4fea21","width":"1/2"},{"blocks":[{"content":{"location":"kirby","image":[{"id":"cosmopolka-brautmode-und-brautkleider-hannover.png"}],"src":"","ratio":"","alt":"Cosmopolka | Brautmode und Brautkleider Hannover","resizewidth":900,"caption":"Cosmopolka | Brautmode und Brautkleider Hannover","captionclass":"false","width":"","widthmobile":"","align":"","float":"","borderradius":"","shadow":" uk-box-shadow-xlarge","linkoption":"link","link":"https://cosmopolka.com/","newtab":"true"},"id":"8843d294-07b0-423d-8128-29f0293deec9","isHidden":false,"type":"image"}],"id":"9c61eae9-04dc-4516-b8cd-6c5504203a2c","width":"1/2"}],"id":"8f27ca34-c3fc-47bb-91fe-34ce11e9822d"},{"attrs":{"gridwidth":"uk-container","tabletwidth":"uk-width-1-2@s ","mobilewidth":"","columnsverticalalign":"","columnshorizontalalign":"","containerexpand":"","columngap":"","columnsdivider":"false","gridmasonry":"false","gridparallax":"false","sectiontoggle":"true","sectionsize":"","sectioncolor":" uk-section-default","sectionremovepadding":" uk-padding-remove-top","backgroundstyle":"color","backgroundimage":[],"mediavideosource":"url","mediavideo":[],"mediavideourl":"","backgroundimageposition":" uk-background-center-center","backgroundimagesize":" uk-background-cover","backgroundimagerepeat":" no-repeat","sectiontextcolor":" uk-light","backgroundoverlaycolor":"rgba(0,0,0,0.3)","backgroundgradientoverlay":"false","backgroundgradienttransition":"","backgroundoverlaycolor2":"rgba(0,0,0,0.3)","backgroundparalax":"","shapedividertoggle":"false","shapedivider":"","shapedividerposition":"","shapedividercolor":"#ffffff","customshapedivider":"","shapedividerheight":"150px","preservecolor":"false","sectionclass":"","sectionid":"","hidden":"","visible":"","animationswitch":"true","animationtype":"uk-animation-slide-bottom-small","animationdelay":""},"columns":[{"blocks":[{"content":{"location":"kirby","image":[{"id":"ks-kneissl-senn-technologie-gmbh-viribus-unitis.png"}],"src":"","ratio":"","alt":"KS Kneissl & Senn Technologie GmbH | Viribus Unitis","resizewidth":900,"caption":"KS Kneissl &amp; Senn Technologie GmbH | Viribus Unitis","captionclass":"false","width":"","widthmobile":"","align":"","float":"","borderradius":"","shadow":" uk-box-shadow-xlarge","linkoption":"link","link":"https://ks-tech.at/","newtab":"true"},"id":"4bea6827-c793-4f2b-8b61-3acaaba4eeb1","isHidden":false,"type":"image"}],"id":"83c566ee-2905-411b-83a3-7e64840206c4","width":"1/2"},{"blocks":[{"content":{"location":"kirby","image":[{"id":"ceratec-gmbh-wir-sind-feuerfest.png"}],"src":"","ratio":"","alt":"Ceratec GmbH | Wir sind Feuerfest!","resizewidth":900,"caption":"Ceratec GmbH | Wir sind Feuerfest!","captionclass":"false","width":"","widthmobile":"","align":"","float":"","borderradius":"","shadow":" uk-box-shadow-xlarge","linkoption":"link","link":"https://ceratec.at/","newtab":"true"},"id":"72557db9-fa11-43cc-aff5-dd0a13f347c3","isHidden":false,"type":"image"}],"id":"a67c1918-1dcc-4a9c-9c71-1b154e29547f","width":"1/2"}],"id":"6d1978bc-bf71-451e-943b-39ac4f0cfa09"},{"attrs":{"gridwidth":"uk-container","tabletwidth":"uk-width-1-2@s ","mobilewidth":"","columnsverticalalign":"","columnshorizontalalign":"","containerexpand":"","columngap":"","columnsdivider":"false","gridmasonry":"false","gridparallax":"false","sectiontoggle":"true","sectionsize":"","sectioncolor":" uk-section-default","sectionremovepadding":" uk-padding-remove-top","backgroundstyle":"color","backgroundimage":[],"mediavideosource":"url","mediavideo":[],"mediavideourl":"","backgroundimageposition":" uk-background-center-center","backgroundimagesize":" uk-background-cover","backgroundimagerepeat":" no-repeat","sectiontextcolor":" uk-light","backgroundoverlaycolor":"rgba(0,0,0,0.3)","backgroundgradientoverlay":"false","backgroundgradienttransition":"","backgroundoverlaycolor2":"rgba(0,0,0,0.3)","backgroundparalax":"","shapedividertoggle":"false","shapedivider":"","shapedividerposition":"","shapedividercolor":"#ffffff","customshapedivider":"","shapedividerheight":"150px","preservecolor":"false","sectionclass":"","sectionid":"","hidden":"","visible":"","animationswitch":"true","animationtype":"uk-animation-slide-bottom-small","animationdelay":""},"columns":[{"blocks":[{"content":{"location":"kirby","image":[{"id":"krickelkrackel-i-had-nothing-in-mind-while-painting-this.png"}],"src":"","ratio":"","alt":"Krickelkrackel | I had nothing in mind while painting this","resizewidth":900,"caption":"Krickelkrackel | I had nothing in mind while painting this","captionclass":"false","width":"","widthmobile":"","align":"","float":"","borderradius":"","shadow":" uk-box-shadow-xlarge","linkoption":"link","link":"https://krickelkrackel.com","newtab":"true"},"id":"81ff6b96-e17e-4e4d-a8a6-62cc9e793c8e","isHidden":false,"type":"image"}],"id":"5ea4b9af-a2ed-4abb-8df2-015883e016aa","width":"1/2"},{"blocks":[{"content":{"location":"kirby","image":[{"id":"hippodrome-belgrade-a-tradition-that-lasts.png"}],"src":"","ratio":"","alt":"Hippodrome Belgrade","resizewidth":900,"caption":"Hippodrome Belgrade","captionclass":"false","width":"","widthmobile":"","align":"","float":"","borderradius":"","shadow":" uk-box-shadow-xlarge","linkoption":"link","link":"https://www.hipodrombeograd.rs","newtab":"true"},"id":"34456d86-6dfc-4d92-8146-9f9ecef48cda","isHidden":false,"type":"image"}],"id":"71534470-9732-4f6b-aec9-19bba7bf13e7","width":"1/2"}],"id":"e1e2b237-84f4-4eba-a568-55283d4bb454"},{"attrs":{"gridwidth":"uk-container","tabletwidth":"uk-width-1-2@s ","mobilewidth":"","columnsverticalalign":"","columnshorizontalalign":"","containerexpand":"","columngap":"","columnsdivider":"false","gridmasonry":"false","gridparallax":"false","sectiontoggle":"true","sectionsize":"","sectioncolor":" uk-section-default","sectionremovepadding":" uk-padding-remove-top","backgroundstyle":"color","backgroundimage":[],"mediavideosource":"url","mediavideo":[],"mediavideourl":"","backgroundimageposition":" uk-background-center-center","backgroundimagesize":" uk-background-cover","backgroundimagerepeat":" no-repeat","sectiontextcolor":" uk-light","backgroundoverlaycolor":"rgba(0,0,0,0.3)","backgroundgradientoverlay":"false","backgroundgradienttransition":"","backgroundoverlaycolor2":"rgba(0,0,0,0.3)","backgroundparalax":"","shapedividertoggle":"false","shapedivider":"","shapedividerposition":"","shapedividercolor":"#ffffff","customshapedivider":"","shapedividerheight":"150px","preservecolor":"false","sectionclass":"","sectionid":"","hidden":"","visible":"","animationswitch":"true","animationtype":"uk-animation-slide-bottom-small","animationdelay":""},"columns":[{"blocks":[{"content":{"location":"kirby","image":[{"id":"fly-orient-tour-operator.png"}],"src":"","ratio":"","alt":"Fly Orient tour operator","resizewidth":900,"caption":"Fly Orient tour operator","captionclass":"false","width":"","widthmobile":"","align":"","float":"","borderradius":"","shadow":" uk-box-shadow-xlarge","linkoption":"link","link":"https://www.flyorient.rs/","newtab":"true"},"id":"a682fad0-31a5-4ddc-abcc-18c85d8faaec","isHidden":false,"type":"image"}],"id":"743cc8e6-033d-4e5a-893e-96f01ba8ff30","width":"1/2"},{"blocks":[{"content":{"location":"kirby","image":[{"id":"lind-bussens-coaching-training.png"}],"src":"","ratio":"","alt":"Lind Bussens | Coaching and Training","resizewidth":900,"caption":"Lind Bussens | Coaching and Training","captionclass":"false","width":"","widthmobile":"","align":"","float":"","borderradius":"","shadow":" uk-box-shadow-xlarge","linkoption":"link","link":"https://www.lindbussens.be/","newtab":"true"},"id":"092a8273-eb66-41bb-b2cc-10f59cb8a569","isHidden":false,"type":"image"}],"id":"b4e12938-27d8-4760-bc7a-c4ca5da9ec8a","width":"1/2"}],"id":"8fadcafc-262b-4731-aaf1-4129cce7d31c"},{"attrs":{"gridwidth":"uk-container","tabletwidth":"uk-width-1-2@s ","mobilewidth":"","columnsverticalalign":"","columnshorizontalalign":"","containerexpand":"","columngap":"","columnsdivider":"false","gridmasonry":"false","gridparallax":"false","sectiontoggle":"true","sectionsize":"","sectioncolor":" uk-section-default","sectionremovepadding":" uk-padding-remove-top","backgroundstyle":"color","backgroundimage":[],"mediavideosource":"url","mediavideo":[],"mediavideourl":"","backgroundimageposition":" uk-background-center-center","backgroundimagesize":" uk-background-cover","backgroundimagerepeat":" no-repeat","sectiontextcolor":" uk-light","backgroundoverlaycolor":"rgba(0,0,0,0.3)","backgroundgradientoverlay":"false","backgroundgradienttransition":"","backgroundoverlaycolor2":"rgba(0,0,0,0.3)","backgroundparalax":"","shapedividertoggle":"false","shapedivider":"","shapedividerposition":"","shapedividercolor":"#ffffff","customshapedivider":"","shapedividerheight":"150px","preservecolor":"false","sectionclass":"","sectionid":"","hidden":"","visible":"","animationswitch":"true","animationtype":"uk-animation-slide-bottom-small","animationdelay":""},"columns":[{"blocks":[{"content":{"location":"kirby","image":[{"id":"web-brand-marketing-development-agency-spirit-pixels.png"}],"src":"","ratio":"","alt":"Web, Brand & Marketing development agency | Spirit Pixels™","resizewidth":900,"caption":"Web, Brand &amp; Marketing development agency | Spirit Pixels™","captionclass":"false","width":"","widthmobile":"","align":"","float":"","borderradius":"","shadow":" uk-box-shadow-xlarge","linkoption":"link","link":"https://www.spiritpixels.com/","newtab":"true"},"id":"f9cb1d73-f8c4-4839-8e1b-b044d09d4f1d","isHidden":false,"type":"image"}],"id":"d32d16ac-fb3d-46b6-84fc-104dd2560e01","width":"1/2"},{"blocks":[{"content":{"location":"kirby","image":[{"id":"crkva-sv.-ignacija-isusovci-dubrovnik.png"}],"src":"","ratio":"","alt":"Church of St Ignatius - Dubrovnik City","resizewidth":900,"caption":"Church of St Ignatius - Dubrovnik City","captionclass":"false","width":"","widthmobile":"","align":"","float":"","borderradius":"","shadow":" uk-box-shadow-xlarge","linkoption":"link","link":"https://www.isusovcidubrovnik.com/","newtab":"true"},"id":"b2da2787-70fa-4fb7-bced-b9c037174373","isHidden":false,"type":"image"}],"id":"7e3af73b-74dd-4b15-a3b2-791999100969","width":"1/2"}],"id":"a22e4f74-6e50-4552-8fa2-6e1ad604d8f5"},{"attrs":{"gridwidth":"uk-container","tabletwidth":"","mobilewidth":"","columnsverticalalign":"","columnshorizontalalign":"","containerexpand":"","columngap":"","columnsdivider":"false","gridmasonry":"false","gridparallax":"false","sectiontoggle":"true","sectionsize":"","sectioncolor":" uk-section-default","sectionremovepadding":" uk-padding-remove-top","backgroundstyle":"color","backgroundimage":[],"mediavideosource":"url","mediavideo":[],"mediavideourl":"","backgroundimageposition":" uk-background-center-center","backgroundimagesize":" uk-background-cover","backgroundimagerepeat":" no-repeat","sectiontextcolor":" uk-light","backgroundoverlaycolor":"rgba(0,0,0,0.3)","backgroundgradientoverlay":"false","backgroundgradienttransition":"","backgroundoverlaycolor2":"rgba(0,0,0,0.3)","backgroundparalax":"","shapedividertoggle":"false","shapedivider":"","shapedividerposition":"","shapedividercolor":"#ffffff","customshapedivider":"","shapedividerheight":"150px","preservecolor":"false","sectionclass":"","sectionid":"","hidden":"","visible":"","animationswitch":"true","animationtype":"uk-animation-slide-bottom-small","animationdelay":""},"columns":[{"blocks":[{"content":{"text":"<h4>Want your website featured on this page? <a href=\"mailto:support@thezero.club\" title=\"Email us\">Let us know</a>.</h4>","textalign":"","textaligntablet":"","textalignmobile":" uk-text-center","textsize":"","texttransform":"","textwrapping":"","textcolor":""},"id":"1f310676-09e9-4e60-a131-cbe2237ce2c5","isHidden":false,"type":"text"},{"content":{"text":"<p>We display here only websites we have permission from the owners. </p>","textalign":"","textaligntablet":"","textalignmobile":" uk-text-center","textsize":"","texttransform":"","textwrapping":"","textcolor":""},"id":"a750d49c-9994-4681-bae1-dcebf34f906a","isHidden":false,"type":"text"}],"id":"2cfdc900-660d-42de-b902-7a6f64ee953a","width":"1/1"}],"id":"e1841dce-8ff4-4d78-8cc9-6c0d072140fe"}]
+
+----
+
+Hidenavbar: false
+
+----
+
+Disallowsubmenu: false
+
+----
+
+Newtab: false
+
+----
+
+Menuitemicon: eye
+
+----
+
+Megamenu: false
+
+----
+
+Megamenuwidth: 
+
+----
+
+Megamenuitemwidth: 
+
+----
+
+Megamenubackground: false
+
+----
+
+Megamenubackgroundimage: 
+
+----
+
+Megamenubackgroundimageposition: uk-background-center-center
+
+----
+
+Megamenubackgroundimagesize: uk-background-cover
+
+----
+
+Megamenubackgroundimagerepeat: no-repeat
+
+----
+
+Megamenubackgroundoverlaycolor: rgba(0,0,0,0.3)
+
+----
+
+Megamenubackgroundgradientoverlay: false
+
+----
+
+Megamenubackgroundgradienttransition: 
+
+----
+
+Megamenubackgroundoverlaycolor2: rgba(0,0,0,0.3)
+
+----
+
+Transparentnavbar: 
+
+----
+
+Navbarinverse: false
+
+----
+
+Headersection: true
+
+----
+
+Alttitle: 
+
+----
+
+Intro: Check out the showcase of websites built with Zero One.
+
+----
+
+Headerbackgroundtoggle: false
+
+----
+
+Header: 
+
+----
+
+Headerimageposition: uk-background-center-center
+
+----
+
+Headerimagesize: uk-background-cover
+
+----
+
+Headerimagerepeat: no-repeat
+
+----
+
+Headertextcolor: uk-light
+
+----
+
+Headeroverlaycolor: rgba(0,0,0,0.2)
+
+----
+
+Backgroundparalax: 
+
+----
+
+Shapedividertoggle: false
+
+----
+
+Shapedivider: 
+
+----
+
+Shapedividerposition: 
+
+----
+
+Shapedividercolor: #ffffff
+
+----
+
+Customshapedivider: 
+
+----
+
+Shapedividerheight: 150px
+
+----
+
+Hidefooter: false
+
+----
+
+Sitemap: true
+
+----
+
+Metafile: - file://Q1whNFXBbtyrFCKu
+
+----
+
+Metatitle: 
+
+----
+
+Metadescription: Check out the showcase of websites built with Zero One. We display here only websites we have permission from the owners.
+
+----
+
+Customcss: 
+
+----
+
+Uuid: 4kXYFDiJV8gQun31

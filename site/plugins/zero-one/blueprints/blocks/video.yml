@@ -1,0 +1,53 @@
+name: field.blocks.video.name
+icon: video
+preview: video
+fields:
+  # video
+  videosource:
+    label: 
+      en: Choose video source
+      de: Wählen Sie die Videoquelle
+    type: radio
+    default: url
+    columns: 2
+    options:
+      url: URL
+      upload: 
+        en: Upload
+        de: Hochladen
+  videofile:
+    label: 
+      en: Video file
+      de: Videodatei
+    extends: fields/video
+    multiple: false
+    help: 
+      en: Choose the section video.
+      de: Wählen Sie den Abschnitt Video.
+    when:
+      videoSource: "upload" 
+  url:
+    label: Video URL (iframe)
+    type: url
+    placeholder: https://www.youtube.com/embed/kqMzthn9Trw
+    help: 
+      en: For YouTube and Vimeo must be Embed url.
+      de: Für YouTube und Vimeo muss URL einbetten.
+    when:
+      videoSource: "url"
+  caption:
+    label: field.blocks.video.caption
+    type: writer
+    inline: true
+    width: 1/2
+  poster:
+    label: 
+      en: Poster image
+      de: Posterbild
+    type: files
+    multiple: false
+    layout: list
+    help: Only for selfhosted video.
+    image:
+      cover: true
+    width: 1/2

@@ -1,0 +1,99 @@
+//
+// Component: Animation
+//
+// ========================================================================
+
+
+// Variables
+// ========================================================================
+
+@animation-fast-duration:                       0.2s;
+
+// Miscellaneous
+// ========================================================================
+
+.hook-animation-misc() {
+
+    // Animate svg arrows
+    .tm-svg-nav-arrow polyline:nth-of-type(1) {
+        stroke-dasharray: 40;
+        stroke-dashoffset: 40;
+        transform: scaleY(-1);
+        transform-origin: center;
+        transition: .4s cubic-bezier(.49,.48,1,1);
+    }
+    .tm-svg-nav-arrow:hover polyline:nth-of-type(1) {
+        stroke-dashoffset: 0;
+        transition: .4s .4s cubic-bezier(.49,.64,1,1);
+    }
+    .tm-svg-nav-arrow polyline:nth-of-type(2) {
+        stroke-dasharray: 40;
+        stroke-dashoffset: 0;
+        transition: .4s .4s cubic-bezier(.49,.64,1,1);
+    }
+    .tm-svg-nav-arrow:hover polyline:nth-of-type(2) {
+        stroke-dashoffset: 40;
+        transition: .4s cubic-bezier(.49,.48,1,1);
+    }
+
+    // Animate svg menu icon
+    .tm-menu-animate:hover svg line {
+        animation: animate-btn-line 1s cubic-bezier(.19,.51,.05,.96) forwards;
+    }
+    .tm-menu-animate:hover svg line:nth-of-type(2) {
+        animation: animate-btn-line 1s .3s cubic-bezier(.54,.32,.05,.96) forwards;
+    }
+
+    @-webkit-keyframes animate-btn-line {
+        0% {
+         -webkit-transform:scaleX(1);
+         transform:scaleX(1);
+         -webkit-transform-origin:100% 0;
+         transform-origin:100% 0
+        }
+        50% {
+         -webkit-transform:scaleX(0);
+         transform:scaleX(0);
+         -webkit-transform-origin:100% 0;
+         transform-origin:100% 0
+        }
+        51% {
+         -webkit-transform:scaleX(0);
+         transform:scaleX(0);
+         -webkit-transform-origin:0 0;
+         transform-origin:0 0
+        }
+        100% {
+         -webkit-transform:scaleX(1);
+         transform:scaleX(1);
+         -webkit-transform-origin:0 0;
+         transform-origin:0 0
+        }
+       }
+       @keyframes animate-btn-line {
+        0% {
+         -webkit-transform:scaleX(1);
+         transform:scaleX(1);
+         -webkit-transform-origin:100% 0;
+         transform-origin:100% 0
+        }
+        50% {
+         -webkit-transform:scaleX(0);
+         transform:scaleX(0);
+         -webkit-transform-origin:100% 0;
+         transform-origin:100% 0
+        }
+        51% {
+         -webkit-transform:scaleX(0);
+         transform:scaleX(0);
+         -webkit-transform-origin:0 0;
+         transform-origin:0 0
+        }
+        100% {
+         -webkit-transform:scaleX(1);
+         transform:scaleX(1);
+         -webkit-transform-origin:0 0;
+         transform-origin:0 0
+        }
+       }
+}

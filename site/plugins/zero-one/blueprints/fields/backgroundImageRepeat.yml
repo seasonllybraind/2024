@@ -1,0 +1,11 @@
+label: 
+  en: Repeat image
+  de: Wiederholungsbild
+type: select
+default: " no-repeat"
+options:
+  " no-repeat": No repeat
+  " repeat": Repeat
+  " repeat-x": Repeat X
+  " repeat-y": Repeat Y
+width: 1/3

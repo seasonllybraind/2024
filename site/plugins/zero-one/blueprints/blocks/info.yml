@@ -1,0 +1,9 @@
+name: Info
+icon: alert
+
+preview: info
+
+fields:
+  text:
+    label: Info text
+    type: text

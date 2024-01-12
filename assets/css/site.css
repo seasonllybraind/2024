@@ -1,0 +1,10 @@
+.uk-navbar-left {
+  overflow: auto;
+  max-width: 50%;
+  white-space: nowrap;
+  scrollbar-width: thin;
+  -ms-overflow-style: -ms-autohiding-scrollbar;
+}
+.uk-navbar-nav .uk-nav li {
+  white-space: normal;
+}

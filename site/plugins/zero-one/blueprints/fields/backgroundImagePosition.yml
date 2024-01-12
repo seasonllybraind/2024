@@ -1,0 +1,34 @@
+label: 
+  en: Image position
+  de: Bildhintergrundposition
+type: select
+default: " uk-background-center-center"
+options:
+  " uk-background-top-left":
+    en: Top Left
+    de: Oben Links
+  " uk-background-top-center": 
+    en: Top Center
+    de: Oben Zentrum
+  " uk-background-top-right": 
+    en: Top Right
+    de: Oben Rechts
+  " uk-background-center-left": 
+    en: Center Left
+    de: Zentrum Links
+  " uk-background-center-center": 
+    en: Center Center
+    de: Zentrum Zentrum
+  " uk-background-center-right": 
+    en: Center Right
+    de: Zentrum Rechts
+  " uk-background-bottom-left": 
+    en: Bottom Left
+    de: Unten Links
+  " uk-background-bottom-center": 
+    en: Bottom Center
+    de: Unten Zentrum
+  " uk-background-bottom-right": 
+    en: Bottom Right
+    de: Unten Rechts
+width: 1/3

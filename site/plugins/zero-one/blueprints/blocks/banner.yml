@@ -1,0 +1,120 @@
+name: Banner
+icon: file-image
+
+fields:
+  image:
+    label: 
+      en: Image
+      de: Bild
+    extends: fields/image
+    multiple: false
+    help: 
+      en: Image crop works only for JPG and PNG images.
+      de: Das Zuschneiden von Bildern funktioniert nur für JPG- und PNG-Bilder.
+    image:
+      back: black
+    width: 2/3
+  imageRatio:
+    label: 
+      en: Image ratio
+      de: Bildverhältnis
+    type: select
+    default: square
+    options:
+      square: 1/1
+      horizontal: 3/2
+      vertical: 2/3
+    width: 1/3
+  bannerStyle:
+    label: 
+      en: Banner style
+      de: Banner-Stil
+    type: select
+    default: offset
+    placeholder: No content
+    options:
+      offset: Offset content
+      overlay: Overlay content
+    width: 1/3
+  contentPosition:
+    label: 
+      en: Content position
+      de: Inhaltsposition
+    type: select
+    default: " uk-position-bottom"
+    options:
+      " uk-position-bottom": Bottom
+      " uk-position-center": Center
+      " uk-position-top": Top
+    width: 1/3
+    when: 
+      bannerStyle: overlay
+  contentBackground:
+    label: 
+      en: Content background
+      de: Inhaltlicher Hintergrund
+    type: select
+    placeholder: None
+    default: background
+    options:
+      background: 
+        en: Content background
+        de: Inhaltlicher Hintergrund
+      overlay: 
+        en: Image overlay
+        de: Bildüberlagerung
+    width: 1/3
+    when: 
+      bannerStyle: overlay
+  contentWidth:
+    label: 
+      en: Content width
+      de: Inhaltsbreite
+    type: select
+    placeholder: Full
+    options:
+      " uk-width-1-2": 1/2
+      " uk-width-2-3": 2/3
+      " uk-width-3-4": 3/4
+    width: 1/3
+    when: 
+      bannerStyle: overlay
+  centerText:
+    label: 
+      en: Center text
+      de: Text zentrieren
+    type: toggle
+    default: false 
+    width: 1/3
+    when: 
+      bannerStyle: overlay
+  text:
+    label: Banner text
+    type: textarea
+  linkType:
+    label: 
+      en: Link Type
+      de: Linktyp
+    type: radio
+    default: page
+    columns: 2
+    default: page
+    options:
+      page: 
+        en: Link to page
+        de: Link zur Seite
+      custom: 
+        en: Custom URL
+        de: Benutzerdefinierte URL
+  page:
+    type: pages
+    max: 1
+    when:
+      linkType: page
+  link:
+    type: url
+    when:
+      linkType: custom
+  gapEnd:
+    type: gap
+    width: 1/1

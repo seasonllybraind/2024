@@ -1,0 +1,144 @@
+//
+// Component: Variables
+//
+// ========================================================================
+
+
+// Global variables
+// ========================================================================
+
+// Breakpoints
+// ========================================================================
+
+// Phone Portrait:   Galaxy (360x640), iPhone 6 (375x667), iPhone 6+ (414x736)
+// Phone Landscape:  Galaxy (640x360), iPhone 6 (667x375), iPhone 6+ (736x414)
+// Tablet Portrait:  iPad (768x1024), Galaxy Tab (800x1280),
+// Tablet Landscape: iPad (1024x768), iPad Pro (1024x1366),
+// Desktop:          Galaxy Tab (1280x800), iPad Pro (1366x1024)
+
+@breakpoint-small:                             640px;  // Phone landscape
+@breakpoint-medium:                            960px;  // Tablet Landscape
+@breakpoint-large:                             1200px; // Desktop
+@breakpoint-xlarge:                            1600px; // Large Screens
+
+@breakpoint-xsmall-max:                        (@breakpoint-small - 1);
+@breakpoint-small-max:                         (@breakpoint-medium - 1);
+@breakpoint-medium-max:                        (@breakpoint-large - 1);
+@breakpoint-large-max:                         (@breakpoint-xlarge - 1);
+
+//
+// Typography
+//
+
+@global-font-family:                            'Outfit', sans-serif;
+@global-font-size:                              16px;
+@global-line-height:                            1.6;
+@global-font-weight:                            400;
+
+@global-2xlarge-font-size:                      3rem;       // H1
+@global-xlarge-font-size:                       2rem;       // H2
+@global-large-font-size:                        1.5rem;     // H3
+@global-medium-font-size:                       1.25rem;    // H4
+@global-small-font-size:                        0.9375rem;  // Smaller text
+
+@global-primary-font-family:                    'Outfit', sans-serif;
+@global-primary-font-weight:                    700;
+@global-primary-text-transform:                 inherit;
+@global-primary-letter-spacing:                 inherit;
+@global-primary-font-style:                     inherit;
+
+@global-secondary-font-family:                  'Outfit', sans-serif;
+@global-secondary-font-weight:                  300;
+@global-secondary-text-transform:               inherit;
+@global-secondary-letter-spacing:               inherit;
+@global-secondary-font-style:                   normal;
+
+//
+// Colors
+//
+
+@global-color:                                  #0E071D;
+@global-emphasis-color:                         #030308;
+@global-muted-color:                            #A39EE1;
+
+@global-link-color:                             #7F78D2;
+@global-link-hover-color:                       darken(@global-link-color, 5%);
+
+@global-inverse-color:                          #FFF;
+
+//
+// Buttons
+//
+
+@global-button-style:                           creative; // default, creative
+@global-button-border-style:                    round; // default, rounded, round
+
+//
+// Backgrounds
+//
+
+@global-background:                             #FFF;
+
+@global-muted-background:                       #f1f2f3;
+@global-primary-background:                     #7F78D2;
+@global-secondary-background:                   #0E071D;
+
+@global-success-background:                     #6BC116;
+@global-warning-background:                     #EDA929;
+@global-danger-background:                      #E84646;
+
+//
+// Borders
+//
+@global-borders-rounded:                         false;
+
+@global-border-width:                           1px;
+@global-border:                                 #e6e1e6;
+
+//
+// Box-Shadows
+//
+@global-shadows:                                true; // true, false
+
+@global-xsmall-box-shadow:                      0px 1px 2px 0px rgba(0,0,0,0.05);
+@global-small-box-shadow:                       rgba(0, 0, 0, 0.1) 0px 1px 3px 0px, rgba(0, 0, 0, 0.06) 0px 1px 2px 0px;
+@global-medium-box-shadow:                      inset 0 0 0.5px 1px hsla(0, 0%, 100%, 0.075), 0 0 0 1px hsla(0, 0%, 0%, 0.05), 0 0.3px 0.4px hsla(0, 0%, 0%, 0.02), 0 0.9px 1.5px hsla(0, 0%, 0%, 0.045), 0 3.5px 6px hsla(0, 0%, 0%, 0.09);
+@global-large-box-shadow:                       0px 10px 15px -3px rgba(0,0,0,0.1) , 0px 4px 6px -2px rgba(0,0,0,0.05);
+@global-xlarge-box-shadow:                      0px 20px 25px -5px rgba(0,0,0,0.1) , 0px 10px 10px -5px rgba(0,0,0,0.04);
+
+//
+// Spacings
+//
+
+// Used in margin, section, list
+@global-margin:                                 25px;
+@global-small-margin:                           10px;
+@global-medium-margin:                          40px;
+@global-large-margin:                           70px;
+@global-xlarge-margin:                          140px;
+
+// Used in grid, column, container, align, card, padding
+@global-gutter:                                 30px;
+@global-small-gutter:                           15px;
+@global-medium-gutter:                          40px;
+@global-large-gutter:                           70px;
+
+//
+// Controls -- Used for button line-height
+//
+
+@global-control-height:                         50px;
+@global-control-small-height:                   36px;
+@global-control-large-height:                   62px;
+
+//
+// Z-index
+//
+
+@global-z-index:                                1000;
+
+//
+// Navbar
+//
+
+@global-navbar-style:                           bottom; // top, bottom

@@ -1,0 +1,12 @@
+- 
+  authenticated: true
+  email: jondoe@topsecret.com
+  language: en
+  name: Jon Doe
+  status: approved
+  text: >
+    Hello, I am looking for Jane, have you
+    seen her?
+  timestamp: 2021-09-10 12:13
+  type: comment
+  uid: rj2s6zys1k

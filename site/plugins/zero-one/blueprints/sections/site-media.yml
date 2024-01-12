@@ -1,0 +1,24 @@
+type: fields
+fields:
+  mediaHeadline:
+    label: 
+      en: Media settings
+      de: Medieneinstellungen
+    type: headline
+    numbered: false
+  mediaIndex:
+    label: 
+      en: Media index
+      de: Medienindex
+    type: toggle
+    translate: false
+    text: 
+      - 
+        en: "Page only"
+        de: "Nur Seite"
+      - 
+        en: "Whole website"
+        de: "Ganze Website"
+    help:
+      en: This option influences what files you can select in the file select fields.
+      de: Diese Option beeinflusst, welche Dateien Sie in den Dateiauswahlfeldern auswählen können.

@@ -1,0 +1,294 @@
+type: fields
+fields:
+  # right nav
+  navigation:
+    label: zero.site.settings.navbar.headline
+    type: headline
+  # navbar width
+  navbarWidth:
+    label: zero.site.settings.navbar.width
+    type: select
+    placeholder: Default
+    help: zero.site.settings.navbar.width.help
+    options:
+      large: "{{ t('zero.reusables.large') }}"
+      expand: "{{ t('zero.reusables.expand') }}"
+    width: 1/3
+
+  menuPosition:
+    label: zero.site.settings.navbar.menu.position
+    type: select
+    default: center
+    help: zero.site.settings.navbar.menu.position.help
+    options:
+      left: "{{ t('zero.reusables.left') }}"
+      center: "{{ t('zero.reusables.center') }}"
+      right: "{{ t('zero.reusables.right') }}"
+    width: 1/3
+
+  sticky:
+    label: zero.site.settings.navbar.sticky
+    type: select
+    options:
+      fixed: "{{ t('zero.reusables.fixed') }}"
+      scroll: "{{ t('zero.site.settings.navbar.sticky.options.onup') }}"
+    placeholder: "Off"
+    width: 1/3
+  
+  rightnav:
+    label: zero.site.settings.navbar.right
+    type: radio
+    default: icons
+    columns: 2
+    help: zero.site.settings.navbar.right.help
+    options:
+      icons: "{{ t('zero.reusables.icons') }}"
+      button: "{{ t('zero.reusables.button') }}"
+    width: 1/2
+
+  languagenav:
+    label: zero.site.settings.navbar.languagenav
+    type: toggle
+    default: false
+    width: 1/4
+  languagenavMobile:
+    label: zero.site.settings.navbar.languagenav.mobile
+    type: toggle
+    text:
+      - "{{ t('zero.site.settings.navbar.languagenav.mobile.options.icon') }}"
+      - "{{ t('zero.site.settings.navbar.languagenav.mobile.options.menu') }}"
+    default: false
+    width: 1/4
+    when:
+      languagenav: true
+  
+  searchicon:
+    label: zero.site.settings.navbar.searchicon
+    type: toggle
+    default: true
+    width: 1/4
+    when:
+      rightnav: icons
+  searchiconMobile:
+    label: zero.site.settings.navbar.searchicon
+    type: toggle
+    text:
+      - "{{ t('zero.site.settings.navbar.searchicon.navbar') }}"
+      - "{{ t('zero.site.settings.navbar.searchicon.offset') }}"
+    width: 1/4
+    when:
+      rightnav: icons
+      searchicon: true
+  searchProducts:
+    label: zero.site.settings.navbar.searchproducts
+    type: toggle
+    width: 1/4
+    when:
+      rightnav: icons
+      searchicon: true
+  additionalIconToggle:
+    label: zero.site.settings.navbar.additionalicon
+    type: toggle
+    width: 1/4
+    when:
+      rightnav: icons
+  additionalIcon:
+    extends: fields/icons
+    width: 1/3
+    when:
+      rightnav: icons
+      additionalIconToggle: true
+  additionalIconLink:
+    label: zero.site.settings.navbar.additionalicon.link
+    type: link
+    settings:
+      text:
+        label: Link title
+        width: 1/1
+      popup:
+        width: 1/2
+        label: New tab
+        help: Open link in a new tab?
+      hash: 
+        label: Anchor
+        width: 1/2
+    width: 2/3
+    when:
+      rightnav: icons
+      additionalIconToggle: true
+  moreicon:
+    label: 
+      en: Offset content
+      de: Inhalt versetzen
+    type: textarea
+    when:
+      rightnav: icons
+
+  menubuttontext:
+    label: 
+      en: Menu Button Text
+      de: Menüschaltflächentext
+    type:  text
+    width: 1/3
+    when:
+      rightnav: button
+  menubuttonlink:
+    label: 
+      en: Menu Button Link
+      de: Menüknopf Link
+    type: link
+    settings:
+      text:
+        label: Link title
+        width: 1/1
+      popup:
+        width: 1/2
+        label: New tab
+        help: Open link in a new tab?
+      hash: 
+        label: Anchor
+        width: 1/2
+    width: 2/3
+    when:
+      rightnav: button
+  menubuttonstyle:
+    label: 
+      en: Button style
+      de: Schaltfläche stil
+    type: select
+    placeholder: Primary
+    options:
+      "uk-button-default": 
+        en: Default
+        de: Standard
+      "uk-button-secondary": 
+        en: Secondary
+        de: Sekundär
+      "uk-button-danger": 
+        en: Danger
+        de: Achtung
+    width: 1/3
+    when:
+      rightnav: button
+
+  lineMobile:
+    type: line
+  mobileNav:
+    label: 
+      en: Mobile Nav Accordion
+      de: Mobile Nav Akkordeon
+    type: toggle
+    default: false
+    help: 
+      en: Make mobile navigation behave like accordion when having subpages.
+      de: Stellen Sie sicher, dass sich die mobile Navigation wie ein Akkordeon verhält, wenn Sie Unterseiten haben.
+    width: 1/3
+  mobileNavAnimation:
+    label: 
+      en: Mobile nav animation
+      de: Mobile Navi Animation 
+    type: radio
+    default: slide
+    columns: 3
+    help: 
+      en: Choose animation for mobile nav canvas.
+      de: Wählen Sie eine Animation für die mobile Navi-Leinwand.
+    options:
+      slide: 
+        en: Slide
+        de: Rutschen
+      push: 
+        en: Push
+        de: Drücken
+      reveal: 
+        en: Reveal
+        de: Offenbaren
+    width: 2/3
+  mobileMenuInfoText:
+    label: 
+      en: Mobile menu info text
+      de: Mobiler Menü-Infotext
+    type: textarea
+    size: small
+
+  #topbar
+  lineTopbar:
+    type: line
+  topbar:
+    label: Topbar
+    type: toggle
+    width: 1/3
+  topbarTablet:
+    label: 
+      en: Hidden on tablet
+      de: Versteckt auf dem Tablet
+    type: select
+    options:
+      left: 
+        en: Left
+        de: Links
+      center: Center
+      right: 
+        en: Right
+        de: Rechts
+    width: 1/3
+    when:
+      topbar: true
+  topbarMobile:
+    label: 
+      en: Visible on mobile
+      de: Auf dem Handy sichtbar
+    type: select
+    options:
+      left: 
+        en: Left
+        de: Links
+      center: Center
+      right: 
+        en: Right
+        de: Rechts
+    width: 1/3
+    when:
+      topbar: true
+  topbarLeft:
+    label: 
+      en: Topbar left content
+      de: Linker Inhalt der oberen Leiste
+    type: text
+    when:
+      topbar: true
+  topbarCenter:
+    label: 
+      en: Topbar center content
+      de: Inhalt der Topbar-Mitte
+    type: text
+    when:
+      topbar: true
+  topbarRight:
+    label: 
+      en: Topbar right content
+      de: Inhalt der oberen Leiste rechts
+    type: text
+    when:
+      topbar: true
+
+  #transparent
+  lineTransparent:
+    type: line
+  transparentNavbar:
+    label: 
+      en: Transparent navbar
+      de: Transparente Navigationsleiste
+    type: toggle
+    width: 1/3
+  navbarInverse:
+    label: 
+      en: Inverse colors and logo
+      de: Farben und Logo invertieren
+    type: toggle
+    width: 1/3
+    when:
+      transparentNavbar: true
+
+  navbarGap:
+    type: gap

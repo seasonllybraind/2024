@@ -1,0 +1,274 @@
+name: Table (deprecated)
+icon: menu
+preview: table
+
+tabs:
+  # content tab
+  content:
+    label: 
+      en: Content
+      de: Inhalt
+    icon: edit
+    fields:
+      deprecateNotice:
+        label: Deprecate notice
+        type: info
+        theme: negative
+        text: 
+          en: Please use the new Table block, this block will soon be deprecated.
+          de: Bitte verwenden Sie den neuen Tabellenblock, dieser Block wird bald veraltet sein.
+      number:
+        label: Number of columns
+        type: radio
+        columns: 4
+        default: two
+        options:
+          two: Two
+          three: Three
+          four: Four
+          five: Five
+      # two
+      twoOne:
+        label: Column1 name
+        type: writer
+        marks: false
+        inline: true
+        width: 1/2
+        when:
+          number: two
+      twoTwo:
+        label: Column2 name
+        type: writer
+        marks: false
+        inline: true
+        width: 1/2
+        when:
+          number: two
+      two:
+        type: structure
+        label: Table content
+        columns:
+          column1:
+            width: 1/2
+          column2:
+            width: 1/2
+        fields:
+          column1:
+            type: writer
+            inline: true
+          column2:
+            type: writer
+            inline: true
+        when:
+          number: two
+      # three
+      threeOne:
+        label: Column1 name
+        type: writer
+        marks: false
+        inline: true
+        width: 1/3
+        when:
+          number: three
+      threeTwo:
+        label: Column2 name
+        type: writer
+        marks: false
+        inline: true
+        width: 1/3
+        when:
+          number: three
+      threeThree:
+        label: Column3 name
+        type: writer
+        marks: false
+        inline: true
+        width: 1/3
+        when:
+          number: three
+      three:
+        type: structure
+        label: Table content
+        columns:
+          column1:
+            width: 1/3
+          column2:
+            width: 1/3
+          column3:
+            width: 1/3
+        fields:
+          column1:
+            type: writer
+            inline: true
+          column2:
+            type: writer
+            inline: true
+          column3:
+            type: writer
+            inline: true
+        when:
+          number: three
+      # four
+      fourOne:
+        label: Column1 name
+        type: writer
+        marks: false
+        inline: true
+        width: 1/4
+        when:
+          number: four
+      fourTwo:
+        label: Column2 name
+        type: writer
+        marks: false
+        inline: true
+        width: 1/4
+        when:
+          number: four
+      fourThree:
+        label: Column3 name
+        type: writer
+        marks: false
+        inline: true
+        width: 1/4
+        when:
+          number: four
+      fourFour:
+        label: Column4 name
+        type: writer
+        marks: false
+        inline: true
+        width: 1/4
+        when:
+          number: four
+      four:
+        type: structure
+        label: Table content
+        columns:
+          column1:
+            width: 1/4
+          column2:
+            width: 1/4
+          column3:
+            width: 1/4
+          column4:
+            width: 1/4
+        fields:
+          column1:
+            type: writer
+            inline: true
+          column2:
+            type: writer
+            inline: true
+          column3:
+            type: writer
+            inline: true
+          column4:
+            type: writer
+            inline: true
+        when:
+          number: four
+      # five
+      fiveOne:
+        label: Column1 name
+        type: writer
+        marks: false
+        inline: true
+        width: 1/2
+        when:
+          number: five
+      fiveTwo:
+        label: Column2 name
+        type: writer
+        marks: false
+        inline: true
+        width: 1/2
+        when:
+          number: five
+      fiveThree:
+        label: Column3 name
+        type: writer
+        marks: false
+        inline: true
+        width: 1/3
+        when:
+          number: five
+      fiveFour:
+        label: Column4 name
+        type: writer
+        marks: false
+        inline: true
+        width: 1/3
+        when:
+          number: five
+      fiveFive:
+        label: Column5 name
+        type: writer
+        marks: false
+        inline: true
+        width: 1/3
+        when:
+          number: five
+      five:
+        type: structure
+        label: Table content
+        columns:
+          column1:
+            width: 1/5
+          column2:
+            width: 1/5
+          column3:
+            width: 1/5
+          column4:
+            width: 1/5
+          column5:
+            width: 1/5
+        fields:
+          column1:
+            type: writer
+            inline: true
+          column2:
+            type: writer
+            inline: true
+          column3:
+            type: writer
+            inline: true
+          column4:
+            type: writer
+            inline: true
+          column5:
+            type: writer
+            inline: true
+        when:
+          number: five
+
+  # settings tab
+  settings:
+    label: 
+      en: Settings
+      de: die Einstellungen
+    icon: cog
+    fields:
+      divider:
+        label: Divider
+        type: select
+        placeholder: None
+        options:
+          " uk-table-divider": Line
+          " uk-table-striped": Striped
+        width: 1/2
+      size:
+        type: select
+        placeholder: Default
+        options:
+          " uk-table-small": Small
+          " uk-table-large": Large
+        width: 1/2
+      hover:
+        type: toggle
+        default: false
+        width: 1/2
+      justify:
+        type: toggle
+        default: false
+        width: 1/2

@@ -1,0 +1,21 @@
+type: fields
+fields:
+  emailOptionsHeadline:
+    label: 
+      en: Email options
+      de: E-Mail-Optionen
+    type: headline
+    numbered: false
+    help: 
+      en: Options related to email sending and receiving. 
+      de: Optionen im Zusammenhang mit dem Senden und Empfangen von E-Mails.
+  senderIp:
+    label:
+      en: Sender IP in received emails
+      de: Absender-IP in empfangenen E-Mails
+    type: toggle
+    translate: false
+    help: 
+      en: Because of privacy rules, displaying the sender's IP in emails is forbidden in many countries. But we are leaving it optional because sometimes it is needed as a security measure.
+      de: Aufgrund von Datenschutzbestimmungen ist die Anzeige der IP-Adresse des Absenders in E-Mails in vielen Ländern verboten. Wir lassen es jedoch optional, da es manchmal aus Sicherheitsgründen erforderlich ist.
+    width: 1/3

@@ -1,0 +1,153 @@
+Title: Featured products section
+
+----
+
+Animation: true
+
+----
+
+Modules: [{"content":{"title":"Default background","blockclass":"","blockid":"","productstext":"### You might also like\n\nHello there","products":[],"sectioncolor":""},"id":"7fc5a65d-1286-4f9d-a178-e26dfc974912","isHidden":false,"type":"products"},{"content":{"title":"Muted background","blockclass":"","blockid":"","productstext":"### You might also like\n\nHello there","products":[],"sectioncolor":"uk-background-muted"},"id":"c63fe5d0-b60e-4067-b833-c498df10f443","isHidden":false,"type":"products"},{"content":{"title":"Secondary background","blockclass":"","blockid":"","productstext":"### You might also like\n\nHello there","products":[],"sectioncolor":"uk-background-secondary uk-light"},"id":"0fe870fa-1bba-4108-b197-7e0be111464c","isHidden":false,"type":"products"},{"content":{"title":"Primary background","blockclass":"","blockid":"","productstext":"### You might also like\n\nHello there","products":[],"sectioncolor":"uk-background-primary uk-light"},"id":"fe8a26f8-d859-4502-9e40-d9fa87832bab","isHidden":false,"type":"products"}]
+
+----
+
+Disallowsubmenu: false
+
+----
+
+Newtab: false
+
+----
+
+Menuitemicon: 
+
+----
+
+Megamenu: false
+
+----
+
+Megamenuwidth: 
+
+----
+
+Megamenuitemwidth: 
+
+----
+
+Megamenubackground: false
+
+----
+
+Megamenubackgroundimage: 
+
+----
+
+Megamenubackgroundimageposition: 
+
+----
+
+Megamenubackgroundimagesize: 
+
+----
+
+Megamenubackgroundimagerepeat: 
+
+----
+
+Megamenubackgroundgradientoverlay: false
+
+----
+
+Megamenubackgroundgradienttransition: 
+
+----
+
+Transparentnavbar: 
+
+----
+
+Navbarinverse: false
+
+----
+
+Headersection: true
+
+----
+
+Alttitle: 
+
+----
+
+Intro: Display the featured products on any page with Page Builder.
+
+----
+
+Headerbackgroundtoggle: false
+
+----
+
+Header: 
+
+----
+
+Headerimageposition: uk-background-center-center
+
+----
+
+Headerimagesize: uk-background-cover
+
+----
+
+Headerimagerepeat: no-repeat
+
+----
+
+Headertextcolor: uk-light
+
+----
+
+Headeroverlaycolor: rgba(0,0,0,0.2)
+
+----
+
+Backgroundparalax: 
+
+----
+
+Shapedividertoggle: false
+
+----
+
+Shapedivider: 
+
+----
+
+Shapedividerposition: 
+
+----
+
+Customshapedivider: 
+
+----
+
+Shapedividerheight: 
+
+----
+
+Metafile: 
+
+----
+
+Sitemap: true
+
+----
+
+Metatitle: 
+
+----
+
+Metadescription: 
+
+----
+
+Uuid: 5YcQdAHJ0SZ9zAcY

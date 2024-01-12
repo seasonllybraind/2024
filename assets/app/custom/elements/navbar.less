@@ -1,0 +1,252 @@
+//
+// Component: Navbar
+//
+// ========================================================================
+
+
+// Variables
+// ========================================================================
+
+@navbar-background:                                @global-background;
+
+@navbar-nav-item-height:                           110px;
+@navbar-nav-item-color:                            @global-emphasis-color;
+@navbar-nav-item-font-weight:                      inherit;
+@navbar-nav-item-text-transform:                   inherit;
+@navbar-nav-item-hover-color:                      @global-primary-background;
+@navbar-nav-item-active-color:                     @global-primary-background;
+@navbar-nav-item-onclick-color:                    darken(@global-primary-background, 6%);
+
+@navbar-toggle-color:                              @global-emphasis-color;
+
+@navbar-dropdown-background:                       darken(@global-secondary-background, 10%);
+@navbar-dropdown-width:                            270px;
+@navbar-dropdown-padding:                          @global-gutter;
+
+@navbar-dropdown-nav-item-color:                   @global-muted-color;
+@navbar-dropdown-nav-item-hover-color:             @global-inverse-color;
+@navbar-dropdown-nav-item-active-color:            @navbar-dropdown-nav-item-hover-color;
+@navbar-dropdown-nav-header-color:                 fade(@navbar-dropdown-nav-item-hover-color, 40%);
+@navbar-dropdown-nav-divider-border:               fade(@navbar-dropdown-nav-item-hover-color, 20%);
+@navbar-dropdown-nav-sublist-item-hover-color:     @navbar-dropdown-nav-item-hover-color;
+@navbar-dropdown-nav-sublist-item-active-color:    @navbar-dropdown-nav-item-hover-color;
+
+@navbar-box-shadow:                                @global-medium-box-shadow;
+
+// Component
+// ========================================================================
+
+.hook-navbar() {
+    z-index: 1;
+}
+
+
+// Container
+// ========================================================================
+
+.hook-navbar-container() {
+    transition: all 0.3s ease;
+}
+
+
+// Nav
+// ========================================================================
+
+.hook-navbar-nav-item() {
+    position: relative;
+    letter-spacing: 1px;
+    font-weight: @navbar-nav-item-font-weight;
+    text-transform: @navbar-nav-item-text-transform;
+    &::before {
+        content: "";
+        position: absolute;
+        background-color: @global-link-color;
+        transition: width .5s cubic-bezier(0.25, 0.8, 0.25, 1) 0s, right .5s cubic-bezier(.54,.32,.05,.96);
+        & when (@global-navbar-style = top) {
+            width: 0;
+            height: 3px;
+            left: 0;
+            top: 0;
+            will-change: width;
+        }
+        & when (@global-navbar-style = bottom) {
+            display: block;
+            height: 1px;
+            left: 15px;
+            right: 100%;
+            bottom: (@navbar-nav-item-height / 2) - 15px;
+            will-change: right;
+        }
+        
+    }
+}
+
+.hook-navbar-nav-item-hover() {
+    &::before {
+        & when (@global-navbar-style = top) {
+            width: 100%;
+        }
+        & when (@global-navbar-style = bottom) {
+            right: 15px;
+        }
+    }
+}
+
+.hook-navbar-nav-item-onclick() {
+    &::before {
+        & when (@global-navbar-style = top) {
+            width: 100%;
+        }
+        & when (@global-navbar-style = bottom) {
+            right: 15px;
+        }
+    }
+}
+
+.hook-navbar-nav-item-active() {
+    &::before {
+        content: '';
+        position: absolute;
+        background-color: @global-link-color;
+        & when (@global-navbar-style = top) {
+            width: 100%;
+            height: 3px;
+            left: 0;
+            top: 0;
+        }
+        & when (@global-navbar-style = bottom) {
+            display: block;
+            height: 1px;
+            left: 15px;
+            right: 15px;
+            bottom: (@navbar-nav-item-height / 2) - 15px;
+        }
+    }
+
+}
+
+
+// Item
+// ========================================================================
+
+.hook-navbar-item() {}
+
+
+// Toggle
+// ========================================================================
+
+.hook-navbar-toggle() {
+    
+}
+
+.hook-navbar-toggle-hover() {}
+
+.hook-navbar-toggle-icon() {}
+
+.hook-navbar-toggle-icon-hover() {}
+
+
+// Subtitle
+// ========================================================================
+
+.hook-navbar-subtitle() {}
+
+
+// Style modifiers
+// ========================================================================
+
+.hook-navbar-primary() {}
+
+.hook-navbar-transparent() {}
+
+.hook-navbar-sticky() {
+
+    & when (@global-shadows = true) {
+    box-shadow: @navbar-box-shadow;
+    }
+}
+
+
+// Dropdown
+// ========================================================================
+
+.hook-navbar-dropdown() {
+    & when (@global-shadows = true) {
+        box-shadow: @navbar-box-shadow;
+    }
+}
+
+.hook-navbar-dropdown-dropbar() {}
+
+
+// Dropdown nav
+// ========================================================================
+
+.hook-navbar-dropdown-nav() {}
+
+.hook-navbar-dropdown-nav-item() {
+    
+}
+
+.hook-navbar-dropdown-nav-item-hover() {}
+
+.hook-navbar-dropdown-nav-header() {
+    font-size: @global-font-size;
+    font-family: @global-primary-font-family;
+    font-weight: @global-primary-font-weight;
+    text-transform: @global-primary-text-transform;
+    letter-spacing: @global-primary-letter-spacing;
+    font-style: @global-primary-font-style;
+}
+
+.hook-navbar-dropdown-nav-divider() {}
+
+
+// Dropbar
+// ========================================================================
+
+.hook-navbar-dropbar() {}
+
+.hook-navbar-dropbar-slide() {}
+
+
+// Miscellaneous
+// ========================================================================
+
+.hook-navbar-misc() {
+    /* Parent icon modifier
+    ========================================================================== */
+    .uk-navbar-nav > li > a[aria-expanded="true"] .uk-navbar-parent-icon { 
+        transform: rotate(-180deg);
+    }
+    .uk-navbar-parent-icon { 
+        transition: transform .3s ease-in-out;
+    }
+}
+
+
+// Inverse
+// ========================================================================
+
+@inverse-navbar-nav-item-color:                    @global-inverse-color;
+@inverse-navbar-nav-item-hover-color:              @inverse-global-primary-background;
+@inverse-navbar-nav-item-onclick-color:            darken(@inverse-global-primary-background, 6%);
+@inverse-navbar-nav-item-active-color:             @inverse-global-primary-background;
+
+.hook-inverse-navbar-nav-item() {
+    &::before {
+        background-color: @global-inverse-color;
+    }
+}
+.hook-inverse-navbar-nav-item-hover() {}
+.hook-inverse-navbar-nav-item-onclick() {}
+.hook-inverse-navbar-nav-item-active() {
+    &::before {
+        background-color: @global-inverse-color;
+    }
+}
+
+.hook-inverse-navbar-item() {}
+
+.hook-inverse-navbar-toggle() {}
+.hook-inverse-navbar-toggle-hover() {}

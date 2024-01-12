@@ -1,0 +1,149 @@
+Title: For developers
+
+----
+
+Animation: true
+
+----
+
+Modules: [{"content":{"fittext":"[{\"content\":{\"level\":\"h2\",\"text\":\"Well structured and organized.\",\"headingsize\":\"\",\"headingstyle\":\"\",\"headingcolor\":\"\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\"},\"id\":\"b8c09b69-c06b-4a43-82ac-8d4b3dea1756\",\"isHidden\":false,\"type\":\"heading\"},{\"content\":{\"text\":\"Good structure is base for easy maintenance.\"},\"id\":\"c77cd77e-8987-495e-89fe-d2c8feb3ff82\",\"isHidden\":false,\"type\":\"intro\"},{\"content\":{\"text\":\"<p>We took great care to use less code as possible and to organize file and folder structure in the best possible way that makes maintenance, extending, and customization a breeze.<\\\/p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"b7b8d939-9fed-476b-ba2a-df8dc3161640\",\"isHidden\":false,\"type\":\"text\"},{\"content\":{\"text\":\"<p>Extensive use of many magnificent features that Kirby CMS offers.<\\\/p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"baf08c20-e857-459e-956d-2fa3724c60be\",\"isHidden\":false,\"type\":\"text\"},{\"content\":{\"text\":\"<p>Snippets, collections, and templates are used intelligently, as well as blueprint options like sections, fieldsets, and tabs.<\\\/p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"fedde97f-1a5a-474f-9352-1030b794085f\",\"isHidden\":false,\"type\":\"text\"},{\"content\":{\"text\":\"<p>All of that will help you easily get a grasp of what is happening under the hood, and make it fully your own.<\\\/p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"f661f789-9fca-4904-bd81-2b9d950ffe3e\",\"isHidden\":false,\"type\":\"text\"}]","fitimage":["file:\/\/GC5aoR7BiGL2RyWA"],"title":"- Its organized","blockclass":"","blockid":"","fitwidth":"large","fitchoosesides":"image","fitimagesize":"half","fittextback":"muted","fittextpadding":"large","fittextalign":"left","fitheadings":"false","viewportheight":"false"},"id":"429d2e38-f6da-4d5a-92e6-35bbde6e6a64","isHidden":false,"type":"text-image"},{"content":{"fittext":"[{\"content\":{\"level\":\"h2\",\"text\":\"Coded with elegance.\",\"headingsize\":\"\",\"headingstyle\":\"\",\"headingcolor\":\"\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\"},\"id\":\"98732858-3eb6-4f9c-ade3-f4ca40ea107c\",\"isHidden\":false,\"type\":\"heading\"},{\"content\":{\"text\":\"Clean, well commented & structured code for your joy only.\"},\"id\":\"f9157e2b-26c3-4ecb-b4b7-e57c7cf8c632\",\"isHidden\":false,\"type\":\"intro\"},{\"content\":{\"text\":\"<p>We made a great effort in making the code simple, clean, readable, and consistent, following the DRY principle and proper naming conventions.<\\\/p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"cc02177d-73fc-43e1-942d-34b47d866ba3\",\"isHidden\":false,\"type\":\"text\"},{\"content\":{\"text\":\"<p>We did our best to write code comments that are minimal, in the right places, and easily understandable.<\\\/p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"da826cc4-952e-4397-92f2-4b6ecd47e068\",\"isHidden\":false,\"type\":\"text\"},{\"content\":{\"text\":\"<p>Also, we thoroughly tested everything in various situations and optimized code several times to achieve the best possible result.<\\\/p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"7be54aea-7b39-4470-927d-fe9bc5dd6b85\",\"isHidden\":false,\"type\":\"text\"},{\"content\":{\"text\":\"<p><strong>Git version control ready.<\\\/strong> Actually, this demo site is fully pushed through Git.<\\\/p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"c7e52cce-3ca3-4235-af2b-1731f0557395\",\"isHidden\":false,\"type\":\"text\"}]","fitimage":["file:\/\/oT2M4XGIzUyXR31W"],"title":"- Coded with elegance","blockclass":"","blockid":"","fitwidth":"large","fitchoosesides":"text","fitimagesize":"half","fittextback":"muted","fittextpadding":"large","fittextalign":"left","fitheadings":"false","viewportheight":"false"},"id":"954c2919-9363-469b-86b5-21105c0da25a","isHidden":false,"type":"text-image"},{"content":{"fittext":"[{\"content\":{\"level\":\"h2\",\"text\":\"Front-end fairytale.\",\"headingsize\":\"\",\"headingstyle\":\"\",\"headingcolor\":\"\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\"},\"id\":\"972e4925-a591-49a2-a095-d15382aa0619\",\"isHidden\":false,\"type\":\"heading\"},{\"content\":{\"text\":\"Its a beauty on its own.\"},\"id\":\"07953ec6-51c7-49cd-8c5f-e1d6aa4bcfec\",\"isHidden\":false,\"type\":\"intro\"},{\"content\":{\"text\":\"<p>The front-end is based on <a href=\\\"https:\\\/\\\/getuikit.com\\\/\\\" target=\\\"_blank\\\" rel=\\\"noopener noreferrer nofollow\\\">UIkit<\\\/a>, in our opinion the best CSS\\\/JS framework that exists.<\\\/p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"54c3c057-5c42-43a6-936d-8060a4b55158\",\"isHidden\":false,\"type\":\"text\"},{\"content\":{\"text\":\"<p>Build on Less, perfected for many years, it is an engineering masterpiece. Out of the box is fantastic but we extended it even further. Created a workflow we think you will adore.<\\\/p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"c1deb5a4-b139-4ccd-9a7d-b219f078be97\",\"isHidden\":false,\"type\":\"text\"},{\"content\":{\"text\":\"<p>For easy customization, just install Node and Yarn on your system, change desired variables, compile, and you have brand new CSS stylesheets that follow your design preferences.<\\\/p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"c137b5b4-96f9-4cdb-8220-4eb44449e313\",\"isHidden\":false,\"type\":\"text\"},{\"content\":{\"text\":\"<p>But if that's not enough for you, every element is easily customizable, and we left many code examples to help you out in further modification.<\\\/p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"7988850b-cd69-4f83-804d-69922e93fe6d\",\"isHidden\":false,\"type\":\"text\"}]","fitimage":["file:\/\/imSSOFNhwM6VMuTl"],"title":"- Front-end fairytale","blockclass":"","blockid":"","fitwidth":"large","fitchoosesides":"image","fitimagesize":"half","fittextback":"muted","fittextpadding":"large","fittextalign":"left","fitheadings":"false","viewportheight":"false"},"id":"395670bd-3caa-493c-bda9-ca7185571bb7","isHidden":false,"type":"text-image"},{"content":{"fittext":"[{\"content\":{\"level\":\"h2\",\"text\":\"Extendable Page Bulders.\",\"headingsize\":\"\",\"headingstyle\":\"\",\"headingcolor\":\"\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\"},\"id\":\"63cf65c7-9971-4a8a-b828-4f93cef15343\",\"isHidden\":false,\"type\":\"heading\"},{\"content\":{\"text\":\"It is born to be extended and customized.\"},\"id\":\"eb86e45e-3511-4947-875c-cdb4b3ff0cff\",\"isHidden\":false,\"type\":\"intro\"},{\"content\":{\"text\":\"<p><strong>Want to add a new block to Page Builders?<\\\/strong> Only two files need to be added to achieve this. Just follow the docs provided with the theme and you are already there.<\\\/p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"9c6aeb04-698b-4cf6-86c9-dc1ee56c75d5\",\"isHidden\":false,\"type\":\"text\"},{\"content\":{\"text\":\"<p>Customizing existing blocks is even easier.<\\\/p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"ec3ff925-f527-4fee-b831-de6c5e7b8eb0\",\"isHidden\":false,\"type\":\"text\"},{\"content\":{\"text\":\"<p><strong>Want to add Page Bulder to your custom-made template?<\\\/strong> Just copy-paste two snippets and you are done.<\\\/p><p>Zero One has two types of Page Builders.<\\\/p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"30fe2a23-66ca-42c4-898b-3089ce1864cd\",\"isHidden\":false,\"type\":\"text\"},{\"content\":{\"text\":\"Learn more\",\"buttonicon\":\"\",\"linktype\":\"internal\",\"link\":\"\",\"internalpage\":[\"page:\\\/\\\/pplFXDLgBuXrPpu4\"],\"filelink\":[],\"emaillink\":\"\",\"phonelink\":\"\",\"target\":\"false\",\"buttonstyle\":\" uk-button-link\",\"buttonsize\":\" uk-button-small\",\"margintop\":\" uk-margin-small-top\"},\"id\":\"a92cebc3-dcb0-4ad0-889d-3b9b495a49db\",\"isHidden\":false,\"type\":\"button\"}]","fitimage":["file:\/\/EsB1S6Alh0hTBhlN"],"title":"- Extendable Page Bulder","blockclass":"","blockid":"","fitwidth":"large","fitchoosesides":"text","fitimagesize":"half","fittextback":"muted","fittextpadding":"large","fittextalign":"left","fitheadings":"false","viewportheight":"false"},"id":"c36a7362-8cf6-4035-bb83-def77b43b66c","isHidden":false,"type":"text-image"},{"content":{"fittext":"[{\"content\":{\"level\":\"h2\",\"text\":\"Kirby beginner goldmine.\",\"headingsize\":\"\",\"headingstyle\":\"\",\"headingcolor\":\"\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\"},\"id\":\"fd35efaa-b2a4-4fb0-8861-353f6842499e\",\"isHidden\":false,\"type\":\"heading\"},{\"content\":{\"text\":\"Save yourself a thousand hours. No need to start from scratch.\"},\"id\":\"7d7c4fd3-689f-489a-9caf-840eb3a505ae\",\"isHidden\":false,\"type\":\"intro\"},{\"content\":{\"text\":\"<p>If you are just starting out with Kirby CMS this theme offers a wealth of solutions and code examples for many common problems.<\\\/p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"2967ad50-495c-4c12-a5f7-c41c7bf89c78\",\"isHidden\":false,\"type\":\"text\"},{\"content\":{\"level\":\"h3\",\"text\":\"Become Kirby CMS master.\",\"headingsize\":\"\",\"headingstyle\":\"\",\"headingcolor\":\"\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\"},\"id\":\"d5f1d64d-bac5-4f4a-ad16-8be48726e1de\",\"isHidden\":false,\"type\":\"heading\"},{\"content\":{\"text\":\"<p>Detailed and technical documentation as well as professional support.<\\\/p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"24e5a6d2-b9ac-4ca1-8948-397058d4aa47\",\"isHidden\":false,\"type\":\"text\"},{\"content\":{\"text\":\"<p>We made a great effort to make your life easier.<\\\/p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"af5163e0-6a8c-4fc8-99d1-a67a90f434c9\",\"isHidden\":false,\"type\":\"text\"}]","fitimage":["file:\/\/axi7fFPns1SIGHR9"],"title":"- Kirby beginner goldmine","blockclass":"","blockid":"","fitwidth":"large","fitchoosesides":"image","fitimagesize":"half","fittextback":"muted","fittextpadding":"large","fittextalign":"left","fitheadings":"false","viewportheight":"false"},"id":"bd727cb2-6e09-434b-a1ee-8d5e6db05f99","isHidden":false,"type":"text-image"},{"content":{"columns":[{"columnwidth":"uk-width-1-1","columnclass":"","columntitle":"","columncontenthtml":"markdown","columneditor":"","columncontent":"## Explore the rest of Zero One features.\n\nYou can check out the (link: features text: list of notable features).","columnhtml":"","subcolumns":[],"columncard":"false","columncardsize":"","columncardhover":"false","columncardcolor":""},{"columnwidth":"uk-width-1-2@m","columnclass":"","columntitle":"","columncontenthtml":"editor","columneditor":"[{\"content\":{\"text\":\"<span uk-icon=\\\"icon: file-text; ratio: 2\\\"><\\\/span>\"},\"id\":\"47cbd306-c113-4bc5-a837-bf977ef06d62\",\"isHidden\":false,\"type\":\"markdown\"},{\"content\":{\"level\":\"h3\",\"text\":\"Content editor features.\",\"headingsize\":\"\",\"headingstyle\":\"\",\"headingcolor\":\"\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\"},\"id\":\"b61126c3-a95d-4e0a-a5c8-913423e80492\",\"isHidden\":false,\"type\":\"heading\"},{\"content\":{\"text\":\"<p>Custom-made panels and options for every content type. Kirby Blocks Editor, Kirbytext, and Page Builder in just the right places to extend flexibility to maximum.<\\\/p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"d30e719b-1819-455d-a910-66471ad8a2bc\",\"isHidden\":false,\"type\":\"text\"},{\"content\":{\"text\":\"Learn more\",\"buttonicon\":\"\",\"linktype\":\"internal\",\"link\":\"\",\"internalpage\":[\"page:\\\/\\\/pfTecGNp34J24IpD\"],\"filelink\":[],\"emaillink\":\"\",\"phonelink\":\"\",\"target\":\"false\",\"buttonstyle\":\" uk-button-link\",\"buttonsize\":\" uk-button-small\",\"margintop\":\" uk-margin-small-top\"},\"id\":\"dc049972-70cf-4b18-a579-5b3384a60594\",\"isHidden\":false,\"type\":\"button\"}]","columncontent":"### Content editor features.\n\nCustom made panels for every content type. Kirby Editor, Kirbytext, and Page Builder on just the right places to extend flexibility to maximum.\n\n(link: features\/for-content-editors text: Learn more)","columnhtml":"","subcolumns":[],"columncard":"false","columncardsize":"","columncardhover":"false","columncardcolor":""},{"columnwidth":"uk-width-1-2@m","columnclass":"","columntitle":"","columncontenthtml":"editor","columneditor":"[{\"content\":{\"text\":\"<span uk-icon=\\\"icon: social; ratio: 2\\\"><\\\/span>\"},\"id\":\"dd25e366-d508-4bd1-8acd-5fe38fb46671\",\"isHidden\":false,\"type\":\"markdown\"},{\"content\":{\"level\":\"h3\",\"text\":\"SEO\\\/SEM master features.\",\"headingsize\":\"\",\"headingstyle\":\"\",\"headingcolor\":\"\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\"},\"id\":\"9e27d3f5-84f6-4adc-8f90-d41929a9d68b\",\"isHidden\":false,\"type\":\"heading\"},{\"content\":{\"text\":\"<p>There\\u2019s no need for a plugin to manage and update your site\\u2019s SEO settings. From page titles to meta descriptions, URLs to Open Graph settings \\u2014 optimize every page of your site.<\\\/p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"eaf2b6c6-7e81-403f-81b1-944b4fd41298\",\"isHidden\":false,\"type\":\"text\"},{\"content\":{\"text\":\"Learn more\",\"buttonicon\":\"\",\"linktype\":\"internal\",\"link\":\"\",\"internalpage\":[\"page:\\\/\\\/XpdDligeUqLhH7js\"],\"filelink\":[],\"emaillink\":\"\",\"phonelink\":\"\",\"target\":\"false\",\"buttonstyle\":\" uk-button-link\",\"buttonsize\":\" uk-button-small\",\"margintop\":\" uk-margin-small-top\"},\"id\":\"2e2c38af-c463-4402-9723-1d36b24acbe5\",\"isHidden\":false,\"type\":\"button\"}]","columncontent":"### SEO\/SEM master features.\n\nThere\u2019s no need for a plugin to manage and update your site\u2019s SEO settings. From page titles to meta descriptions, URLs to Open Graph settings \u2014 optimize every page of your site.\n\n(link: features\/for-seo-sem-masters text: Learn more)","columnhtml":"","subcolumns":[],"columncard":"false","columncardsize":"","columncardhover":"false","columncardcolor":""}],"title":"","blockclass":"","blockid":"","sectionsize":" uk-section-large","sectioncolor":" uk-section-default","sectionremovepadding":"","backgroundimage":[],"backgroundimageposition":"","backgroundimagesize":"","backgroundimagerepeat":"","sectiontextcolor":"","backgroundoverlaycolor":null,"backgroundparalax":"","shapedividertoggle":"false","shapedivider":"","shapedividerposition":"","shapedividercolor":null,"customshapedivider":"","shapedividerheight":"","gridwidth":" uk-container-small","columnstack":"mobile","columngap":"","columnsverticalalign":"","columnshorizontalalign":"","columnsdivider":"true","centertext":"false","gridheadings":"false","columnsparallax":"false"},"id":"a61b36af-1e1a-4c58-bbe5-038fdac94e6b","isHidden":false,"type":"grid"},{"content":{"cpttext":"#### Make Zero One yours.\n\n### From Zero to Hero in a snap.\n\nThe ultimate Kirby CMS toolkit awaits.","cptlinktext":"Purchase Zero One","cptlink":["page:\/\/ZVoGDWAqLvo5X5c1"],"cptbuttoncolor":" uk-button-primary","cptbuttonsize":"large","title":"","blockclass":"","blockid":"","cptsize":"","cpttextwidth":"large","cptheadings":"true","cptstyle":"image","cptimage":["file:\/\/jW4jdRrJKChhqnGi"],"cptimageposition":" uk-background-center-center","cptimagesize":" uk-background-cover","cptimagerepeat":" no-repeat","cpttextcolor":" uk-light","cptoverlaycolor":"#00000099"},"id":"6d7485ed-45f3-436b-8b9c-9a1b7344350c","isHidden":false,"type":"cpt"}]
+
+----
+
+Disallowsubmenu: false
+
+----
+
+Newtab: false
+
+----
+
+Menuitemicon: git-branch
+
+----
+
+Megamenu: false
+
+----
+
+Megamenuwidth: 
+
+----
+
+Megamenuitemwidth: 
+
+----
+
+Megamenubackground: false
+
+----
+
+Megamenubackgroundimage: 
+
+----
+
+Megamenubackgroundimageposition: 
+
+----
+
+Megamenubackgroundimagesize: 
+
+----
+
+Megamenubackgroundimagerepeat: 
+
+----
+
+Megamenubackgroundgradientoverlay: false
+
+----
+
+Megamenubackgroundgradienttransition: 
+
+----
+
+Transparentnavbar: 
+
+----
+
+Navbarinverse: false
+
+----
+
+Headersection: true
+
+----
+
+Alttitle: Developer features
+
+----
+
+Intro: The biggest Zero One strength lies in its versatility and extendability.
+
+----
+
+Headerbackgroundtoggle: false
+
+----
+
+Header: 
+
+----
+
+Headerimageposition: 
+
+----
+
+Headerimagesize: 
+
+----
+
+Headerimagerepeat: 
+
+----
+
+Headertextcolor: 
+
+----
+
+Backgroundparalax: 
+
+----
+
+Shapedividertoggle: false
+
+----
+
+Shapedivider: 
+
+----
+
+Shapedividerposition: 
+
+----
+
+Customshapedivider: 
+
+----
+
+Shapedividerheight: 
+
+----
+
+Metafile: - file://imSSOFNhwM6VMuTl
+
+----
+
+Sitemap: true
+
+----
+
+Metatitle: 
+
+----
+
+Metadescription: The biggest Zero One strength lies in its versatility and extendability. Clean, well commented & structured code for your joy only. Kirby beginner goldmine.
+
+----
+
+Uuid: UU4nSZ3OtqRd9qkp

@@ -1,0 +1,18 @@
+type: fields
+fields:
+  partsSettings:
+    label: 
+      en: Page Sections
+      de: Seitenabschnitte
+    type: headline
+    numbered: false
+  animation:
+    label: 
+      en: Animate sections
+      de: Abschnitte animieren 
+    type: toggle
+    default: true
+    help: 
+      en: Sections fade in on scroll.
+      de: Abschnitte werden beim Scrollen eingeblendet.
+    width: 1/4

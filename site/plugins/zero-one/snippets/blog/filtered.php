@@ -1,0 +1,4 @@
+<h1><?php if (param('category')) : ?><?= $site->labelCategoryTitle()->html() ?> <?= Str::ucfirst($category) ?><?php endif ?><?php if (param('tag')) : ?><?= $site->labelTagTitle()->html() ?> <?= Str::ucwords($tag) ?><?php endif ?><?php if (param('year')) : ?><?= $site->labelArchivesTitle()->html() ?> <?= $year ?><?php endif ?></h1>
+<hr class="uk-divider-small">
+<p class="uk-article-meta"><?= $site->labelArchiveText()->html() ?> <?= Str::ucfirst($category) ?><?= Str::ucfirst($tag) ?><?= $year ?> <?= $site->labelArchiveName()->html() ?></p>
+<p><a href="<?= $page->url() ?>"><?= $site->labelBacktoblog()->html() ?> <?= $page->title() ?></a></p>

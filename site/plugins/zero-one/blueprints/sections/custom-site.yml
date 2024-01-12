@@ -1,0 +1,13 @@
+# This is custom Site section
+# Main blueprint file: blueprints/site.yml
+# It is very useful when you want to add your custom Site options
+type: fields
+fields:
+  siteCustomHeadline:
+    label: 
+      en: Custom Settings
+      de: Benutzerdefinierte Einstellungen
+    type: hidden
+    help: 
+      en: This is a custom Site section. It is very useful when you want to add additional custom Site options, by overriding this blueprint section.
+      de: Dies ist ein benutzerdefinierter Site-Bereich. Es ist sehr nützlich, wenn Sie zusätzliche benutzerdefinierte Site-Optionen hinzufügen möchten, indem Sie diesen Blueprint-Abschnitt überschreiben.

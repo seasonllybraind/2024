@@ -1,0 +1,149 @@
+Title: Our Process
+
+----
+
+Animation: true
+
+----
+
+Modules: [{"content":{"herocontentoption":"editor","contentblocks":"[{\"content\":{\"level\":\"h1\",\"text\":\"What to expect when you work with us.\",\"headingsize\":\" uk-heading-medium\",\"headingstyle\":\"\",\"headingcolor\":\"\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\"},\"id\":\"95a537d5-3b33-45d1-8885-81bed8044784\",\"isHidden\":false,\"type\":\"heading\"},{\"content\":{\"text\":\"<p>Every project we work on is unique but our approach is always the same. Why? Because it works. We\\u2019ve got processes in place to make sure you get exactly the results you need. No hold-ups, no nasty surprises: just effective digital design and build, tailored to your business.<\\\/p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"c1669a24-7d8e-4801-a8ed-21dc28a5347f\",\"isHidden\":false,\"type\":\"text\"}]","herotext":"# What to expect when you work with us.\n\nEvery project we work on is unique but our approach is always the same. Why? Because it works. We\u2019ve got processes in place to make sure you get exactly the results you need. No hold-ups, no nasty surprises: just effective digital design and build, tailored to your business.","herohtml":"","herostyle":"image","herocover":["file:\/\/MqTlqAqaamyL4SEF"],"backgroundimageposition":" uk-background-center-center","backgroundimagesize":" uk-background-cover","backgroundimagerepeat":" no-repeat","sectiontextcolor":" uk-light","backgroundoverlaycolor":"#00000066","backgroundparalax":"paralaxY","mediavideosource":"","mediavideo":[],"mediavideourl":"","shapedividertoggle":"false","shapedivider":"","shapedividerposition":"","shapedividercolor":null,"customshapedivider":"","shapedividerheight":"","title":"","blockclass":"","blockid":"","herosize":"large","herotextwidth":"large","herotextalign":"left","heroheadings":"false","herocard":"false","herocardcolor":"","herocardhover":"false"},"id":"2db53dcb-7efc-42af-a428-22225ee31445","isHidden":false,"type":"hero"},{"content":{"columns":[{"columnwidth":"uk-width-1-2@m","columnclass":"","columntitle":"","columncontenthtml":"markdown","columneditor":"","columncontent":"## We love making things simple, intuitive and expertly crafted.\n\nWe understand the importance of each work integrally and believe in the power of simple and easy communication.","columnhtml":"","subcolumns":[],"columncard":"false","columncardsize":"","columncardhover":"false","columncardcolor":""},{"columnwidth":"uk-width-1-2@m","columnclass":"","columntitle":"","columncontenthtml":"markdown","columneditor":"","columncontent":"","columnhtml":"","subcolumns":[],"columncard":"false","columncardsize":"","columncardhover":"false","columncardcolor":""}],"title":"- We love making things simple","blockclass":"","blockid":"","sectionsize":" uk-section-large","sectioncolor":" uk-section-default","sectionremovepadding":" uk-padding-remove-bottom","backgroundimage":[],"backgroundimageposition":"","backgroundimagesize":"","backgroundimagerepeat":"","sectiontextcolor":"","backgroundoverlaycolor":null,"backgroundparalax":"","shapedividertoggle":"false","shapedivider":"","shapedividerposition":"","shapedividercolor":null,"customshapedivider":"","shapedividerheight":"","gridwidth":"","columnstack":"tablet","columngap":"","columnsverticalalign":"","columnshorizontalalign":"","columnsdivider":"false","centertext":"false","gridheadings":"false","columnsparallax":"false"},"id":"7282c0a7-4ac6-4c7e-8e74-451e95ff38cf","isHidden":false,"type":"grid"},{"content":{"columns":[{"columnwidth":"uk-width-expand@m","columnclass":"","columntitle":"","columncontenthtml":"markdown","columneditor":"","columncontent":"(image: toa-heftiba-ip9r11fmbv8-unsplash.jpg)","columnhtml":"","subcolumns":[],"columncard":"false","columncardsize":"","columncardhover":"false","columncardcolor":""},{"columnwidth":"uk-width-expand@m","columnclass":"","columntitle":"","columncontenthtml":"markdown","columneditor":"","columncontent":"**01. Brainstorming**\n\n## The first step is to take the projects data & think about it!\n\nWe love what we do and we do it with passion. We value the experimentation, the reformation of the message, and the smart incentives of approaching each work integrally and believe in the power of simple and easy communication.","columnhtml":"","subcolumns":[],"columncard":"false","columncardsize":"","columncardhover":"false","columncardcolor":""},{"columnwidth":"uk-width-1-4@m","columnclass":"","columntitle":"","columncontenthtml":"markdown","columneditor":"","columncontent":"","columnhtml":"","subcolumns":[],"columncard":"false","columncardsize":"","columncardhover":"false","columncardcolor":""}],"title":"- 01. Brainstorming","blockclass":"","blockid":"","sectionsize":" uk-section-large","sectioncolor":"image","sectionremovepadding":"","backgroundimage":["file:\/\/FIXxkAz9JaHFLlMr"],"backgroundimageposition":" uk-background-bottom-center","backgroundimagesize":" uk-background-cover","backgroundimagerepeat":" no-repeat","sectiontextcolor":"","backgroundoverlaycolor":null,"backgroundparalax":"","shapedividertoggle":"false","shapedivider":"","shapedividerposition":"","shapedividercolor":null,"customshapedivider":"","shapedividerheight":"","gridwidth":"","columnstack":"mobile","columngap":" uk-grid-large","columnsverticalalign":" uk-flex-middle","columnshorizontalalign":"","columnsdivider":"false","centertext":"false","gridheadings":"false","columnsparallax":"false"},"id":"e6cde2d7-66db-442d-ba37-8fbe1401493f","isHidden":false,"type":"grid"},{"content":{"columns":[{"columnwidth":"uk-width-1-2@m","columnclass":"","columntitle":"","columncontenthtml":"markdown","columneditor":"","columncontent":"**02. Concept Prototype**\n\n## To know about the product, customers & competitors.\n\nWe love what we do and we do it with passion. We value the experimentation, the reformation of the message, and the smart incentives of approaching each work integrally and believe in the power of simple and easy communication.","columnhtml":"","subcolumns":[],"columncard":"false","columncardsize":"","columncardhover":"false","columncardcolor":""},{"columnwidth":"uk-width-1-2@m","columnclass":"","columntitle":"","columncontenthtml":"markdown","columneditor":"","columncontent":"(image: liana-mikah-reczjswmpvi-unsplash.jpg)","columnhtml":"","subcolumns":[],"columncard":"false","columncardsize":"","columncardhover":"false","columncardcolor":""}],"title":"- 02. Concept Prototype","blockclass":"","blockid":"","sectionsize":" uk-section-large","sectioncolor":"","sectionremovepadding":" uk-padding-remove-top","backgroundimage":[],"backgroundimageposition":" uk-background-top-center","backgroundimagesize":" uk-background-cover","backgroundimagerepeat":" no-repeat","sectiontextcolor":"","backgroundoverlaycolor":null,"backgroundparalax":"","shapedividertoggle":"false","shapedivider":"","shapedividerposition":"","shapedividercolor":null,"customshapedivider":"","shapedividerheight":"","gridwidth":" uk-container-small","columnstack":"mobile","columngap":" uk-grid-large","columnsverticalalign":" uk-flex-middle","columnshorizontalalign":"","columnsdivider":"false","centertext":"false","gridheadings":"false","columnsparallax":"true"},"id":"275823b6-4664-4048-bb17-dd39c89a3ded","isHidden":false,"type":"grid"},{"content":{"columns":[{"columnwidth":"uk-width-expand@m","columnclass":"","columntitle":"","columncontenthtml":"markdown","columneditor":"","columncontent":"(image: ciprian-boiciuc-cxdeji3bd2u-unsplash.jpg)","columnhtml":"","subcolumns":[],"columncard":"false","columncardsize":"","columncardhover":"false","columncardcolor":""},{"columnwidth":"uk-width-expand@m","columnclass":"","columntitle":"","columncontenthtml":"markdown","columneditor":"","columncontent":"**03. Design Layout**\n\n## Start to work on the design taking with collected data.\n\nWe love what we do and we do it with passion. We value the experimentation, the reformation of the message, and the smart incentives of approaching each work integrally and believe in the power of simple and easy communication.","columnhtml":"","subcolumns":[],"columncard":"false","columncardsize":"","columncardhover":"false","columncardcolor":""},{"columnwidth":"uk-width-1-4@m","columnclass":"","columntitle":"","columncontenthtml":"markdown","columneditor":"","columncontent":"","columnhtml":"","subcolumns":[],"columncard":"false","columncardsize":"","columncardhover":"false","columncardcolor":""}],"title":"- 03. Design Layout","blockclass":"","blockid":"","sectionsize":" uk-section-large","sectioncolor":"image","sectionremovepadding":" uk-padding-remove-top","backgroundimage":["file:\/\/FIXxkAz9JaHFLlMr"],"backgroundimageposition":" uk-background-center-center","backgroundimagesize":" uk-background-cover","backgroundimagerepeat":" no-repeat","sectiontextcolor":"","backgroundoverlaycolor":null,"backgroundparalax":"","shapedividertoggle":"false","shapedivider":"","shapedividerposition":"","shapedividercolor":null,"customshapedivider":"","shapedividerheight":"","gridwidth":"","columnstack":"mobile","columngap":" uk-grid-large","columnsverticalalign":" uk-flex-middle","columnshorizontalalign":"","columnsdivider":"false","centertext":"false","gridheadings":"false","columnsparallax":"true"},"id":"dbaa4eda-db2b-41c9-a92c-0d184c238a82","isHidden":false,"type":"grid"},{"content":{"columns":[{"columnwidth":"uk-width-1-2@m","columnclass":"","columntitle":"","columncontenthtml":"markdown","columneditor":"","columncontent":"**04. Evaluation**\n\n## Start to work on the design taking with collected data.\n\nWe love what we do and we do it with passion. We value the experimentation, the reformation of the message, and the smart incentives of approaching each work integrally and believe in the power of simple and easy communication.","columnhtml":"","subcolumns":[],"columncard":"false","columncardsize":"","columncardhover":"false","columncardcolor":""},{"columnwidth":"uk-width-1-2@m","columnclass":"","columntitle":"","columncontenthtml":"markdown","columneditor":"","columncontent":"(image: bruno-van-der-kraan-hxkduwr6bue-unsplash.jpg)","columnhtml":"","subcolumns":[],"columncard":"false","columncardsize":"","columncardhover":"false","columncardcolor":""}],"title":"- 04. Evaluation","blockclass":"","blockid":"","sectionsize":" uk-section-large","sectioncolor":" uk-section-default","sectionremovepadding":" uk-padding-remove-top","backgroundimage":[],"backgroundimageposition":"","backgroundimagesize":"","backgroundimagerepeat":"","sectiontextcolor":"","backgroundoverlaycolor":null,"backgroundparalax":"","shapedividertoggle":"false","shapedivider":"","shapedividerposition":"","shapedividercolor":null,"customshapedivider":"","shapedividerheight":"","gridwidth":" uk-container-small","columnstack":"mobile","columngap":" uk-grid-large","columnsverticalalign":" uk-flex-middle","columnshorizontalalign":"","columnsdivider":"false","centertext":"false","gridheadings":"false","columnsparallax":"true"},"id":"73d6be32-af0d-42a2-9d61-d1f0291c19d6","isHidden":false,"type":"grid"},{"content":{"cpttext":"## Pick up that phone and get in touch.\n\nWe're not a full-service agency, we're specialists. We're not boutique, we're small. We've worked with some cracking agencies in our time, learned from the best, take all the good bits on board, and rolled them into our own unique shape.","cptlinktext":"Contact us","cptlink":["page:\/\/ZVoGDWAqLvo5X5c1"],"cptbuttoncolor":" uk-button-default","cptbuttonsize":"large","title":"","blockclass":"","blockid":"","cptsize":" uk-section-small","cpttextwidth":"large","cptheadings":"false","cptstyle":"image","cptimage":["file:\/\/MqTlqAqaamyL4SEF"],"cptimageposition":" uk-background-center-center","cptimagesize":" uk-background-cover","cptimagerepeat":" no-repeat","cpttextcolor":" uk-light","cptoverlaycolor":"#00000080"},"id":"f89a339d-9e74-401f-a769-6b4a68de71fe","isHidden":false,"type":"cpt"}]
+
+----
+
+Disallowsubmenu: false
+
+----
+
+Newtab: false
+
+----
+
+Menuitemicon: 
+
+----
+
+Megamenu: false
+
+----
+
+Megamenuwidth: 
+
+----
+
+Megamenuitemwidth: 
+
+----
+
+Megamenubackground: false
+
+----
+
+Megamenubackgroundimage: 
+
+----
+
+Megamenubackgroundimageposition: 
+
+----
+
+Megamenubackgroundimagesize: 
+
+----
+
+Megamenubackgroundimagerepeat: 
+
+----
+
+Megamenubackgroundgradientoverlay: false
+
+----
+
+Megamenubackgroundgradienttransition: 
+
+----
+
+Transparentnavbar: 
+
+----
+
+Navbarinverse: false
+
+----
+
+Headersection: false
+
+----
+
+Alttitle: 
+
+----
+
+Intro: 
+
+----
+
+Headerbackgroundtoggle: false
+
+----
+
+Header: 
+
+----
+
+Headerimageposition: 
+
+----
+
+Headerimagesize: 
+
+----
+
+Headerimagerepeat: 
+
+----
+
+Headertextcolor: 
+
+----
+
+Backgroundparalax: 
+
+----
+
+Shapedividertoggle: false
+
+----
+
+Shapedivider: 
+
+----
+
+Shapedividerposition: 
+
+----
+
+Customshapedivider: 
+
+----
+
+Shapedividerheight: 
+
+----
+
+Metafile: 
+
+----
+
+Sitemap: true
+
+----
+
+Metatitle: 
+
+----
+
+Metadescription: 
+
+----
+
+Uuid: LFLNfuGJ10TpEuOD

@@ -1,0 +1,60 @@
+/* Products button */
+@media only screen and (min-width: 960px) {
+    .tm-product-button-container {
+        height: 35px; 
+        overflow: hidden;
+    }
+    .tm-product-container:hover .tm-product-button {
+        transform: translateY(-35px);
+    }
+}
+.tm-product-button {
+    height: 70px;
+    overflow: hidden;
+    transition: transform .3s ease;
+}
+.tm-product-button .tm-product-price {
+    display: block;
+    height: 35px;
+    overflow: hidden;
+}
+.tm-product-button .tm-product-cart {
+    display: block;
+    height: 35px;
+    overflow: hidden;
+}
+
+/* Product quantity buttons */
+#quantity::-webkit-outer-spin-button,
+#quantity::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+#quantity {
+    width: 60px;
+    display: inline-block;
+    padding: 0;
+    margin: 0;
+    outline: 0;
+    text-align: center;
+    box-shadow: none;
+    /* Firefox */
+    -moz-appearance: textfield;
+}
+#increment, #decrement {
+    width: 36px;
+    display: inline-block;
+    padding: 0;
+    margin: 0;
+    outline: 0;
+    position: relative;
+    text-align: center;
+    box-shadow: none;
+    -webkit-appearance: button;
+    cursor: pointer;
+}
+#increment:hover, #decrement:hover, #increment:active, #decrement:active, #increment:focus, #decrement:focus {
+    color: @global-inverse-color;
+    background-color: @global-primary-background;
+    border-color: @global-primary-background;
+}

@@ -1,0 +1,114 @@
+Title: Running Heaven
+
+----
+
+Selectbuilder: page-builder
+
+----
+
+Layout: 
+
+----
+
+Animation: true
+
+----
+
+Modules: [{"content":{"columns":[{"columnwidth":"uk-width-expand@m","columnclass":"","columntitle":"","columncontenthtml":"markdown","columneditor":"","columncontent":"## Sports keep us fit.","columnhtml":"","subcolumns":[],"columncard":"false","columncardsize":"","columncardhover":"false","columncardcolor":""},{"columnwidth":"uk-width-expand@m","columnclass":"","columntitle":"","columncontenthtml":"markdown","columneditor":"","columncontent":"They keep us mindful. They bring us together. Athletes inspire us. They help us to get up and get moving. And sporting goods featuring the latest technologies help us beat our personal best. \n\nAdidas is home to the runner, the basketball player, the soccer kid, the fitness enthusiast, the yogi. And even the weekend hiker looking to escape the city. The 3-Stripes are everywhere and anywhere. In sports. In music. On life\u2019s stages. Before the whistle blows, during the race, and at the finish line. We\u2019re here to support creators. To improve their game. To live their lives. And to change the world.","columnhtml":"","subcolumns":[],"columncard":"false","columncardsize":"","columncardhover":"false","columncardcolor":""}],"title":"- Sports keeps us fit","blockclass":"","blockid":"","sectionsize":" uk-section-large","sectioncolor":" uk-section-default","sectionremovepadding":"","backgroundimage":[],"backgroundimageposition":"","backgroundimagesize":"","backgroundimagerepeat":"","sectiontextcolor":"","backgroundoverlaycolor":null,"backgroundparalax":"","shapedividertoggle":"false","shapedivider":"","shapedividerposition":"","shapedividercolor":null,"customshapedivider":"","shapedividerheight":"","gridwidth":"","columnstack":"tablet","columngap":"","columnsverticalalign":"","columnshorizontalalign":"","columnsdivider":"true","centertext":"false","gridheadings":"false","columnsparallax":"false"},"id":"a849ad66-ff26-4555-a7d4-6c09845081e0","isHidden":false,"type":"grid"},{"content":{"mediavideosource":"url","mediavideo":[],"mediavideourl":"https:\/\/www.youtube-nocookie.com\/embed\/LbR3WEnjyGI?autoplay=1&amp;controls=0&amp;showinfo=0&amp;rel=0&amp;loop=1&amp;modestbranding=1&amp;wmode=transparent","mediavideoheight":"viewport","title":"","blockclass":"","blockid":""},"id":"c1efa527-0ad9-423e-99f7-e216977898cc","isHidden":false,"type":"media-video"},{"content":{"texteditor":"[{\"content\":{\"level\":\"h2\",\"text\":\"Design for athletes of all kinds.\",\"headingsize\":\"\",\"headingstyle\":\"\",\"headingcolor\":\"\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\"},\"id\":\"d37a439a-af3f-41c3-b387-5d13e935b4c2\",\"isHidden\":false,\"type\":\"heading\"},{\"content\":{\"text\":\"<p>Creators who love to change the game. People who challenge conventions, break the rules, and define new ones. Then break them all over again. We design sports apparel that gets you moving, winning, and living life to the fullest. We create bras and tights for female athletes who play just as hard as the men. We design, innovate and iterate. We test new technologies in action.<\\\/p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"9d99b407-7fb4-4d5f-aea2-a67bfd9b3643\",\"isHidden\":false,\"type\":\"text\"}]","title":"","blockclass":"","blockid":"","editorwidth":"xsmall","editorback":"secondary","editorheadings":"false"},"id":"6ed3aa72-5203-4a5f-8029-622716de8b12","isHidden":false,"type":"editor"},{"content":{"fittext":"[{\"content\":{\"level\":\"h3\",\"text\":\"IT IS ALL ABOUT SPORT\",\"headingsize\":\"\",\"headingstyle\":\"\",\"headingcolor\":\"\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\"},\"id\":\"e82b7de8-9d0b-48f9-ad59-42182923175f\",\"isHidden\":false,\"type\":\"heading\"},{\"content\":{\"text\":\"<p>This is where we come from, everything we do is rooted in sport. And sport plays an increasingly important role in more and more people\\u2019s lives, on and off the field of play. Sport is central to every culture and society and is core to an individual\\u2019s health and happiness. Therefore, we believe that, through sport, we have the power to change lives. This core belief guides the way we run our company, how we work with our partners, how we create our products, and how we engage with our consumers.<\\\/p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"3796b1e1-7d67-4aee-99b3-b34c05d5a426\",\"isHidden\":false,\"type\":\"text\"},{\"content\":{\"level\":\"h3\",\"text\":\"WE PLAY TO WIN\",\"headingsize\":\"\",\"headingstyle\":\"\",\"headingcolor\":\"\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\"},\"id\":\"55184050-c19d-41d0-a796-b19e3dd9c908\",\"isHidden\":false,\"type\":\"heading\"},{\"content\":{\"text\":\"<p>Athletes will not settle for average. And neither do we. We have a clear mission: To be the best sports company in the world. Every day, we come to work to create and sell the best sports and fitness products in the world, and to offer the best service and consumer experience \\u2013 and to do it all in a sustainable way. To successfully do that, we focus entirely on our authentic sports brands as they connect and engage with our consumers.<\\\/p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"c13800f2-18f6-48a9-9074-5ec0af172d36\",\"isHidden\":false,\"type\":\"text\"}]","fitimage":["file:\/\/bOKJNLD8bNqDYMBj"],"title":"","blockclass":"","blockid":"","fitwidth":"full","fitchoosesides":"image","fitimagesize":"half","fittextback":"primary","fittextpadding":"large","fittextalign":"left","fitheadings":"false","viewportheight":"false"},"id":"00a603d8-4f09-4fcc-9566-d5a218662684","isHidden":false,"type":"text-image"}]
+
+----
+
+Projectinfo:
+
+- 
+  projectcolumn: '**Timeline:** 2017 - 2018'
+- 
+  projectcolumn: '**Live:** (link: https://www.adidas.com/ text: www.adidas.com target: _blank)'
+
+----
+
+Tagslabel: Tags:
+
+----
+
+Tags: design, branding
+
+----
+
+Transparentnavbar: 
+
+----
+
+Navbarinverse: false
+
+----
+
+Alttitle: 
+
+----
+
+Intro: Through sport, we have the power to change lives.
+
+----
+
+Headerimageoption: true
+
+----
+
+Headerimage: - file://hiXcFwYiThpoi3xm
+
+----
+
+Headerimageposition: uk-background-center-center
+
+----
+
+Headerimagesize: uk-background-cover
+
+----
+
+Headerimagerepeat: no-repeat
+
+----
+
+Headertextcolor: uk-light
+
+----
+
+Headeroverlaycolor: #00000080
+
+----
+
+Backgroundparalax: paralaxY
+
+----
+
+Cover:
+
+- 
+  id: kushagra-kevat-kzs5bt5vdng-unsplash.jpg
+  clip:
+    width: 810
+    height: 1080
+    left: 299
+    top: 0
+
+----
+
+Metafile: - file://bOKJNLD8bNqDYMBj
+
+----
+
+Sitemap: true
+
+----
+
+Metatitle: 
+
+----
+
+Metadescription: 
+
+----
+
+Uuid: FCmS1Q6438Ijl0wr

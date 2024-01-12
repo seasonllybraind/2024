@@ -1,0 +1,181 @@
+name: 
+  en: Description list
+  de: Beschreibungsliste
+icon: text
+
+preview: zdescription
+
+tabs:
+  # content tab
+  content:
+    label: 
+      en: Content
+      de: Inhalt
+    fields:
+      description:
+        label: 
+          en: Description list
+          de: Beschreibungsliste
+        type: structure
+        fields:
+          title:
+            label: 
+              en: Description title
+              de: Beschreibungstitel
+            type: writer
+            inline: true
+            marks: true
+          text:
+            label: 
+              en: Description text
+              de: Beschreibungstext
+            marks: true
+            inline: true
+            type: writer
+
+      # title size
+      titleSize:
+        label: 
+          en: Title size
+          de: Titelgröße
+        type: select
+        placeholder: Inherit
+        options: 
+          "uk-text-small": 
+            en: Small
+            de: Klein
+          "uk-text-default": 
+            en: Default
+            de: Standard
+          "uk-text-large": 
+            en: Large
+            de: Groß
+        width: 1/3
+      # title transform
+      titleTransform:
+        label: 
+          en: Title text transform
+          de: Titeltext transformieren
+        type: select
+        placeholder: Inherit
+        options: 
+          " uk-text-capitalize": 
+            en: Capitalize
+            de: Kapitalisieren
+          " uk-text-uppercase": 
+            en: Uppercase
+            de: Großbuchstaben
+          " uk-text-lowercase": 
+            en: Lowercase
+            de: Kleinbuchstaben
+        width: 1/3
+      # text color
+      titleColor:
+        label: 
+          en: Title color
+          de: Titelfarbe
+        type: select
+        placeholder: Inherit
+        options:
+          " uk-text-muted": Muted
+          " uk-text-emphasis": Emphasis
+          " uk-text-primary": Primary
+          " uk-text-secondary": Secondary
+          " uk-text-success": Success
+          " uk-text-warning": Warning
+          " uk-text-danger": Danger
+        width: 1/3
+
+      # description size
+      descriptionSize:
+        label: 
+          en: Description size
+          de: Beschreibung Größe
+        type: select
+        placeholder: Inherit
+        options: 
+          "uk-text-small": 
+            en: Small
+            de: Klein
+          "uk-text-default": 
+            en: Default
+            de: Standard
+          "uk-text-large": 
+            en: Large
+            de: Groß
+        width: 1/3
+      # description transform
+      descriptionTransform:
+        label: 
+          en: Description text transform
+          de: Beschreibungstexttransformation
+        type: select
+        placeholder: Inherit
+        options: 
+          " uk-text-capitalize": 
+            en: Capitalize
+            de: Kapitalisieren
+          " uk-text-uppercase": 
+            en: Uppercase
+            de: Großbuchstaben
+          " uk-text-lowercase": 
+            en: Lowercase
+            de: Kleinbuchstaben
+        width: 1/3
+      # description color
+      descriptionColor:
+        label: 
+          en: Description color
+          de: Beschreibung Farbe
+        type: select
+        placeholder: Inherit
+        options:
+          " uk-text-muted": Muted
+          " uk-text-emphasis": Emphasis
+          " uk-text-primary": Primary
+          " uk-text-secondary": Secondary
+          " uk-text-success": Success
+          " uk-text-warning": Warning
+          " uk-text-danger": Danger
+        width: 1/3
+    
+  # settings tab
+  settings:
+    label: 
+      en: Settings
+      de: die Einstellungen
+    icon: cog
+    fields:
+      # block advanced heading
+      blockAdvancedHeadline:
+        label: 
+          en: Advanced
+          de: Fortschrittlich
+        type: headline
+        numbered: false
+      # block title
+      title:
+        label: 
+          en: Block title
+          de: Blocktitel
+        type: text
+        placeholder: My custom block name
+        width: 1/3
+      # block class
+      blockClass:
+        label: 
+          en: Block custom class
+          de: Benutzerdefinierte Klasse
+        type: text
+        placeholder: my-custom-class
+        before: '.'
+        width: 1/3
+      # block id
+      blockID:
+        label: 
+          en: Block ID
+          de: ID
+        type: text
+        placeholder: my-custom-id
+        before: '#'
+        width: 1/3

@@ -1,0 +1,22 @@
+label: 
+  en: Section background
+  de: Hintergrund des Abschnitts
+type: select
+default: " uk-section-default"
+options:
+  " uk-section-default": 
+    en: Default
+    de: Standard
+  " uk-section-muted": 
+    en: Muted
+    de: Stumm geschaltet
+  " uk-section-primary": 
+    en: Primary
+    de: Primär
+  " uk-section-secondary": 
+    en: Secondary
+    de: Sekundär
+  image: 
+    en: Background image
+    de: Hintergrundbild
+width: 1/3

@@ -1,0 +1,110 @@
+Title: Skincare made simple
+
+----
+
+Selectbuilder: page-builder
+
+----
+
+Layout: 
+
+----
+
+Animation: true
+
+----
+
+Modules: [{"content":{"mediaimage":["file:\/\/fTRD9Y0grt0y07zy"],"mediaimageheight":"large","title":"","blockclass":"","blockid":""},"id":"79cfbd22-9c21-47c6-9c85-470cbcfbabb5","isHidden":false,"type":"media-image"},{"content":{"columns":[{"columnwidth":"uk-width-expand@m","columnclass":"","columntitle":"","columncontenthtml":"markdown","columneditor":"","columncontent":"## Customized ingredients just for you","columnhtml":"","subcolumns":[],"columncard":"false","columncardsize":"","columncardhover":"false","columncardcolor":""},{"columnwidth":"uk-width-expand@m","columnclass":"","columntitle":"","columncontenthtml":"markdown","columneditor":"","columncontent":"Big zits? Clogged pores? Occasional breakouts? Lose the one-size-fits-all drugstore stuff.\n\nYour custom formula mixes ingredients you can\u2019t get off the shelf \u2014 and has your name on the label. \n\nNo drugstore product is this customized. We use your photos, your history, and your goals to pick powerful active ingredients just for you. From occasional spots to full-on breakouts, our simple once-a-day cream has you covered.","columnhtml":"","subcolumns":[],"columncard":"false","columncardsize":"","columncardhover":"false","columncardcolor":""}],"title":"","blockclass":"","blockid":"","sectionsize":" uk-section-large","sectioncolor":" uk-section-primary","sectionremovepadding":"","backgroundimage":[],"backgroundimageposition":"","backgroundimagesize":"","backgroundimagerepeat":"","sectiontextcolor":"","backgroundoverlaycolor":null,"backgroundparalax":"","shapedividertoggle":"false","shapedivider":"","shapedividerposition":"","shapedividercolor":null,"customshapedivider":"","shapedividerheight":"","gridwidth":" uk-container-small","columnstack":"tablet","columngap":" uk-grid-large","columnsverticalalign":"","columnshorizontalalign":"","columnsdivider":"false","centertext":"false","gridheadings":"false","columnsparallax":"false"},"id":"4c1c0d84-a368-40ad-935e-5650256ea7f9","isHidden":false,"type":"grid"},{"content":{"columns":[{"columnwidth":"uk-width-1-2@m","columnclass":"","columntitle":"","columncontenthtml":"markdown","columneditor":"","columncontent":"(image: curology-pdnw5mhjyki-unsplash.jpg)","columnhtml":"","subcolumns":[],"columncard":"false","columncardsize":"","columncardhover":"false","columncardcolor":""},{"columnwidth":"uk-width-1-2@m","columnclass":"","columntitle":"","columncontenthtml":"markdown","columneditor":"","columncontent":"## The results speak for themselves\n\nCurology has helped tens of thousands of people clear their skin. But let\u2019s be real \u2014 there\u2019s no magic bullet.\n\nWe\u2019ll do our best to get you clear skin, and we work for 88% of people*.\n\n** Based on survey responses collected from 432 Curology patients between 10\/11\/2016 and 11\/08\/2016, stating they saw noticeable results*\n\n(link: https:\/\/curology.com\/skincare\/reviews text: Learn more target: _blank class: uk-button uk-button-primary)","columnhtml":"","subcolumns":[],"columncard":"false","columncardsize":"","columncardhover":"false","columncardcolor":""}],"title":"","blockclass":"","blockid":"","sectionsize":" uk-section-large","sectioncolor":" uk-section-muted","sectionremovepadding":"","backgroundimage":[],"backgroundimageposition":"","backgroundimagesize":"","backgroundimagerepeat":"","sectiontextcolor":"","backgroundoverlaycolor":null,"backgroundparalax":"","shapedividertoggle":"false","shapedivider":"","shapedividerposition":"","shapedividercolor":null,"customshapedivider":"","shapedividerheight":"","gridwidth":" uk-container-small","columnstack":"mobile","columngap":" uk-grid-large","columnsverticalalign":"","columnshorizontalalign":"","columnsdivider":"false","centertext":"false","gridheadings":"false","columnsparallax":"false"},"id":"6ac96d7e-27cc-4d6f-8998-cf3a011a5c83","isHidden":false,"type":"grid"},{"content":{"gallery":["file:\/\/6Q9pUfjlnR2elOLd","file:\/\/ret1zXiRbxTrvldw","file:\/\/B4VPfX5fGZ45ydfg"],"title":"","blockclass":"","blockid":"","gallerywidth":"large","galleryback":"primary","gallerygrid":"three","gallerythumbnails":""},"id":"38d58740-9d44-42ea-95d0-3035911b60d4","isHidden":false,"type":"gallery"},{"content":{"herocontentoption":"","contentblocks":"","herotext":"## We\u2019re real providers who put you first\n\nOur providers see more acne sufferers every year than any other team in the country. With their combined 107 years of experience, they\u2019re also resources for questions on cleansers, sunscreens, and how dairy affects your skin.","herohtml":"","herostyle":"image","herocover":["file:\/\/0M0OaIGX47cslwUy"],"backgroundimageposition":" uk-background-center-center","backgroundimagesize":" uk-background-cover","backgroundimagerepeat":" no-repeat","sectiontextcolor":" uk-light","backgroundoverlaycolor":"#00000066","backgroundparalax":"paralaxY","mediavideosource":"","mediavideo":[],"mediavideourl":"","shapedividertoggle":"false","shapedivider":"","shapedividerposition":"","shapedividercolor":null,"customshapedivider":"","shapedividerheight":"","title":"","blockclass":"","blockid":"","herosize":"xlarge","herotextwidth":"small","herotextalign":"","heroheadings":"false","herocard":"false","herocardcolor":"","herocardhover":"false"},"id":"24125179-2127-417b-ae34-1556221264e1","isHidden":false,"type":"hero"}]
+
+----
+
+Projectinfo:
+
+- 
+  projectcolumn: '**Timeline:** 2017 -2018.'
+- 
+  projectcolumn: '**Website:** (link: https://curology.com/ text: curology.com target: _blank)'
+
+----
+
+Tagslabel: Tags:
+
+----
+
+Tags: branding, packaging
+
+----
+
+Transparentnavbar: 
+
+----
+
+Navbarinverse: false
+
+----
+
+Alttitle: 
+
+----
+
+Intro: Customized skincare products for your skin’s unique needs.
+
+----
+
+Headerimageoption: false
+
+----
+
+Headerimage: 
+
+----
+
+Headerimageposition: 
+
+----
+
+Headerimagesize: 
+
+----
+
+Headerimagerepeat: 
+
+----
+
+Headertextcolor: 
+
+----
+
+Backgroundparalax: 
+
+----
+
+Cover:
+
+- 
+  id: curology-dgh1u80szik-unsplash.jpg
+  clip:
+    width: 1920
+    height: 2561
+    left: 0
+    top: 315
+
+----
+
+Metafile: - file://CH8fxLX96UFE1f7m
+
+----
+
+Sitemap: true
+
+----
+
+Metatitle: 
+
+----
+
+Metadescription: 
+
+----
+
+Uuid: 0bAFgZyWGNkuljAE

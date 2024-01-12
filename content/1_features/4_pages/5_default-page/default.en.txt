@@ -1,0 +1,161 @@
+Title: Default page
+
+----
+
+Pagewidth: large
+
+----
+
+Text: [{"content":{"level":"h2","text":"Hello, I\u2019m Christian Lopez, Product Designer.","headingsize":"","headingstyle":"","headingcolor":"","textalign":"","textaligntablet":"","textalignmobile":"","texttransform":"","textwrapping":""},"id":"91941228-f3ac-4ea8-ab2a-183cea47300b","isHidden":false,"type":"heading"},{"content":{"text":"Nowadays, i expanded my services, offering a variety of services & solutions for diverse customers Worldwide."},"id":"da5dc754-8696-43a3-8595-4e0010ab124d","isHidden":false,"type":"intro"},{"content":{"text":"<p>Here is a place where I should say something about myself so hear me out: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.<\/p>","textalign":"","textaligntablet":"","textalignmobile":"","textsize":"","texttransform":"","textwrapping":"","textcolor":""},"id":"bf283481-1a69-4609-83e1-caf447aca581","isHidden":false,"type":"text"},{"content":{"linestyle":""},"id":"4f4e8ca6-ff23-47bf-9b6d-f6883ce18813","isHidden":false,"type":"line"},{"content":{"level":"h3","text":"Experience &amp; Skills","headingsize":"","headingstyle":"","headingcolor":"","textalign":"","textaligntablet":"","textalignmobile":"","texttransform":"","textwrapping":""},"id":"640e451e-4d14-45d4-b59c-bc236dade915","isHidden":false,"type":"heading"},{"content":{"text":"<ul><li>Web Design,<\/li><li>Web Development,<\/li><li>Product Design,<\/li><li>Social Engineering<\/li><li>Advertising,<\/li><li>Playing Hard<\/li><\/ul>","liststyle":" uk-list-square","listcolor":" uk-list-primary","listsize":" uk-list-collapse","listdivider":"","column":""},"id":"99e6c21c-874d-4faf-b77e-b8db8d066703","isHidden":false,"type":"list"},{"content":{"level":"h3","text":"Awards &amp; Recognitions","headingsize":"","headingstyle":"","headingcolor":"","textalign":"","textaligntablet":"","textalignmobile":"","texttransform":"","textwrapping":""},"id":"751d6fb7-2e68-438f-9e1f-71555d4084f8","isHidden":false,"type":"heading"},{"content":{"text":"<ul><li><strong>Awwwards<\/strong> \u2014 Site of the year<\/li><li><strong>CSS Design Awards<\/strong> \u2014 designer of the year<\/li><li><strong>FWA<\/strong> \u2014 best portfolio site<\/li><li><strong>Behance<\/strong> \u2014 recognition to digital innovation<\/li><\/ul>","liststyle":" uk-list-hyphen","listcolor":" uk-list-muted","listsize":" uk-list-collapse","listdivider":"","column":""},"id":"442b48b2-1957-4562-9e8e-5ad4d908924a","isHidden":false,"type":"list"},{"content":{"level":"h2","text":"Why choose me?","headingsize":"","headingstyle":"","headingcolor":"","textalign":"","textaligntablet":"","textalignmobile":"","texttransform":"","textwrapping":""},"id":"eecb5a40-2a33-4b6a-b124-0e69fe04fd67","isHidden":false,"type":"heading"},{"content":{"text":"<p>My job is to build your website so that it is functional and user-friendly but at the same time attractive. My aim is to bring across your message and identity in the most creative way.<\/p>","textalign":"","textaligntablet":"","textalignmobile":"","textsize":"","texttransform":"","textwrapping":"","textcolor":""},"id":"71b0f482-7dd6-41f9-824b-cbc24f8b000f","isHidden":false,"type":"text"},{"content":{"text":"<p>I enjoy turning complex problems into simple, beautiful and intuitive interface designs. When I\u2019m not coding or pushing pixels, you\u2019ll find me in the pool or on the court shooting hoops.<\/p>","textalign":"","textaligntablet":"","textalignmobile":"","textsize":"","texttransform":"","textwrapping":"","textcolor":""},"id":"771de88a-3ae9-4f7b-9ae6-98289e94e607","isHidden":false,"type":"text"},{"content":{"text":"By far the best developer I've ever worked with. He truly understood the look I was going for and completely nailed it! I would highly recommend Christian, you simply just won't find any better!","citation":"John Doe"},"id":"0c8ab236-b9b7-4f53-80b9-b70c6c45ddb0","isHidden":false,"type":"quote"},{"content":{"level":"h2","text":"Simple pricing that scales with your business.","headingsize":"","headingstyle":"","headingcolor":"","textalign":"","textaligntablet":"","textalignmobile":"","texttransform":"","textwrapping":""},"id":"e575f35f-4fb1-4dc1-a866-9e272f4b50f4","isHidden":false,"type":"heading"},{"content":{"text":"<p>It\u2019s time to bring it all together. Nothing is more rewarding for me than making great work for clients with meaningful missions.<\/p>","textalign":"","textaligntablet":"","textalignmobile":"","textsize":"","texttransform":"","textwrapping":"","textcolor":""},"id":"87e031ff-36c4-4bdb-8f4c-5cf6ed26d33a","isHidden":false,"type":"text"},{"content":{"number":"three","twoone":"","twotwo":"","two":[],"threeone":"Starter","threetwo":"Growth","threethree":"Power","three":[{"column1":"From 100$ per month","column2":"From 250$ per month","column3":"From 500$ per month"},{"column1":"One theme included","column2":"One theme included","column3":"One theme included"},{"column1":"Premium support","column2":"Premium support","column3":"Premium support"},{"column1":"Personal license","column2":"Personal license","column3":"Personal license"}],"fourone":"","fourtwo":"","fourthree":"","fourfour":"","four":[],"fiveone":"","fivetwo":"","fivethree":"","fivefour":"","fivefive":"","five":[],"divider":" uk-table-divider","size":"","hover":"false","justify":"false"},"id":"b997b431-78aa-492b-a3d9-cfd51eb34314","isHidden":false,"type":"table"},{"content":{"text":"Make sure to check out our policies."},"id":"124b4def-cfdf-4d62-9dde-1f8b66622476","isHidden":false,"type":"info"},{"content":{"level":"h3","text":"Frequently asked questions","headingsize":"","headingstyle":"uk-heading-bullet","headingcolor":"","textalign":"","textaligntablet":"","textalignmobile":"","texttransform":"","textwrapping":""},"id":"614e2a0b-c63f-4e81-b090-5527e81abf24","isHidden":false,"type":"heading"},{"content":{"text":"<p>Check out frequently asked questions.<\/p>","textalign":"","textaligntablet":"","textalignmobile":"","textsize":"","texttransform":"","textwrapping":"","textcolor":""},"id":"4709e1de-00ab-4d31-b0dd-5989ec5e4175","isHidden":false,"type":"text"},{"content":{"accordion":[{"question":"How many landing page I can work with your product?","answer":"<p>You can use our themes on as many site you want. Our theme is 100% GPL &amp; there is not domain restriction. You will receive support for the given domain amount.<\/p>"},{"question":"Can I use your product for my client?","answer":"<p>Yes, you can. You can work with any type of project without taking our permission.<\/p>"},{"question":"What happens after my subscription runs out?","answer":"<p>For Template Plans: After your subscription expires, you can still keep using the products you have downloaded from our site. But without an active subscription, you will NOT get updates and technical support from us.<\/p>"},{"question":"Will Growth Products slow down my website?","answer":"<p>No, absolutely not. We are very obsessed about speed and optimization is not after thought for us. We made sure that the designs are almost exclusively CSS, so that no images need to be loaded. We also optimized all the code for the fastest possible loading times.\u200b<\/p>"}]},"id":"5524833f-7e14-42ea-b1b1-eeddc42913b4","isHidden":false,"type":"accordion"}]
+
+----
+
+Enablesidebar: true
+
+----
+
+Sidebartext: [{"content":{"location":"kirby","image":[{"id":"hean-prinsloo-sz7zwt1dvci-unsplash.jpg"}],"src":"","ratio":"","alt":"","resizewidth":null,"caption":"","captionclass":"true","width":"","widthmobile":"","align":"","float":"","borderradius":"","shadow":"","linkoption":"","link":"","newtab":"false"},"id":"70e202fc-0999-4523-9332-8d92fc5d98e9","isHidden":false,"type":"image"},{"content":{"text":"<p>Consectetur adipisicing elit sed eiusmod tempor incididunt ut dolore magna labore eiusmod. Lorem ipsum dolor sit amet consectetur est adipisicing elit, sed do eiusmod tempor.<\/p>","textalign":"","textaligntablet":"","textalignmobile":"","textsize":"","texttransform":"","textwrapping":"","textcolor":""},"id":"61a9a065-fd2d-4006-a673-08b4b7545364","isHidden":false,"type":"text"},{"content":{"text":"**Address:** New York, NY, United States\n**Phone:** +1 234-567-890\n**Hours:** 9:00 am \u2013 5:00 pm"},"id":"aa5b5192-2cb4-429a-b482-92ebb946a156","isHidden":false,"type":"markdown"},{"content":{"level":"h3","text":"Custom navigation","headingsize":"","headingstyle":"uk-heading-divider","headingcolor":"","textalign":"","textaligntablet":"","textalignmobile":"","texttransform":"","textwrapping":""},"id":"ee9e34af-09d7-49a7-a6ca-9e5e78104208","isHidden":false,"type":"heading"},{"content":{"text":"<p>This is custom navigation block, it has several options to choose from, to display: Main site pages, page siblings or page children. Here we chose page siblings. <\/p>","textalign":"","textaligntablet":"","textalignmobile":"","textsize":"","texttransform":"","textwrapping":"","textcolor":""},"id":"75367ee0-9329-49bb-9f97-2bae26683ba9","isHidden":false,"type":"text"},{"content":{"pages":"sibling","pagesparent":[],"navigationstyle":"","liststyle":"","listcolor":"","listsize":"","listdivider":"","column":"","navdefault":"false","navcenter":"false","subnavdivider":"false","subnavpill":"false","title":"","blockclass":"","blockid":""},"id":"6d7185a7-c498-460a-a0cf-89f9e6ae8270","isHidden":false,"type":"z-pages"}]
+
+----
+
+Disallowsubmenu: false
+
+----
+
+Newtab: false
+
+----
+
+Menuitemicon: 
+
+----
+
+Megamenu: false
+
+----
+
+Megamenuwidth: 
+
+----
+
+Megamenuitemwidth: 
+
+----
+
+Megamenubackground: false
+
+----
+
+Megamenubackgroundimage: 
+
+----
+
+Megamenubackgroundimageposition: 
+
+----
+
+Megamenubackgroundimagesize: 
+
+----
+
+Megamenubackgroundimagerepeat: 
+
+----
+
+Megamenubackgroundgradientoverlay: false
+
+----
+
+Megamenubackgroundgradienttransition: 
+
+----
+
+Transparentnavbar: transparent
+
+----
+
+Navbarinverse: true
+
+----
+
+Headersection: true
+
+----
+
+Alttitle: 
+
+----
+
+Intro: This page has default template with optional sidebar content.
+
+----
+
+Headerbackgroundtoggle: true
+
+----
+
+Header: - file://d5X8DpB3xD2uyiHn
+
+----
+
+Headerimageposition: uk-background-center-center
+
+----
+
+Headerimagesize: uk-background-cover
+
+----
+
+Headerimagerepeat: no-repeat
+
+----
+
+Headertextcolor: uk-light
+
+----
+
+Headeroverlaycolor: #f6f6f600
+
+----
+
+Backgroundparalax: 
+
+----
+
+Shapedividertoggle: false
+
+----
+
+Shapedivider: tilt-alt
+
+----
+
+Shapedividerposition: 
+
+----
+
+Customshapedivider: 
+
+----
+
+Shapedividerheight: 100px
+
+----
+
+Metafile: 
+
+----
+
+Sitemap: true
+
+----
+
+Metatitle: 
+
+----
+
+Metadescription: 
+
+----
+
+Uuid: hMnYGJyxLlqYRwPw

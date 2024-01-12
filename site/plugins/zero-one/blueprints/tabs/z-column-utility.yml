@@ -1,0 +1,138 @@
+label: 
+  en: Utility
+  de: Nutzen
+fields:
+  # column padding heading
+  columnPaddingHeadline:
+    label: 
+      en: Padding
+      de: Polsterung
+    type: headline
+    numbered: false
+    help: 
+      en: Change column padding.
+      de: Spaltenpolsterung ändern.
+  # padding
+  columnPadding:
+    label: 
+      en: Column padding
+      de: Spaltenpolsterung
+    type: select
+    placeholder: Inherit
+    options: 
+      " uk-padding-small": 
+        en: Add small padding
+        de: Kleine Polsterung hinzufügen
+      " uk-padding": 
+        en: Add medium padding
+        de: Mittlere Polsterung hinzufügen
+      " uk-padding-large": 
+        en: Add large padding
+        de: Große Polsterung hinzufügen
+      " uk-padding-remove": 
+        en: Remove padding
+        de: Polsterung abnehmen
+      " uk-padding-remove-top": 
+        en: Remove top
+        de: Oberteil abnehmen
+      " uk-padding-remove-bottom": 
+        en: Remove bottom
+        de: Unterseite entfernen
+      " uk-padding-remove-left": 
+        en: Remove left
+        de: Links entfernen
+      " uk-padding-remove-right": 
+        en: Remove right
+        de: Rechts entfernen
+      " uk-padding-remove-vertical": 
+        en: Remove vertical
+        de: Vertikal entfernen
+      " uk-padding-remove-horizontal": 
+        en: Remove horizontal
+        de: Horizontal entfernen
+    width: 1/3
+
+  # column order
+  columnOrderHeadline:
+    label: 
+      en: Column order
+      de: Spaltenreihenfolge
+    type: headline
+    numbered: false
+    help: 
+      en: Change column order.
+      de: Spaltenreihenfolge ändern.
+  # item first
+  itemFirst:
+    label: 
+      en: First item
+      de: Erster Gegenstand
+    type: select
+    placeholder: Inherit
+    options: 
+      " uk-flex-first": 
+        en: Always first
+        de: Immer zuerst
+      " uk-flex-first@s": 
+        en: Tablet and bigger
+        de: Tablet und größer
+      " uk-flex-first@m": Desktop
+    width: 1/3
+  # item last
+  itemLast:
+    label: 
+      en: Last item
+      de: Letzter Gegenstand
+    type: select
+    placeholder: Inherit
+    options: 
+      " uk-flex-last": 
+        en: Always last
+        de: Immer zuletzt
+      " uk-flex-last@s": 
+        en: Tablet and bigger
+        de: Tablet und größer
+      " uk-flex-last@m": Desktop
+    width: 1/3
+
+  # various
+  columnMiscHeadline:
+    label: Misc
+    type: headline
+    numbered: false
+    help: 
+      en: Various utilities.
+      de: Verschiedene Dienstprogramme.
+  # border radious
+  borderRounded:
+    label: 
+      en: Rounded border
+      de: Abgerundeter Rand
+    type: toggle
+    width: 1/3
+  # shadow
+  columnShadow:
+    label: 
+      en: Column shadow
+      de: Säulenschatten
+    type: select
+    placeholder: inherit
+    options:
+      " uk-box-shadow-small": 
+        en: Small shadow
+        de: Kleiner Schatten
+      " uk-box-shadow-medium": 
+        en: Medium shadow
+        de: Mittlerer Schatten
+      " uk-box-shadow-large": 
+        en: Large shadow
+        de: Großer Schatten
+      " uk-box-shadow-xlarge": 
+        en: XLarge shadow
+        de: XGroßer Schatten
+    width: 1/3
+
+  utilityBottomGap:
+    type: gap
+
+  

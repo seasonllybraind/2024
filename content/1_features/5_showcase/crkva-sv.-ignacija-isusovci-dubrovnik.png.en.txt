@@ -1,0 +1,13 @@
+Uuid: 48rXW7lnY4N3RnGr
+
+----
+
+Template: image
+
+----
+
+Caption: 
+
+----
+
+Sitemap: true

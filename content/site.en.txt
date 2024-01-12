@@ -1,0 +1,1359 @@
+Title: Zero One Kirby CMS Theme
+
+----
+
+Mainmenubuilder: 
+
+----
+
+Author: Zero
+
+----
+
+Twitteruser: @YourZeroBase
+
+----
+
+Email: support@thezero.club
+
+----
+
+Favicon:
+
+- 
+  id: zero-one-favatar.png
+
+----
+
+Logo: - file://NANSfniTmTa88tZ9
+
+----
+
+Logoinverted: - file://CwFXBeARkJallunQ
+
+----
+
+Logomobile: 
+
+----
+
+Logomobileinverted: 
+
+----
+
+Logoheight: 36
+
+----
+
+Mobilelogoheight: 33
+
+----
+
+Navbarwidth: 
+
+----
+
+Menuposition: center
+
+----
+
+Sticky: scroll
+
+----
+
+Rightnav: button
+
+----
+
+Languagenav: true
+
+----
+
+Languagenavmobile: false
+
+----
+
+Searchicon: true
+
+----
+
+Searchiconmobile: true
+
+----
+
+Searchproducts: false
+
+----
+
+Additionalicontoggle: true
+
+----
+
+Additionalicon: bag
+
+----
+
+Additionaliconlink:
+
+type: page
+value: page://ZVoGDWAqLvo5X5c1
+
+----
+
+Moreicon:
+
+(image: zero-one-logo-inverted.svg alt: Creative Zero class: uk-width-1-2 uk-margin-top)
+
+### Design Anything, Build Everything.
+
+It is made with the goal of being the best base for building websites & web apps around.
+Achieve complexity with minimal effort and footprint. Give yourself a thousand hours a headstart. 
+
+<span uk-icon="location"></span> 123 Beogradska Street
+Belgrade, Serbia
+
+<span uk-icon="mail"></span> (email: support@thezero.club text: support@thezero.club)
+<span uk-icon="receiver"></span> (tel: +3811234567 text: +381 123-45-67)
+
+Connect with us on 
+(link: https://www.facebook.com/yourzerobase/ text: facebook target: _blank), (link: https://twitter.com/YourZeroBase text: twitter target: _blank) or (link: https://www.instagram.com/thezero_club/ text: instagram target: _blank)
+
+----
+
+Menubuttontext: Buy Zero One
+
+----
+
+Menubuttonlink:
+
+type: page
+value: page://ZVoGDWAqLvo5X5c1
+
+----
+
+Menubuttonstyle: 
+
+----
+
+Mobilenav: true
+
+----
+
+Mobilenavanimation: slide
+
+----
+
+Mobilemenuinfotext:
+
+#### Design Anything, Build Everything.
+
+Achieve complexity with minimal effort and footprint. Give yourself a thousand hours a head start.
+
+----
+
+Topbar: true
+
+----
+
+Topbartablet: left
+
+----
+
+Topbarmobile: center
+
+----
+
+Topbarleft: A <a href="https://www.one.thezero.club/changelog" target="_blank">new version</a>  have just been released!
+
+----
+
+Topbarcenter: Learn more about Zero One in <a href="https://www.one.thezero.club/" target="_blank">documentation.</a>
+
+----
+
+Topbarright: <span class="uk-margin-small-right">Follow us:</span><a href="https://www.facebook.com/yourzerobase/" class="uk-icon-link uk-margin-small-right" uk-icon="icon: facebook; ratio: 0.8;" target="_blank"></a><a href="https://twitter.com/YourZeroBase" class="uk-icon-link uk-margin-small-right" uk-icon="icon: twitter; ratio: 0.8;" target="_blank"></a> <a href="https://www.instagram.com/thezero_club/" class="uk-margin-small-right uk-icon-link" uk-icon="icon: instagram; ratio: 0.8;" target="_blank"></a> <a rel="me" href="https://mastodon.social/@thezeroclub" class="uk-icon-link" uk-icon="icon: mastodon; ratio: 0.8;" target="_blank"></a>
+
+----
+
+Transparentnavbar: false
+
+----
+
+Navbarinverse: true
+
+----
+
+Headeralign: center
+
+----
+
+Headerwidth: default
+
+----
+
+Pageheadersize: uk-section-small
+
+----
+
+Pagetitlecolor: 
+
+----
+
+Pagetitlesize: 
+
+----
+
+Breadcrumbs: true
+
+----
+
+Headerimage: false
+
+----
+
+Header: - file://vYFEWJP7bGpbVgft
+
+----
+
+Headerimageposition: uk-background-center-center
+
+----
+
+Headerimagesize: uk-background-cover
+
+----
+
+Headerimagerepeat: repeat
+
+----
+
+Headertextcolor: uk-light
+
+----
+
+Headeroverlaycolor: #0000004d
+
+----
+
+Backgroundparalax: paralaxY
+
+----
+
+Shapedividertoggle: false
+
+----
+
+Shapedivider: waves-opacity-2
+
+----
+
+Shapedividerposition: 
+
+----
+
+Shapedividercolor: #ffffff
+
+----
+
+Customshapedivider:
+
+<svg fill="#fff" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none">
+        <path d="M985.66,92.83C906.67,72,823.78,31,743.84,14.19c-82.26-17.34-168.06-16.33-250.45.39-57.84,11.73-114,31.07-172,41.86A600.21,600.21,0,0,1,0,27.35V120H1200V95.8C1132.19,118.92,1055.71,111.31,985.66,92.83Z"></path>
+    </svg>
+
+----
+
+Shapedividerheight: 200px
+
+----
+
+Coverwidth: 600
+
+----
+
+Coverheight: 800
+
+----
+
+Coverratio: false
+
+----
+
+Defaultcurrency: EUR
+
+----
+
+Defaultcurrencysymbol: €
+
+----
+
+Currencysymbolposition: false
+
+----
+
+Thousandseparator: .
+
+----
+
+Decimalseparator: ,
+
+----
+
+Snipcartswitch: true
+
+----
+
+Hidecart: true
+
+----
+
+Hidetotal: true
+
+----
+
+Snipcartapi: MTVjNjllMWItZDE5OC00ZGZlLWFjZDYtOTFkNzhkMTVlMGFhNjM3MTk2MTkyMzc0MTk0MjM1
+
+----
+
+Snipcarttax: false
+
+----
+
+Productimageratio: 
+
+----
+
+Socialstyle: icons
+
+----
+
+Social:
+
+- 
+  platform: Facebook
+  url: https://www.facebook.com/yourzerobase/
+- 
+  platform: Twitter
+  url: https://twitter.com/YourZeroBase
+- 
+  platform: Instagram
+  url: https://www.instagram.com/thezero_club/
+- 
+  platform: Mastodon
+  url: https://mastodon.social/@thezeroclub
+
+----
+
+Footerbuilder: layout-builder
+
+----
+
+Footerstyle: columns
+
+----
+
+Footercolor: image
+
+----
+
+Footerwidth: 
+
+----
+
+Footercolumns:
+
+- 
+  columnwidth: uk-width-1-2@m
+  columnclass: ""
+  columntitle: Zero One Kirby CMS Theme
+  columncontent: markdown
+  columneditor: ""
+  footercolumn: |
+    #### Zero One Kirby CMS Theme
+    
+    Powerful features and inclusions, which make the Zero One standout, easily customizable and scalable.
+  columnhtml: ""
+  columncard: 'false'
+  columncardsize: ""
+  columncardhover: 'false'
+  columncardcolor: ""
+- 
+  columnwidth: uk-width-1-2@m
+  columnclass: ""
+  columntitle: Footer grid
+  columncontent: markdown
+  columneditor: ""
+  footercolumn: |
+    #### Footer grid
+    
+    The footer grid allows you to create a footer in any way you like. Selectable width for every grid item.
+  columnhtml: ""
+  columncard: 'false'
+  columncardsize: ""
+  columncardhover: 'false'
+  columncardcolor: ""
+- 
+  columnwidth: uk-width-1-4@m
+  columnclass: ""
+  columntitle: Features
+  columncontent: markdown
+  columneditor: ""
+  footercolumn: |
+    ##### FEATURES
+    
+    (link: features/for-developers text: For developers.)
+    (link: features/for-content-editors text: For content editors.)
+    (link: features/for-seo-sem-masters text: For SEO/SEM masters.)
+    (link: page-builder text: Powerful Page Builder.)
+    (link: features/what-s-new text: What's new?)
+  columnhtml: ""
+  columncard: 'false'
+  columncardsize: ""
+  columncardhover: 'false'
+  columncardcolor: ""
+- 
+  columnwidth: uk-width-1-4@m
+  columnclass: ""
+  columntitle: Theme info
+  columncontent: markdown
+  columneditor: ""
+  footercolumn: |
+    ##### THEME INFO
+    
+    (link: https://www.one.thezero.club/credits text: Credits target: _blank)
+    (link: https://www.one.thezero.club/support text: Support target: _blank)
+    (link: https://www.one.thezero.club/changelog text: Changelog target: _blank)
+    (link: https://www.one.thezero.club/affiliate text: Affiliate target: _blank)
+    (link: https://www.one.thezero.club/terms-and-guidelines text: Terms & Guidelines target: _blank)
+  columnhtml: ""
+  columncard: 'false'
+  columncardsize: ""
+  columncardhover: 'false'
+  columncardcolor: ""
+- 
+  columnwidth: uk-width-expand@m
+  columnclass: ""
+  columntitle: Working hours
+  columncontent: markdown
+  columneditor: ""
+  footercolumn: |
+    ##### WORKING HOURS
+    
+    Monday - Friday 09.00 - 17.00
+    Saturday 09.00 - 15.00
+    Central European Standard Time (GMT+1)
+  columnhtml: ""
+  columncard: 'false'
+  columncardsize: ""
+  columncardhover: 'true'
+  columncardcolor: ' uk-card-primary'
+
+----
+
+Footercompacttext: [{"content":{"level":"h2","text":"Let’s create something together","headingsize":"","headingstyle":"","headingcolor":"","textalign":"","textaligntablet":"","textalignmobile":"","texttransform":"","textwrapping":""},"id":"a077af53-da2a-4215-94eb-fdb0c71753a8","isHidden":false,"type":"heading"},{"content":{"text":"If you have a website idea in mind or you need some advice about product design, feel free to <strong><a href=\"mailto:support@thezero.club\">contact me</a></strong>. Currently my time books quickly, so the sooner you write, the better it is for both of us.","textalign":"","textaligntablet":"","textalignmobile":"","textsize":"","texttransform":"","textwrapping":"","textcolor":""},"id":"f35876bb-5615-4a1d-a86e-421fc2b9d2da","isHidden":false,"type":"text"}]
+
+----
+
+Backgroundimage: 
+
+----
+
+Backgroundimageposition: uk-background-top-center
+
+----
+
+Backgroundimagesize: uk-background-cover
+
+----
+
+Backgroundimagerepeat: no-repeat
+
+----
+
+Footertextcolor: uk-light
+
+----
+
+Backgroundoverlaycolor: #000000b3
+
+----
+
+Subfootertoggle: true
+
+----
+
+Copyright: Powered by <a href="https://getkirby.com/" target="_blank">Kirby</a>.
+
+----
+
+Animatefooter: true
+
+----
+
+Animateelement: 
+
+----
+
+Layout: [{"attrs":{"gridwidth":"uk-container","tabletwidth":"uk-width-1-2@s ","mobilewidth":"","columnsverticalalign":"","columnshorizontalalign":"","containerexpand":"","columngap":" uk-grid-large","columnsdivider":"false","gridmasonry":"false","gridparallax":"false","sectiontoggle":"true","sectionsize":"","sectioncolor":" uk-section-secondary","sectionremovepadding":"","backgroundstyle":"color","backgroundimage":[],"mediavideosource":"url","mediavideo":[],"mediavideourl":"","backgroundimageposition":" uk-background-center-center","backgroundimagesize":" uk-background-cover","backgroundimagerepeat":" no-repeat","sectiontextcolor":" uk-light","backgroundoverlaycolor":"rgba(0,0,0,0.3)","backgroundgradientoverlay":"false","backgroundgradienttransition":"","backgroundoverlaycolor2":"rgba(0,0,0,0.3)","backgroundparalax":"","shapedividertoggle":"false","shapedivider":"","shapedividerposition":"","shapedividercolor":"#ffffff","customshapedivider":"","shapedividerheight":"150px","preservecolor":"false","sectionclass":"","sectionid":"","hidden":"","visible":"","animationswitch":"false","animationtype":"","animationdelay":""},"columns":[{"blocks":[{"content":{"columnwidth":"","tabletwidth":"","mobilewidth":"","columnheight":"","columnminheight":"","columnmaxheight":"","textalign":"","textaligntablet":"","textalignmobile":"","textsize":"","texttransform":"","textwrapping":"","columnstyle":"none","columncardsize":"","columncardhover":"false","columncardcolor":" uk-card-default","columntile":"","columnbackground":"","columntextcolor":" uk-light","backgroundstyle":"color","backgroundimage":[],"backgroundimageposition":" uk-background-center-center","backgroundimagesize":" uk-background-cover","backgroundimagerepeat":" no-repeat","backgroundparalax":"","mediavideosource":"url","mediavideo":[],"mediavideourl":"","backgroundoverlaycolor":"rgba(0,0,0,0.3)","backgroundgradientoverlay":"false","backgroundgradienttransition":"","backgroundoverlaycolor2":"rgba(0,0,0,0.3)","columnpadding":"","itemfirst":"","itemlast":"","borderrounded":"false","columnshadow":"","columnclass":"","columnid":"","hidden":"","visible":"","animationswitch":"true","animationtype":"uk-animation-slide-bottom-small","animationdelay":""},"id":"bd4b1cab-f39d-4817-b960-29110ece1476","isHidden":false,"type":"z-column"},{"content":{"text":"<h4>Zero One Kirby CMS Theme</h4><p>Powerful features and inclusions, make the Zero One standout, easily customizable and scalable.</p>","textalign":"","textaligntablet":"","textalignmobile":"","textsize":"","texttransform":"","textwrapping":"","textcolor":""},"id":"66145e9e-48fe-4571-9174-7144310dd16a","isHidden":false,"type":"text"}],"id":"0c68deff-3afb-438d-9fe5-3c2d74ab51bf","width":"1/2"},{"blocks":[{"content":{"columnwidth":"","tabletwidth":"","mobilewidth":"","columnheight":"","columnminheight":"","columnmaxheight":"","textalign":"","textaligntablet":"","textalignmobile":"","textsize":"","texttransform":"","textwrapping":"","columnstyle":"none","columncardsize":"","columncardhover":"false","columncardcolor":" uk-card-default","columntile":"","columnbackground":"","columntextcolor":" uk-light","backgroundstyle":"color","backgroundimage":[],"backgroundimageposition":" uk-background-center-center","backgroundimagesize":" uk-background-cover","backgroundimagerepeat":" no-repeat","backgroundparalax":"","mediavideosource":"url","mediavideo":[],"mediavideourl":"","backgroundoverlaycolor":"rgba(0,0,0,0.3)","backgroundgradientoverlay":"false","backgroundgradienttransition":"","backgroundoverlaycolor2":"rgba(0,0,0,0.3)","columnpadding":"","itemfirst":"","itemlast":"","borderrounded":"false","columnshadow":"","columnclass":"","columnid":"","hidden":"","visible":"","animationswitch":"true","animationtype":"uk-animation-slide-bottom-small","animationdelay":300},"id":"4e230b65-a6c6-47c2-9527-1bcb87c00cd4","isHidden":false,"type":"z-column"},{"content":{"text":"<h4>Footer grid</h4><p>The footer grid allows you to create a footer in any way you like. Selectable width for every grid item.</p>","textalign":"","textaligntablet":"","textalignmobile":"","textsize":"","texttransform":"","textwrapping":"","textcolor":""},"id":"b90f5881-3c52-4cfb-8b1f-2073af9ecbd9","isHidden":false,"type":"text"}],"id":"7afa2408-376a-49cd-9d68-f9af9f30e7bf","width":"1/2"}],"id":"508ba154-e509-41cf-80b4-5b61d413aaf6"},{"attrs":{"gridwidth":"uk-container","tabletwidth":"uk-width-1-3@s ","mobilewidth":"","columnsverticalalign":"","columnshorizontalalign":"","containerexpand":"","columngap":" uk-grid-large","columnsdivider":"false","gridmasonry":"false","gridparallax":"false","sectiontoggle":"true","sectionsize":"","sectioncolor":" uk-section-secondary","sectionremovepadding":" uk-padding-remove-top","backgroundstyle":"color","backgroundimage":[],"mediavideosource":"url","mediavideo":[],"mediavideourl":"","backgroundimageposition":" uk-background-center-center","backgroundimagesize":" uk-background-cover","backgroundimagerepeat":" no-repeat","sectiontextcolor":" uk-light","backgroundoverlaycolor":"rgba(0,0,0,0.3)","backgroundgradientoverlay":"false","backgroundgradienttransition":"","backgroundoverlaycolor2":"rgba(0,0,0,0.3)","backgroundparalax":"","shapedividertoggle":"false","shapedivider":"","shapedividerposition":"","shapedividercolor":"#ffffff","customshapedivider":"","shapedividerheight":"150px","preservecolor":"false","sectionclass":"","sectionid":"","hidden":"","visible":"","animationswitch":"false","animationtype":"","animationdelay":""},"columns":[{"blocks":[{"content":{"columnwidth":"","tabletwidth":"","mobilewidth":"","columnheight":"","columnminheight":"","columnmaxheight":"","textalign":"","textaligntablet":"","textalignmobile":"","textsize":"","texttransform":"","textwrapping":"","columnstyle":"none","columncardsize":"","columncardhover":"false","columncardcolor":" uk-card-default","columntile":"","columnbackground":"","columntextcolor":" uk-light","backgroundstyle":"color","backgroundimage":[],"backgroundimageposition":" uk-background-center-center","backgroundimagesize":" uk-background-cover","backgroundimagerepeat":" no-repeat","backgroundparalax":"","mediavideosource":"url","mediavideo":[],"mediavideourl":"","backgroundoverlaycolor":"rgba(0,0,0,0.3)","backgroundgradientoverlay":"false","backgroundgradienttransition":"","backgroundoverlaycolor2":"rgba(0,0,0,0.3)","columnpadding":"","itemfirst":"","itemlast":"","borderrounded":"false","columnshadow":"","columnclass":"","columnid":"","hidden":"","visible":"","animationswitch":"true","animationtype":"uk-animation-slide-bottom-small","animationdelay":300},"id":"e8a377cf-5c4a-4043-b2cd-db45551acb67","isHidden":false,"type":"z-column"},{"content":{"text":"<h5>FEATURES</h5><p><a href=\"https://www.thezero.club/demo/one/features/for-developers\" rel=\"noopener noreferrer\">For developers.</a><br><a href=\"https://www.thezero.club/demo/one/features/for-content-editors\" rel=\"noopener noreferrer\">For content editors.</a><br><a href=\"https://www.thezero.club/demo/one/features/for-seo-sem-masters\" rel=\"noopener noreferrer\">For SEO/SEM masters.</a><br><a href=\"https://www.thezero.club/demo/one/builders\" rel=\"noopener noreferrer\">Powerful Page Builders.</a><br><a href=\"https://www.thezero.club/demo/one/features/what-s-new\" rel=\"noopener noreferrer\">What's new?</a></p>","textalign":"","textaligntablet":"","textalignmobile":"","textsize":"","texttransform":"","textwrapping":"","textcolor":""},"id":"36425397-f95d-4f58-abbd-04f81da8b3d6","isHidden":false,"type":"text"}],"id":"baac041d-c3d0-4110-bddc-78a3fbc7f41e","width":"1/4"},{"blocks":[{"content":{"columnwidth":"","tabletwidth":"","mobilewidth":"","columnheight":"","columnminheight":"","columnmaxheight":"","textalign":"","textaligntablet":"","textalignmobile":"","textsize":"","texttransform":"","textwrapping":"","columnstyle":"none","columncardsize":"","columncardhover":"false","columncardcolor":" uk-card-default","columntile":"","columnbackground":"","columntextcolor":" uk-light","backgroundstyle":"color","backgroundimage":[],"backgroundimageposition":" uk-background-center-center","backgroundimagesize":" uk-background-cover","backgroundimagerepeat":" no-repeat","backgroundparalax":"","mediavideosource":"url","mediavideo":[],"mediavideourl":"","backgroundoverlaycolor":"rgba(0,0,0,0.3)","backgroundgradientoverlay":"false","backgroundgradienttransition":"","backgroundoverlaycolor2":"rgba(0,0,0,0.3)","columnpadding":"","itemfirst":"","itemlast":"","borderrounded":"false","columnshadow":"","columnclass":"","columnid":"","hidden":"","visible":"","animationswitch":"true","animationtype":"uk-animation-slide-bottom-small","animationdelay":400},"id":"31898ead-6ba8-41b3-9365-d39985d6db17","isHidden":false,"type":"z-column"},{"content":{"text":"<h5>THEME INFO</h5><p><a href=\"https://www.one.thezero.club/credits\" target=\"_blank\" rel=\"noopener noreferrer\">Credits</a><br><a href=\"https://www.one.thezero.club/support\" target=\"_blank\" rel=\"noopener noreferrer\">Support</a><br><a href=\"https://www.one.thezero.club/changelog\" target=\"_blank\" rel=\"noopener noreferrer\">Changelog</a><br><a href=\"https://www.one.thezero.club/affiliate\" target=\"_blank\" rel=\"noopener noreferrer\">Affiliate</a><br><a href=\"https://www.one.thezero.club/terms-and-guidelines\" target=\"_blank\" rel=\"noopener noreferrer\">Terms &amp; Guidelines</a></p>","textalign":"","textaligntablet":"","textalignmobile":"","textsize":"","texttransform":"","textwrapping":"","textcolor":""},"id":"0424336e-b335-4ef8-a476-0ec44e104dc1","isHidden":false,"type":"text"}],"id":"30009fd2-84ac-4e74-89ad-8c5cc1918bd3","width":"1/4"},{"blocks":[{"content":{"columnwidth":"","tabletwidth":"","mobilewidth":"","columnheight":"","columnminheight":"","columnmaxheight":"","textalign":"","textaligntablet":"","textalignmobile":"","textsize":"","texttransform":"","textwrapping":"","columnstyle":"none","columncardsize":"","columncardhover":"false","columncardcolor":" uk-card-default","columntile":"","columnbackground":"","columntextcolor":" uk-light","backgroundstyle":"color","backgroundimage":[],"backgroundimageposition":" uk-background-center-center","backgroundimagesize":" uk-background-cover","backgroundimagerepeat":" no-repeat","backgroundparalax":"","mediavideosource":"url","mediavideo":[],"mediavideourl":"","backgroundoverlaycolor":"rgba(0,0,0,0.3)","backgroundgradientoverlay":"false","backgroundgradienttransition":"","backgroundoverlaycolor2":"rgba(0,0,0,0.3)","columnpadding":"","itemfirst":"","itemlast":"","borderrounded":"false","columnshadow":"","columnclass":"","columnid":"","hidden":"","visible":"","animationswitch":"true","animationtype":"uk-animation-slide-bottom-small","animationdelay":500},"id":"94769b5a-bd2a-4619-9409-2640181441ff","isHidden":false,"type":"z-column"},{"content":{"text":"<h5>WORKING HOURS</h5><p>Monday - Friday 09.00 - 17.00<br>Saturday 09.00 - 15.00<br>Central European Standard Time (GMT+1)</p>","textalign":"","textaligntablet":"","textalignmobile":"","textsize":"","texttransform":"","textwrapping":"","textcolor":""},"id":"427e1e54-ddc2-4e89-809d-c519a5c86f18","isHidden":false,"type":"text"}],"id":"fa73996a-acdb-48d6-ad14-7a97bf64883d","width":"1/2"}],"id":"262e803e-c9fd-4a2a-8d94-ebab5ecc2032"},{"attrs":{"gridwidth":"uk-container","tabletwidth":"","mobilewidth":"","columnsverticalalign":"","columnshorizontalalign":"","containerexpand":"","columngap":"","columnsdivider":"false","gridmasonry":"false","gridparallax":"false","sectiontoggle":"true","sectionsize":" uk-section-xsmall","sectioncolor":" uk-section-secondary","sectionremovepadding":" uk-padding-remove-vertical","backgroundstyle":"color","backgroundimage":[],"mediavideosource":"url","mediavideo":[],"mediavideourl":"","backgroundimageposition":" uk-background-center-center","backgroundimagesize":" uk-background-cover","backgroundimagerepeat":" no-repeat","sectiontextcolor":" uk-light","backgroundoverlaycolor":"rgba(0,0,0,0.3)","backgroundgradientoverlay":"false","backgroundgradienttransition":"","backgroundoverlaycolor2":"rgba(0,0,0,0.3)","backgroundparalax":"","shapedividertoggle":"false","shapedivider":"","shapedividerposition":"","shapedividercolor":"#ffffff","customshapedivider":"","shapedividerheight":"150px","preservecolor":"false","sectionclass":"","sectionid":"","hidden":"","visible":"","animationswitch":"false","animationtype":"","animationdelay":""},"columns":[{"blocks":[{"content":{"linestyle":""},"id":"8963a998-2dac-4424-8ecf-2c885a9aa37b","isHidden":false,"type":"line"}],"id":"e7cf75f1-5bf9-4970-aa88-803d4ab5552e","width":"1/1"}],"id":"1dfffe87-27c8-40ed-b945-bbf247d5bb25"},{"attrs":{"gridwidth":"uk-container","tabletwidth":"uk-width-1-2@s ","mobilewidth":"","columnsverticalalign":" uk-flex-middle","columnshorizontalalign":"","containerexpand":"","columngap":"","columnsdivider":"false","gridmasonry":"false","gridparallax":"false","sectiontoggle":"true","sectionsize":" uk-section-small","sectioncolor":" uk-section-secondary","sectionremovepadding":"","backgroundstyle":"color","backgroundimage":[],"mediavideosource":"url","mediavideo":[],"mediavideourl":"","backgroundimageposition":" uk-background-center-center","backgroundimagesize":" uk-background-cover","backgroundimagerepeat":" no-repeat","sectiontextcolor":" uk-light","backgroundoverlaycolor":"rgba(0,0,0,0.3)","backgroundgradientoverlay":"false","backgroundgradienttransition":"","backgroundoverlaycolor2":"rgba(0,0,0,0.3)","backgroundparalax":"","shapedividertoggle":"false","shapedivider":"","shapedividerposition":"","shapedividercolor":"#ffffff","customshapedivider":"","shapedividerheight":"150px","preservecolor":"false","sectionclass":"","sectionid":"","hidden":"","visible":"","animationswitch":"false","animationtype":"","animationdelay":""},"columns":[{"blocks":[{"content":{"columnwidth":"","tabletwidth":"","mobilewidth":"","columnheight":"","columnminheight":"","columnmaxheight":"","textalign":" uk-text-right@m","textaligntablet":" uk-text-right@s","textalignmobile":" uk-text-left","textsize":" uk-text-small","texttransform":"","textwrapping":"","columnstyle":"none","columncardsize":"","columncardhover":"false","columncardcolor":" uk-card-default","columntile":"","columnbackground":"","columntextcolor":" uk-light","backgroundstyle":"color","backgroundimage":[],"backgroundimageposition":" uk-background-center-center","backgroundimagesize":" uk-background-cover","backgroundimagerepeat":" no-repeat","backgroundparalax":"","mediavideosource":"url","mediavideo":[],"mediavideourl":"","backgroundoverlaycolor":"rgba(0,0,0,0.3)","backgroundgradientoverlay":"false","backgroundgradienttransition":"","backgroundoverlaycolor2":"rgba(0,0,0,0.3)","columnpadding":"","itemfirst":"","itemlast":"","borderrounded":"false","columnshadow":"","columnclass":"","columnid":"","hidden":"","visible":"","animationswitch":"true","animationtype":"uk-animation-slide-left-small","animationdelay":300},"id":"f3a95b5d-607e-45a2-9c16-48cd361ebc55","isHidden":false,"type":"z-column"},{"content":{"htmlcode":"<a href=\"https://www.facebook.com/yourzerobase/\" class=\"uk-icon-link uk-margin-right\" uk-icon=\"icon: facebook;\" uk-tooltip=\"Facebook\" target=\"_blank\"></a><a href=\"https://twitter.com/YourZeroBase\" class=\"uk-icon-link uk-margin-right\" uk-icon=\"icon: twitter;\" uk-tooltip=\"Twitter\" target=\"_blank\"></a> <a href=\"https://www.instagram.com/thezero_club/\" class=\"uk-icon-link uk-margin-right\" uk-icon=\"icon: instagram;\" uk-tooltip=\"Instagram\" target=\"_blank\"></a> <a href=\"https://mastodon.social/@thezeroclub\" class=\"uk-icon-link\" uk-icon=\"icon: mastodon;\" uk-tooltip=\"Mastodon\" target=\"_blank\"></a>","title":"","blockclass":"","blockid":""},"id":"ad9ace14-6a9e-4651-bf1d-429556443cb7","isHidden":false,"type":"z-html"}],"id":"68594e84-1f03-4106-a090-df1e0245146e","width":"1/2"},{"blocks":[{"content":{"columnwidth":"","tabletwidth":"","mobilewidth":"","columnheight":"","columnminheight":"","columnmaxheight":"","textalign":" uk-text-left@m","textaligntablet":" uk-text-left@s","textalignmobile":" uk-text-left","textsize":"","texttransform":"","textwrapping":"","columnstyle":"none","columncardsize":"","columncardhover":"false","columncardcolor":" uk-card-default","columntile":"","columnbackground":"","columntextcolor":" uk-light","backgroundstyle":"color","backgroundimage":[],"backgroundimageposition":" uk-background-center-center","backgroundimagesize":" uk-background-cover","backgroundimagerepeat":" no-repeat","backgroundparalax":"","mediavideosource":"url","mediavideo":[],"mediavideourl":"","backgroundoverlaycolor":"rgba(0,0,0,0.3)","backgroundgradientoverlay":"false","backgroundgradienttransition":"","backgroundoverlaycolor2":"rgba(0,0,0,0.3)","columnpadding":"","itemfirst":" uk-flex-first@s","itemlast":"","borderrounded":"false","columnshadow":"","columnclass":"","columnid":"","hidden":"","visible":"","animationswitch":"true","animationtype":"","animationdelay":400},"id":"7a4890e3-ec12-48ff-af90-663323b5e066","isHidden":false,"type":"z-column"},{"content":{"text":"© (date: year) / Zero One Kirby CMS Theme. Powered by (link: https://getkirby.com/ text: Kirby target: _blank)."},"id":"7789ddfa-5f4a-42d5-a476-597c9eff2369","isHidden":false,"type":"markdown"}],"id":"4632edae-66cc-491a-924a-75c8f82b39f3","width":"1/2"}],"id":"2e1aba9a-f28b-4f9e-ab47-7ddb7f234663"}]
+
+----
+
+Mediaindex: false
+
+----
+
+Cachebusting: true
+
+----
+
+Typedtext: false
+
+----
+
+Syntaxhighlighting: true
+
+----
+
+Totopbutton: true
+
+----
+
+Totopbuttontext: To top
+
+----
+
+Totopbuttonicon: chevron-up
+
+----
+
+Totopbuttonstyle: 
+
+----
+
+Pagetransitions: false
+
+----
+
+Enablecookieconsent: false
+
+----
+
+Cookieconsenttype: 
+
+----
+
+Cookieconsenttext:
+
+### 🍪 We use cookies
+
+Hi, this website uses cookies to ensure its proper operation and tracking cookies to understand how you interact with it. 
+
+By using our site you accept the conditions of our (link: privacy-policy text: Privacy policy).
+
+----
+
+Cookieconsentbutton: I understand and accept
+
+----
+
+Senderip: false
+
+----
+
+Metafile: - file://FqjxpJO8ws9eC7sQ
+
+----
+
+Metatitle: Zero One | Multi-purpose Kirby CMS starter theme
+
+----
+
+Metadescription: Meet Zero One. Your new Kirby CMS starter theme. Built with developers in mind. Made for perfectionists. The theme for professionals. E-commerce included.
+
+----
+
+Useschema: false
+
+----
+
+Companytype: false
+
+----
+
+Companyname: 
+
+----
+
+Companyemail: 
+
+----
+
+Companyphone: 
+
+----
+
+Companyaddress: false
+
+----
+
+Companylocality: 
+
+----
+
+Companypostal: 
+
+----
+
+Companystreet: 
+
+----
+
+Labelreadmore: Read more..
+
+----
+
+Labelpublished: Published on
+
+----
+
+Labelcategorytitle: Category:
+
+----
+
+Labeltagtitle: Tag:
+
+----
+
+Labelarchivestitle: Archives:
+
+----
+
+Labelarchivetext: List of articles in
+
+----
+
+Labelarchivename: archive.
+
+----
+
+Labelbacktoblog: ‹ Back to
+
+----
+
+Labelprofile: Profile
+
+----
+
+Labelcategories: Categories
+
+----
+
+Labelarchive: Archives
+
+----
+
+Labeltags: Tags
+
+----
+
+Labelstayconnected: Stay connected
+
+----
+
+Labelsharearticle: Share
+
+----
+
+Labelrelatedarticle: You might also like
+
+----
+
+Labelnext: Next article
+
+----
+
+Labelprev: Previous article
+
+----
+
+Labeltagged: Tagged
+
+----
+
+Labellatestposts: Latest Posts
+
+----
+
+Labelpostedin: Posted in
+
+----
+
+Labelwrittenby: Written by
+
+----
+
+Labelwrittenon: on
+
+----
+
+Labelcoauthors: Co-authors:
+
+----
+
+Labelcommentsheading: Tell us what you think
+
+----
+
+Labelprojectbutton: Discover
+
+----
+
+Labelnewer: newer projects ›
+
+----
+
+Labelolder: ‹ older projects
+
+----
+
+Labelnextproject: Next project
+
+----
+
+Labelprevproject: Previous project
+
+----
+
+Labelsearchtext: Press Enter/Return to begin your search.
+
+----
+
+Labelsearchnote: You searched for
+
+----
+
+Labelsearchplaceholder: Search...
+
+----
+
+Labelsearchnoresults: No results.
+
+----
+
+Labellanguagetitle: Choose website language
+
+----
+
+Labellanguagefooter: This is just a demo, we didn't add more languages.
+
+----
+
+Labelemail: Email
+
+----
+
+Labelname: Name
+
+----
+
+Labelmessage: Message
+
+----
+
+Labelsubmit: Submit
+
+----
+
+Labelalertname: Please enter a valid name
+
+----
+
+Labelalertemail: Please enter a valid email address
+
+----
+
+Labelalertmessage: Please enter a text between 3 and 3000 characters
+
+----
+
+Labelformerror: The form could not be sent
+
+----
+
+Labelformsuccess: Your message has been sent, thank you. We will get back to you soon!
+
+----
+
+Labelemailsubject: sent you a message from your contact form
+
+----
+
+Labelformprivacy: I agree to the privacy policy terms.
+
+----
+
+Labelstackedbutton: Learn more
+
+----
+
+Labelshopcategory: Product category:
+
+----
+
+Labelshoptag: Product tag:
+
+----
+
+Labelbacktoshop: ‹ Back to
+
+----
+
+Labelshoparchivetext: List of products in
+
+----
+
+Labelshoparchivename: archives.
+
+----
+
+Labelproductfeatured: Featured
+
+----
+
+Labelproductnew: New
+
+----
+
+Labelproductsold: Out of stock
+
+----
+
+Labelproductoptions: Select options
+
+----
+
+Labeladdtocart: Add to cart
+
+----
+
+Labelproductid: Product ID:
+
+----
+
+Labelproductcategory: Category:
+
+----
+
+Labelproducttag: Tags:
+
+----
+
+Labelproductshare: Share:
+
+----
+
+Labelproductdescription: Product description
+
+----
+
+Labeladditionalinformation: Additional information
+
+----
+
+Labelproductweight: Weight
+
+----
+
+Labelproductlength: Length
+
+----
+
+Labelproductheight: Height
+
+----
+
+Labelproductwidth: Width
+
+----
+
+Labelproductfree: Free
+
+----
+
+Labelproductprevious: Previous product
+
+----
+
+Labelproductnext: Next product
+
+----
+
+Labelproductrelated: You might also like
+
+----
+
+Labelproductsearchtitle: Products search
+
+----
+
+Labelproductsearchintro: Search through our products
+
+----
+
+Stylingswitcher: false
+
+----
+
+Siteshadows: true
+
+----
+
+Sitebuttonshadow: @global-medium-box-shadow
+
+----
+
+Sitecardshadow: @global-small-box-shadow
+
+----
+
+Sitenavbarshadow: @global-small-box-shadow
+
+----
+
+Sitesmallshadow: 
+
+----
+
+Sitemediumshadow: 
+
+----
+
+Sitelargeshadow: 
+
+----
+
+Sitexlargeshadow: 
+
+----
+
+Siteborderradius: false
+
+----
+
+Textcolor: #0e071d
+
+----
+
+Textemphasiscolor: #030308
+
+----
+
+Textmutedcolor: #b7b7b7
+
+----
+
+Textlinkcolor: #7F78D2
+
+----
+
+Defaultcolor: #ffffff
+
+----
+
+Mutedcolor: #f1f2f3
+
+----
+
+Primarycolor: #7f78d2
+
+----
+
+Secondarycolor: #0E071D
+
+----
+
+Inversecolor: #ffffff
+
+----
+
+Bordercolor: #e6e1e6
+
+----
+
+Borderwidth: 1
+
+----
+
+Sitenavbarheight: 100
+
+----
+
+Sitenavbarstyle: bottom
+
+----
+
+Sitenavbarbackground: 
+
+----
+
+Sitedropdownbackground: #0e071d
+
+----
+
+Sitedropdowncolor: #C5C3C3
+
+----
+
+Sitedropdownhovercolor: #ffffff
+
+----
+
+Sitenavbarfont: 
+
+----
+
+Sitenavbarfontsize: 
+
+----
+
+Sitenavbarfontweight: 
+
+----
+
+Sitenavbartexttransform: 
+
+----
+
+Siteoffcanvasbackground: 
+
+----
+
+Siteoffcanvascolormode: false
+
+----
+
+Siteoffcanvasmobilesize: 100%
+
+----
+
+Siteoffcanvasdesktopsize: 
+
+----
+
+Siteoffcanvasoverlayblurred: true
+
+----
+
+Sitebuttonstyle: creative
+
+----
+
+Sitebuttonborder: round
+
+----
+
+Customizebuttons: true
+
+----
+
+Defaultbuttonbackground: 
+
+----
+
+Defaultbuttoncolor: 
+
+----
+
+Defaultbuttonhoverbackground: #7f78d2
+
+----
+
+Defaultbuttonhovercolor: #ffffff
+
+----
+
+Defaultinversebuttonbackground: 
+
+----
+
+Defaultinversebuttoncolor: 
+
+----
+
+Defaultinversebuttonhoverbackground: #0e071d
+
+----
+
+Defaultinversebuttonhovercolor: #ffffff
+
+----
+
+Primarybuttonbackground: 
+
+----
+
+Primarybuttoncolor: 
+
+----
+
+Primarybuttonhoverbackground: 
+
+----
+
+Primarybuttonhovercolor: 
+
+----
+
+Primaryinversebuttonbackground: 
+
+----
+
+Primaryinversebuttoncolor: 
+
+----
+
+Primaryinversebuttonhoverbackground: #ffffff
+
+----
+
+Primaryinversebuttonhovercolor: #0e071d
+
+----
+
+Secondarybuttonbackground: 
+
+----
+
+Secondarybuttoncolor: 
+
+----
+
+Secondarybuttonhoverbackground: 
+
+----
+
+Secondarybuttonhovercolor: 
+
+----
+
+Secondaryinversebuttonbackground: 
+
+----
+
+Secondaryinversebuttoncolor: 
+
+----
+
+Secondaryinversebuttonhoverbackground: #ffffff
+
+----
+
+Secondaryinversebuttonhovercolor: #0e071d
+
+----
+
+Fonturl: 
+
+----
+
+Textfontfamily: 'Outfit', sans-serif
+
+----
+
+Textfontsize: 16
+
+----
+
+Textfontweight: 400
+
+----
+
+Textlineheight: 1.5
+
+----
+
+Headingfontfamily: 'Outfit', sans-serif
+
+----
+
+Headingfontweight: 700
+
+----
+
+Headingtexttransform: inherit
+
+----
+
+Headingletterspacing: 
+
+----
+
+Secondaryfontfamily: 'Outfit', sans-serif
+
+----
+
+Secondaryfontweight: 300
+
+----
+
+Secondaryfontstyle: normal
+
+----
+
+Secondaryletterspacing: 
+
+----
+
+Baseh1size: 
+
+----
+
+Baseh2size: 
+
+----
+
+Baseh3size: 
+
+----
+
+Baseh4size: 
+
+----
+
+Basesmallsize: 
+
+----
+
+Sitebreakpointsmall: 
+
+----
+
+Sitebreakpointmedium: 
+
+----
+
+Sitebreakpointlarge: 
+
+----
+
+Sitebreakpointxlarge: 
+
+----
+
+Customcss:
+
+.uk-navbar-left {
+  overflow: auto;
+  max-width: 50%;
+  white-space: nowrap;
+  scrollbar-width: thin;
+  -ms-overflow-style: -ms-autohiding-scrollbar;
+}
+.uk-navbar-nav .uk-nav li {
+  white-space: normal;
+}
+
+----
+
+Headcustomcode: 
+
+----
+
+Bodycustomcode: 
+
+----
+
+Footercustomcode: 
+
+----
+
+Buttontext: To top
+
+----
+
+Buttonicon: 
+
+----
+
+Schematype: false
+
+----
+
+Privacypage: 
+
+----
+
+Defaultbuttonborder: false
+
+----
+
+Defaultbuttonbordercolor: 
+
+----
+
+Defaultbuttonbordercolorhover: 
+
+----
+
+Navigationabuildertoggle: false
+
+----
+
+Navigationbuilder: 
+
+----
+
+H1size: 2rem
+
+----
+
+Labelproductsharecenter: Share
+
+----
+
+Labelproductlenght: Product lenght
+
+----
+
+Transparent: false
+
+----
+
+Logoinvertedmobile: 
+
+----
+
+Labelsuccess: Success
+
+----
+
+Emailtext: 
+
+----
+
+Labelcaptcha: 
+
+----
+
+Labelcancel: Cancel
+
+----
+
+Labelwritttenon: on
+
+----
+
+Footercompact:
+
+[
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_hwieca3da",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Copyrighttoggle: 1

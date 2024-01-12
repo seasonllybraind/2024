@@ -1,0 +1,4 @@
+type: toggle
+width: 1/2
+when:
+  sidebarArticle: "yes"

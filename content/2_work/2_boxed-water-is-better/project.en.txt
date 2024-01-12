@@ -1,0 +1,115 @@
+Title: Boxed Water Is Better
+
+----
+
+Selectbuilder: page-builder
+
+----
+
+Layout: 
+
+----
+
+Animation: true
+
+----
+
+Modules: [{"content":{"columns":[{"columnwidth":"uk-width-expand@m","columnclass":"","columntitle":"","columncontenthtml":"markdown","columneditor":"","columncontent":"## Finding a better way","columnhtml":"","subcolumns":[],"columncard":"false","columncardsize":"","columncardhover":"false","columncardcolor":""},{"columnwidth":"uk-width-expand@m","columnclass":"","columntitle":"","columncontenthtml":"markdown","columneditor":"","columncontent":"Part sustainable water company, part philanthropic project. We obsess over providing the purest water in the most sustainable way. We\u2019re not satisfied with the status quo - our planet doesn\u2019t need more plastic bottles. We\u2019re constantly finding new ways to make a positive impact for our planet.","columnhtml":"","subcolumns":[],"columncard":"false","columncardsize":"","columncardhover":"false","columncardcolor":""}],"title":"","blockclass":"","blockid":"","sectionsize":" uk-section-large","sectioncolor":" uk-section-default","sectionremovepadding":"","backgroundimage":[],"backgroundimageposition":"","backgroundimagesize":"","backgroundimagerepeat":"","sectiontextcolor":"","backgroundoverlaycolor":null,"backgroundparalax":"","shapedividertoggle":"false","shapedivider":"","shapedividerposition":"","shapedividercolor":null,"customshapedivider":"","shapedividerheight":"","gridwidth":" uk-container-small","columnstack":"tablet","columngap":"","columnsverticalalign":"","columnshorizontalalign":"","columnsdivider":"false","centertext":"false","gridheadings":"false","columnsparallax":"false"},"id":"72cf8a1d-0052-4d07-b217-16f676d198d8","isHidden":false,"type":"grid"},{"content":{"fittext":"[{\"content\":{\"level\":\"h2\",\"text\":\"The plastic problem\",\"headingsize\":\"\",\"headingstyle\":\"\",\"headingcolor\":\"\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\"},\"id\":\"aeeffbf9-d844-4cf8-8661-090f9448e7f1\",\"isHidden\":false,\"type\":\"heading\"},{\"content\":{\"text\":\"<p>It\\u2019s a huge part of our everyday lives, and yet plastic waste is one of the greatest threats to our planet and our ecosystem today. By making small changes like switching to Boxed Water, we can help contain this threat and save the world one drink at a time.<\\\/p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"648eaafe-5c9d-48e9-beb3-c57d81911109\",\"isHidden\":false,\"type\":\"text\"},{\"content\":{\"text\":\"<p><strong>8.8 million metric tons of plastic<br>enters our ocean every year<\\\/strong><\\\/p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"4a3f4612-ad8c-406b-ab4f-d229659aa4ec\",\"isHidden\":false,\"type\":\"text\"},{\"content\":{\"text\":\"<p><strong>74% of plastic NEVER<br>gets recycled<\\\/strong><\\\/p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"a36af398-65c0-429a-a8da-507fdd600b7a\",\"isHidden\":false,\"type\":\"text\"}]","fitimage":["file:\/\/Uq7Ass2hTYiKAzw2"],"title":"","blockclass":"","blockid":"","fitwidth":"full","fitchoosesides":"image","fitimagesize":"half","fittextback":"muted","fittextpadding":"large","fittextalign":"left","fitheadings":"false","viewportheight":"false"},"id":"17b3535b-9881-4bde-a2a9-e2a00c1d3c32","isHidden":false,"type":"text-image"},{"content":{"fittext":"[{\"content\":{\"level\":\"h3\",\"text\":\"Boxed Water is better for you.\",\"headingsize\":\"\",\"headingstyle\":\"\",\"headingcolor\":\"\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\"},\"id\":\"d8e0a9af-d5a3-494f-b2fd-1dc894f0c6fe\",\"isHidden\":false,\"type\":\"heading\"},{\"content\":{\"text\":\"<p>Our water is 100% purified water, with no minerals added. Many bottled waters include dissolvable solids, salt, Sodium Phosphate, etc. Not us!<\\\/p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"1bdea91a-ccb0-43af-bd83-233592421178\",\"isHidden\":false,\"type\":\"text\"},{\"content\":{\"level\":\"h3\",\"text\":\"Boxed Water is better for the Earth.\",\"headingsize\":\"\",\"headingstyle\":\"\",\"headingcolor\":\"\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\"},\"id\":\"dc93c7a0-3105-46bb-931a-a25b2e3c75db\",\"isHidden\":false,\"type\":\"heading\"},{\"content\":{\"text\":\"<p>Our mission is not only to provide a sustainable option to single-use plastic water bottles but to be a part of the solution. We partner with the <a href=\\\"https:\\\/\\\/www.nationalforests.org\\\/blog\\\/from-seed-to-tree-how-we-restore-forests\\\" target=\\\"_blank\\\" rel=\\\"noopener noreferrer nofollow\\\">National Forest Foundation<\\\/a> to plant 2 trees for every social post using #BetterPlanet and Boxed Water. Over 800,000 trees!<\\\/p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"9e9f459e-3db0-4a6f-948e-0df350c7991c\",\"isHidden\":false,\"type\":\"text\"}]","fitimage":["file:\/\/gxGZwfe03c4yxmgN"],"title":"","blockclass":"","blockid":"","fitwidth":"full","fitchoosesides":"text","fitimagesize":"half","fittextback":"muted","fittextpadding":"large","fittextalign":"left","fitheadings":"false","viewportheight":"false"},"id":"46ba9bc0-44cf-48d2-a61f-f7e01ca799a7","isHidden":false,"type":"text-image"},{"content":{"slider":["file:\/\/L4PNZWgTkhAqgmof","file:\/\/giFxoPn2DbxiMulr","file:\/\/u44qId9MfQB2xs3g","file:\/\/qJCdJ6ZcHaBj5JEs","file:\/\/zGpA1RPlbUKOCTG7"],"title":"","blockclass":"","blockid":"","sliderback":"default","sliderwidth":"large","sliderimgwidth":" uk-width-1-3@m"},"id":"95389e48-e383-4709-ac1d-9461a319e137","isHidden":false,"type":"slider"},{"content":{"herocontentoption":"","contentblocks":"","herotext":"# JOIN THE MOVEMENT- TAKE THE PLEDGE.\n\n#### 30 DAYS ZERO PLASTIC BOTTLES\n\nPlastic bottles are filling our earth and oceans at an alarming rate. 1500 plastic bottles are sent to landfills every second. At Boxed Water, we\u2019ve had enough\u2014and hope you feel the same. By taking the No-Plastic Pledge, you\u2019ll be joining the movement against plastic bottle consumption and doing your part for a #BetterPlanet.","herohtml":"","herostyle":"image","herocover":["file:\/\/Uq7Ass2hTYiKAzw2"],"backgroundimageposition":" uk-background-center-center","backgroundimagesize":" uk-background-cover","backgroundimagerepeat":" no-repeat","sectiontextcolor":" uk-light","backgroundoverlaycolor":"#00000059","backgroundparalax":"paralaxY","mediavideosource":"","mediavideo":[],"mediavideourl":"","shapedividertoggle":"false","shapedivider":"","shapedividerposition":"","shapedividercolor":null,"customshapedivider":"","shapedividerheight":"","title":"","blockclass":"","blockid":"","herosize":"large","herotextwidth":"small","herotextalign":"","heroheadings":"false","herocard":"false","herocardcolor":"","herocardhover":"false"},"id":"3b2f236b-92de-4d5f-b6c2-b43ba48318ce","isHidden":false,"type":"hero"}]
+
+----
+
+Projectinfo:
+
+- 
+  projectcolumn: '**Timeline:** 2018 - 2019'
+- 
+  projectcolumn: '**Live:** (link: https://boxedwaterisbetter.com/ text: www.boxedwaterisbetter.com target: _blank)'
+
+----
+
+Tagslabel: Tags:
+
+----
+
+Tags: packaging, branding
+
+----
+
+Transparentnavbar: transparent
+
+----
+
+Navbarinverse: true
+
+----
+
+Alttitle: 
+
+----
+
+Intro: A sustainable alternative to plastic water bottles.
+
+----
+
+Headerimageoption: true
+
+----
+
+Headerimage: - file://2dan38uZiAd2oxT4
+
+----
+
+Headerimageposition: uk-background-center-center
+
+----
+
+Headerimagesize: uk-background-cover
+
+----
+
+Headerimagerepeat: no-repeat
+
+----
+
+Headertextcolor: uk-light
+
+----
+
+Headeroverlaycolor: #00000099
+
+----
+
+Backgroundparalax: paralaxY
+
+----
+
+Cover:
+
+- 
+  id: >
+    boxed-water-is-better-6rth34xcs1m-unsplash.jpg
+  clip:
+    width: 1678
+    height: 2237
+    left: 194
+    top: 303
+
+----
+
+Metafile: - file://qJCdJ6ZcHaBj5JEs
+
+----
+
+Sitemap: true
+
+----
+
+Metatitle: 
+
+----
+
+Metadescription: 
+
+----
+
+Uuid: p4xYvF7upaxHSD48

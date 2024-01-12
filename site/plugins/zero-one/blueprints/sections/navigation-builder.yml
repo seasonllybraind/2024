@@ -1,0 +1,244 @@
+type: fields
+fields:
+  mainMenuBuilderInfo:
+    label: 
+      en: Main menu info
+      de: Informationen zum Hauptmenü
+    type: info
+    text: 
+      en: |
+        By default main menu is created automatically from listed pages and their subpages. 
+        But with Main Menu Builder you can override that and create a custom structure.
+      de:  |
+        Standardmäßig wird das Hauptmenü automatisch aus den aufgelisteten Seiten und ihren Unterseiten erstellt. 
+        Aber mit Main Menu Builder können Sie das überschreiben und eine benutzerdefinierte Struktur erstellen.
+  mainMenuBuilder:
+    type: structure
+    label: 
+      en: Main Menu Builder
+      de: Hauptmenü-Builder
+    columns:
+      icon:
+      linkTitle:
+      pageLink:
+      externalLink:
+      anchor:
+      newTab:
+      hasSubmenu:
+    fields:
+      menufields: fields/menufields
+      hasSubmenu:
+        label: 
+          en: Has submenu?
+          de: Hat Untermenü?
+        type: toggle
+        width: 1/4
+      subMenu:
+        type: structure
+        label: Second Level Items
+        columns:
+          icon:
+          linkTitle:
+          pageLink:
+          externalLink:
+          anchor:
+          newTab:
+          hasSubmenu:
+        when:
+          hasSubmenu: true
+        fields:
+          menufields: fields/menufields
+          hasSubmenu:
+            label: 
+              en: Has submenu?
+              de: Hat Untermenü?
+            type: toggle
+            width: 1/4
+          subMenu:
+            type: structure
+            label: Third Level Items
+            columns:
+              icon:
+              linkTitle:
+              pageLink:
+              externalLink:
+              anchor:
+              newTab:
+            when:
+              hasSubmenu: true
+            fields:
+              menufields: fields/menufields
+
+      lineMegaMenu:
+        type: line
+        when:
+          hasSubmenu: true
+      megaMenu:
+        label: Mega menu
+        type: toggle
+        width: 1/3
+        when:
+          hasSubmenu: true
+      megaMenuInfo:
+        label: 
+          en: Mega menu info
+          de: Mega menu info
+        type: info
+        text: 
+          en: If you have 2-4 child pages, they will be used as first in a column, and their children will list below.
+          de: Wenn Sie 2-4 untergeordnete Seiten haben, werden diese als erste in einer Spalte verwendet, und ihre untergeordneten Seiten werden unten aufgeführt.
+        width: 2/3
+        when:
+          hasSubmenu: true
+      megaMenuWidth:
+        label: 
+          en: Mega menu width
+          de: Mega menu Breite
+        type: select
+        placeholder: Inherit
+        options:
+          - value: '2'
+            text: 2 columns
+          - value: '3'
+            text: 3 columns
+          - value: '4'
+            text: 4 columns
+        width: 1/3
+        when:
+          hasSubmenu: true
+          megaMenu: true
+      megaMenuItemWidth:
+        label: 
+          en: Mega menu column width
+          de: Mega menu column Breite
+        type: select
+        placeholder: Inherit
+        options:
+          - value: '1'
+            text: Full width
+          - value: '2'
+            text: '1/2'
+          - value: '3'
+            text: '1/3'
+          - value: '4'
+            text: '1/4'
+        width: 1/3
+        when:
+          hasSubmenu: true
+          megaMenu: true
+      # mega menu background
+      megaMenuBackground:
+        label: 
+          en: Dropdown custom background
+          de: Benutzerdefinierter Dropdown-Hintergrund
+        type: toggle
+        width: 1/3
+        when:
+          hasSubmenu: true
+          megaMenu: true
+      # image
+      megaMenuBackgroundImage:
+        extends: fields/backgroundImage
+        query: site.images
+        when:
+          hasSubmenu: true
+          megaMenu: true
+          megaMenuBackground: true
+      megaMenuBackgroundImagePosition:
+        label: 
+          en: Image position
+          de: Bildhintergrundposition
+        type: select
+        default: "uk-background-center-center"
+        options:
+          "uk-background-top-left":
+            en: Top Left
+            de: Oben Links
+          "uk-background-top-center": 
+            en: Top Center
+            de: Oben Zentrum
+          "uk-background-top-right": 
+            en: Top Right
+            de: Oben Rechts
+          "uk-background-center-left": 
+            en: Center Left
+            de: Zentrum Links
+          "uk-background-center-center": 
+            en: Center Center
+            de: Zentrum Zentrum
+          "uk-background-center-right": 
+            en: Center Right
+            de: Zentrum Rechts
+          "uk-background-bottom-left": 
+            en: Bottom Left
+            de: Unten Links
+          "uk-background-bottom-center": 
+            en: Bottom Center
+            de: Unten Zentrum
+          "uk-background-bottom-right": 
+            en: Bottom Right
+            de: Unten Rechts
+        width: 1/3
+        when:
+          hasSubmenu: true
+          megaMenu: true
+          megaMenuBackground: true
+      megaMenuBackgroundImageSize:
+        label:
+          en: Image size
+          de: Bildgröße
+        type: select
+        default: "uk-background-cover"
+        options:
+          "uk-background-cover": Cover
+          "uk-background-contain": Contain
+        width: 1/3
+        when:
+          hasSubmenu: true
+          megaMenu: true
+          megaMenuBackground: true
+      megaMenuBackgroundImageRepeat:
+        label: 
+          en: Repeat image
+          de: Wiederholungsbild
+        type: select
+        default: "no-repeat"
+        options:
+          "no-repeat": No repeat
+          "repeat": Repeat
+          "repeat-x": Repeat X
+          "repeat-y": Repeat Y
+        width: 1/3
+        when:
+          hasSubmenu: true
+          megaMenu: true
+          megaMenuBackground: true
+      megaMenuBackgroundOverlayColor:
+        extends: fields/backgroundOverlayColor
+        when:
+          hasSubmenu: true
+          megaMenu: true
+          megaMenuBackground: true
+      megaMenuBackgroundGradientOverlay:
+        extends: fields/backgroundGradientOverlay
+        when:
+          hasSubmenu: true
+          megaMenu: true
+          megaMenuBackground: true
+      megaMenuBackgroundGradientTransition:
+        extends: fields/backgroundGradientTransition
+        when:
+          hasSubmenu: true
+          megaMenu: true
+          megaMenuBackground: true
+          megaMenuBackgroundGradientOverlay: true
+      megaMenuBackgroundOverlayColor2:
+        extends: fields/backgroundOverlayColor
+        label: 
+          en: Overlay color 2
+          de: Farbe überlagern 2
+        when:
+          hasSubmenu: true
+          megaMenu: true
+          megaMenuBackground: true
+          megaMenuBackgroundGradientOverlay: true

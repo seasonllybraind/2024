@@ -1,0 +1,199 @@
+// Snipcart theming https://docs.snipcart.com/v3/setup/theming
+
+#snipcart {
+    /* Default colors */
+    --color-default: @global-color;
+    --borderColor-default: @global-border;
+    --bgColor-default: @global-background;
+    /* Alternative colors */
+    --color-alt: @global-muted-color;
+    --bgColor-alt: @global-muted-background;
+    /* Icon */
+    --color-icon: @global-primary-background;
+    /* Success */
+    --color-success: @global-inverse-color;
+    --bgColor-success: @global-success-background;
+
+    /* Error */
+    --color-error: @global-inverse-color;
+    --borderColor-error: @global-danger-background;
+    --bgColor-error: @global-danger-background;
+
+    /* Info */
+    --bgColor-info: @global-warning-background;
+
+    /* Modal */
+    --bgColor-modal: @global-muted-background;
+    --bgColor-modalVeil: hsla(210, 10%, 7%, .5);
+    
+
+    /* Primary Button Default */
+    --color-buttonPrimary: @global-inverse-color;
+    --borderColor-buttonPrimary: @global-primary-background;
+    --bgColor-buttonPrimary: @global-primary-background;
+    /* Primary Button Hover */
+    --color-buttonPrimary-hover: @global-inverse-color;
+    --borderColor-buttonPrimary-hover: darken(@global-primary-background, 5%);
+    --bgColor-buttonPrimary-hover: darken(@global-primary-background, 5%);
+    & when (@global-shadows = true) {
+        --shadow-buttonPrimary-hover: @global-small-box-shadow;
+    }
+    /* Primary Button Active */
+    --color-buttonPrimary-active: @global-inverse-color;
+    --borderColor-buttonPrimary-active: darken(@global-primary-background, 10%);
+    --bgColor-buttonPrimary-active: darken(@global-primary-background, 10%);
+    --shadow-buttonPrimary-active: none;
+    /* Primary Button Focus */
+    --color-buttonPrimary-focus: @global-inverse-color;
+    --borderColor-buttonPrimary-focus: darken(@global-primary-background, 10%);
+    --bgColor-buttonPrimary-focus: darken(@global-primary-background, 10%);
+    --shadow-buttonPrimary-focus: none;
+    /* Primary Button Disabled */
+    --color-buttonPrimary-disabled: @global-color;
+    --borderColor-buttonPrimary-disabled: @global-muted-background;
+    --bgColor-buttonPrimary-disabled: @global-muted-background;
+    /* Primary Button Success */
+    --color-buttonPrimary-success: @global-inverse-color;
+    --borderColor-buttonPrimary-success: @global-success-background;
+    --bgColor-buttonPrimary-success: @global-success-background;
+    /* Primary Button Error */
+    --color-buttonPrimary-error: @global-inverse-color;
+    --borderColor-buttonPrimary-error: @global-danger-background;
+    --bgColor-buttonPrimary-error: @global-danger-background;
+
+    /* Secondary Button Default */
+    --color-buttonSecondary: @global-inverse-color;
+    --borderColor-buttonSecondary: @global-secondary-background;
+    --bgColor-buttonSecondary: @global-secondary-background;
+    /* Secondary Button Hover */
+    --color-buttonSecondary-hover: @global-inverse-color;
+    --borderColor-buttonSecondary-hover: darken(@global-secondary-background, 5%);
+    --bgColor-buttonSecondary-hover: darken(@global-secondary-background, 5%);
+    & when (@global-shadows = true) {
+        --shadow-buttonSecondary-hover: @global-small-box-shadow;
+    }
+    /* Secondary Button Active */
+    --color-buttonSecondary-active: @global-inverse-color;
+    --borderColor-buttonSecondary-active: darken(@global-secondary-background, 10%);
+    --bgColor-buttonSecondary-active: darken(@global-secondary-background, 10%);
+    --shadow-buttonSecondary-active: none;
+    /* Secondary Button Focus */
+    --color-buttonSecondary-focus: @global-inverse-color;
+    --borderColor-buttonSecondary-focus: darken(@global-secondary-background, 10%);
+    --bgColor-buttonSecondary-focus: darken(@global-secondary-background, 10%);
+    --shadow-buttonSecondary-focus: none;
+    /* Secondary Button Disabled */
+    --color-buttonSecondary-disabled: @global-color;
+    --borderColor-buttonSecondary-disabled: @global-muted-background;
+    --bgColor-buttonSecondary-disabled: @global-muted-background;
+    /* Secondary Button Success */
+    --color-buttonSecondary-success: @global-inverse-color;
+    --borderColor-buttonSecondary-success: @global-success-background;
+    --bgColor-buttonSecondary-success: @global-success-background;
+    /* Secondary Button Error */
+    --color-buttonSecondary-error: @global-inverse-color;
+    --borderColor-buttonSecondary-error: @global-danger-background;
+    --bgColor-buttonSecondary-error: @global-danger-background;
+
+    /* Default link color */
+    --color-link: @global-link-color;
+    /* Hover link color */
+    --color-link-hover: @global-link-hover-color;
+    /* Active link color */
+    --color-link-active: @global-link-hover-color;
+    /* Focus link color */
+    --color-link-focus: @global-link-hover-color;
+    
+    // Shadows
+    --shadow-default: @global-medium-box-shadow;
+
+    /* Default badge color (completed) */
+    --color-badge: @global-primary-background;
+    --borderColor-badge: @global-muted-background;
+    --bgColor-badge: @global-muted-background;
+    /* Active badge */
+    --color-badge-active: @global-inverse-color;
+    --borderColor-badge-active: @global-primary-background;
+    --bgColor-badge-active: @global-primary-background;
+    /* Disabled badge */
+    --color-badge-disabled: @global-muted-color;
+    --borderColor-badge-disabled: @global-muted-color;
+    --bgColor-badge-disabled: @global-background;
+
+    // Input
+    --color-input: lighten(@global-color, 7%);
+    --borderColor-input: @global-border;
+    --bgColor-input: @global-muted-background;
+    /* Hover */
+    --color-input-hover: @global-color;
+    --borderColor-input-hover: darken(@global-border, 7%);
+    --bgColor-input-hover: lighten(@global-muted-background, 7%);
+    --shadow-input-hover: none;
+    /* Focus */
+    --color-input-focus: @global-color;
+    --borderColor-input-focus: darken(@global-border, 7%);
+    --bgColor-input-focus: lighten(@global-muted-background, 7%);
+    & when (@global-shadows = true) {
+        --shadow-input-focus: @global-small-box-shadow;
+    }
+    /* Checked */
+    --color-input-checked: @global-inverse-color;
+    --borderColor-input-checked: @global-primary-background;
+    --bgColor-input-checked: @global-primary-background;
+    --shadow-input-checked: none;
+    /* Disabled */
+    --color-input-disabled: @global-muted-color;
+    --borderColor-input-disabled: @global-muted-background;
+    --bgColor-input-disabled: @global-muted-background;
+    /* Error */
+    --color-input-error: @global-danger-background;
+    --borderColor-input-error: @global-danger-background;
+    --bgColor-input-error: lighten(@global-muted-background, 7%);
+    /* Autofill */
+    --bgColor-input-autofill: lighten(@global-muted-background, 7%);
+    // Labels
+    --color-inputLabel: @global-color;
+    /* Hover */
+    --color-inputLabel-hover: lighten(@global-color, 7%);
+    /* Focus */
+    --color-inputLabel-focus: lighten(@global-color, 7%);
+    // Input icon
+    --color-inputIcon: lighten(@global-color, 7%);
+    /* Hover */
+    --color-inputIcon-hover: lighten(@global-color, 7%);
+    /* Focus */
+    --color-inputIcon-focus: lighten(@global-color, 7%);
+    /* Checked */
+    --color-inputIcon-checked: @global-inverse-color;
+    /* Disabled */
+    --color-inputIcon-error: @global-danger-background;
+    // Placeholder
+    --color-inputPlaceholder: lighten(@global-color, 15%);
+
+}
+
+.snipcart-modal__container {
+    z-index: 1000;
+}
+
+.snipcart__font--secondary, .snipcart__font--subtitle, .snipcart__font--subtitle-small, .snipcart-base-button__label  {
+    font-family: @global-primary-font-family;
+    font-weight: @global-primary-font-weight;
+    text-transform: @global-primary-text-transform;
+    letter-spacing: @global-primary-letter-spacing;
+}
+.snipcart, .snipcart-modal__close, .snipcart__actions--link, .snipcart-button-link, .snipcart-cart-summary-expanded-item, .snipcart__font--slim {
+    font-family: @global-font-family;
+    font-weight: @global-font-weight;
+    line-height: @global-line-height;
+}
+
+.snipcart-base-button {
+    & when (@global-button-border-style = round) {
+        border-radius: 50px;
+    }
+
+    & when (@global-button-border-style = default) {
+        border-radius: 0;
+    }
+}

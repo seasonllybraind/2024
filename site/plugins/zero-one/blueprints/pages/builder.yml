@@ -1,0 +1,42 @@
+title: 
+  en: Page Builder (Deprecated)
+  de: Page Builder (veraltet)
+icon: dashboard
+
+tabs:
+
+  # content tab
+  content:
+    label: 
+      en: Content
+      de: Inhalt
+    icon: text
+    columns:
+      # main
+      - width: 2/3
+        sections:
+          # Builder options
+          sectionsSettings:
+            extends: sections/builder-options
+          # Builder sections
+          sectionsBuilder:
+            extends: sections/page-builder
+
+      # sidebar
+      - width: 1/3
+        sections:
+          # pages
+          published:
+            extends: sections/page-published
+
+          draft:
+            extends: sections/page-draft
+
+  # header tab
+  header: tabs/page-options
+
+  # seo tab
+  seo: tabs/seo
+
+  # advanced tab
+  advanced: tabs/page-advanced

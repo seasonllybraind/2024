@@ -1,0 +1,238 @@
+name: 
+  en: Image slider
+  de: Bild-Schieberegler
+icon: images
+
+preview: zimageslider
+
+tabs:
+  # content tab
+  content:
+    label: 
+      en: Content
+      de: Inhalt
+    fields:
+      # slider
+      slider:
+        label:
+          en: Slider images
+          de: Slider-Bilder
+        extends: fields/image
+        text: "{{ file.alt.or(file.filename) }}"
+
+  # slider options
+  sliderOptions:
+    label: 
+      en: Slider options
+      de: Schieberegleroptionen
+    fields:
+      # image crop heading
+      imageCropHeadline:
+        label: 
+          en: Crop to size
+          de: Auf Größe zuschneiden
+        type: headline
+        numbered: false
+      # images width
+      imageWidth:
+        label: 
+          en: Images width
+          de: Bildbreite
+        type: number
+        min: 10
+        max: 1920
+        after: px
+        placeholder: 1200
+        help: 
+          en: Default size is 1200px.
+          de: Die Standardgröße ist 1200 Pixel.
+        width: 1/3
+      # images height
+      imageHeight:
+        label: 
+          en: Images height
+          de: Bildhöhe
+        type: number
+        min: 10
+        max: 1920
+        after: px
+        placeholder: 800
+        help: 
+          en: Default size is 800px.
+          de: Die Standardgröße ist 800 Pixel.
+        width: 1/3
+      # slider options heading
+      silderOptionsHeadline:
+        label: 
+          en: Slider options
+          de: Slider-Optionen
+        type: headline
+        numbered: false
+      # slider item width
+      sliderItemWidth:
+        label: 
+          en: Slider item width
+          de: Breite des Slider-Elements
+        type: select
+        placeholder: Full width
+        default: 2-3
+        options:
+          " uk-width-1-2@s": 1/2
+          " uk-width-1-3@s": 1/3
+          " uk-width-2-3@s": 2/3
+          " uk-width-1-4@s": 1/4
+          " uk-width-3-4@s": 3/4
+        width: 1/3
+      # slider item width
+      sliderItemsGap:
+        label: 
+          en: Slider items gap
+          de: Slider-Items-Lücke
+        type: select
+        placeholder: Default
+        options:
+          " uk-grid-small": 
+            en: Small
+            de: Klein
+          " uk-grid-medium": 
+            en: Medium
+            de: Mittel
+          " uk-grid-large": 
+            en: Large
+            de: Groß
+          " uk-grid-collapse": 
+            en: Collapse
+            de: Zusammenbruch
+        width: 1/3
+      # center items
+      centerItems:
+        label: 
+          en: Center items
+          de: Gegenstände zentrieren
+        type: toggle
+        width: 1/3
+      # autoplay
+      autoplay:
+        label: Autoplay
+        type: toggle
+        width: 1/3
+      # infinite scrolling
+      finite:
+        label: 
+          en: Finite scrolling
+          de: Begrenztes Scrollen
+        type: toggle
+        width: 1/3
+      # slide sets
+      slideSets:
+        label: Slide sets
+        type: toggle
+        width: 1/3
+      # navigation arrows
+      navigationArrows:
+        label: 
+          en: Navigation arrows
+          de: Pfeile zur Navigation
+        type: select
+        placeholder: None
+        default: out
+        options:
+          inside: 
+            en: Inside
+            de: Innen
+          out: 
+            en: Out
+            de: Aus
+        width: 1/3
+      # slide sets
+      navigationBullets:
+        label: 
+          en: Navigation bullets
+          de: Navigationskugeln
+        type: toggle
+        default: true
+        width: 1/3
+
+  # settings tab
+  settings:
+    label: 
+      en: Settings
+      de: die Einstellungen
+    icon: cog
+    fields:
+      # block advanced heading
+      blockAdvancedHeadline:
+        label: 
+          en: Advanced
+          de: Fortschrittlich
+        type: headline
+        numbered: false
+      # block title
+      title:
+        label: 
+          en: Block title
+          de: Blocktitel
+        type: text
+        placeholder: My custom block name
+        width: 1/3
+      # block class
+      blockClass:
+        label: 
+          en: Block custom class
+          de: Benutzerdefinierte Klasse
+        type: text
+        placeholder: my-custom-class
+        before: '.'
+        width: 1/3
+      # block id
+      blockID:
+        label: 
+          en: Block ID
+          de: ID
+        type: text
+        placeholder: my-custom-id
+        before: '#'
+        width: 1/3
+      marginVertical:
+        extends: fields/marginVertical
+      marginLeft:
+        extends: fields/marginLeft
+      marginRight:
+        extends: fields/marginRight
+      marginInfo:
+        label: Margin note for (*)
+        type: info
+        text: 
+          en: "*Adds top margin, if it is preceded by another element, and always bottom margin."
+          de: "*Fügt den oberen Rand hinzu, wenn ihm ein anderes Element vorausgeht, und immer den unteren Rand."
+
+      # animation headline
+      animationHeadline:
+        label: Animation
+        type: headline
+        help: 
+          en: Add animation to slider.
+          de: Animation zum Slider hinzufügen.
+        numbered: false
+      animationNote:
+        label: Important note
+        type: info
+        text: 
+          en: Layout and Column animation must be turned off for Block animation to work properly.
+          de: Layout und Spalten animation müssen deaktiviert sein, damit die Blockanimation ordnungsgemäß funktioniert.
+      # animation switch
+      animationSwitch:
+        label: Animation
+        type: toggle
+        width: 1/3
+      animationType:
+        extends: fields/animationType
+        when:
+          animationSwitch: true
+      animationDelay:
+        extends: fields/animationDelay
+        when:
+          animationSwitch: true
+
+      settingsBottomGap:
+        type: gap

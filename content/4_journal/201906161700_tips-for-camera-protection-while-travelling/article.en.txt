@@ -1,0 +1,49 @@
+Title: Tips For Camera Protection While Travelling
+
+----
+
+Date: 2019-06-16 17:00:00
+
+----
+
+Author: 
+
+----
+
+Desc: There are two views of the place of “cause and effect” in the world. One believes in direct causality, the other in systemic causality.
+
+----
+
+Text: [{"content":{"text":"<p>The game’s not big enough unless it scares you a little. Wait a minute – you’ve been declared dead. You can’t give <strong>orders around</strong> here. I’ll alert the crew. What? We’re not at all alike! Flair is what marks the difference between artistry and mere competence.</p>","textalign":"","textaligntablet":"","textalignmobile":"","textsize":"","texttransform":"","textwrapping":"","textcolor":""},"id":"4738eec5-70ae-4056-b3ec-371b6f8530ca","isHidden":false,"type":"text"},{"content":{"text":"<p>What’s a knock-out like you doing in a computer-generated gin joint like this? But the probability of making a six is no greater than that of <a href=\"#\" rel=\"noopener noreferrer\">rolling a seven</a>. I guess it’s better to be lucky than good. Yesterday I did not know how to eat gagh.</p>","textalign":"","textaligntablet":"","textalignmobile":"","textsize":"","texttransform":"","textwrapping":"","textcolor":""},"id":"984f43c8-3b6b-40d7-8d26-8f75d5ac2015","isHidden":false,"type":"text"},{"content":{"text":"<p>Did you come here for something in particular or just general Riker-bashing? And blowing into maximum warp speed, you appeared for an instant to be in two places at once. We have a saboteur aboard. We know you’re dealing in stolen ore. But I wanna talk about the assassination attempt on <a href=\"#\" rel=\"noopener noreferrer\">Lieutenant Worf</a>. Could someone survive inside a transporter buffer for 75 years? Fate. It protects fools, little children, and ships named “Enterprise.”</p>","textalign":"","textaligntablet":"","textalignmobile":"","textsize":"","texttransform":"","textwrapping":"","textcolor":""},"id":"b555fdd8-cd23-4faa-9c14-128b998c74ec","isHidden":false,"type":"text"},{"content":{"imagewidth":" uk-child-width-1-2","imagecrop":"true","imagecropratio":"800, 500","images":["file://8g6n12evA3mfwyZE","file://YMdxKUThFeZDn0Wm","file://aQ8VDvkFKFIV6L5U","file://xhwJ9BNF31Yfr195"]},"id":"44774afa-8630-4e99-9157-739df6a36a15","isHidden":false,"type":"gallery-article"},{"content":{"text":"<p>The game’s not big enough unless it scares you a little. Wait a minute – you’ve been declared dead. You can’t give <strong>orders around</strong> here. I’ll alert the crew. What? We’re not at all alike! Flair is what marks the difference between artistry and mere competence.</p>","textalign":"","textaligntablet":"","textalignmobile":"","textsize":"","texttransform":"","textwrapping":"","textcolor":""},"id":"e3d91e72-52bb-4e7a-b460-1b3c25d54e00","isHidden":false,"type":"text"},{"content":{"text":"<p>What’s a knock-out like you doing in a computer-generated gin joint like this? But the probability of making a six is no greater than that of <a href=\"#\" rel=\"noopener noreferrer\">rolling a seven</a>. I guess it’s better to be lucky than good. Yesterday I did not know how to eat gagh.</p>","textalign":"","textaligntablet":"","textalignmobile":"","textsize":"","texttransform":"","textwrapping":"","textcolor":""},"id":"0c7b8cd2-9263-4921-8dc1-940c81a6b9a6","isHidden":false,"type":"text"},{"content":{"source":["file://yZZ6emS41ZWxDOwq"],"poster":["file://hc9j6vvbfT1IdAe6"],"title":"This is audio example","subtitle":"I am subtitle","description":"And I am description","controls":"true","autoplay":"false","layout":"false","background":" uk-card-secondary","fallbacktext":"Your browser does not support the <code>audio</code> element."},"id":"62d3c9c8-2de6-4f20-9ae0-874fbe56b891","isHidden":false,"type":"z-audio"},{"content":{"level":"h2","text":"Do it right every time","headingsize":"","headingstyle":"","headingcolor":"","textalign":"","textaligntablet":"","textalignmobile":"","texttransform":"","textwrapping":""},"id":"81e61f28-3f09-4a27-bdf5-c160ee6f977d","isHidden":false,"type":"heading"},{"content":{"text":"<p><strong>In most circumstances, direct causality seems the obvious interpretative lens for the past and predictive lens for the future. We are most comfortable when we can draw clear circles around causes and thick lines between them and their consequences.</strong> We admire the “chess players” of society who can draw long chains of clear circles and thick lines; for most of us, the ability to mentally calculate chains of cause and effect is limited to only a few steps.</p>","textalign":"","textaligntablet":"","textalignmobile":"","textsize":"","texttransform":"","textwrapping":"","textcolor":""},"id":"e398627a-a1dc-4665-97ff-2515bea74a71","isHidden":false,"type":"text"},{"content":{"text":"<ul><li><strong>Aliquam</strong> erat volutpat eleifend mi</li><li>Lacinia scelerisque lacinia quis</li><li>Consectetuer <em>adipiscing</em> elit et ultrices</li><li>Magnis dis parturient montes</li></ul>","liststyle":" uk-list-disc","listcolor":"","listsize":"","listdivider":"","column":""},"id":"c87bc4c8-0222-48fc-a6bf-1d8825844767","isHidden":false,"type":"list"},{"content":{"text":"<p>But certain systems involve a longer chain of lesser causes and effects that makes a focus on the individual steps unhelpful. <strong>Things like evolution, national economics, global warming, and terrorist motivations all need a systemic view if they are to be properly understood.</strong> A focus on what the individual can prove directly themselves in these cases may well lead to bad choices. These systems are especially difficult for people with “just do it” attitudes, who find it hard to take “on faith” that they should act in a contrarian way because of a larger system which cannot be seen and computed in its entirety.</p>","textalign":"","textaligntablet":"","textalignmobile":"","textsize":"","texttransform":"","textwrapping":"","textcolor":""},"id":"3bbd83cc-c23a-49e6-b0d7-6a2b28932c9a","isHidden":false,"type":"text"}]
+
+----
+
+Cover: - file://aQ8VDvkFKFIV6L5U
+
+----
+
+Transparentnavbar: 
+
+----
+
+Navbarinverse: true
+
+----
+
+Related: 
+
+----
+
+Category: photography
+
+----
+
+Tags: tips, explore
+
+----
+
+Featured: no
+
+----
+
+Uuid: RRLRZ6uoHpcNJqml

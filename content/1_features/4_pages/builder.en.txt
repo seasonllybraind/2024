@@ -1,0 +1,149 @@
+Title: Page Examples
+
+----
+
+Animation: true
+
+----
+
+Modules: [{"content":{"fittext":"[{\"content\":{\"level\":\"h2\",\"text\":\"Zero One can be transformed in almost anything you want.\",\"headingsize\":\"\",\"headingstyle\":\"\",\"headingcolor\":\"\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\"},\"id\":\"b7c4b2c1-0edd-4521-a1fd-05f75b1a3156\",\"isHidden\":false,\"type\":\"heading\"},{\"content\":{\"text\":\"<p>Make the website look follow your brand guidelines with ease. Add logo and customize the navigation, choose button or icons, align center or right. Customize the header section as you like, align, choose heading size or add a background image if needed.<\\\/p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"f94040ef-ad30-410e-ae15-6e851d3ab8cd\",\"isHidden\":false,\"type\":\"text\"},{\"content\":{\"text\":\"<p>Besides color options, the footer has an integrated grid builder so you can create a footer in any way you like. There is also a compacted centered footer if you don't need the grid.<\\\/p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"a7a8498d-8e0a-4f59-b838-dab37e0b3ebe\",\"isHidden\":false,\"type\":\"text\"},{\"content\":{\"text\":\"<p><strong>For everything else, you can use Page builder<\\\/strong>. A simple drag and drop interface means you\\u2019ll never need to touch a line of code. Let your creativity and inspiration guide you to create something really special.<\\\/p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"07d0e4b3-77af-4d97-a11a-415ca8cfd241\",\"isHidden\":false,\"type\":\"text\"}]","fitimage":["file:\/\/vrLU3JGh63CZCtQf"],"title":"","blockclass":"","blockid":"","fitwidth":"large","fitchoosesides":"image","fitimagesize":"half","fittextback":"secondary","fittextpadding":"large","fittextalign":"left","fitheadings":"false","viewportheight":"false"},"id":"4b0c64b7-7d87-4edc-98f7-ea49f83e2746","isHidden":false,"type":"text-image"},{"content":{"columns":[{"columnwidth":"uk-width-1-1","columnclass":"","columntitle":"","columncontenthtml":"markdown","columneditor":"","columncontent":"## Check out few page examples.\n\nWith Zero One you can build complex layouts with ease.","columnhtml":"","subcolumns":[],"columncard":"false","columncardsize":"","columncardhover":"false","columncardcolor":""},{"columnwidth":"uk-width-1-4@m","columnclass":"","columntitle":"","columncontenthtml":"markdown","columneditor":"","columncontent":"(image: about-me-page.jpg link: features\/pages\/about-me class: tm-hover-move-up)","columnhtml":"","subcolumns":[],"columncard":"false","columncardsize":"","columncardhover":"false","columncardcolor":""},{"columnwidth":"uk-width-1-4@m","columnclass":"","columntitle":"","columncontenthtml":"markdown","columneditor":"","columncontent":"(image: about-us-page.jpg link: features\/pages\/about-us class: tm-hover-move-up)","columnhtml":"","subcolumns":[],"columncard":"false","columncardsize":"","columncardhover":"false","columncardcolor":""},{"columnwidth":"uk-width-1-4@m","columnclass":"","columntitle":"","columncontenthtml":"markdown","columneditor":"","columncontent":"(image: process-page.jpg link: features\/pages\/process class: tm-hover-move-up)","columnhtml":"","subcolumns":[],"columncard":"false","columncardsize":"","columncardhover":"false","columncardcolor":""},{"columnwidth":"uk-width-1-4@m","columnclass":"","columntitle":"","columncontenthtml":"markdown","columneditor":"","columncontent":"(image: services-page.jpg link: features\/pages\/services class: tm-hover-move-up)","columnhtml":"","subcolumns":[],"columncard":"false","columncardsize":"","columncardhover":"false","columncardcolor":""},{"columnwidth":"uk-width-1-4@m","columnclass":"","columntitle":"","columncontenthtml":"markdown","columneditor":"","columncontent":"(image: contact-page.jpg link: contact class: tm-hover-move-up)","columnhtml":"","subcolumns":[],"columncard":"false","columncardsize":"","columncardhover":"false","columncardcolor":""},{"columnwidth":"uk-width-1-4@m","columnclass":"","columntitle":"","columncontenthtml":"markdown","columneditor":"","columncontent":"(image: default-page.jpg link: features\/pages\/default-page class: tm-hover-move-up)","columnhtml":"","subcolumns":[],"columncard":"false","columncardsize":"","columncardhover":"false","columncardcolor":""},{"columnwidth":"uk-width-1-4@m","columnclass":"","columntitle":"","columncontenthtml":"markdown","columneditor":"","columncontent":"(image: search-page.jpg link: search class: tm-hover-move-up)","columnhtml":"","subcolumns":[],"columncard":"false","columncardsize":"","columncardhover":"false","columncardcolor":""},{"columnwidth":"uk-width-1-4@m","columnclass":"","columntitle":"","columncontenthtml":"markdown","columneditor":"","columncontent":"(image: error-page.jpg link: error class: tm-hover-move-up)","columnhtml":"","subcolumns":[],"columncard":"false","columncardsize":"","columncardhover":"false","columncardcolor":""}],"title":"","blockclass":"","blockid":"","sectionsize":" uk-section-large","sectioncolor":" uk-section-default","sectionremovepadding":"","backgroundimage":[],"backgroundimageposition":"","backgroundimagesize":"","backgroundimagerepeat":"","sectiontextcolor":"","backgroundoverlaycolor":null,"backgroundparalax":"","shapedividertoggle":"false","shapedivider":"","shapedividerposition":"","shapedividercolor":null,"customshapedivider":"","shapedividerheight":"","gridwidth":"","columnstack":"mobile","columngap":"","columnsverticalalign":"","columnshorizontalalign":"","columnsdivider":"false","centertext":"true","gridheadings":"false","columnsparallax":"false"},"id":"8273c8c0-bc8a-4efc-9bbc-3c01648b0774","isHidden":false,"type":"grid"},{"content":{"title":"","blockid":"","blockclass":"","sectionsize":"","projectscolor":" uk-background-muted","projectstextoption":"top","projectscover":"true","coverwidth":null,"coverheight":null,"projectstext":"## Check out individual projects.\n\nThey have Page Builder integrated and also hide some magic within.","projects":[]},"id":"7fc6eae8-b75e-4bc4-bac1-d21d3cc43a08","isHidden":false,"type":"projects"},{"content":{"cpttext":"**Need to kickstart your next web project?**\n\n### Make Zero One yours.\n\nOne-time fee. Support & updates for as long as we exist.","cptlinktext":"Purchase Zero One","cptlink":["page:\/\/ZVoGDWAqLvo5X5c1"],"cptbuttoncolor":" uk-button-primary","cptbuttonsize":"large","title":"","blockclass":"","blockid":"","cptsize":"","cpttextwidth":"large","cptheadings":"true","cptstyle":"image","cptimage":["file:\/\/YrPrpcCKhGEWn8Xl"],"cptimageposition":" uk-background-center-center","cptimagesize":" uk-background-cover","cptimagerepeat":" no-repeat","cpttextcolor":" uk-light","cptoverlaycolor":"#00000099"},"id":"239743f8-66fb-4182-8b32-6e38ceade8c6","isHidden":false,"type":"cpt"}]
+
+----
+
+Disallowsubmenu: false
+
+----
+
+Newtab: false
+
+----
+
+Menuitemicon: copy
+
+----
+
+Megamenu: false
+
+----
+
+Megamenuwidth: 
+
+----
+
+Megamenuitemwidth: 
+
+----
+
+Megamenubackground: false
+
+----
+
+Megamenubackgroundimage: 
+
+----
+
+Megamenubackgroundimageposition: 
+
+----
+
+Megamenubackgroundimagesize: 
+
+----
+
+Megamenubackgroundimagerepeat: 
+
+----
+
+Megamenubackgroundgradientoverlay: false
+
+----
+
+Megamenubackgroundgradienttransition: 
+
+----
+
+Transparentnavbar: 
+
+----
+
+Navbarinverse: false
+
+----
+
+Headersection: true
+
+----
+
+Alttitle: 
+
+----
+
+Intro: A few demo pages just to feel what is possible.
+
+----
+
+Headerbackgroundtoggle: false
+
+----
+
+Header: 
+
+----
+
+Headerimageposition: 
+
+----
+
+Headerimagesize: 
+
+----
+
+Headerimagerepeat: 
+
+----
+
+Headertextcolor: 
+
+----
+
+Backgroundparalax: 
+
+----
+
+Shapedividertoggle: false
+
+----
+
+Shapedivider: 
+
+----
+
+Shapedividerposition: 
+
+----
+
+Customshapedivider: 
+
+----
+
+Shapedividerheight: 
+
+----
+
+Metafile: - file://vrLU3JGh63CZCtQf
+
+----
+
+Sitemap: true
+
+----
+
+Metatitle: 
+
+----
+
+Metadescription: A few demo pages just to feel what is possible. Zero One can be transformed into almost anything you want. Integrated Page Builder delivers magic.
+
+----
+
+Uuid: kMxaCeysupZAKus4

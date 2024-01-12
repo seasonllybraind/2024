@@ -1,0 +1,149 @@
+Title: About me
+
+----
+
+Animation: true
+
+----
+
+Modules: [{"content":{"herocontentoption":"","contentblocks":"","herotext":"# Hello, I am John Wilson\n\nCreative with rich experience in design and brand development.","herohtml":"","herostyle":"image","herocover":["file:\/\/tATyhCvpHgH3sUa8"],"backgroundimageposition":" uk-background-center-center","backgroundimagesize":" uk-background-cover","backgroundimagerepeat":" no-repeat","sectiontextcolor":" uk-light","backgroundoverlaycolor":"#00000099","backgroundparalax":"paralaxX","mediavideosource":"","mediavideo":[],"mediavideourl":"","shapedividertoggle":"false","shapedivider":"","shapedividerposition":"","shapedividercolor":null,"customshapedivider":"","shapedividerheight":"","title":"I am John Wilson","blockclass":"","blockid":"","herosize":"xlarge","herotextwidth":"large","herotextalign":"left","heroheadings":"true","herocard":"false","herocardcolor":"","herocardhover":"false"},"id":"6d2eccb1-1587-4d94-9d78-82eb414ef48c","isHidden":false,"type":"hero"},{"content":{"columns":[{"columnwidth":"uk-width-1-2@m","columnclass":"","columntitle":"","columncontenthtml":"markdown","columneditor":"","columncontent":"## About me.","columnhtml":"","subcolumns":[],"columncard":"false","columncardsize":"","columncardhover":"false","columncardcolor":""},{"columnwidth":"uk-width-1-2@m","columnclass":"","columntitle":"","columncontenthtml":"markdown","columneditor":"","columncontent":"**Today Drummonds\u2019 main business is in the manufacture and distribution of classic bathroom products. The business owns and operates three factories that manufacture cast iron baths, brass fittings and china sanitary ware.**\n\nMany of our products are made unlike any others. From using dry frit vitreous enamel to seal our freestanding cast iron baths to using the lost wax brass casting process to manufacture our taps, showers and other brassware. Drummonds\u2019 products are incomparable in quality and design.\n\nWarm and welcoming, Fred\u2019s is designed to feel just like home. Dedicated to sustainable produce and the people who farm it, head chef Danielle Alvarez builds her menu around seasonality and combines old-world techniques with innovation. Alvarez and her team cook on free-standing Tuscan grills and a custom-made hearth, elevating produce to its fullest potential. Exceptional ingredients are at the foundation of everything we do.\n\n(image: signature.png)","columnhtml":"","subcolumns":[],"columncard":"false","columncardsize":"","columncardhover":"false","columncardcolor":""}],"title":"- About me","blockclass":"","blockid":"","sectionsize":" uk-section-large","sectioncolor":" uk-section-default","sectionremovepadding":"","backgroundimage":[],"backgroundimageposition":"","backgroundimagesize":"","backgroundimagerepeat":"","sectiontextcolor":"","backgroundoverlaycolor":null,"backgroundparalax":"","shapedividertoggle":"false","shapedivider":"","shapedividerposition":"","shapedividercolor":null,"customshapedivider":"","shapedividerheight":"","gridwidth":"","columnstack":"tablet","columngap":"","columnsverticalalign":"","columnshorizontalalign":"","columnsdivider":"false","centertext":"false","gridheadings":"true","columnsparallax":"false"},"id":"edb33338-7132-41af-9c32-f79e4f68b5e0","isHidden":false,"type":"grid"},{"content":{"columns":[{"columnwidth":"uk-width-1-2@m","columnclass":"","columntitle":"","columncontenthtml":"markdown","columneditor":"","columncontent":"### Skills","columnhtml":"","subcolumns":[],"columncard":"false","columncardsize":"","columncardhover":"false","columncardcolor":""},{"columnwidth":"uk-width-1-4@m","columnclass":"","columntitle":"","columncontenthtml":"markdown","columneditor":"","columncontent":"#### UI \/ UX Design\n\nLorem ipsum dolor sit amet, consectetur.\n\n#### HTML \/ CSS \/ JS\n\nLorem ipsum dolor sit amet, consectetur.","columnhtml":"","subcolumns":[],"columncard":"false","columncardsize":"","columncardhover":"false","columncardcolor":""},{"columnwidth":"uk-width-1-4@m","columnclass":"","columntitle":"","columncontenthtml":"markdown","columneditor":"","columncontent":"#### Adobe Creative Suite\n\nLorem ipsum dolor sit amet, consectetur.\n\n#### Social Media Marketing\n\nLorem ipsum dolor sit amet, consectetur.","columnhtml":"","subcolumns":[],"columncard":"false","columncardsize":"","columncardhover":"false","columncardcolor":""}],"title":"- Skills","blockclass":"","blockid":"","sectionsize":" uk-section-large","sectioncolor":" uk-section-primary","sectionremovepadding":"","backgroundimage":[],"backgroundimageposition":"","backgroundimagesize":"","backgroundimagerepeat":"","sectiontextcolor":"","backgroundoverlaycolor":null,"backgroundparalax":"","shapedividertoggle":"false","shapedivider":"","shapedividerposition":"","shapedividercolor":null,"customshapedivider":"","shapedividerheight":"","gridwidth":"","columnstack":"tablet","columngap":"","columnsverticalalign":"","columnshorizontalalign":"","columnsdivider":"false","centertext":"false","gridheadings":"true","columnsparallax":"false"},"id":"15e2b296-2fe8-47f5-92cd-b83350c247da","isHidden":false,"type":"grid"},{"content":{"columns":[{"columnwidth":"uk-width-1-2@m","columnclass":"","columntitle":"","columncontenthtml":"markdown","columneditor":"","columncontent":"### Experience","columnhtml":"","subcolumns":[],"columncard":"false","columncardsize":"","columncardhover":"false","columncardcolor":""},{"columnwidth":"uk-width-1-2@m","columnclass":"","columntitle":"","columncontenthtml":"markdown","columneditor":"","columncontent":"**UBER** -- Senior Product Designer -- 2017 - present\n\n**GOOGLE** -- Motion Designer -- 2016 - 2017\n\n**PAYPAL** -- Quality Assurance -- 2014 - 2016\n\n**MICROSOFT** -- Creative Director -- 2011 - 2014","columnhtml":"","subcolumns":[],"columncard":"false","columncardsize":"","columncardhover":"false","columncardcolor":""}],"title":"- Experience","blockclass":"","blockid":"","sectionsize":" uk-section-large","sectioncolor":" uk-section-secondary","sectionremovepadding":"","backgroundimage":[],"backgroundimageposition":"","backgroundimagesize":"","backgroundimagerepeat":"","sectiontextcolor":"","backgroundoverlaycolor":null,"backgroundparalax":"","shapedividertoggle":"false","shapedivider":"","shapedividerposition":"","shapedividercolor":null,"customshapedivider":"","shapedividerheight":"","gridwidth":"","columnstack":"tablet","columngap":"","columnsverticalalign":"","columnshorizontalalign":"","columnsdivider":"false","centertext":"false","gridheadings":"true","columnsparallax":"false"},"id":"80c55a69-4cdc-46df-aae2-2d5f74bbfe58","isHidden":false,"type":"grid"},{"content":{"title":"","blockid":"","blockclass":"","sectionsize":" uk-section-large","projectscolor":"","projectstextoption":"top","projectscover":"true","coverwidth":null,"coverheight":null,"projectstext":"## My latest projects\n\nLorem ipsum dolor sit amet, consectetur adipisicing elit. Maxime harum ut ullam!","projects":[]},"id":"b3904045-5fad-4da8-8806-17c9d569ddb6","isHidden":false,"type":"projects"},{"content":{"columns":[{"columnwidth":"uk-width-1-4@m","columnclass":"","columntitle":"","columncontenthtml":"markdown","columneditor":"","columncontent":"(image: client-logo-1.png)","columnhtml":"","subcolumns":[],"columncard":"false","columncardsize":"","columncardhover":"false","columncardcolor":""},{"columnwidth":"uk-width-1-4@m","columnclass":"","columntitle":"","columncontenthtml":"markdown","columneditor":"","columncontent":"(image: client-logo-2.png)","columnhtml":"","subcolumns":[],"columncard":"false","columncardsize":"","columncardhover":"false","columncardcolor":""},{"columnwidth":"uk-width-1-4@m","columnclass":"","columntitle":"","columncontenthtml":"markdown","columneditor":"","columncontent":"(image: client-logo-3.png)","columnhtml":"","subcolumns":[],"columncard":"false","columncardsize":"","columncardhover":"false","columncardcolor":""},{"columnwidth":"uk-width-1-4@m","columnclass":"","columntitle":"","columncontenthtml":"markdown","columneditor":"","columncontent":"(image: client-logo-4.png)","columnhtml":"","subcolumns":[],"columncard":"false","columncardsize":"","columncardhover":"false","columncardcolor":""}],"title":"- Clients","blockclass":"","blockid":"","sectionsize":" uk-section-large","sectioncolor":" uk-section-muted","sectionremovepadding":"","backgroundimage":[],"backgroundimageposition":"","backgroundimagesize":"","backgroundimagerepeat":"","sectiontextcolor":"","backgroundoverlaycolor":null,"backgroundparalax":"","shapedividertoggle":"false","shapedivider":"","shapedividerposition":"","shapedividercolor":null,"customshapedivider":"","shapedividerheight":"","gridwidth":" uk-container-small","columnstack":"mobile","columngap":"","columnsverticalalign":"","columnshorizontalalign":"","columnsdivider":"false","centertext":"true","gridheadings":"false","columnsparallax":"false"},"id":"36bbbc58-0410-46e2-93c8-e12139c796b6","isHidden":false,"type":"grid"},{"content":{"cpttext":"## Get in touch with me.\n\nI can help take your next project to new heights.","cptlinktext":"Contact me","cptlink":["page:\/\/LmFfSOmJM1nGod7a"],"cptbuttoncolor":" uk-button-default","cptbuttonsize":"large","title":"","blockclass":"","blockid":"","cptsize":" uk-section-small","cpttextwidth":"large","cptheadings":"true","cptstyle":"image","cptimage":["file:\/\/tATyhCvpHgH3sUa8"],"cptimageposition":" uk-background-center-center","cptimagesize":" uk-background-cover","cptimagerepeat":" no-repeat","cpttextcolor":" uk-light","cptoverlaycolor":"#00000080"},"id":"59cb8f7a-4223-4932-8b3f-9355540f275b","isHidden":false,"type":"cpt"}]
+
+----
+
+Disallowsubmenu: false
+
+----
+
+Newtab: false
+
+----
+
+Menuitemicon: 
+
+----
+
+Megamenu: false
+
+----
+
+Megamenuwidth: 
+
+----
+
+Megamenuitemwidth: 
+
+----
+
+Megamenubackground: false
+
+----
+
+Megamenubackgroundimage: 
+
+----
+
+Megamenubackgroundimageposition: 
+
+----
+
+Megamenubackgroundimagesize: 
+
+----
+
+Megamenubackgroundimagerepeat: 
+
+----
+
+Megamenubackgroundgradientoverlay: false
+
+----
+
+Megamenubackgroundgradienttransition: 
+
+----
+
+Transparentnavbar: transparent
+
+----
+
+Navbarinverse: true
+
+----
+
+Headersection: false
+
+----
+
+Alttitle: 
+
+----
+
+Intro: 
+
+----
+
+Headerbackgroundtoggle: false
+
+----
+
+Header: 
+
+----
+
+Headerimageposition: 
+
+----
+
+Headerimagesize: 
+
+----
+
+Headerimagerepeat: 
+
+----
+
+Headertextcolor: 
+
+----
+
+Backgroundparalax: 
+
+----
+
+Shapedividertoggle: false
+
+----
+
+Shapedivider: 
+
+----
+
+Shapedividerposition: 
+
+----
+
+Customshapedivider: 
+
+----
+
+Shapedividerheight: 
+
+----
+
+Metafile: - file://tATyhCvpHgH3sUa8
+
+----
+
+Sitemap: true
+
+----
+
+Metatitle: 
+
+----
+
+Metadescription: 
+
+----
+
+Uuid: JYkroJ1xODh3itxS

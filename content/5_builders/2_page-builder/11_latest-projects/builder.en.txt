@@ -1,0 +1,149 @@
+Title: Latest projects section
+
+----
+
+Animation: true
+
+----
+
+Modules: [{"content":{"title":"Muted","blockid":"","blockclass":"","sectionsize":"","projectscolor":" uk-background-muted","projectstextoption":"top","projectscover":"true","coverwidth":null,"coverheight":null,"projectstext":"## Text on the left, or on the top.\n\nFar far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.","projects":[]},"id":"4a82ca91-49de-419a-86ba-c62a0cfd695d","isHidden":false,"type":"projects"},{"content":{"title":"Default","blockid":"","blockclass":"","sectionsize":" uk-section-large","projectscolor":"","projectstextoption":"left","projectscover":"true","coverwidth":800,"coverheight":800,"projectstext":"## Custom cover size\n\nFar far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.","projects":[]},"id":"8073aba2-2845-4bf4-ac60-b05473ad9234","isHidden":false,"type":"projects"},{"content":{"title":"Secondary","blockid":"","blockclass":"","sectionsize":" uk-section-large","projectscolor":" uk-background-secondary uk-light","projectstextoption":"top","projectscover":"true","coverwidth":800,"coverheight":600,"projectstext":"## Change the background colour and cover size.\n\nFar far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.","projects":[]},"id":"d2c7022a-126d-4db9-aa00-2d5de3e56f9f","isHidden":false,"type":"projects"},{"content":{"title":"Primary","blockid":"","blockclass":"","sectionsize":" uk-section-large","projectscolor":" uk-background-primary uk-light","projectstextoption":"left","projectscover":"true","coverwidth":null,"coverheight":null,"projectstext":"## Change the background color to suit your style.\n\nFar far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.","projects":[]},"id":"50ada9b7-f70b-4b8b-a57f-52104c351a8a","isHidden":false,"type":"projects"}]
+
+----
+
+Disallowsubmenu: false
+
+----
+
+Newtab: false
+
+----
+
+Menuitemicon: 
+
+----
+
+Megamenu: false
+
+----
+
+Megamenuwidth: 
+
+----
+
+Megamenuitemwidth: 
+
+----
+
+Megamenubackground: false
+
+----
+
+Megamenubackgroundimage: 
+
+----
+
+Megamenubackgroundimageposition: 
+
+----
+
+Megamenubackgroundimagesize: 
+
+----
+
+Megamenubackgroundimagerepeat: 
+
+----
+
+Megamenubackgroundgradientoverlay: false
+
+----
+
+Megamenubackgroundgradienttransition: 
+
+----
+
+Transparentnavbar: 
+
+----
+
+Navbarinverse: false
+
+----
+
+Headersection: true
+
+----
+
+Alttitle: 
+
+----
+
+Intro: Display the latest projects on any page with Page Builder.
+
+----
+
+Headerbackgroundtoggle: false
+
+----
+
+Header: 
+
+----
+
+Headerimageposition: 
+
+----
+
+Headerimagesize: 
+
+----
+
+Headerimagerepeat: 
+
+----
+
+Headertextcolor: 
+
+----
+
+Backgroundparalax: 
+
+----
+
+Shapedividertoggle: false
+
+----
+
+Shapedivider: 
+
+----
+
+Shapedividerposition: 
+
+----
+
+Customshapedivider: 
+
+----
+
+Shapedividerheight: 
+
+----
+
+Metafile: 
+
+----
+
+Sitemap: true
+
+----
+
+Metatitle: 
+
+----
+
+Metadescription: 
+
+----
+
+Uuid: saqDFAxl4v6ZkP2W

@@ -1,0 +1,79 @@
+name: 
+  en: Featured products
+  de: Ausgewählte Produkte
+label: - {{title}}
+icon: cart
+
+fields:
+  # section title
+  title:
+    label: 
+      en: Section title
+      de: Abschnittsüberschrift
+    type: text
+    placeholder: My custom Section name
+    width: 1/3
+  # block class
+  blockClass:
+    label: 
+      en: Section custom class
+      de: Abschnitt benutzerdefinierte Klasse
+    type: text
+    placeholder: my-custom-class
+    before: '.'
+    width: 1/3
+  # block id
+  blockID:
+    label: 
+      en: Section ID
+      de: Abschnitts-ID
+    type: text
+    placeholder: my-custom-id
+    before: '#'
+    width: 1/3
+  # text
+  productsText: 
+    label: Text before products
+    type: textarea
+
+  # Select products
+  products:
+    label: 
+      en: Select products
+      de: Produkte auswählen
+    type: pages
+    query: site.index.filterBy('template', 'in', ['product'])
+    info: "{{ page.category }}"
+    max: 3
+    subpages: false
+    empty: 
+      en: No products selected
+      de: Keine Produkte ausgewählt
+  infoProducts:
+    label: Info
+    type: info
+    text: 
+      en: If no products are selected, the latest products will be automatically selected.
+      de: Wenn keine Produkte ausgewählt sind, werden automatisch die neuesten Produkte ausgewählt.
+  
+  # section color
+  sectionColor:
+    label: 
+      en: Section background color
+      de: Abschnitt Hintergrundfarbe
+    type: select
+    placeholder: Default
+    options:
+      "uk-background-muted": 
+        en: Muted
+        de: Stumm geschaltet
+      "uk-background-primary uk-light": 
+        en: Primary
+        de: Primär
+      "uk-background-secondary uk-light": 
+        en: Secondary
+        de: Sekundär
+    width: 1/3
+  
+  endGap:
+    type: gap

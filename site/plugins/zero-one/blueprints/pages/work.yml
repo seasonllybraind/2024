@@ -1,0 +1,187 @@
+title: 
+  en: Work
+  de: Projekte
+icon: wand
+
+options:
+  duplicate: false
+
+tabs:
+
+  # content tab
+  content:
+    label: 
+      en: Projects
+      de: Projekte 
+    icon: grid
+    columns:
+      # main
+      - width: 1/2
+        sections:
+          # listed projects
+          listed:
+            extends: sections/projects
+            headline: 
+              en: Published Projects
+              de: Veröffentlichte Projekte 
+            status: published
+            layout: cardlets
+          
+
+      # sidebar
+      - width: 1/2
+        sections:
+          # draft projects
+          draft:
+            extends: sections/projects
+            headline: 
+              en: Draft Projects
+              de: Projektentwürfe
+            status: draft
+
+  # settings tab
+  settings:
+    label: 
+      en: Projects Settings
+      de: Projekteinstellungen
+    icon: wand
+    columns:
+      # main
+      - width: 2/3
+        sections:
+          # content
+          content:
+            type: fields
+            fields:
+              optionsHeadline:
+                label: 
+                  en: Work page options
+                  de: Optionen für die Arbeitsseite
+                type: headline
+              perpage:
+                label: 
+                  en: Projects per page
+                  de: Projekte pro Seite
+                type: number
+                min: 1
+                max: 10
+                default: 6
+                help: 
+                  en: Set how many projects are shown per page
+                  de: Legen Sie fest, wie viele Projekte pro Seite angezeigt werden
+                width: 1/3
+              projectsStyle:
+                label: 
+                  en: Projects style
+                  de: Projektstil
+                type: select
+                default: stacked
+                help: 
+                  en: Choose projects listing style
+                  de: Wählen Sie den Projektlistenstil
+                options:
+                  stacked: 
+                    en: Stacked
+                    de: Gestapelt
+                  grid: 
+                    en: Grid 2 Columns
+                    de: Raster 2 Spalten
+                  grid3: 
+                    en: Grid 3 Columns
+                    de: Raster 3 Spalten
+                  grid4: 
+                    en: Grid 4 Columns
+                    de: Raster 4 Spalten 
+                width: 1/3
+              gridGap:
+                label: 
+                  en: Grid gap
+                  de: Gitterlücke
+                type: select
+                placeholder: Default
+                options:
+                  "uk-grid-small": Small
+                  "uk-grid-medium": Medium
+                  "uk-grid-large": Large
+                  "uk-grid-collapse": Collapse
+                width: 1/3
+              pageWidth:
+                label: 
+                  en: Page width
+                  de: Seitenbreite
+                type: select
+                placeholder: Large
+                columns: 3
+                options:
+                  small: 
+                    en: Small
+                    de: Klein
+                  xsmall: 
+                    en: XSmall
+                    de: XKlein
+                  xlarge: XLarge
+                width: 1/2
+              projectsMasonry:
+                label: Masonry
+                type: toggle
+                help: 
+                  en: Useful when project covers are not the same height. 
+                  de: Nützlich, wenn Projektabdeckungen nicht die gleiche Höhe haben.
+                width: 1/2
+              coverInfo:
+                label: Cover size info
+                type: info
+                text: 
+                  en: These options have been moved to Site Settings.
+                  de: Diese Optionen wurden in die Website-Einstellungen verschoben.
+
+          # layout builder headline
+          layoutBuilderHeadline:
+            type: fields
+            fields:
+              linelayoutBuilder:
+                type: line
+              layoutBuilderHeadline:
+                label: 
+                  en: Content before/after projects
+                  de: Inhalte vor/nach Projekten
+                type: headline
+                help: 
+                  en: Add content before or after projects using Layout Builder
+                  de: Fügen Sie Inhalte vor oder nach Projekten mit Layout Builder hinzu
+              layoutBuilderPosition:
+                label: 
+                  en: Before or after projects
+                  de: Vor oder nach Projekten
+                type: toggle
+                text:
+                  - 
+                    en: Before
+                    de: Vor
+                  - 
+                    en: After
+                    de: Nach
+                width: 1/3
+
+          # Layout Builder sections
+          layoutBuilder:
+            extends: sections/layout-builder
+
+      - width: 1/3
+        sections:
+          # Files
+          metaFiles:
+            headline: 
+              en: Files
+              de: Dateien
+            type: files
+
+  # header tab
+  header: tabs/page-options
+
+  # seo tab
+  seo: tabs/seo
+
+  # advanced tab
+  advanced: tabs/page-advanced
+  

@@ -1,0 +1,41 @@
+//
+// Component: List
+//
+// ========================================================================
+
+
+// Variables
+// ========================================================================
+
+@list-padding-left:                               40px;
+@inverse-list-bullet-icon-color:                  @global-primary-background;
+
+// Style modifiers
+// ========================================================================
+
+.hook-list-divider() {}
+
+.hook-list-striped() {}
+
+.hook-list-bullet() {}
+
+.uk-list-decimal > ::before {
+    left: -60px;
+    width: 60px;
+}
+
+
+// Miscellaneous
+// ========================================================================
+
+.hook-list-misc() {}
+
+
+// Inverse
+// ========================================================================
+
+@inverse-list-bullet-icon-color:                  @inverse-global-primary-background;
+
+.hook-inverse-list-divider() {}
+.hook-inverse-list-striped() {}
+.hook-inverse-list-bullet() {}

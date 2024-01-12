@@ -1,0 +1,9 @@
+name: Intro
+icon: italic
+
+preview: intro
+
+fields:
+  text:
+    label: Intro text
+    type: text

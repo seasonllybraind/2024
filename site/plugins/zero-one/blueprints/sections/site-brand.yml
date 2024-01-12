@@ -1,0 +1,95 @@
+type: fields
+fields:
+  sitesettings:
+    label: zero.site.settings.brand.headline
+    type: headline
+    id: brand
+  author:
+    label: zero.site.settings.brand.author
+    type: text
+    icon: user
+    width: 1/2
+  twitteruser:
+    label: zero.site.settings.brand.twitter
+    type: text
+    placeholder: @username
+    icon: twitter
+    help: zero.site.settings.brand.twitter.help
+    width: 1/2
+  email:
+    label: Email
+    type: email
+    help: zero.site.settings.brand.email.help
+    width: 1/2
+  favicon:
+    label: Favicon
+    type: image-clip
+    translate: false
+    uploads: image
+    help: zero.site.settings.brand.favicon.help
+    multiple: false
+    query: site.images.filterBy('extension', 'png')
+    clip:
+      minwidth: 256
+      minheight: 256
+      maxwidth: 512
+      maxheight: 512
+      ratio: fixed
+    width: 1/2
+
+  lineLogo:
+    type: line
+  logo:
+    label: Logo
+    type: files
+    multiple: false
+    query: site.images
+    uploads: image
+    help: zero.site.settings.brand.logo.help
+    width: 1/2
+  logoInverted:
+    label: zero.site.settings.brand.logo.inverted
+    type: files
+    multiple: false
+    uploads: image
+    query: site.images
+    width: 1/2
+    help: zero.site.settings.brand.logo.inverted.help
+  logoMobile:
+    label: Logo mobile
+    type: files
+    multiple: false
+    query: site.images
+    uploads: image
+    help: zero.site.settings.brand.logo.mobile.help
+    width: 1/2
+  logoMobileInverted:
+    label: zero.site.settings.brand.logo.mobile.inverted
+    type: files
+    multiple: false
+    query: site.images
+    uploads: image
+    help: zero.site.settings.brand.logo.mobile.inverted.help
+    width: 1/2
+  logoHeight:
+    label: zero.site.settings.brand.logo.height
+    type: range
+    step: 1
+    min: 18
+    max: 100
+    default: 21
+    tooltip:
+      after: px
+    width: 1/2
+  mobileLogoHeight:
+    label: zero.site.settings.brand.logo.mobile.height
+    type: range
+    step: 1
+    min: 18
+    max: 100
+    default: 21
+    tooltip:
+      after: px
+    width: 1/2
+  brandGap:
+    type: gap

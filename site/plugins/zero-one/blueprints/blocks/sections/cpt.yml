@@ -1,0 +1,216 @@
+name: 
+  en: Call to action
+  de: Aufruf zum Handeln
+label: - {{title}}
+icon: bolt
+
+tabs:
+  # content tab
+  content:
+    label: 
+      en: Content
+      de: Inhalt
+    icon: edit
+    fields:
+      # text
+      cptText: 
+        label: 
+          en: Call to action text
+          de: Aufruf zum Aktionstext
+        type: textarea
+      # button text
+      cptLinkText:
+        label: 
+          en: CTA Button Text
+          de: Schaltflächentext
+        type:  text
+        width: 1/2
+      # button link
+      cptLink:
+        label: 
+          en: CTA Button Link
+          de: Schaltflächen Link
+        type: pages
+        query: site.pages
+        multiple: false
+        help: 
+          en: Choose a page.
+          de: Wählen Sie eine Seite.
+        width: 1/2
+      # button color
+      cptButtonColor:
+        label: 
+          en: CTA button color
+          de: Farbe der Schaltfläche
+        type: select
+        default: " uk-button-default"
+        options:
+          " uk-button-default": 
+            en: Default
+            de: Standard
+          " uk-button-primary": 
+            en: Primary
+            de: Primär
+          " uk-button-secondary": 
+            en: Secondary
+            de: Sekundär
+        width: 1/2
+      # button size
+      cptButtonSize:
+        label: 
+          en: CTA button size
+          de: Größe der Schaltfläche
+        type: select
+        default: large
+        options:
+          default: 
+            en: Default
+            de: Standard
+          large: 
+            en: Large
+            de: Groß
+        width: 1/2
+
+  # settings tab
+  settings:
+    label: 
+      en: Settings
+      de: die Einstellungen
+    icon: cog
+    fields:
+      title:
+        label: 
+          en: Section title
+          de: Abschnittsüberschrift
+        type: text
+        placeholder: My custom Section name
+        width: 1/3
+      blockClass:
+        label: 
+          en: Section custom class
+          de: Abschnitt benutzerdefinierte Klasse
+        type: text
+        placeholder: my-custom-class
+        before: '.'
+        width: 1/3
+      # section id
+      blockID:
+        label: 
+          en: Section ID
+          de: Abschnitts-ID
+        type: text
+        placeholder: my-custom-id
+        before: '#'
+        width: 1/3
+
+      # cpt options headline
+      cptHeadline:
+        label: CTA options
+        type: headline
+        numbered: false
+
+      # margin
+      cptSize:
+        label: 
+          en: CTA size
+          de: Größe
+        type: select
+        default: " uk-section-large"
+        options:
+          " uk-section-small": 
+            en: Small
+            de: Klein
+          " uk-section-large": 
+            en: Large
+            de: Groß
+          " uk-section-xlarge": 
+            en: XLarge
+            de: Groß
+        width: 1/3
+
+      # text width
+      cptTextWidth:
+        label: 
+          en: Text container width
+          de: Breite des Textcontainers
+        type: select
+        default: large
+        options:
+          small: 
+            en: Small
+            de: Klein
+          large: 
+            en: Large
+            de: Groß
+        width: 1/3
+
+      # headings larger
+      cptHeadings:
+        label: 
+          en: Headings large
+          de: Überschriften groß
+        type: toggle
+        default: false
+        help: 
+          en: Make headings (h1, h2, h3) larger.
+          de: Machen Sie die Überschriften (h1, h2, h3) größer.
+        width: 1/3
+      
+      # cpt style
+      cptStyle:
+        label: 
+          en: CTA style
+          de: Stil
+        type: select
+        default: " uk-section-default"
+        options:
+          " uk-section-default": 
+            en: Default
+            de: Standard
+          " uk-section-muted": 
+            en: Muted
+            de: Stumm geschaltet
+          " uk-section-primary": 
+            en: Primary
+            de: Primär
+          " uk-section-secondary": 
+            en: Secondary
+            de: Sekundär
+          image: 
+            en: Image
+            de: Bild
+        width: 1/3
+
+      # image
+      cptImageHeading:
+        extends: fields/backgroundImageHeading
+        when:
+          cptStyle: image
+      cptImage:
+        extends: fields/backgroundImage
+        when:
+          cptStyle: image
+      cptImagePosition:
+        extends: fields/backgroundImagePosition
+        when:
+          cptStyle: image
+      cptImageSize:
+        extends: fields/backgroundImageSize
+        when:
+          cptStyle: image
+      cptImageRepeat:
+        extends: fields/backgroundImageRepeat
+        when:
+          cptStyle: image
+      cptTextColor:
+        extends: fields/sectionTextColor
+        when:
+          cptStyle: image
+      cptOverlayColor:
+        extends: fields/backgroundOverlayColor
+        when:
+          cptStyle: image
+
+      gapEnd:
+        type: gap
+        width: 1/1

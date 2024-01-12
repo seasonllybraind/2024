@@ -1,0 +1,41 @@
+label: 
+  en: Content blocks
+  de: Inhaltsblöcke
+type: blocks
+fieldsets:
+  text:
+    label: Text
+    type: group
+    fieldsets:
+      - text
+      - heading
+      - list
+      - z-typed-text
+      - quote
+      - button
+      - intro
+      - line
+      - accordion
+      - z-description
+      - info
+      - z-table
+      - markdown
+      - code
+      - z-html
+      - table
+  media:
+    label: Media
+    type: group
+    fieldsets: 
+      - banner
+      - image
+      - gallery-article
+      - video
+      - z-audio
+  dynamic:
+    label: Dynamic
+    type: group
+    fieldsets: 
+      - contact-form
+      - z-pages
+  

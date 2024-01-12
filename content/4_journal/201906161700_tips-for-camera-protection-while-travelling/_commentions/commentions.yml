@@ -1,0 +1,23 @@
+- 
+  authenticated: true
+  email: support@thezero.club
+  language: en
+  name: The Zero
+  status: approved
+  text: >
+    The Kirby Commentions plugin is great!
+    😀
+  timestamp: 2020-07-24 17:23
+  type: comment
+  uid: kly0kgq7jw
+  website: https://www.thezero.club
+- 
+  authenticated: true
+  email: test@test.com
+  language: en
+  name: David
+  status: approved
+  text: Are you sure? 😎
+  timestamp: 2020-07-24 17:25
+  type: comment
+  uid: t6jjkuan0x

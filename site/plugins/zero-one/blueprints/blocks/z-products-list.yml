@@ -1,0 +1,189 @@
+name: 
+  en: Products list
+  de: Produktliste
+icon: cart
+
+preview: products
+
+tabs:
+  # content tab
+  products:
+    label: 
+      en: Content
+      de: Inhalt
+    icon: edit
+    fields:
+      # projects headline
+      productsHeadline:
+        label: 
+          en: Featured products
+          de: Ausgewählte Produkte
+        type: headline
+        numbered: false
+      # Select products page
+      productsPage:
+        label: 
+          en: Select products page
+          de: Seite Produkte auswählen
+        type: pages
+        query: site.index.filterBy('template', 'in', ['shop'])
+        info: "{{ page.categories }}"
+        subpages: false
+        multiple: false
+        empty: 
+          en: No products page selected
+          de: Keine Produktseite ausgewählt
+        help: 
+          en: Optional. Useful when you have more than one products page (shop).
+          de: Optional. Nützlich, wenn Sie mehr als eine Produktseite (Shop) haben.
+      # Select products
+      products:
+        label: 
+          en: Select products
+          de: Produkte auswählen
+        type: pages
+        query: site.index.filterBy('template', 'in', ['product'])
+        info: "{{ page.category }}"
+        subpages: false
+        empty: 
+          en: No products selected
+          de: Keine Produkte ausgewählt
+        help: 
+          en: Select products from a list of all available products.
+          de: Wählen Sie Produkte aus einer Liste aller verfügbaren Produkte aus.
+      infoProducts:
+        label: Info
+        type: info
+        text: 
+          en: If no products are selected, the latest products will be automatically selected.
+          de: Wenn keine Produkte ausgewählt sind, werden automatisch die neuesten Produkte ausgewählt.
+      # maximum number of products
+      maxProducts:
+        label: 
+          en: Number of products
+          de: Anzahl der Produkte
+        type: number
+        placeholder: 3
+        min: 1
+        help: 
+          en: Maximum number. Default is 3.
+          de: Maximale Anzahl. Standard ist 3.
+        width: 1/3
+      # product title size
+      titleSize:
+        label: 
+          en: Product title size
+          de: Größe des Produkttitels
+        type: select
+        placeholder: H5
+        options:
+          " uk-h1": H1
+          " uk-h2": H2
+          " uk-h3": H3
+          " uk-h4": H4
+          " uk-h6": H6
+        width: 1/3
+      # list style
+      listStyle:
+        label: 
+          en: List Style
+          de: Listenstil 
+        type: select
+        placeholder: None
+        options:
+          " uk-list-disc": Disc
+          " uk-list-circle": Circle
+          " uk-list-square": Square
+          " uk-list-decimal": Decimal
+          " uk-list-hyphen": Hyphen
+          " uk-list-checkbox": Checkbox
+        width: 1/3
+      # list color
+      listColor:
+        label: 
+          en: List Color
+          de: Listenfarbe
+        type: select
+        placeholder: Default
+        options:
+          " uk-list-muted": Muted
+          " uk-list-emphasis": Emphasis
+          " uk-list-primary": Primary
+          " uk-list-secondary": Secondary
+        width: 1/3
+      listSize:
+        label: 
+          en: List Size
+          de: Listengröße
+        type: select
+        placeholder: Default
+        options:
+          " uk-list-collapse": Collapse
+          " uk-list-large": Large
+        width: 1/3
+      listDivider:
+        label: 
+          en: List Divider
+          de: Listenteiler
+        type: select
+        placeholder: None
+        options:
+          " uk-list-divider": Line
+          " uk-list-striped": Striped
+        width: 1/3
+      column:
+        label: 
+          en: Columns
+          de: Spalten
+        type: select
+        options:
+          " uk-column-1-1 uk-column-1-2@s": 1/2
+          " uk-column-1-1 uk-column-1-3@s": 1/3
+          " uk-column-1-1 uk-column-1-2@s uk-column-1-4@m": 1/4
+          " uk-column-1-1 uk-column-1-2@s uk-column-1-5@m": 1/5
+          " uk-column-1-1 uk-column-1-2@s uk-column-1-6@m": 1/6
+        width: 1/3
+      
+      endGap:
+        type: gap
+
+  # settings tab
+  settings:
+    label: 
+      en: Settings
+      de: die Einstellungen
+    icon: cog
+    fields:
+      # block advanced heading
+      blockAdvancedHeadline:
+        label: 
+          en: Advanced
+          de: Fortschrittlich
+        type: headline
+        numbered: false
+      # block title
+      title:
+        label: 
+          en: Block title
+          de: Blocktitel
+        type: text
+        placeholder: My custom block name
+        width: 1/3
+      # block id
+      blockID:
+        label: 
+          en: Block ID
+          de: Block-ID
+        type: text
+        placeholder: my-custom-id
+        before: '#'
+        width: 1/3
+      # block class
+      blockClass:
+        label: 
+          en: Block custom class
+          de: Benutzerdefinierte Klasse blockieren
+        type: text
+        placeholder: my-custom-class
+        before: '.'
+        width: 1/3

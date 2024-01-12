@@ -1,0 +1,23 @@
+label: 
+  en: Animation type
+  de: Animationstyp
+type: select
+placeholder: Fade
+options:
+  "uk-animation-scale-up": Scale up
+  "uk-animation-scale-down": Scale down
+  "uk-animation-slide-top-small": Slide top small
+  "uk-animation-slide-bottom-small": Slide bottom small
+  "uk-animation-slide-left-small": Slide left small
+  "uk-animation-slide-right-small": Slide right small
+  "uk-animation-slide-top-medium": Slide top medium
+  "uk-animation-slide-bottom-medium": Slide bottom medium
+  "uk-animation-slide-left-medium": Slide left medium
+  "uk-animation-slide-right-medium": Slide right medium
+  "uk-animation-slide-top": Slide top
+  "uk-animation-slide-bottom": Slide bottom
+  "uk-animation-slide-left": Slide left
+  "uk-animation-slide-right": Slide right
+  "uk-animation-kenburns": Ken Burns
+  "uk-animation-shake": Shake
+width: 1/3

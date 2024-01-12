@@ -1,0 +1,149 @@
+Title: Slideshow section
+
+----
+
+Animation: true
+
+----
+
+Modules: [{"content":{"columns":[{"columnwidth":"uk-width-expand@m","columnclass":"","columntitle":"","columncontenthtml":"markdown","columneditor":"","columncontent":"## It doesn't have to be full width.\n\nImage caption can also be displayed (right bottom corner).","columnhtml":"","subcolumns":[],"columncard":"false","columncardsize":"","columncardhover":"false","columncardcolor":""}],"title":"It doesn\u2019t have to be full width","blockclass":"","blockid":"","sectionsize":" uk-section-small","sectioncolor":" uk-section-default","sectionremovepadding":" uk-padding-remove-top","backgroundimage":[],"backgroundimageposition":"","backgroundimagesize":"","backgroundimagerepeat":"","sectiontextcolor":"","backgroundoverlaycolor":null,"backgroundparalax":"","shapedividertoggle":"false","shapedivider":"","shapedividerposition":"","shapedividercolor":null,"customshapedivider":"","shapedividerheight":"","gridwidth":"","columnstack":"tablet","columngap":"","columnsverticalalign":"","columnshorizontalalign":"","columnsdivider":"false","centertext":"true","gridheadings":"false","columnsparallax":"false"},"id":"cfc2fa2e-3513-41ef-9773-53f2b4827f63","isHidden":false,"type":"grid"},{"content":{"slideshow":[{"slidecontentoption":"editor","slideimage":["file:\/\/tMPrigB7Q38R2Lvg"],"contentblocks":"[{\"content\":{\"level\":\"h2\",\"text\":\"Add slide text.\",\"headingsize\":\" uk-heading-small\",\"headingstyle\":\"\",\"headingcolor\":\"\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\"},\"id\":\"2c63d411-f2a8-4564-be29-0d9bc3506950\",\"isHidden\":false,\"type\":\"heading\"},{\"content\":{\"text\":\"<p>Or don't. The next slide doesn't have text.<\\\/p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"f7f67c15-7a13-4daf-9c49-f84b95185959\",\"isHidden\":false,\"type\":\"text\"}]","slidecontent":"### Add slide text.\n\nOr don't. The next slide doesn't have text.","slidehtml":"","slidecontentposition":" uk-position-bottom-left","slidecontentpositioncenter":" uk-position-center-left","slidecontentwidth":"","slidecontentpadding":" uk-padding-large","slidecontentpositionsize":""},{"slidecontentoption":"markdown","slideimage":["file:\/\/IbedgSTLTtVS5y2R"],"contentblocks":"","slidecontent":"","slidehtml":"","slidecontentposition":" uk-position-bottom-left","slidecontentpositioncenter":"","slidecontentwidth":"","slidecontentpadding":"","slidecontentpositionsize":""},{"slidecontentoption":"editor","slideimage":["file:\/\/IELVmaNRIPMZG7z7"],"contentblocks":"[{\"content\":{\"level\":\"h2\",\"text\":\"Sail with the wind.\",\"headingsize\":\"\",\"headingstyle\":\"\",\"headingcolor\":\"\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\"},\"id\":\"cdf179bc-b6f4-47e8-a853-a75db429b961\",\"isHidden\":false,\"type\":\"heading\"},{\"content\":{\"text\":\"<p>You can add link, button or any other content.<\\\/p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"5ed8acbf-2fda-4a78-a110-b2167a35222e\",\"isHidden\":false,\"type\":\"text\"},{\"content\":{\"text\":\"Hi, I am button\",\"buttonicon\":\"\",\"linktype\":\"internal\",\"link\":\"\",\"internalpage\":[],\"filelink\":[],\"emaillink\":\"\",\"phonelink\":\"\",\"target\":\"false\",\"buttonstyle\":\" uk-button-default\",\"buttonsize\":\"\",\"margintop\":\" uk-margin-top\"},\"id\":\"2b83a0a3-77a0-4201-b67f-2bc0d02aa845\",\"isHidden\":false,\"type\":\"button\"}]","slidecontent":"### Sail with the wind.\n\nYou can add link, button or any other content.\n\n(link: # text: Hi, I am button class: uk-button uk-button-secondary)","slidehtml":"","slidecontentposition":" uk-position-bottom-left","slidecontentpositioncenter":"","slidecontentwidth":"","slidecontentpadding":"","slidecontentpositionsize":""}],"title":"Large secondary","blockclass":"","blockid":"","slideshowwidth":"large","slideshowstyle":" uk-overlay-secondary","inversetextcolor":"false","slideshowanimation":"push","slidecontentpadding":" uk-padding-large","slidecontentpositionsize":" uk-position-large","slideshowkenburns":"false","slideshownavigationtype":"arrows"},"id":"1d3fecda-1e70-4ad4-8514-29daf2249d83","isHidden":false,"type":"slideshow"},{"content":{"columns":[{"columnwidth":"uk-width-expand@m","columnclass":"","columntitle":"","columncontenthtml":"markdown","columneditor":"","columncontent":"## But can be full width.\n\nThere are several options for slide content display and slide animation.","columnhtml":"","subcolumns":[],"columncard":"false","columncardsize":"","columncardhover":"false","columncardcolor":""}],"title":"But can be full width","blockclass":"","blockid":"","sectionsize":" uk-section-large","sectioncolor":" uk-section-default","sectionremovepadding":"","backgroundimage":[],"backgroundimageposition":"","backgroundimagesize":"","backgroundimagerepeat":"","sectiontextcolor":"","backgroundoverlaycolor":null,"backgroundparalax":"","shapedividertoggle":"false","shapedivider":"","shapedividerposition":"","shapedividercolor":null,"customshapedivider":"","shapedividerheight":"","gridwidth":"","columnstack":"tablet","columngap":"","columnsverticalalign":"","columnshorizontalalign":"","columnsdivider":"false","centertext":"true","gridheadings":"false","columnsparallax":"false"},"id":"72d5002c-ea45-44e4-a311-0e2cf99d392e","isHidden":false,"type":"grid"},{"content":{"slideshow":[{"slidecontentoption":"editor","slideimage":["file:\/\/tMPrigB7Q38R2Lvg"],"contentblocks":"[{\"content\":{\"level\":\"h2\",\"text\":\"Position text left\",\"headingsize\":\" uk-heading-small\",\"headingstyle\":\"\",\"headingcolor\":\"\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\"},\"id\":\"3444fa2e-3c86-4cec-bff2-7d2a4ae61141\",\"isHidden\":false,\"type\":\"heading\"},{\"content\":{\"text\":\"<p>Or on any place you want. Check out the next slides.<\\\/p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"32f58fa5-a6dc-4161-b5a3-a1920f723f8b\",\"isHidden\":false,\"type\":\"text\"}]","slidecontent":"### Add slide text.\n\nOr don't. The next slide doesn't have text.","slidehtml":"","slidecontentposition":" uk-position-left","slidecontentpositioncenter":" uk-position-center-left","slidecontentwidth":"","slidecontentpadding":"","slidecontentpositionsize":""},{"slidecontentoption":"editor","slideimage":["file:\/\/IbedgSTLTtVS5y2R"],"contentblocks":"[{\"content\":{\"level\":\"h2\",\"text\":\"Sail with the wind.\",\"headingsize\":\"\",\"headingstyle\":\"\",\"headingcolor\":\"\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\"},\"id\":\"712a9319-a648-4132-ae35-44c139b52d77\",\"isHidden\":false,\"type\":\"heading\"},{\"content\":{\"text\":\"<p>You can add link, button or any other content.<\\\/p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"6f3e7af4-94e8-4fe0-869a-c7818769f4b2\",\"isHidden\":false,\"type\":\"text\"},{\"content\":{\"text\":\"Hi, I am button\",\"buttonicon\":\"\",\"linktype\":\"internal\",\"link\":\"\",\"internalpage\":[],\"filelink\":[],\"emaillink\":\"\",\"phonelink\":\"\",\"target\":\"false\",\"buttonstyle\":\" uk-button-primary\",\"buttonsize\":\"\",\"margintop\":\"\"},\"id\":\"52fc94f5-e85d-44d6-ab6f-9060b616127b\",\"isHidden\":false,\"type\":\"button\"}]","slidecontent":"### Sail with the wind.\n\nYou can add link, button or any other content.\n\n(link: # text: Hi, I am button class: uk-button uk-button-secondary)","slidehtml":"","slidecontentposition":"center","slidecontentpositioncenter":" uk-position-center","slidecontentwidth":"","slidecontentpadding":"","slidecontentpositionsize":""},{"slidecontentoption":"markdown","slideimage":["file:\/\/IELVmaNRIPMZG7z7"],"contentblocks":"","slidecontent":"## Sail with the wind.\n\nYou can add link, button or any other content.\n\n(link: # text: Hi, I am button class: uk-button uk-button-secondary)","slidehtml":"","slidecontentposition":" uk-position-bottom-left","slidecontentpositioncenter":"","slidecontentwidth":"","slidecontentpadding":"","slidecontentpositionsize":""}],"title":"Full default","blockclass":"","blockid":"","slideshowwidth":"full","slideshowstyle":" uk-overlay-default","inversetextcolor":"false","slideshowanimation":"scale","slidecontentpadding":" uk-padding","slidecontentpositionsize":"","slideshowkenburns":"false","slideshownavigationtype":"thumbnails"},"id":"523e6a31-a542-4b5d-8d11-6057c1ccc93f","isHidden":false,"type":"slideshow"},{"content":{"columns":[{"columnwidth":"uk-width-expand@m","columnclass":"","columntitle":"","columncontenthtml":"markdown","columneditor":"","columncontent":"## And can have full slide gradient cover.\n\nThis one also have Ken Burns effect on.","columnhtml":"","subcolumns":[],"columncard":"false","columncardsize":"","columncardhover":"false","columncardcolor":""}],"title":"But can be full width","blockclass":"","blockid":"","sectionsize":" uk-section-large","sectioncolor":" uk-section-default","sectionremovepadding":"","backgroundimage":[],"backgroundimageposition":"","backgroundimagesize":"","backgroundimagerepeat":"","sectiontextcolor":"","backgroundoverlaycolor":null,"backgroundparalax":"","shapedividertoggle":"false","shapedivider":"","shapedividerposition":"","shapedividercolor":null,"customshapedivider":"","shapedividerheight":"","gridwidth":"","columnstack":"tablet","columngap":"","columnsverticalalign":"","columnshorizontalalign":"","columnsdivider":"false","centertext":"true","gridheadings":"false","columnsparallax":"false"},"id":"e871ff57-4898-4555-a2c8-931cc298c859","isHidden":false,"type":"grid"},{"content":{"slideshow":[{"slidecontentoption":"editor","slideimage":["file:\/\/tMPrigB7Q38R2Lvg"],"contentblocks":"[{\"content\":{\"level\":\"h2\",\"text\":\"Choose different overlays\",\"headingsize\":\" uk-heading-medium\",\"headingstyle\":\"\",\"headingcolor\":\"\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\"},\"id\":\"17458147-9548-4725-bf78-1555ad4348d6\",\"isHidden\":false,\"type\":\"heading\"},{\"content\":{\"text\":\"<p>Choose from several overlay options.<\\\/p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"ba4146cd-4486-4212-90fa-85eb586de2dd\",\"isHidden\":false,\"type\":\"text\"}]","slidecontent":"### Add slide text.\n\nOr don't. The next slide doesn't have text.","slidehtml":"","slidecontentposition":" uk-position-bottom-left","slidecontentpositioncenter":"","slidecontentwidth":"","slidecontentpadding":"","slidecontentpositionsize":""},{"slidecontentoption":"editor","slideimage":["file:\/\/IbedgSTLTtVS5y2R"],"contentblocks":"[{\"content\":{\"level\":\"h2\",\"text\":\"Add Ken Burns effect\",\"headingsize\":\" uk-heading-small\",\"headingstyle\":\"\",\"headingcolor\":\"\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\"},\"id\":\"446b48f4-bc82-4746-b0ea-7ce7923a4b16\",\"isHidden\":false,\"type\":\"heading\"},{\"content\":{\"text\":\"<p>There is something cool in it.<\\\/p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"deea3775-3e86-4964-8f19-b1e52a5bec1d\",\"isHidden\":false,\"type\":\"text\"}]","slidecontent":"## Ken Burns is smooth.\n\nThere is something cool in it.","slidehtml":"","slidecontentposition":" uk-position-bottom-left","slidecontentpositioncenter":"","slidecontentwidth":"","slidecontentpadding":"","slidecontentpositionsize":""},{"slidecontentoption":"editor","slideimage":["file:\/\/IELVmaNRIPMZG7z7"],"contentblocks":"[{\"content\":{\"level\":\"h2\",\"text\":\"Sail with the wind.\",\"headingsize\":\" uk-heading-small\",\"headingstyle\":\"\",\"headingcolor\":\"\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\"},\"id\":\"e833d47a-3319-464d-b407-b5d0c1fb9df1\",\"isHidden\":false,\"type\":\"heading\"},{\"content\":{\"text\":\"<p>You can add link, button or any other content.<\\\/p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"cf44eef3-908d-49bf-ba01-aa71fe0e80ca\",\"isHidden\":false,\"type\":\"text\"},{\"content\":{\"text\":\"Hi, I am link button\",\"buttonicon\":\"\",\"linktype\":\"internal\",\"link\":\"\",\"internalpage\":[],\"filelink\":[],\"emaillink\":\"\",\"phonelink\":\"\",\"target\":\"false\",\"buttonstyle\":\" uk-button-link\",\"buttonsize\":\"\",\"margintop\":\"\"},\"id\":\"e8c5113e-609a-4d29-9572-d3ece3deec16\",\"isHidden\":false,\"type\":\"button\"}]","slidecontent":"## Sail with the wind.\n\nYou can add link, button or any other content.\n\n(link: # text: Hi, I am button class: uk-button uk-button-default)","slidehtml":"","slidecontentposition":"center","slidecontentpositioncenter":" uk-position-center-left","slidecontentwidth":"","slidecontentpadding":"","slidecontentpositionsize":""}],"title":"Full gradient cover","blockclass":"","blockid":"","slideshowwidth":"full","slideshowstyle":"gradient-cover","inversetextcolor":"false","slideshowanimation":"fade","slidecontentpadding":" uk-padding-large","slidecontentpositionsize":" uk-position-large","slideshowkenburns":"true","slideshownavigationtype":"arrows"},"id":"624988ca-7b19-44d6-adce-0d39fe1426ad","isHidden":false,"type":"slideshow"}]
+
+----
+
+Disallowsubmenu: false
+
+----
+
+Newtab: false
+
+----
+
+Menuitemicon: 
+
+----
+
+Megamenu: false
+
+----
+
+Megamenuwidth: 
+
+----
+
+Megamenuitemwidth: 
+
+----
+
+Megamenubackground: false
+
+----
+
+Megamenubackgroundimage: 
+
+----
+
+Megamenubackgroundimageposition: 
+
+----
+
+Megamenubackgroundimagesize: 
+
+----
+
+Megamenubackgroundimagerepeat: 
+
+----
+
+Megamenubackgroundgradientoverlay: false
+
+----
+
+Megamenubackgroundgradienttransition: 
+
+----
+
+Transparentnavbar: 
+
+----
+
+Navbarinverse: false
+
+----
+
+Headersection: true
+
+----
+
+Alttitle: 
+
+----
+
+Intro: Clients love slideshows. Well, don't worry, we got you covered.
+
+----
+
+Headerbackgroundtoggle: false
+
+----
+
+Header: 
+
+----
+
+Headerimageposition: 
+
+----
+
+Headerimagesize: 
+
+----
+
+Headerimagerepeat: 
+
+----
+
+Headertextcolor: 
+
+----
+
+Backgroundparalax: 
+
+----
+
+Shapedividertoggle: false
+
+----
+
+Shapedivider: 
+
+----
+
+Shapedividerposition: 
+
+----
+
+Customshapedivider: 
+
+----
+
+Shapedividerheight: 
+
+----
+
+Metafile: 
+
+----
+
+Sitemap: true
+
+----
+
+Metatitle: 
+
+----
+
+Metadescription: 
+
+----
+
+Uuid: aSHXXq6BXbmcbm4e

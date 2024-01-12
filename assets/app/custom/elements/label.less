@@ -1,0 +1,46 @@
+//
+// Component: Label
+//
+// ========================================================================
+
+
+// Variables
+// ========================================================================
+
+
+
+// Component
+// ========================================================================
+
+.hook-label() {
+    & when (@global-borders-rounded = true) {
+        border-radius: 50px;
+    }
+}
+
+
+// Color modifiers
+// ========================================================================
+
+.uk-label-secondary {
+    background-color: @global-secondary-background;
+    color: @global-muted-color;
+}
+
+.hook-label-success() {}
+
+.hook-label-warning() {}
+
+.hook-label-danger() {}
+
+
+// Miscellaneous
+// ========================================================================
+
+.hook-label-misc() {}
+
+
+// Inverse
+// ========================================================================
+
+.hook-inverse-label() {}

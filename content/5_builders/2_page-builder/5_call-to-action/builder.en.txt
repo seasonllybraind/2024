@@ -1,0 +1,161 @@
+Title: Call to action section
+
+----
+
+Animation: true
+
+----
+
+Modules: [{"content":{"cpttext":"# Awesome cool landing page made easy.\n\nCreate context around your projects with flexible workspaces to design ideas.","cptlinktext":"Learn more","cptlink":["page://pplFXDLgBuXrPpu4"],"cptbuttoncolor":" uk-button-primary","cptbuttonsize":"large","title":"Muted","blockclass":"","blockid":"","cptsize":" uk-section-large","cpttextwidth":"large","cptheadings":"false","cptstyle":" uk-section-muted","cptimage":[],"cptimageposition":"","cptimagesize":"","cptimagerepeat":"","cpttextcolor":"","cptoverlaycolor":null},"id":"928a935b-cbb5-4314-bd31-de09f48e0f09","isHidden":false,"type":"cpt"},{"content":{"cpttext":"## Crafting High-quality projects, Let’s meet & collaborate!\n\nWe love what we do and we do it with passion.","cptlinktext":"Contact us","cptlink":["page://pplFXDLgBuXrPpu4"],"cptbuttoncolor":" uk-button-default","cptbuttonsize":"large","title":"Primary","blockclass":"","blockid":"","cptsize":" uk-section-large","cpttextwidth":"large","cptheadings":"false","cptstyle":" uk-section-primary","cptimage":[],"cptimageposition":"","cptimagesize":"","cptimagerepeat":"","cpttextcolor":"","cptoverlaycolor":null},"id":"f78f7aeb-782b-4353-9a2c-5c54f1a9ef04","isHidden":false,"type":"cpt"},{"content":{"cpttext":"# We are the best.\n\nEmerging technologies, communications, and models of practice offer a new generation the ability to identify.","cptlinktext":"Let's connect","cptlink":["page://pplFXDLgBuXrPpu4"],"cptbuttoncolor":" uk-button-primary","cptbuttonsize":"large","title":"Secondary large","blockclass":"","blockid":"","cptsize":" uk-section-xlarge","cpttextwidth":"large","cptheadings":"false","cptstyle":" uk-section-secondary","cptimage":[],"cptimageposition":"","cptimagesize":"","cptimagerepeat":"","cpttextcolor":"","cptoverlaycolor":null},"id":"298e4cad-819c-42a7-a61d-ab1b585e248e","isHidden":false,"type":"cpt"},{"content":{"cpttext":"# Look and see for yourself the quality of our projects.\n\nYes, you can use an image, make a container, and general padding smaller.","cptlinktext":"See our portfolio","cptlink":["page://pplFXDLgBuXrPpu4"],"cptbuttoncolor":" uk-button-default","cptbuttonsize":"large","title":"With image small","blockclass":"","blockid":"","cptsize":" uk-section-small","cpttextwidth":"small","cptheadings":"false","cptstyle":"image","cptimage":["file://oXkcBVJ5VmzqH5lg"],"cptimageposition":" uk-background-center-center","cptimagesize":" uk-background-cover","cptimagerepeat":" no-repeat","cpttextcolor":" uk-light","cptoverlaycolor":"#00000066"},"id":"17f84477-17a4-41bd-a442-5d942634b3f6","isHidden":false,"type":"cpt"}]
+
+----
+
+Hidenavbar: false
+
+----
+
+Disallowsubmenu: false
+
+----
+
+Newtab: false
+
+----
+
+Menuitemicon: 
+
+----
+
+Megamenu: false
+
+----
+
+Megamenuwidth: 
+
+----
+
+Megamenuitemwidth: 
+
+----
+
+Megamenubackground: false
+
+----
+
+Megamenubackgroundimage: 
+
+----
+
+Megamenubackgroundimageposition: 
+
+----
+
+Megamenubackgroundimagesize: 
+
+----
+
+Megamenubackgroundimagerepeat: 
+
+----
+
+Megamenubackgroundgradientoverlay: false
+
+----
+
+Megamenubackgroundgradienttransition: 
+
+----
+
+Transparentnavbar: 
+
+----
+
+Navbarinverse: false
+
+----
+
+Headersection: true
+
+----
+
+Alttitle: 
+
+----
+
+Intro: Make visitors click where you want them to.
+
+----
+
+Headerbackgroundtoggle: false
+
+----
+
+Header: 
+
+----
+
+Headerimageposition: 
+
+----
+
+Headerimagesize: 
+
+----
+
+Headerimagerepeat: 
+
+----
+
+Headertextcolor: 
+
+----
+
+Backgroundparalax: 
+
+----
+
+Shapedividertoggle: false
+
+----
+
+Shapedivider: 
+
+----
+
+Shapedividerposition: 
+
+----
+
+Customshapedivider: 
+
+----
+
+Shapedividerheight: 
+
+----
+
+Hidefooter: false
+
+----
+
+Metafile: 
+
+----
+
+Sitemap: true
+
+----
+
+Metatitle: 
+
+----
+
+Metadescription: 
+
+----
+
+Customcss: 
+
+----
+
+Uuid: UbPzEiCCPrwYdGaw

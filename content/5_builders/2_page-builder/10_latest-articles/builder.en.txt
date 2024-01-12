@@ -1,0 +1,149 @@
+Title: Latest articles section
+
+----
+
+Animation: true
+
+----
+
+Modules: [{"content":{"title":"","blockid":"","blockclass":"","articlesimage":"true","articlescolor":"secondary","articletitlesize":"uk-h4","articlestitle":"## Latest articles\n\nSecondary background color with images.","articles":[]},"id":"ce819895-f301-4664-8508-1718450823d1","isHidden":false,"type":"articles"},{"content":{"title":"","blockid":"","blockclass":"","articlesimage":"false","articlescolor":"primary","articletitlesize":"uk-h2","articlestitle":"## Latest articles\n\nPrimary background color no images.","articles":[]},"id":"272d8f88-0a43-4798-8413-be988497c834","isHidden":false,"type":"articles"},{"content":{"title":"","blockid":"","blockclass":"","articlesimage":"true","articlescolor":"muted","articletitlesize":"","articlestitle":"## Latest articles\n\nMuted background color with images.","articles":[]},"id":"db7ef067-43a9-4eb1-8b87-cf608c03dac5","isHidden":false,"type":"articles"},{"content":{"title":"","blockid":"","blockclass":"","articlesimage":"false","articlescolor":"","articletitlesize":"","articlestitle":"## Latest articles\n\nDefault background color no images.","articles":[]},"id":"29b6dbb0-3b62-4cd8-9851-edd7600a4230","isHidden":false,"type":"articles"}]
+
+----
+
+Disallowsubmenu: false
+
+----
+
+Newtab: false
+
+----
+
+Menuitemicon: 
+
+----
+
+Megamenu: false
+
+----
+
+Megamenuwidth: 
+
+----
+
+Megamenuitemwidth: 
+
+----
+
+Megamenubackground: false
+
+----
+
+Megamenubackgroundimage: 
+
+----
+
+Megamenubackgroundimageposition: 
+
+----
+
+Megamenubackgroundimagesize: 
+
+----
+
+Megamenubackgroundimagerepeat: 
+
+----
+
+Megamenubackgroundgradientoverlay: false
+
+----
+
+Megamenubackgroundgradienttransition: 
+
+----
+
+Transparentnavbar: 
+
+----
+
+Navbarinverse: false
+
+----
+
+Headersection: true
+
+----
+
+Alttitle: 
+
+----
+
+Intro: Display the latest posts on any page with Page Builder.
+
+----
+
+Headerbackgroundtoggle: false
+
+----
+
+Header: 
+
+----
+
+Headerimageposition: 
+
+----
+
+Headerimagesize: 
+
+----
+
+Headerimagerepeat: 
+
+----
+
+Headertextcolor: 
+
+----
+
+Backgroundparalax: 
+
+----
+
+Shapedividertoggle: false
+
+----
+
+Shapedivider: 
+
+----
+
+Shapedividerposition: 
+
+----
+
+Customshapedivider: 
+
+----
+
+Shapedividerheight: 
+
+----
+
+Metafile: 
+
+----
+
+Sitemap: true
+
+----
+
+Metatitle: 
+
+----
+
+Metadescription: 
+
+----
+
+Uuid: yqfykTdYZ0m0noHp

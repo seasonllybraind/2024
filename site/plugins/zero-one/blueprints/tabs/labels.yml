@@ -1,0 +1,623 @@
+label: 
+  en: Site Labels
+  de: Site Beschriftung
+icon: tag
+fields:
+
+  info:
+    type: info
+    text: 
+      en: To edit the labels on your site, just replace the text in the fields below.
+      de: Um die Beschriftungen auf Ihrer Site zu bearbeiten, ersetzen Sie einfach den Text in den Feldern unten.
+
+  labelBlog:
+    label: 
+      en: Blog Section
+      de: Blog-Bereich
+    type: headline
+  # Read More
+  labelReadMore:
+    label: 
+      en: Read More
+      de: Weiterlesen
+    type: text
+    width: 1/4
+  # Published on
+  labelPublished:
+    label: 
+      en: Published on
+      de: Veröffentlicht auf
+    type: text
+    width: 1/4
+  labelCategoryTitle:
+    label: 
+      en: Category title
+      de: Titel der Kategorie 
+    default: "Category:"
+    help: Default text is "Category:"
+    type: text
+    width: 1/4
+  labelTagTitle:
+    label: 
+      en: Tag title
+      de: Titel des Tags
+    default: "Tag:"
+    help: Default text is "Tag:"
+    type: text
+    width: 1/4
+  labelArchivesTitle:
+    label: 
+      en: Archives title
+      de: Archivtitel
+    default: "Archives:"
+    type: text
+    width: 1/4
+  labelArchiveText:
+    label: 
+      en: Archive header description
+      de: Beschreibung der Archivheader
+    type: text
+    width: 1/4
+  labelArchiveName:
+    label: 
+      en: Archive name
+      de: Archivname
+    type: text
+    width: 1/4
+  # Back to blog
+  labelBacktoblog:
+    label: 
+      en: Back to (blog page title)
+      de: Zurück zum (Titel der Blogseite)
+    type: text
+    help: Default text is '‹ Back to'
+    width: 1/4
+
+  labelAside:
+    label: 
+      en: Sidebar
+      de: Seitenleiste
+    type: headline
+  # Profile
+  labelProfile:
+    label: 
+      en: Profile
+      de: Profil
+    type: text
+    width: 1/4
+  # Categories
+  labelCategories:
+    label: 
+      en: Categories
+      de: Kategorien
+    type: text
+    width: 1/4
+  # Archive
+  labelArchive:
+    label: 
+      en: Archive
+      de: Archiv
+    type: text
+    width: 1/4
+  # Tags
+  labelTags:
+    label: 
+      en: Tags
+      de: Stichworte
+    type: text
+    width: 1/4
+  # Social Media
+  labelStayconnected:
+    label: 
+      en: Stay Connected
+      de: In Verbindung bleiben
+    type: text
+    width: 1/4
+
+  labelArticle:
+    label: 
+      en: Single Article
+      de: Einzelner Artikel
+    type: headline
+  # Share Article
+  labelShareArticle:
+    label: 
+      en: Share Article
+      de: Artikel teilen
+    type: text
+    width: 1/4
+  # Related Article
+  labelRelatedArticle:
+    label: 
+      en: Related Articles
+      de: Zum Thema passende Artikel
+    type: text
+    width: 1/4
+  # Next Article
+  labelNext:
+    label: 
+      en: Next Article
+      de: Nächster Artikel
+    type: text
+    width: 1/4
+  # Prev Article
+  labelPrev:
+    label: 
+      en: Prev Article
+      de: Vorheriger Artikel
+    type: text
+    width: 1/4
+  # Tagged
+  labelTagged:
+    label: 
+      en: Tagged
+      de: Etikettieren
+    type: text
+    width: 1/4
+  # Latest posts
+  labelLatestPosts:
+    label: 
+      en: Latest Posts
+      de: Neueste Beiträge
+    type: text
+    width: 1/4
+  # Posted in
+  labelPostedIn:
+    label: 
+      en: Posted in
+      de: Veröffentlicht in
+    type: text
+    width: 1/4
+  # Written by
+  labelWrittenBy:
+    label: 
+      en: Written by
+      de: Geschrieben von
+    type: text
+    width: 1/4
+  # on
+  labelWrittenOn:
+    label: 
+      en: Written on
+      de: Geschrieben auf
+    type: text
+    width: 1/4
+  # co-authors
+  labelCoauthors:
+    label: 
+      en: Co-authors
+      de: Co-Autoren
+    type: text
+    placeholder: "Co-authors"
+    width: 1/4
+  # comment
+  labelCommentsHeading:
+    label: 
+      en: Tell us what you think
+      de: Teilen Sie mit uns Ihre meinung
+    type: text
+    help: 
+        en: Comments title
+        de: Titel der Kommentare
+    width: 1/4
+
+  labelWork:
+    label: 
+      en: Work section
+      de: Arbeitsbereich
+    type: headline
+  # button
+  labelProjectButton:
+    label: 
+      en: Project button text
+      de: Text der Projektschaltfläche
+    type: text
+    width: 1/4
+  # Newer
+  labelNewer:
+    label: 
+      en: Newer projects
+      de: Neuere Projekte
+    type: text
+    width: 1/4
+  # Older
+  labelOlder:
+    label: 
+      en: Older projects
+      de: Ältere Projekte
+    type: text
+    width: 1/4
+
+  labelProject:
+    label: 
+      en: Project
+      de: Projekt
+    type: headline
+  # Next Project
+  labelNextProject:
+    label: 
+      en: Next Project
+      de: Nächstes Projekt
+    type: text
+    width: 1/4
+  # Prev Project
+  labelPrevProject:
+    label: 
+      en: Prev Project
+      de: Vorheriges Projekt
+    type: text
+    width: 1/4
+
+  labelSearch:
+    label: 
+      en: Search
+      de: Suche
+    type: headline
+  # Search text
+  labelSearchText:
+    label: 
+      en: Search Text
+      de: Suchtext
+    type: text
+    width: 1/2
+  # Search note
+  labelSearchNote:
+    label: 
+      en: Search For Note
+      de: Suche nach Notiz
+    type: text
+    width: 1/4
+  # Search placeholder
+  labelSearchPlaceholder:
+    label: 
+      en: Search placeholder
+      de: Platzhalter suchen
+    type: text
+    width: 1/4
+  # Search no results
+  labelSearchNoResults:
+    label: 
+      en: Search no results text
+      de: Suche keinen Ergebnistext
+    type: text
+    width: 1/4
+
+  # Language
+  labelLanguage:
+    label: 
+      en: Language
+      de: Sprache
+    type: headline
+  # Language select text
+  labelLanguageTitle:
+    label: 
+      en: Language select title
+      de: Sprache Titel auswählen
+    type: text
+    width: 1/2
+  labelLanguageFooter:
+    label: 
+      en: Language select footer
+      de: Fußzeile zur Sprachauswahl
+    type: text
+    width: 1/2
+
+  labelContact:
+    label: 
+      en: Contact form
+      de: Kontakt Formular
+    type: headline
+  # Email
+  labelEmail:
+    label: Email
+    type: text
+    width: 1/4
+  # Name
+  labelName:
+    label: Name
+    type: text
+    width: 1/4
+  # Message
+  labelMessage:
+    label: 
+      en: Message
+      de: Botschaft
+    type: text
+    width: 1/4
+  # Submit
+  labelSubmit:
+    label: 
+      en: Submit
+      de: Einreichen
+    type: text
+    width: 1/4
+  # Alerts
+  labelAlertName:
+    label: 
+      en: Alert - Name
+      de: Warnung - Name
+    type: text
+    help: Default text is 'Please enter a valid name'
+    width: 1/3
+  labelAlertEmail:
+    label: 
+      en: Alert - Email
+      de: Warnung - E-Mail
+    type: text
+    help: Default text is 'Please enter a valid email address'
+    width: 1/3
+  labelAlertMessage:
+    label: 
+      en: Alert - Message
+      de: Warnung - Nachricht
+    type: text
+    help: Default text is 'Please enter a text between 3 and 3000 characters'
+    width: 1/3
+  # From error
+  labelFormError:
+    label: 
+      en: Form error message
+      de: Fehlermeldung des Formulars
+    type: text
+    help: Default text is 'The form could not be sent'
+    width: 1/2
+  # From success
+  labelFormSuccess:
+    label: 
+      en: Form success message
+      de: Erfolgsmeldung formen
+    type: text
+    help: Default text is 'Your message has been sent, thank you. We will get back to you soon!'
+    width: 1/2
+  # Email subject
+  labelEmailSubject:
+    label: 
+      en: Email subject text
+      de: Betrefftext der E-Mail
+    type: text
+    help: Default text is '[NAME] sent you a message from your contact form'
+    width: 1/2
+  # From privacy
+  labelFormPrivacy:
+    label: 
+      en: Form privacy note
+      de: Datenschutzhinweis formular
+    type: writer
+    inline: true
+    help: 
+      en: Default text is 'I agree to the privacy policy'. You can add links.
+      de: Der Standardtext ist 'I agree to the privacy policy'. Sie können Links hinzufügen.
+    width: 1/2
+
+  labelShop:
+    label: Shop
+    type: headline
+  # Learn more button
+  labelStackedbutton:
+    label: 
+      en: Learn more button text
+      de: Erfahren Sie mehr Schaltflächentext
+    type: text
+    help: Default text is 'Learn more'
+    width: 1/4
+  # Product category
+  labelShopcategory:
+    label: 
+      en: Product category title
+      de: Titel der Produktkategorie 
+    type: text
+    help: Default text is 'Category:'
+    width: 1/4
+  # Product tag
+  labelShoptag:
+    label: 
+      en: Product tag title
+      de: Titel des Produkt-Tags 
+    type: text
+    help: Default text is 'Tag:'
+    width: 1/4
+  # Back to shop
+  labelBacktoshop:
+    label: 
+      en: Back to (shop page title)
+      de: Zurück zum (Titel der Shop-Seite)  
+    type: text
+    help: Default text is '‹ Back to'
+    width: 1/4
+  # Shop archive text
+  labelShoparchivetext:
+    label: 
+      en: Shop archive header description
+      de: Header-Beschreibung des Shop-Archivs
+    type: text
+    help: Default text is 'List of products in'
+    width: 1/4
+  # Shop archive name
+  labelShoparchivename:
+    label: 
+      en: Shop archive name
+      de: Shop-Archivname
+    type: text
+    help: Default text is 'archives.'
+    width: 1/4
+  # Featured product
+  labelProductfeatured:
+    label: 
+      en: Product featured
+      de: Produkt vorgestellt
+    type: text
+    help: Default text is 'Featured'
+    width: 1/4
+  # New product
+  labelProductnew:
+    label: 
+      en: Product new
+      de: Produkt neu 
+    type: text
+    help: Default text is 'New'
+    width: 1/4
+  # Out of stock product
+  labelProductsold:
+    label: 
+      en: Out of stock
+      de: Ausverkauft 
+    type: text
+    help: Default text is 'Out of stock'
+    width: 1/4
+  # Variable product
+  labelProductoptions:
+    label: 
+      en: Select options
+      de: Optionen wählen
+    type: text
+    help: Default text is 'Select options'
+    width: 1/4
+
+  labelProduct:
+    label: 
+      en: Product
+      de: Produkt
+    type: headline
+  # Add to cart
+  labelAddtocart:
+    label: 
+      en: Add to cart text
+      de: Warenkorbtext hinzufügen
+    type: text
+    help: Default text is 'Add to cart'
+    width: 1/4
+  # Product ID
+  labelProductid:
+    label: 
+      en: Product ID
+      de: Produkt ID
+    type: text
+    help: Default text is 'Product ID:'
+    width: 1/4
+  # Product category
+  labelProductcategory:
+    label: 
+      en: Product category
+      de: Produktkategorie 
+    type: text
+    help: Default text is 'Category:'
+    width: 1/4
+  # Product category
+  labelProducttag:
+    label: 
+      en: Product tag
+      de: Produktetikett 
+    type: text
+    help: Default text is 'Tags:'
+    width: 1/4
+  # Product share
+  labelProductshare:
+    label: 
+      en: Product share text
+      de: Text zum Teilen von Produkten
+    type: text
+    help: Default text is 'Share:'
+    width: 1/4
+  # Product description
+  labelProductdescription:
+    label: 
+      en: Product description
+      de: Produktbeschreibung
+    type: text
+    help: Default text is 'Product description'
+    width: 1/4
+  # Additional information
+  labelAdditionalinformation:
+    label: 
+      en: Additional information
+      de: Zusätzliche Information
+    type: text
+    help: Default text is 'Additional information'
+    width: 1/4
+  # Product weight
+  labelProductweight:
+    label: 
+      en: Product weight text
+      de: Text zum Produktgewicht
+    type: text
+    help: Default text is 'Weight'
+    width: 1/4
+  # Product lenght
+  labelProductlength:
+    label: 
+      en: Product length text
+      de: Text zur Produktlänge
+    type: text
+    help: Default text is 'Length'
+    width: 1/4
+  # Product height
+  labelProductheight:
+    label: 
+      en: Product height text
+      de: Text zur Produkthöhe
+    type: text
+    help: Default text is 'Height'
+    width: 1/4
+  # Product width
+  labelProductwidth:
+    label: 
+      en: Product width text
+      de: Text für die Produktbreite
+    type: text
+    help: Default text is 'Width'
+    width: 1/4
+  # Product free
+  labelProductfree:
+    label: 
+      en: Free product text
+      de: Kostenloser Produkttext
+    type: text
+    help: Default text is 'Free'
+    width: 1/4
+  # Previous product
+  labelProductprevious:
+    label: 
+      en: Previous product
+      de: Vorheriges Produkt 
+    type: text
+    help: Default text is 'Previous product'
+    width: 1/4
+  # Next product
+  labelProductnext:
+    label: 
+      en: Next product
+      de: Nächstes Produkt 
+    type: text
+    help: Default text is 'Next product'
+    width: 1/4
+  # Product related
+  labelProductrelated:
+    label: 
+      en: Related products title
+      de: Titel verwandter Produkte
+    type: text
+    help: Default text is 'You might also like'
+    width: 1/4
+
+  # Product search
+  labelProductSearch:
+    label: 
+      en: Product search
+      de: Produkt Suche
+    type: headline
+  # Product search title
+  labelProductSearchTitle:
+    label: 
+      en: Product search title
+      de: Titel der Produktsuche
+    type: text
+    help: Default text is 'Products search'
+    width: 1/4
+  # Product search intro
+  labelProductSearchIntro:
+    label: 
+      en: Product search intro
+      de: Einführung in die Produktsuche
+    type: text
+    help: Default text is 'Search through our products'
+    width: 1/4

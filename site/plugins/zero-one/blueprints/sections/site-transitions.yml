@@ -1,0 +1,34 @@
+type: fields
+fields:
+  transitions:
+    label: 
+      en: Page transitions
+      de: Seitenübergänge
+    type: headline
+    numbered: false
+    help: 
+      en: This option adds smooth page transitions without a browser refresh.
+      de: Diese Option fügt reibungslose Seitenübergänge ohne eine Browseraktualisierung hinzu. 
+  pageTransitions:
+    label:
+      en: Page transitions
+      de: Seitenübergänge
+    type: toggle
+    translate: false
+    width: 1/3
+  transitionsHelp:
+    label: 
+      en: Important note
+      de: Wichtiger Hinweis 
+    type: info
+    text: 
+      en: |
+        **Not compatible with Snipcart.** If Snipcart is turned on this option will be ignored, and transitions will be automatically turned off.
+        
+        **If you are extending theme code**, and want to have page transitions, please read this (link: https://www.one.thezero.club/guide/theme-extending/page-transitions-swup text: documentation page target: _blank) first.
+      de: |
+        **Nicht kompatibel mit Snipcart.** Wenn Snipcart eingeschaltet ist, wird diese Option ignoriert und Übergänge werden automatisch ausgeschaltet.
+        
+        **Wenn Sie Designcode erweitern** und Seitenübergänge haben möchten, lesen Sie bitte zuerst diese (link: https://www.one.thezero.club/guide/theme-extending/page-transitions-swup text: Dokumentationsseite target: _blank).
+  transitionsGap:
+    type: gap

@@ -1,0 +1,112 @@
+title: Site
+
+tabs:
+  # Site Content tab
+  content: tabs/site-content
+
+  # Site Settings tab
+  siteoptions:
+    label: zero.site.settings.headline
+    icon: settings
+    columns:
+      - width: 2/3
+        sections:
+          # brand settings
+          sitesetup: 
+            extends: sections/site-brand
+
+          # navbar
+          navbar:
+            extends: sections/site-navbar
+
+          # header
+          headersettings:
+            extends: sections/site-header
+
+          #projects section
+          projectsettings:
+            extends: sections/site-projects
+
+          #shop section
+          shopsettings:
+            extends: sections/site-shop
+
+           # social
+          socialsettings:
+            extends: sections/site-social
+
+          # footer builder
+          footerBuilder:
+            type: fields
+            fields:
+              footer:
+                label: 
+                  en: Footer
+                  de: Fusszeile
+                type:  headline
+              # footer builder
+              footerBuilder:
+                label: Footer builder
+                type: toggles
+                default: content-builder
+                options:
+                  - value: content-builder
+                    text: Footer Options (Old)
+                    icon: settings
+                  - value: layout-builder
+                    text: Layout Builder (New)
+                    icon: grid
+              
+          #footer section
+          footersettings:
+            extends: sections/site-footer
+            when:
+              footerBuilder: content-builder
+          
+          # Layout Builder sections
+          layoutBuilder:
+            extends: sections/layout-builder
+            when:
+              footerBuilder: layout-builder
+
+          # custom settings
+          customsettings:
+            extends: sections/custom-site
+
+      - width: 1/3
+        sections:
+          # media settings
+          mediaSettings:
+            extends: sections/site-media
+
+          # performance settings
+          performanceSettings:
+            extends: sections/site-performance
+
+            # misc settings
+          miscsettings:
+            extends: sections/site-misc
+
+          # transitions section
+          transitionsettings:
+            extends: sections/site-transitions
+
+          # cookie consent section
+          cookiesettings:
+            extends: sections/site-cookie
+
+          # email section
+          emailsettings:
+            extends: sections/site-email
+
+  # SEO tab
+  seo:
+    extends: tabs/site-seo
+
+  # Labels tab
+  labels:
+    extends: tabs/labels
+
+  # Styling tab
+  styling:
+    extends: tabs/styling

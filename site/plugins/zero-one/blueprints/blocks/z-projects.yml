@@ -1,0 +1,182 @@
+name: 
+  en: Latest projects
+  de: Neueste Projekte
+icon: book
+
+preview: projects
+
+tabs:
+  # content tab
+  projects:
+    label: 
+      en: Content
+      de: Inhalt
+    icon: edit
+    fields:
+      # projects headline
+      projectsHeadline:
+        label: 
+          en: Latest projects
+          de: Neueste Projekte
+        type: headline
+        numbered: false
+      # cover size
+      projectsCover:
+        label: 
+          en: Projects cover size
+          de: Projekte decken Größe ab
+        type: toggle
+        text:
+          - "Inherit"
+          - "Custom"
+        help: 
+          en: Define cover image size.
+          de: Definieren Sie die Größe des Titelbilds.
+        width: 1/3
+      coverWidth:
+        label: 
+          en: Cover image width
+          de: Breite des Titelbilds
+        type: number
+        placeholder: 600
+        default: 600
+        after: 'px'
+        help: 
+          en: Default width is 600px.
+          de: Die Standardbreite beträgt 600 Pixel.
+        width: 1/3
+        when:
+          projectsCover: true
+      coverHeight:
+        label: 
+          en: Cover image height
+          de: Höhe des Titelbilds
+        type: number
+        placeholder: 800
+        default: 800
+        after: 'px'
+        help: 
+          en: Default height is 800px.
+          de: Die Standardhöhe beträgt 800 Pixel.
+        width: 1/3
+        when:
+          projectsCover: true
+      # Select products
+      projects:
+        label: 
+          en: Select work/projects page
+          de: Wählen Sie die Seite Arbeit/Projekte aus 
+        type: pages
+        query: site.index.filterBy('template', 'in', ['work'])
+        multiple: false
+        subpages: false
+        empty: 
+          en: No work/projects page selected
+          de: Keine Arbeits-/Projektseite ausgewählt 
+      infoProjects:
+        label: Info
+        type: info
+        text: 
+          en: If no work/projects page is selected, projects from the first work/projects page Kirby find will be displayed.
+          de: Wenn keine Arbeits-/Projektseite ausgewählt ist, werden Projekte von der ersten Arbeits-/Projektseite von Kirby Find angezeigt.
+      # maximum number of projects
+      maxProjects:
+        label: 
+          en: Number of projects
+          de: Anzahl der Projekte
+        type: number
+        placeholder: 5
+        min: 1
+        help: 
+          en: Maximum number. Default is 5.
+          de: Maximale Anzahl. Standard ist 5.
+        width: 1/3
+      # column width
+      columnWidth:
+        label: 
+          en: Column width
+          de: Spaltenbreite
+        type: select
+        placeholder: Default
+        options:
+          "uk-child-width-1-1@l": 1/1
+          "uk-child-width-1-2@m": 1/2
+          "uk-child-width-1-3@m": 1/3
+          "uk-child-width-1-4@m": 1/4
+          "uk-child-width-1-5@m": 1/5
+          "uk-child-width-1-6@m": 1/6
+        width: 1/3
+      # tabletWidth
+      tabletWidth:
+        label: 
+          en: Tablet columns width
+          de: Breite der Tablettspalten
+        type: select
+        placeholder: Default
+        options:
+          'uk-child-width-1-1@s ': 1/1
+          'uk-child-width-1-2@s ': 1/2
+          'uk-child-width-1-3@s ': 1/3
+        width: 1/3
+      # autoplay
+      autoplay:
+        label: Autoplay
+        type: toggle
+        width: 1/3
+      # infinite scrolling
+      finite:
+        label: 
+          en: Finite scrolling
+          de: Begrenztes Scrollen
+        type: toggle
+        width: 1/3
+      # slide sets
+      slideSets:
+        label: Slide sets
+        type: toggle
+        width: 1/3
+      # slider items heading
+
+      endGap:
+        type: gap
+
+  # settings tab
+  settings:
+    label: 
+      en: Settings
+      de: die Einstellungen
+    icon: cog
+    fields:
+      # block advanced heading
+      blockAdvancedHeadline:
+        label: 
+          en: Advanced
+          de: Fortschrittlich
+        type: headline
+        numbered: false
+      # block title
+      title:
+        label: 
+          en: Block title
+          de: Blocktitel
+        type: text
+        placeholder: My custom block name
+        width: 1/3
+      # block id
+      blockID:
+        label: 
+          en: Block ID
+          de: Block-ID
+        type: text
+        placeholder: my-custom-id
+        before: '#'
+        width: 1/3
+      # block class
+      blockClass:
+        label: 
+          en: Block custom class
+          de: Benutzerdefinierte Klasse blockieren
+        type: text
+        placeholder: my-custom-class
+        before: '.'
+        width: 1/3

@@ -1,0 +1,270 @@
+name: Slideshow
+label: - {{title}}
+icon: layers
+
+tabs:
+  # content tab
+  content:
+    label: 
+      en: Content
+      de: Inhalt
+    icon: edit
+    fields:
+      # slideshow
+      slideshow:
+        label: 
+          en: Slideshow items
+          de: Slideshow-Elemente
+        type: structure
+        columns: 
+          slideImage: 
+            width: 1/3
+          slideContentOption:
+            width: 1/3
+          slideContentPosition:
+            width: 1/3
+        max: 5
+        help: 
+          en: Maximum 5 items allowed.
+          de: Maximal 5 Artikel erlaubt.
+        fields:
+          slideContentOption:
+            label: 
+              en: Content format
+              de: Inhalt Format
+            type: radio
+            columns: 3
+            default: markdown
+            help: 
+              en: Choose whether the column content is Content blocks, KirbyText Markdown or plain HTML.
+              de: Wählen Sie aus, ob der Spalteninhalt Inhaltsblöcke, KirbyText Markdown oder reines HTML ist.
+            options:
+              editor: Content blocks
+              markdown: KirbyText
+              html: HTML
+          # slide image
+          slideImage:
+            label: 
+              en: Slide image
+              de: Slide Bild
+            extends: fields/image
+            layout: cards
+            size: small
+            multiple: false
+            width: 1/2
+            image:
+              cover: true
+          # content blocks
+          contentBlocks:
+            extends: fields/blockEditor
+            width: 1/2
+            when:
+              slideContentOption: editor
+          # kirbytext
+          slideContent:
+            label: 
+              en: Slide content
+              de: Slide Inhalt
+            type: textarea
+            width: 1/2
+            when:
+              slideContentOption: markdown
+          # html
+          slideHTML:
+            label: 
+              en: Column content HTML
+              de: Spalteninhalt HTML
+            type: textarea
+            buttons: false
+            font: monospace
+            size: medium
+            width: 1/2
+            when:
+              slideContentOption: html
+          # content position
+          slideContentPosition:
+            label: 
+              en: Slide content position
+              de: Position des Inhalts verschieben
+            type: select
+            default: " uk-position-bottom-left"
+            options:
+              " uk-position-top-left": Top left
+              " uk-position-bottom-left": Bottom left
+              " uk-position-top": Top
+              " uk-position-left": Left
+              center: Center
+            width: 1/2
+          slideContentPositionCenter:
+            label: 
+              en: Slide content position center
+              de: Schieben Sie die Inhaltsposition in die Mitte
+            type: select
+            default: " uk-position-center"
+            options:
+              " uk-position-top-center": Top center
+              " uk-position-center-left": Center left
+              " uk-position-bottom-center": Bottom center
+              " uk-position-center": Center
+            width: 1/2
+            when:
+              slideContentPosition: center
+          slideContentWidth:
+            label: 
+              en: Slide content width
+              de: Breite des Folieninhalts
+            type: select
+            placeholder: Auto
+            options:
+              " uk-width-1-3@s": 1/3
+              " uk-width-1-2@s": 1/2
+              " uk-width-2-3@s": 2/3
+            width: 1/2
+
+  # settings tab
+  settings:
+    label: 
+      en: Settings
+      de: die Einstellungen
+    icon: cog
+    fields:
+      title:
+        label: 
+          en: Section title
+          de: Abschnittsüberschrift
+        type: text
+        placeholder: My custom Block name
+        width: 1/3
+      blockClass:
+        label: 
+          en: Section custom class
+          de: Abschnitt benutzerdefinierte Klasse
+        type: text
+        placeholder: my-custom-class
+        before: '.'
+        width: 1/3
+      # block id
+      blockID:
+        label: 
+          en: Section ID
+          de: Abschnitts-ID
+        type: text
+        placeholder: my-custom-id
+        before: '#'
+        width: 1/3
+      # headline slideshow general
+      slideshowGeneralHeadline:
+        label: Slideshow general
+        type: headline
+        numbered: false
+      # slideshow width
+      slideshowWidth:
+        label: 
+          en: Slideshow width
+          de: Slideshow Breite
+        type: select
+        default: full
+        options:
+          full: 
+            en: Full
+            de: Voll
+          large: 
+            en: Large
+            de: Groß
+        width: 1/3
+      # content style
+      slideshowStyle:
+        label: 
+          en: Slide content style
+          de: Slide Inhalt Stil
+        type: select
+        default: gradient-cover
+        options:
+          gradient-cover: 
+            en: Gradient full cover
+            de: Gradient volle Abdeckung
+          " uk-overlay-gradient": Gradient
+          " uk-overlay-default": 
+            en: Default
+            de: Standard
+          " uk-overlay-primary": 
+            en: Primary
+            de: Primär
+          " uk-overlay-secondary": 
+            en: Secondary
+            de: Sekundär
+        width: 1/3
+      # inverse text color
+      inverseTextColor:
+        label: 
+          en: Inverse text color
+          de: Inverse Textfarbe
+        type: toggle
+        default: false
+        width: 1/3
+        when:
+          slideshowStyle: gradient-cover
+      # animation
+      slideshowAnimation:
+        label: Slideshow animation
+        type: select
+        default: "fade"
+        options:
+          "fade": Fade
+          "slide": Slide
+          "scale": Scale
+          "pull": Pull
+          "push": Push
+        width: 1/3
+      slideContentPadding:
+        label: 
+          en: Slide content padding
+          de: Schieben Sie das Auffüllen von Inhalten
+        type: select
+        default: " uk-padding-small"
+        options:
+          " uk-padding": Default
+          " uk-padding-small": Small
+          " uk-padding-large": Large
+        width: 1/3
+      slideContentPositionSize:
+        label: 
+          en: Slide content position size
+          de: Schieben Sie die Größe der Inhaltsposition
+        type: select
+        placeholder: None
+        options:
+          " uk-position-small": 
+            en: Small
+            de: Klein
+          " uk-position-medium": Medium
+          " uk-position-large": 
+            en: Large
+            de: Groß
+        width: 1/3
+      # kenburns
+      slideshowKenBurns:
+        label: Ken Burns effect
+        type: toggle
+        default: false
+        help: 
+          en: Add Ken Burns effect to slides.
+          de: Fügen Sie den Folien den Ken Burns-Effekt hinzu.
+        width: 1/3
+      # headline slideshow navigation
+      slideshowNavigationHeadline:
+        label: Slideshow navigation
+        type: headline
+        numbered: false
+      slideshowNavigationType:
+        label: Navigation type
+        type: radio
+        columns: 2
+        default: arrows
+        options:
+          arrows: Arrows
+          thumbnails: Thumbnails
+        width: 1/2
+      
+      bottomGap:
+        type: gap

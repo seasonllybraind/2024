@@ -1,0 +1,14 @@
+label:
+  en: Gradient transition
+  de: Gradientenübergang
+type: select
+placeholder: Top to bottom
+options:
+  "to top": Bottom to top
+  "to right": Left to right
+  "to left": Right to left
+  "to bottom right": To bottom right
+  "to bottom left": To bottom left
+  "to top right": To top right
+  "to top left": To top left
+width: 1/3

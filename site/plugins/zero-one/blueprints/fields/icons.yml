@@ -1,0 +1,159 @@
+label: 
+  en: Select icon
+  de: Symbol auswählen
+type: select
+placeholder: Select icon
+help:
+  en: |
+    See all icons on this (link: https://getuikit.com/docs/icon#library text: link target: _blank)
+  de: |
+    Alle Symbole finden Sie unter diesem (link: https://getuikit.com/docs/icon#library text: Link target: _blank)
+options:
+  home: Home
+  sign-in: Sign in
+  sign-out: Sign out
+  user: User
+  users: Users
+  lock: Lock
+  unlock: Unlock
+  settings: Settings
+  cog: Cog
+  nut: Nut
+  comment: Comment
+  commenting: Commenting
+  comments: Comments
+  hashtag: Hashtag
+  tag: Tag
+  cart: Cart
+  bag: Bag
+  credit-card: Credit card
+  mail: Mail
+  receiver: Telephone
+  print: Print
+  search: Search
+  location: Location
+  bookmark: Bookmark
+  code: Code
+  paint-bucket: Paint bucket
+  camera: Camera
+  video-camera: Video camera
+  bell: Bell
+  microphone: Microphone
+  bolt: Bolt
+  star: Star
+  heart: Heart
+  happy: Happy
+  lifesaver: Lifesaver
+  rss: RSS
+  social: Social
+  git-branch: Git branch
+  git-fork: Git fork
+  world: World
+  calendar: Calendar
+  clock: Clock
+  history: History
+  future: Future
+  crosshairs: Crosshairs
+  pencil: Pencil
+  trash: Trash
+  move: Move
+  link: Link
+  eye: Eye
+  eye-slash: Eye slash
+  question: Question
+  info: Info
+  warning: Warning
+  image: Image
+  thumbnails: Thumbnails
+  table: Table
+  list: List
+  menu: Menu
+  grid: Grid
+  more: More
+  more-vertical: More vertical
+  plus: Plus
+  plus-circle: Plus circle
+  minus: Minus
+  minus-circle: Minus circle
+  close: Close
+  check: Check
+  ban: Ban
+  refresh: Refresh
+  play: Play
+  play-circle: Play circle
+  tv: TV
+  desktop: Desktop
+  laptop: Laptop
+  tablet: Tablet
+  tablet-landscape: Tablet landscape
+  phone: Mobile
+  phone-landscape: Mobile landscape
+  file: File
+  file-text: File text
+  file-pdf: File PDF
+  copy: Copy
+  file-edit: File edit
+  folder: Folder
+  album: Album
+  push: Push
+  pull: Pull
+  server: Server
+  database: Database
+  cloud-upload: Cloud upload
+  cloud-download: Cloud download
+  upload: Upload
+  download: Download
+  reply: Reply
+  forward: Forward
+  expand: Expand
+  shrink: Shrink
+  arrow-up: Arrow up
+  arrow-down: Arrow down
+  arrow-left: Arrow left
+  arrow-right: Arrow right
+  chevron-up: Chevron up
+  chevron-down: Chevron down
+  chevron-left: Chevron left
+  chevron-right: Chevron right
+  chevron-double-left: Chevron double left
+  chevron-double-right: Chevron double right
+  triangle-up: Triangle up
+  triangle-down: Triangle down
+  triangle-left: Triangle left
+  triangle-right: Triangle right
+  bold: Bold
+  italic: Italic
+  strikethrough: Strikethrough
+  quote-right: Quote right
+  500px: 500px
+  behance: Behance
+  discord: Discord
+  dribbble: Dribbble
+  etsy: Etsy
+  facebook: Facebook
+  flickr: Flickr
+  foursquare: Foursquare
+  github: Github
+  github-alt: Github alt
+  gitter: Gitter
+  google: Google
+  instagram: Instagram
+  joomla: Joomla
+  linkedin: LinkedIn
+  pagekit: Pagekit
+  pinterest: Pinterest
+  reddit: Reddit
+  soundcloud: Soundcloud
+  tiktok: TikTok
+  tripadvisor: TripAdvisor
+  tumblr: Tumblr
+  twitch: Twitch
+  twitter: Twitter
+  uikit: UIkit
+  vimeo: Vimeo
+  whatsapp: Whatsapp
+  wordpress: WordPress
+  xing: Xing
+  yelp: Yelp
+  youtube: YouTube
+  mastodon: Mastodon

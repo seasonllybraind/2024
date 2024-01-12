@@ -1,0 +1,114 @@
+Title: Free[er] to Discover
+
+----
+
+Selectbuilder: page-builder
+
+----
+
+Layout: 
+
+----
+
+Animation: true
+
+----
+
+Modules: [{"content":{"columns":[{"columnwidth":"uk-width-expand@m","columnclass":"","columntitle":"","columncontenthtml":"markdown","columneditor":"","columncontent":"## We fulfill dreams of personal freedom.","columnhtml":"","subcolumns":[],"columncard":"false","columncardsize":"","columncardhover":"false","columncardcolor":""},{"columnwidth":"uk-width-expand@m","columnclass":"","columntitle":"","columncontenthtml":"markdown","columneditor":"","columncontent":"In 1903, out of a small shed in Milwaukee, Wisconsin, four young men lit a cultural wildfire that would grow and spread across geographies and generations. Their innovation and imagination for what was possible on two wheels sparked a transportation revolution and a motorcycle culture that would make Harley-Davidson one of the most recognized and revered brands in the world.\n\nWe fulfill dreams of personal freedom \u2013 it\u2019s our purpose, and we take it seriously. And while freedom means different things to different people, it\u2019s a bond that brings Harley-Davidson customers, employees, dealers, suppliers and enthusiasts together.","columnhtml":"","subcolumns":[],"columncard":"false","columncardsize":"","columncardhover":"false","columncardcolor":""}],"title":"","blockclass":"","blockid":"","sectionsize":" uk-section-large","sectioncolor":" uk-section-default","sectionremovepadding":"","backgroundimage":[],"backgroundimageposition":"","backgroundimagesize":"","backgroundimagerepeat":"","sectiontextcolor":"","backgroundoverlaycolor":null,"backgroundparalax":"","shapedividertoggle":"false","shapedivider":"","shapedividerposition":"","shapedividercolor":null,"customshapedivider":"","shapedividerheight":"","gridwidth":"","columnstack":"tablet","columngap":"","columnsverticalalign":"","columnshorizontalalign":"","columnsdivider":"true","centertext":"false","gridheadings":"false","columnsparallax":"false"},"id":"33361811-ff17-4b9c-8001-fb3a77ff55b9","isHidden":false,"type":"grid"},{"content":{"fittext":"[{\"content\":{\"level\":\"h2\",\"text\":\"Softail\\u00ae Standard\",\"headingsize\":\"\",\"headingstyle\":\"\",\"headingcolor\":\"\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\"},\"id\":\"7721adf5-00a9-450b-b63b-471b21ce3597\",\"isHidden\":false,\"type\":\"heading\"},{\"content\":{\"text\":\"<p>Standard is your starting point. The Softail\\u00ae Standard pushes raw, stripped-down style to the edge.<\\\/p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"c3932fe5-fc3b-4c34-8050-01b9f08aca34\",\"isHidden\":false,\"type\":\"text\"},{\"content\":{\"text\":\"<p>Raw, stripped-down bobber style. A blank canvas for customization. This is more than a motorcycle. It\\u2019s an iron invitation to join the custom revolution.<\\\/p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"7ce488f0-18db-48c7-bd4d-40142a779009\",\"isHidden\":false,\"type\":\"text\"},{\"content\":{\"text\":\"<p><a href=\\\"https:\\\/\\\/www.harley-davidson.com\\\/eu\\\/en\\\/motorcycles\\\/softail-standard.html\\\" target=\\\"_blank\\\" rel=\\\"noopener noreferrer nofollow\\\">Learn more<\\\/a><\\\/p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"63517d56-c7c2-4c52-9901-a3c148035a4f\",\"isHidden\":false,\"type\":\"text\"}]","fitimage":["file:\/\/EvG2TJW5bC8bkeIj"],"title":"","blockclass":"","blockid":"","fitwidth":"full","fitchoosesides":"image","fitimagesize":"twothirds","fittextback":"secondary","fittextpadding":"large","fittextalign":"left","fitheadings":"false","viewportheight":"false"},"id":"84e0ca83-fe1f-4c5f-b0ec-860a99ac84e9","isHidden":false,"type":"text-image"},{"content":{"fittext":"[{\"content\":{\"level\":\"h2\",\"text\":\"CVO\\u2122 ROAD GLIDE\\u00ae\",\"headingsize\":\"\",\"headingstyle\":\"\",\"headingcolor\":\"\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\"},\"id\":\"c0da26d0-a813-4c9c-9de2-232baaf87fae\",\"isHidden\":false,\"type\":\"heading\"},{\"content\":{\"text\":\"<p>Loaded with custom details to take touring style and performance to the limit.<\\\/p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"790614bb-8fc0-44e8-8b88-7e2c819f9fb5\",\"isHidden\":false,\"type\":\"text\"},{\"content\":{\"text\":\"<p>The pinnacle of factory-custom touring style and comfort. Visually stunning and loaded with power.<\\\/p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"673531c8-7625-485c-8898-892d612b658e\",\"isHidden\":false,\"type\":\"text\"},{\"content\":{\"text\":\"<p><a href=\\\"https:\\\/\\\/www.harley-davidson.com\\\/eu\\\/en\\\/motorcycles\\\/cvo-road-glide.html\\\" target=\\\"_blank\\\" rel=\\\"noopener noreferrer nofollow\\\">Learn more<\\\/a><\\\/p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"71c8aaaf-8fb0-4003-9482-18b2a0788cc1\",\"isHidden\":false,\"type\":\"text\"}]","fitimage":["file:\/\/h2jAGIY4D8JbWjgd"],"title":"","blockclass":"","blockid":"","fitwidth":"full","fitchoosesides":"text","fitimagesize":"twothirds","fittextback":"secondary","fittextpadding":"large","fittextalign":"left","fitheadings":"false","viewportheight":"false"},"id":"c20b79a6-1e6e-4725-ae45-6484b5dfd510","isHidden":false,"type":"text-image"},{"content":{"fittext":"[{\"content\":{\"text\":\"<p><strong>LIVEWIRE\\u2122<\\\/strong><\\\/p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"d4b28b38-b622-42a0-b0aa-f0812003c496\",\"isHidden\":false,\"type\":\"text\"},{\"content\":{\"level\":\"h2\",\"text\":\"THE LOUDEST SOUND YOU HEAR WILL BE YOUR HEART RACING\",\"headingsize\":\"\",\"headingstyle\":\"\",\"headingcolor\":\"\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\"},\"id\":\"459731dc-0d9e-44c8-9260-553d0c0a2622\",\"isHidden\":false,\"type\":\"heading\"},{\"content\":{\"text\":\"<p>Get instantaneous power the moment you twist the throttle. No clutch to release. No gears to run through. All you do is flick your wrist and take off.<\\\/p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"5b5e7cd6-bab3-40f1-8280-424e6c1e739a\",\"isHidden\":false,\"type\":\"text\"},{\"content\":{\"text\":\"<p>The LiveWire\\u2122 motorcycle features a high-voltage battery (or RESS; Rechargeable Energy Storage System) composed of lithium-ion cells surrounded by a finned, cast-aluminum housing. The high-voltage battery provides a minimum of 98 miles (158 km) of city range or 88 miles (142 km) of combined stop-and-go and highway range.<\\\/p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"70f2a43c-0298-40f5-9fd2-58a088951052\",\"isHidden\":false,\"type\":\"text\"},{\"content\":{\"text\":\"<p><a href=\\\"https:\\\/\\\/www.harley-davidson.com\\\/eu\\\/en\\\/motorcycles\\\/livewire.html?source_cd=Vanity_livewire\\\" target=\\\"_blank\\\" rel=\\\"noopener noreferrer nofollow\\\">Learn more<\\\/a><\\\/p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"62f794aa-fa0d-45fd-891f-a301f3c26101\",\"isHidden\":false,\"type\":\"text\"}]","fitimage":["file:\/\/FzWnp3q4NfkyzLPl"],"title":"","blockclass":"","blockid":"","fitwidth":"full","fitchoosesides":"image","fitimagesize":"half","fittextback":"secondary","fittextpadding":"large","fittextalign":"left","fitheadings":"false","viewportheight":"false"},"id":"72c0ee17-af79-4a51-a6a6-66c7588870ae","isHidden":false,"type":"text-image"},{"content":{"columns":[{"columnwidth":"uk-width-2-3@m","columnclass":"","columntitle":"","columncontenthtml":"markdown","columneditor":"","columncontent":"### DISCOVER THE POWER OF FREEDOM\n\nRide away on your dream Harley-Davidson\u00ae for less than you think.","columnhtml":"","subcolumns":[],"columncard":"false","columncardsize":"","columncardhover":"false","columncardcolor":""}],"title":"","blockclass":"","blockid":"","sectionsize":"","sectioncolor":" uk-section-default","sectionremovepadding":" uk-padding-remove-bottom","backgroundimage":[],"backgroundimageposition":"","backgroundimagesize":"","backgroundimagerepeat":"","sectiontextcolor":"","backgroundoverlaycolor":null,"backgroundparalax":"","shapedividertoggle":"false","shapedivider":"","shapedividerposition":"","shapedividercolor":null,"customshapedivider":"","shapedividerheight":"","gridwidth":"","columnstack":"tablet","columngap":"","columnsverticalalign":"","columnshorizontalalign":"","columnsdivider":"false","centertext":"false","gridheadings":"false","columnsparallax":"false"},"id":"63de9a11-11a3-4c6f-af26-17ccc7d85fa7","isHidden":false,"type":"grid"},{"content":{"slider":["file:\/\/KleXrnCLznud0hYq","file:\/\/lpxHlYKX0IARx3w4","file:\/\/a2BBIu0SRFr58wcI","file:\/\/47k0feBLZE4Tr2oe"],"title":"","blockclass":"","blockid":"","sliderback":"default","sliderwidth":"","sliderimgwidth":" uk-width-2-3@m"},"id":"c8dee2d2-7f89-4726-80b3-50a32e54a2c4","isHidden":false,"type":"slider"}]
+
+----
+
+Projectinfo:
+
+- 
+  projectcolumn: '**Timeline: **1903 - present'
+- 
+  projectcolumn: 'Website: (link: https://www.harley-davidson.com/eu/en/index.html text: www.harley-davidson.com target: _blank)'
+
+----
+
+Tagslabel: Tags:
+
+----
+
+Tags: design
+
+----
+
+Transparentnavbar: 
+
+----
+
+Navbarinverse: false
+
+----
+
+Alttitle: 
+
+----
+
+Intro: All for freedom, freedom for all, victory to everyone.
+
+----
+
+Headerimageoption: true
+
+----
+
+Headerimage: - file://Yo6aQFDxyIjJiGKe
+
+----
+
+Headerimageposition: uk-background-center-center
+
+----
+
+Headerimagesize: uk-background-cover
+
+----
+
+Headerimagerepeat: no-repeat
+
+----
+
+Headertextcolor: uk-light
+
+----
+
+Headeroverlaycolor: #00000080
+
+----
+
+Backgroundparalax: paralaxY
+
+----
+
+Cover:
+
+- 
+  id: harley-davidson-zgzxsjubqfs-unsplash.jpg
+  clip:
+    width: 959
+    height: 1280
+    left: 422
+    top: 0
+
+----
+
+Metafile: 
+
+----
+
+Sitemap: true
+
+----
+
+Metatitle: 
+
+----
+
+Metadescription: 
+
+----
+
+Uuid: 7CfZIMn70hzqR9q9

@@ -1,0 +1,185 @@
+Title: Features
+
+----
+
+Animation: true
+
+----
+
+Modules: [{"content":{"herocontentoption":"editor","contentblocks":"[{\"content\":{\"level\":\"h2\",\"text\":\"Zero One.\",\"headingsize\":\" uk-heading-small\",\"headingstyle\":\"\",\"headingcolor\":\"\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\"},\"id\":\"237a4d20-3243-4019-a745-1821d35dc370\",\"isHidden\":false,\"type\":\"heading\"},{\"content\":{\"level\":\"h4\",\"text\":\"Multi-purpose Kirby CMS theme\",\"headingsize\":\" uk-h2\",\"headingstyle\":\"\",\"headingcolor\":\"\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\"},\"id\":\"8011e7bb-4650-425e-8a4c-726331ee9b1b\",\"isHidden\":false,\"type\":\"heading\"},{\"content\":{\"text\":\"<ul><li>Born to be extended</li><li>Made as a plugin</li><li>Well thought out options</li><li>Powerful Layout Builder</li><li>Easy-to-use Page Builder</li><li>Beautiful post types</li><li>Full-fledged eCommerce</li><li>Well documented</li></ul>\",\"liststyle\":\" uk-list-circle\",\"listcolor\":\"\",\"listsize\":\" uk-list-collapse\",\"listdivider\":\"\",\"column\":\"\"},\"id\":\"313c734a-17bb-424b-8b83-eb2fb98425b4\",\"isHidden\":false,\"type\":\"list\"}]","herotext":"","herohtml":"","herostyle":"image","herocover":["file://cxQyVg8cI67yreRu"],"backgroundimageposition":" uk-background-center-center","backgroundimagesize":" uk-background-cover","backgroundimagerepeat":" no-repeat","sectiontextcolor":"","backgroundoverlaycolor":"rgba(0, 0, 0, 0)","backgroundparalax":"","mediavideosource":"url","mediavideo":[],"mediavideourl":"","shapedividertoggle":"false","shapedivider":"","shapedividerposition":"","shapedividercolor":"#ffffff","customshapedivider":"","shapedividerheight":"150px","title":"","blockclass":"","blockid":"","herosize":"large","herotextwidth":"large","herotextalign":"left","heroheadings":"false","herocard":"false","herocardcolor":" uk-card-default","herocardhover":"false"},"id":"b156a628-7dad-434a-b821-adfffe33b202","isHidden":false,"type":"hero"},{"content":{"texteditor":"[{\"content\":{\"level\":\"h2\",\"text\":\"Create With Zero One.\",\"headingsize\":\"\",\"headingstyle\":\"\",\"headingcolor\":\"\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\"},\"id\":\"74953636-3834-42ac-a9fb-2369d0ffd0c2\",\"isHidden\":false,\"type\":\"heading\"},{\"content\":{\"text\":\"Set of features that you will love.\"},\"id\":\"b960e992-dc6e-4f24-9547-49ebb2487045\",\"isHidden\":false,\"type\":\"intro\"},{\"content\":{\"text\":\"<p><strong>Theme panel has English as default, but is also translated to German language.</strong></p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"2f845c7c-6a75-4584-a296-a7641d909fa2\",\"isHidden\":false,\"type\":\"text\"},{\"content\":{\"level\":\"h3\",\"text\":\"Theme styling.\",\"headingsize\":\"\",\"headingstyle\":\"\",\"headingcolor\":\"\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\"},\"id\":\"245d108c-cc38-4820-a2c6-8f50f23e1e97\",\"isHidden\":false,\"type\":\"heading\"},{\"content\":{\"text\":\"<p>Zero One theme has an in-built <a href=\\\"https://www.one.thezero.club/guide/theme-styling\\\" target=\\\"_blank\\\" rel=\\\"noopener noreferrer\\\">Theme styler</a>. And it is not just a simple styler, it is actually a stylesheet compiler, which means, it compiles all Less/CSS into one minified CSS file. Which adds greatly to website speed.</p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"f54a0f5e-64a6-4f06-96a8-15b36d32568f\",\"isHidden\":false,\"type\":\"text\"},{\"content\":{\"text\":\"<p>The front-end is based on <a href=\\\"http://lesscss.org/\\\" target=\\\"_blank\\\" rel=\\\"noopener noreferrer\\\">LESS/CSS</a>. For further customization and control, just install Node and Yarn on your system, change desired variables, compile, and you have brand new CSS stylesheets that follow your design preferences.</p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"4639325d-f437-47fb-94ee-daeb7cb15e67\",\"isHidden\":false,\"type\":\"text\"},{\"content\":{\"level\":\"h3\",\"text\":\"Site options:\",\"headingsize\":\"\",\"headingstyle\":\"\",\"headingcolor\":\"\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\"},\"id\":\"238bd9db-6115-47fa-8800-79d741eaa3c3\",\"isHidden\":false,\"type\":\"heading\"},{\"content\":{\"text\":\"<ul><li>Site brand options</li><li>Navigation options</li><li>Header options</li><li>Social links options</li><li>Footer and copyright options</li><li>SEO global options</li><li>Translatable site labels</li><li>Transition options</li><li>Cookie options</li></ul>\",\"liststyle\":\" uk-list-circle\",\"listcolor\":\"\",\"listsize\":\"\",\"listdivider\":\"\",\"column\":\"\"},\"id\":\"6d23b766-80fb-4e94-af10-8184be334fab\",\"isHidden\":false,\"type\":\"list\"},{\"content\":{\"level\":\"h3\",\"text\":\"Page options:\",\"headingsize\":\"\",\"headingstyle\":\"\",\"headingcolor\":\"\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\"},\"id\":\"075f579a-e790-4bbc-b7cf-9aedaa10d9a6\",\"isHidden\":false,\"type\":\"heading\"},{\"content\":{\"text\":\"<ul><li>Hide header</li><li>Header background image</li><li>Header transparency</li><li>Alternative title</li><li>SEO and sitemap options</li><li>Submenu options</li></ul>\",\"liststyle\":\" uk-list-circle\",\"listcolor\":\"\",\"listsize\":\"\",\"listdivider\":\"\",\"column\":\"\"},\"id\":\"407fb676-1278-4b59-86b1-65a66b6d9216\",\"isHidden\":false,\"type\":\"list\"},{\"content\":{\"level\":\"h3\",\"text\":\"Blog and article options:\",\"headingsize\":\"\",\"headingstyle\":\"\",\"headingcolor\":\"\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\"},\"id\":\"ad8ad7e2-433c-4bad-9125-df23c7cf7468\",\"isHidden\":false,\"type\":\"heading\"},{\"content\":{\"text\":\"<ul><li>Optional article and blog sidebar</li><li>Various article archives options</li><li>Article authors</li><li>Feature an article</li><li>Related articles</li><li>Comments options</li><li>And more</li></ul>\",\"liststyle\":\" uk-list-circle\",\"listcolor\":\"\",\"listsize\":\"\",\"listdivider\":\"\",\"column\":\"\"},\"id\":\"b1762a48-4667-4412-a9f7-972882095d0f\",\"isHidden\":false,\"type\":\"list\"},{\"content\":{\"level\":\"h3\",\"text\":\"Projects options:\",\"headingsize\":\"\",\"headingstyle\":\"\",\"headingcolor\":\"\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\"},\"id\":\"722bb5fc-838e-4bd1-9264-5df741a4d3ad\",\"isHidden\":false,\"type\":\"heading\"},{\"content\":{\"text\":\"<ul><li>Projects display styles</li><li>Projects filterable tags</li><li>Integrated Page Builder</li></ul>\",\"liststyle\":\" uk-list-circle\",\"listcolor\":\"\",\"listsize\":\"\",\"listdivider\":\"\",\"column\":\"\"},\"id\":\"72b4defc-22b0-4ab7-89bf-a69f51588381\",\"isHidden\":false,\"type\":\"list\"},{\"content\":{\"level\":\"h3\",\"text\":\"Shop options:\",\"headingsize\":\"\",\"headingstyle\":\"\",\"headingcolor\":\"\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\"},\"id\":\"5ec59951-abe8-4198-8d02-fa9a18afc8d9\",\"isHidden\":false,\"type\":\"heading\"},{\"content\":{\"text\":\"<ul><li>Simple catalogue</li><li>Snipcart full feature eCommerce shop<ul><li>Many payment gateways + custom payment gateway integration if needed</li><li>Advanced tax support</li><li>Advanced shipping support with most popular providers automation support</li><li>Advanced invoicing support</li><li>Advanced regional and currency settings</li><li>Multilanguage and multicurrency support</li><li>Advanced emails support abandoned carts recovery campaigns</li><li>Digital products support</li><li>Subscriptions support, although for now in beta, and only available for Stripe payment gateway</li></ul></li><li>Many product options</li></ul>\",\"liststyle\":\" uk-list-circle\",\"listcolor\":\"\",\"listsize\":\"\",\"listdivider\":\"\",\"column\":\"\"},\"id\":\"34fe01b5-4d7d-4f5c-aacd-fa03b20cd9f3\",\"isHidden\":false,\"type\":\"list\"},{\"content\":{\"level\":\"h3\",\"text\":\"Page Builders:\",\"headingsize\":\"\",\"headingstyle\":\"\",\"headingcolor\":\"\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\"},\"id\":\"94186d47-6919-4046-89e7-969abc8e4fb2\",\"isHidden\":false,\"type\":\"heading\"},{\"content\":{\"text\":\"<p>Create pages in any way you like, there are endless possibilities. A simple drag-and-drop interface means you’ll never need to touch a line of code. You can rely on Page Builders to do what they do best - all the difficult work, generating lightweight, SEO-friendly code.</p><p><a href=\\\"builders\\\" rel=\\\"noopener noreferrer\\\">Learn more</a></p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"abf65a4b-d49d-4322-ab58-3d7159dc96e2\",\"isHidden\":false,\"type\":\"text\"},{\"content\":{\"level\":\"h3\",\"text\":\"Other:\",\"headingsize\":\"\",\"headingstyle\":\"\",\"headingcolor\":\"\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\"},\"id\":\"2bf3faa2-7eae-4c0c-9164-e808ba36cc0f\",\"isHidden\":false,\"type\":\"heading\"},{\"content\":{\"text\":\"<ul><li>Integrated site search</li><li>Contact page</li><li>Error page</li><li>Full SEO support<ul><li>robots.txt</li><li>sitemap.yml</li><li>All meta tags</li><li>Auto-convert images to WebP</li></ul></li><li>Fancy page transitions</li></ul>\",\"liststyle\":\" uk-list-circle\",\"listcolor\":\"\",\"listsize\":\"\",\"listdivider\":\"\",\"column\":\"\"},\"id\":\"ceba680a-5886-4c13-bba9-ac1a9c959ef6\",\"isHidden\":false,\"type\":\"list\"},{\"content\":{\"level\":\"h3\",\"text\":\"Multilingual ready.\",\"headingsize\":\"\",\"headingstyle\":\"\",\"headingcolor\":\"\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\"},\"id\":\"6c7543da-01a3-4ccb-89a6-bd3ad1fb7a61\",\"isHidden\":false,\"type\":\"heading\"},{\"content\":{\"text\":\"<p>With large effort every Zero One theme aspect is multilingual ready. There is even a hidden language change modal option.</p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"d4c5e256-4415-4318-8c24-7e5e9502481b\",\"isHidden\":false,\"type\":\"text\"},{\"content\":{\"level\":\"h3\",\"text\":\"Right-to-left (RTL) support.\",\"headingsize\":\"\",\"headingstyle\":\"\",\"headingcolor\":\"\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\"},\"id\":\"b2a94606-90d7-4078-bd62-ad9c46d0487a\",\"isHidden\":false,\"type\":\"heading\"},{\"content\":{\"text\":\"<p>Zero One supports RTL (right-to-left) languages.</p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"f254d15a-ba5a-4a54-8cd2-25e8753e2cb9\",\"isHidden\":false,\"type\":\"text\"}]","title":"","blockclass":"","blockid":"","editorwidth":"xsmall","editorback":"default","editorheadings":"false"},"id":"8a10351a-d7b3-4ea5-a5e7-a274ee429e9d","isHidden":false,"type":"editor"},{"content":{"columns":[{"columnwidth":"uk-width-1-1","columnclass":"","columntitle":"Explore the rest of Zero One features","columncontenthtml":"markdown","columneditor":"","columncontent":"## Explore the rest of Zero One features.\n\nWe have split features into categories, but believe us, you'll want to check them all.\n\n***","columnhtml":"","subcolumns":[],"columncard":"false","columncardsize":"","columncardhover":"false","columncardcolor":""},{"columnwidth":"uk-width-1-3@m","columnclass":"","columntitle":"Developer features","columncontenthtml":"editor","columneditor":"[{\"content\":{\"text\":\"<span uk-icon=\\\"icon: git-branch; ratio: 2\\\"></span>\"},\"id\":\"d2a3c611-0bcb-4ba7-9c82-5b5f2f63f0b9\",\"isHidden\":false,\"type\":\"markdown\"},{\"content\":{\"level\":\"h3\",\"text\":\"Developer features.\",\"headingsize\":\"\",\"headingstyle\":\"\",\"headingcolor\":\"\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\"},\"id\":\"dc15eb2d-e70d-4e71-9f63-f67b7ec2c78a\",\"isHidden\":false,\"type\":\"heading\"},{\"content\":{\"text\":\"<p>Zero One is created to be customized, extended and scaled. With no restrains whatsoever. It is also a gold mine for Kirby beginners because it offers solutions for various common problems.</p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"6626c18a-e988-4b15-90eb-8cb39f9d1a41\",\"isHidden\":false,\"type\":\"text\"},{\"content\":{\"text\":\"Learn more\",\"buttonicon\":\"\",\"linktype\":\"internal\",\"link\":\"\",\"internalpage\":[\"page://UU4nSZ3OtqRd9qkp\"],\"filelink\":[],\"emaillink\":\"\",\"phonelink\":\"\",\"target\":\"false\",\"buttonstyle\":\" uk-button-link\",\"buttonsize\":\" uk-button-small\",\"margintop\":\" uk-margin-small-top\"},\"id\":\"ff5d59f7-d2ac-4a24-b985-76620988248f\",\"isHidden\":false,\"type\":\"button\"}]","columncontent":"### Developer features.\n\nZero One is created to be customized, extended and scaled. With no restrains whatsoever. It is also a gold mine for Kirby beginners because it offers solutions for various common problems.\n\n(link: features/for-developers text: Learn more)","columnhtml":"","subcolumns":[],"columncard":"false","columncardsize":"","columncardhover":"false","columncardcolor":""},{"columnwidth":"uk-width-1-3@m","columnclass":"","columntitle":"Content editor features","columncontenthtml":"editor","columneditor":"[{\"content\":{\"text\":\"<span uk-icon=\\\"icon: file-text; ratio: 2\\\"></span>\"},\"id\":\"39e5dd8c-18ca-417b-bb6d-f1ceb65e086a\",\"isHidden\":false,\"type\":\"markdown\"},{\"content\":{\"level\":\"h3\",\"text\":\"Content editor features.\",\"headingsize\":\"\",\"headingstyle\":\"\",\"headingcolor\":\"\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\"},\"id\":\"57f78446-f858-46aa-bb4d-d85ca89a2aa3\",\"isHidden\":false,\"type\":\"heading\"},{\"content\":{\"text\":\"<p>Custom-made panels and options for every content type. Kirby Blocks Editor, Kirbytext, and Page Builder in just the right places to extend flexibility to maximum.</p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"59184aac-3f19-4362-906b-efc1d10fc821\",\"isHidden\":false,\"type\":\"text\"},{\"content\":{\"text\":\"Learn more\",\"buttonicon\":\"\",\"linktype\":\"internal\",\"link\":\"\",\"internalpage\":[\"page://pfTecGNp34J24IpD\"],\"filelink\":[],\"emaillink\":\"\",\"phonelink\":\"\",\"target\":\"false\",\"buttonstyle\":\" uk-button-link\",\"buttonsize\":\" uk-button-small\",\"margintop\":\" uk-margin-small-top\"},\"id\":\"b07c2b49-2be6-4416-b932-421823eb5ec5\",\"isHidden\":false,\"type\":\"button\"}]","columncontent":"### Content editor features.\n\nCustom made panels for every content type. Kirby Editor, Kirbytext and Page Bulder on just the right places to extend flexibility to maximum.\n\n(link: features/for-content-editors text: Learn more)","columnhtml":"","subcolumns":[],"columncard":"false","columncardsize":"","columncardhover":"false","columncardcolor":""},{"columnwidth":"uk-width-1-3@m","columnclass":"","columntitle":"SEO/SEM master features","columncontenthtml":"editor","columneditor":"[{\"content\":{\"text\":\"<span uk-icon=\\\"icon: social; ratio: 2\\\"></span>\"},\"id\":\"8f0cbe7e-e0b3-48e0-9f35-6d39f5221b87\",\"isHidden\":false,\"type\":\"markdown\"},{\"content\":{\"level\":\"h3\",\"text\":\"SEO/SEM master features.\",\"headingsize\":\"\",\"headingstyle\":\"\",\"headingcolor\":\"\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\"},\"id\":\"43484cf4-5b8e-4d4d-9772-f797e45f954c\",\"isHidden\":false,\"type\":\"heading\"},{\"content\":{\"text\":\"<p>There’s no need for a plugin to manage and update your site’s SEO settings. From page titles to meta descriptions, URLs to Open Graph settings — optimize every page of your site.</p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"f7ffb59a-5818-4eed-a5a4-fbff7c273b06\",\"isHidden\":false,\"type\":\"text\"},{\"content\":{\"text\":\"Learn more\",\"buttonicon\":\"\",\"linktype\":\"internal\",\"link\":\"\",\"internalpage\":[\"page://XpdDligeUqLhH7js\"],\"filelink\":[],\"emaillink\":\"\",\"phonelink\":\"\",\"target\":\"false\",\"buttonstyle\":\" uk-button-link\",\"buttonsize\":\" uk-button-small\",\"margintop\":\" uk-margin-small-top\"},\"id\":\"5191e75f-edd0-4756-8928-502da4dbdfb5\",\"isHidden\":false,\"type\":\"button\"}]","columncontent":"### SEO/SEM master features.\n\nThere’s no need for a plugin to manage and update your site’s SEO settings. From page titles to meta descriptions, URLs to Open Graph settings — optimize every page of your site.\n\n(link: features/for-seo-sem-masters text: Learn more)","columnhtml":"","subcolumns":[],"columncard":"false","columncardsize":"","columncardhover":"false","columncardcolor":""}],"title":"","blockclass":"","blockid":"","sectionsize":" uk-section-large","sectioncolor":" uk-section-muted","sectionremovepadding":"","backgroundimage":[],"backgroundimageposition":"","backgroundimagesize":"","backgroundimagerepeat":"","sectiontextcolor":"","backgroundoverlaycolor":null,"backgroundparalax":"","shapedividertoggle":"false","shapedivider":"","shapedividerposition":"","shapedividercolor":null,"customshapedivider":"","shapedividerheight":"","gridwidth":"","columnstack":"tablet","columngap":" uk-grid-medium","columnsverticalalign":"","columnshorizontalalign":"","columnsdivider":"true","centertext":"false","gridheadings":"false","columnsparallax":"false"},"id":"a23048b8-1be7-4774-8e7c-6b0d53bcef07","isHidden":false,"type":"grid"},{"content":{"cpttext":"**Need to kickstart your next web project?**\n\n## Make Zero One yours.\n\nThe ultimate Kirby CMS toolkit awaits.","cptlinktext":"Purchase Zero One","cptlink":["page://ZVoGDWAqLvo5X5c1"],"cptbuttoncolor":" uk-button-primary","cptbuttonsize":"large","title":"","blockclass":"","blockid":"","cptsize":"","cpttextwidth":"large","cptheadings":"true","cptstyle":"image","cptimage":["file://YrPrpcCKhGEWn8Xl"],"cptimageposition":" uk-background-center-center","cptimagesize":" uk-background-cover","cptimagerepeat":" no-repeat","cpttextcolor":" uk-light","cptoverlaycolor":"#00000099"},"id":"e17b84fd-b143-492a-ba31-226f9bf0cacb","isHidden":false,"type":"cpt"}]
+
+----
+
+Hidenavbar: false
+
+----
+
+Disallowsubmenu: false
+
+----
+
+Newtab: false
+
+----
+
+Menuitemicon: 
+
+----
+
+Megamenu: true
+
+----
+
+Megamenuwidth: 2
+
+----
+
+Megamenuitemwidth: 2
+
+----
+
+Megamenubackground: true
+
+----
+
+Megamenubackgroundimage: - file://cxQyVg8cI67yreRu
+
+----
+
+Megamenubackgroundimageposition: uk-background-center-center
+
+----
+
+Megamenubackgroundimagesize: uk-background-cover
+
+----
+
+Megamenubackgroundimagerepeat: no-repeat
+
+----
+
+Megamenubackgroundoverlaycolor: #0e071d
+
+----
+
+Megamenubackgroundgradientoverlay: true
+
+----
+
+Megamenubackgroundgradienttransition: to right
+
+----
+
+Megamenubackgroundoverlaycolor2: #0e071d4d
+
+----
+
+Transparentnavbar: 
+
+----
+
+Navbarinverse: false
+
+----
+
+Headersection: true
+
+----
+
+Alttitle: 
+
+----
+
+Intro: A Serious Time Saver. The Kirby theme you waited for.
+
+----
+
+Headerbackgroundtoggle: false
+
+----
+
+Header: 
+
+----
+
+Headerimageposition: 
+
+----
+
+Headerimagesize: 
+
+----
+
+Headerimagerepeat: 
+
+----
+
+Headertextcolor: 
+
+----
+
+Backgroundparalax: 
+
+----
+
+Shapedividertoggle: false
+
+----
+
+Shapedivider: 
+
+----
+
+Shapedividerposition: 
+
+----
+
+Customshapedivider: 
+
+----
+
+Shapedividerheight: 
+
+----
+
+Hidefooter: false
+
+----
+
+Metafile: - file://Ezb8ByWMtGr3hI2U
+
+----
+
+Sitemap: true
+
+----
+
+Metatitle: 
+
+----
+
+Metadescription: A Serious Time Saver. The Kirby theme you waited for. Set of features that you will love. Theme styling, Site options, Page options, Blog and article options...
+
+----
+
+Customcss: 
+
+----
+
+Uuid: Daji0DiqpY0XWL2j
+
+----
+
+Megamenubackgroundstyle: 
+
+----
+
+Megamenubackgroundvideosource: url
+
+----
+
+Megamenubackgroundmediavideo: 
+
+----
+
+Megamenubackgroundmediavideourl: 

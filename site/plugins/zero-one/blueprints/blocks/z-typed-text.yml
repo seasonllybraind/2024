@@ -1,0 +1,179 @@
+name: Typed text
+icon: text-left
+
+preview: ztypedtext
+
+tabs:
+  # content tab
+  content:
+    label: 
+      en: Content
+      de: Inhalt
+    fields:
+      typedTexInfo:
+        label: Typed tex info
+        type: info
+        theme: positive
+        text:
+          en: If you want to use this block make sure to turn on "Type Text" script in the Site Settings (Misc section) options.
+          de: Wenn Sie diesen Block verwenden möchten, aktivieren Sie das Skript „Type Text“ in den Optionen der Site-Einstellungen (Abschnitt Verschiedenes).
+      uniqueID:
+        label: Unique ID
+        type: slug
+        before: '#'
+        placeholder: unique-element-id
+        required: true
+        width: 1/3
+      uniqueIDInfo:
+        label: Unique ID info
+        type: info
+        text:
+          en: Every Typed Text block must have its unique ID. 
+          de: Jeder getippte Textblock muss eine eindeutige ID haben.
+        width: 2/3
+
+      # typed text strings
+      strings:
+        label: 
+          en: Typed text sentences
+          de: Typed Text Sätze
+        type: structure
+        fields:
+          string:
+            label: Sentence
+            type: writer
+            inline: true
+            marks:
+              - bold
+              - italic
+              - strike
+              - underline
+              - code
+      textSize:
+        label: Text size
+        type: select
+        placeholder: Paragraph
+        options:
+          "uk-h1": H1
+          "uk-h2": H2
+          "uk-h3": H3
+          "uk-h4": H4
+          "uk-h5": H5
+          "uk-h6": H6
+          "uk-heading-small": Promo small
+          "uk-heading-medium": Promo medium
+          "uk-heading-large": Promo large
+          "uk-heading-xlarge": Promo xlarge
+          "uk-heading-2xlarge": Promo 2xlarge
+        width: 1/3
+      loop:
+        type: toggle
+        default: true
+        width: 1/3
+      shuffle:
+        type: toggle
+        default: false
+        width: 1/3
+
+      bottomContentGap:
+        type: gap
+
+  # settings tab
+  settings:
+    label: 
+      en: Settings
+      de: die Einstellungen
+    fields:
+      # type text settings
+      ttsettingsHeadline:
+        label: Type Text settings
+        type: headline
+        numbered: false
+      typeSpeed:
+        label: Type speed
+        type: range
+        step: 5
+        min: 5
+        max: 300
+        default: 75
+        help: 
+          en: Bigger number = slower
+          de: Größere Zahl = langsamer
+        tooltip:
+          after: ms
+        width: 1/2
+      backDelay:
+        label: Back delay
+        type: range
+        step: 50
+        min: 50
+        max: 3000
+        default: 900
+        help: 
+          en: Bigger number = slower
+          de: Größere Zahl = langsamer
+        tooltip:
+          after: ms
+        width: 1/2
+      showCursor:
+        label: Show cursor
+        type: toggle
+        default: true
+        width: 1/3
+      customCursor:
+        label: Custom cursor
+        type: text
+        placeholder: '|'
+        help: Add custom cursor
+        width: 1/3
+        when:
+          showCursor: true
+
+      # block advanced heading
+      blockAdvancedHeadline:
+        label: 
+          en: Advanced
+          de: Fortschrittlich
+        type: headline
+        numbered: false
+      # block title
+      title:
+        label: 
+          en: Block title
+          de: Blocktitel
+        type: text
+        placeholder: My custom block name
+        width: 1/3
+      # block class
+      blockClass:
+        label: 
+          en: Block custom class
+          de: Benutzerdefinierte Klasse
+        type: text
+        placeholder: my-custom-class
+        before: '.'
+        width: 1/3
+      # block id
+      blockID:
+        label: 
+          en: Block ID
+          de: ID
+        type: text
+        placeholder: my-custom-id
+        before: '#'
+        width: 1/3
+      marginVertical:
+        extends: fields/marginVertical
+      marginLeft:
+        extends: fields/marginLeft
+      marginRight:
+        extends: fields/marginRight
+      marginInfo:
+        label: Margin note for (*)
+        type: info
+        text: 
+          en: "*Adds top margin, if it is preceded by another element, and always bottom margin."
+          de: "*Fügt den oberen Rand hinzu, wenn ihm ein anderes Element vorausgeht, und immer den unteren Rand."
+
+      bottomSettingsGap:
+        type: gap

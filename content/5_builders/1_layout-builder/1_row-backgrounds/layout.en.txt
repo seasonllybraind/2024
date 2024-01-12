@@ -1,0 +1,153 @@
+Title: Row backgrounds
+
+----
+
+Layout: [{"attrs":{"gridwidth":"uk-container","tabletwidth":"","mobilewidth":"","columnsverticalalign":"","columnshorizontalalign":"","containerexpand":"","columngap":"","columnsdivider":"false","gridmasonry":"false","gridparallax":"false","sectiontoggle":"true","sectionsize":" uk-section-xlarge","sectioncolor":" uk-section-primary","sectionremovepadding":"","backgroundstyle":"color","backgroundimage":[],"mediavideosource":"url","mediavideo":[],"mediavideourl":"","backgroundimageposition":" uk-background-center-center","backgroundimagesize":" uk-background-cover","backgroundimagerepeat":" no-repeat","sectiontextcolor":" uk-light","backgroundoverlaycolor":"rgba(0,0,0,0.3)","backgroundgradientoverlay":"false","backgroundgradienttransition":"","backgroundoverlaycolor2":"rgba(0,0,0,0.3)","backgroundparalax":"","shapedividertoggle":"false","shapedivider":"","shapedividerposition":"","shapedividercolor":"#ffffff","customshapedivider":"","shapedividerheight":"150px","preservecolor":"false","sectionclass":"","sectionid":"","hidden":"","visible":"","animationswitch":"true","animationtype":"uk-animation-slide-bottom-small","animationdelay":null},"columns":[{"blocks":[{"content":{"level":"h1","text":"Background Color","headingsize":"","headingstyle":"","headingcolor":"","textalign":" uk-text-center@m","textaligntablet":" uk-text-center@s","textalignmobile":" uk-text-center","texttransform":"","textwrapping":""},"id":"a813683f-7489-4cda-bddd-feebe67cea79","isHidden":false,"type":"heading"},{"content":{"level":"h4","text":"User experience is one of our highest priorities.","headingsize":"","headingstyle":"","headingcolor":"","textalign":" uk-text-center@m","textaligntablet":" uk-text-center@s","textalignmobile":" uk-text-center","texttransform":"","textwrapping":""},"id":"1d76672f-79f4-48e6-a1b9-92ea4570d293","isHidden":false,"type":"heading"}],"id":"748cd24d-e1d1-44ed-a97a-3a2f2015df65","width":"1\/1"}],"id":"c279b171-db1c-4fc6-93dc-d3bb11abf296"},{"attrs":{"gridwidth":"uk-container","tabletwidth":"","mobilewidth":"","columnsverticalalign":"","columnshorizontalalign":"","containerexpand":"","columngap":"","columnsdivider":"false","gridmasonry":"false","gridparallax":"false","sectiontoggle":"true","sectionsize":" uk-section-xlarge","sectioncolor":"custom","sectionremovepadding":"","backgroundstyle":"color","backgroundimage":[],"mediavideosource":"url","mediavideo":[],"mediavideourl":"","backgroundimageposition":" uk-background-center-center","backgroundimagesize":" uk-background-cover","backgroundimagerepeat":" no-repeat","sectiontextcolor":" uk-light","backgroundoverlaycolor":"#0575e6","backgroundgradientoverlay":"true","backgroundgradienttransition":"to right","backgroundoverlaycolor2":"#45b649","backgroundparalax":"","shapedividertoggle":"false","shapedivider":"","shapedividerposition":"","shapedividercolor":"#ffffff","customshapedivider":"","shapedividerheight":"150px","preservecolor":"false","sectionclass":"","sectionid":"","hidden":"","visible":"","animationswitch":"true","animationtype":"uk-animation-slide-bottom-small","animationdelay":null},"columns":[{"blocks":[{"content":{"level":"h1","text":"Gradient Color","headingsize":"","headingstyle":"","headingcolor":"","textalign":" uk-text-center@m","textaligntablet":" uk-text-center@s","textalignmobile":" uk-text-center","texttransform":"","textwrapping":""},"id":"a2f69ce3-eb87-4930-b9ba-12147bca046f","isHidden":false,"type":"heading"},{"content":{"level":"h4","text":"User experience is one of our highest priorities.","headingsize":"","headingstyle":"","headingcolor":"","textalign":" uk-text-center@m","textaligntablet":" uk-text-center@s","textalignmobile":" uk-text-center","texttransform":"","textwrapping":""},"id":"13034b18-f134-4197-a820-1c383aef303e","isHidden":false,"type":"heading"}],"id":"764402ac-56da-4497-bbe6-eb8307a66259","width":"1\/1"}],"id":"707071e2-1cb7-492f-9b03-debd389b8b3a"},{"attrs":{"gridwidth":"uk-container","tabletwidth":"","mobilewidth":"","columnsverticalalign":"","columnshorizontalalign":"","containerexpand":"","columngap":"","columnsdivider":"false","gridmasonry":"false","gridparallax":"false","sectiontoggle":"true","sectionsize":" uk-section-xlarge","sectioncolor":"custom","sectionremovepadding":"","backgroundstyle":"image","backgroundimage":["file:\/\/pPrHU0ECBwuxRc6b"],"mediavideosource":"url","mediavideo":[],"mediavideourl":"","backgroundimageposition":" uk-background-center-center","backgroundimagesize":" uk-background-cover","backgroundimagerepeat":" no-repeat","sectiontextcolor":" uk-light","backgroundoverlaycolor":"#00000080","backgroundgradientoverlay":"true","backgroundgradienttransition":"to right","backgroundoverlaycolor2":"#0000004d","backgroundparalax":"paralaxY","shapedividertoggle":"false","shapedivider":"","shapedividerposition":"","shapedividercolor":"#ffffff","customshapedivider":"","shapedividerheight":"150px","preservecolor":"false","sectionclass":"","sectionid":"","hidden":"","visible":"","animationswitch":"true","animationtype":"uk-animation-slide-bottom-small","animationdelay":null},"columns":[{"blocks":[{"content":{"level":"h1","text":"Vertical Parallax","headingsize":"","headingstyle":"","headingcolor":"","textalign":" uk-text-center@m","textaligntablet":" uk-text-center@s","textalignmobile":" uk-text-center","texttransform":"","textwrapping":""},"id":"97235838-c58e-4b5f-b880-7e7d5e54dd9e","isHidden":false,"type":"heading"},{"content":{"level":"h4","text":"User experience is one of our highest priorities.","headingsize":"","headingstyle":"","headingcolor":"","textalign":" uk-text-center@m","textaligntablet":" uk-text-center@s","textalignmobile":" uk-text-center","texttransform":"","textwrapping":""},"id":"5632a628-5e9a-4427-ab60-c546c2e655f3","isHidden":false,"type":"heading"}],"id":"ab38c852-8c9f-49c0-a1bd-3b7e4df73654","width":"1\/1"}],"id":"aa0d8b94-441e-47ee-b9c1-d57fd1eae678"},{"attrs":{"gridwidth":"uk-container","tabletwidth":"","mobilewidth":"","columnsverticalalign":"","columnshorizontalalign":"","containerexpand":"","columngap":"","columnsdivider":"false","gridmasonry":"false","gridparallax":"false","sectiontoggle":"true","sectionsize":" uk-section-xlarge","sectioncolor":"custom","sectionremovepadding":"","backgroundstyle":"image","backgroundimage":["file:\/\/AozashfMWacXvuPi"],"mediavideosource":"url","mediavideo":[],"mediavideourl":"","backgroundimageposition":" uk-background-center-center","backgroundimagesize":" uk-background-cover","backgroundimagerepeat":" no-repeat","sectiontextcolor":" uk-light","backgroundoverlaycolor":"#00000080","backgroundgradientoverlay":"true","backgroundgradienttransition":"to right","backgroundoverlaycolor2":"#0000004d","backgroundparalax":"paralaxX","shapedividertoggle":"false","shapedivider":"","shapedividerposition":"","shapedividercolor":"#ffffff","customshapedivider":"","shapedividerheight":"150px","preservecolor":"false","sectionclass":"","sectionid":"","hidden":"","visible":"","animationswitch":"true","animationtype":"uk-animation-slide-bottom-small","animationdelay":null},"columns":[{"blocks":[{"content":{"level":"h1","text":"Horizontal Parallax","headingsize":"","headingstyle":"","headingcolor":"","textalign":" uk-text-center@m","textaligntablet":" uk-text-center@s","textalignmobile":" uk-text-center","texttransform":"","textwrapping":""},"id":"23d4b435-9a05-40e6-a6c1-84866db38c0c","isHidden":false,"type":"heading"},{"content":{"level":"h4","text":"User experience is one of our highest priorities.","headingsize":"","headingstyle":"","headingcolor":"","textalign":" uk-text-center@m","textaligntablet":" uk-text-center@s","textalignmobile":" uk-text-center","texttransform":"","textwrapping":""},"id":"64350fd4-cc40-4985-9181-ba2dd1650deb","isHidden":false,"type":"heading"}],"id":"6feb5be5-c108-4e58-94e4-7082e3fb309e","width":"1\/1"}],"id":"e08e7a87-bd2c-4954-aa75-828c25e89076"},{"attrs":{"gridwidth":"uk-container","tabletwidth":"","mobilewidth":"","columnsverticalalign":"","columnshorizontalalign":"","containerexpand":"","columngap":"","columnsdivider":"false","gridmasonry":"false","gridparallax":"false","sectiontoggle":"true","sectionsize":" uk-section-xlarge","sectioncolor":"custom","sectionremovepadding":"","backgroundstyle":"video","backgroundimage":[],"mediavideosource":"url","mediavideo":[],"mediavideourl":"https:\/\/www.youtube.com\/embed\/AkudfyAxZKc","backgroundimageposition":" uk-background-center-center","backgroundimagesize":" uk-background-cover","backgroundimagerepeat":" no-repeat","sectiontextcolor":" uk-light","backgroundoverlaycolor":"#0000001a","backgroundgradientoverlay":"true","backgroundgradienttransition":"to right","backgroundoverlaycolor2":"#00000033","backgroundparalax":"paralaxX","shapedividertoggle":"false","shapedivider":"","shapedividerposition":"","shapedividercolor":"#ffffff","customshapedivider":"","shapedividerheight":"150px","preservecolor":"false","sectionclass":"","sectionid":"","hidden":"","visible":"","animationswitch":"true","animationtype":"uk-animation-slide-bottom-small","animationdelay":null},"columns":[{"blocks":[{"content":{"level":"h1","text":"Video background","headingsize":"","headingstyle":"","headingcolor":"","textalign":" uk-text-center@m","textaligntablet":" uk-text-center@s","textalignmobile":" uk-text-center","texttransform":"","textwrapping":""},"id":"c793c109-81a6-4ec0-90f0-470a33811604","isHidden":false,"type":"heading"},{"content":{"level":"h4","text":"User experience is one of our highest priorities.","headingsize":"","headingstyle":"","headingcolor":"","textalign":" uk-text-center@m","textaligntablet":" uk-text-center@s","textalignmobile":" uk-text-center","texttransform":"","textwrapping":""},"id":"5cb0a592-3643-40a3-897c-3d9a0616772f","isHidden":false,"type":"heading"}],"id":"c445c0a8-8cc6-4f2a-b6a1-f4fba36ee961","width":"1\/1"}],"id":"3af286d1-4851-4563-9f0b-db78f7de56f4"}]
+
+----
+
+Disallowsubmenu: false
+
+----
+
+Newtab: false
+
+----
+
+Menuitemicon: paint-bucket
+
+----
+
+Megamenu: false
+
+----
+
+Megamenuwidth: 
+
+----
+
+Megamenuitemwidth: 
+
+----
+
+Megamenubackground: false
+
+----
+
+Megamenubackgroundimage: 
+
+----
+
+Megamenubackgroundimageposition: 
+
+----
+
+Megamenubackgroundimagesize: 
+
+----
+
+Megamenubackgroundimagerepeat: 
+
+----
+
+Megamenubackgroundgradientoverlay: false
+
+----
+
+Megamenubackgroundgradienttransition: 
+
+----
+
+Transparentnavbar: 
+
+----
+
+Navbarinverse: true
+
+----
+
+Headersection: true
+
+----
+
+Alttitle: 
+
+----
+
+Intro: Infinite background options.
+
+----
+
+Headerbackgroundtoggle: false
+
+----
+
+Header: 
+
+----
+
+Headerimageposition: uk-background-center-center
+
+----
+
+Headerimagesize: uk-background-cover
+
+----
+
+Headerimagerepeat: no-repeat
+
+----
+
+Headertextcolor: uk-light
+
+----
+
+Headeroverlaycolor: rgba(0,0,0,0.2)
+
+----
+
+Backgroundparalax: 
+
+----
+
+Shapedividertoggle: false
+
+----
+
+Shapedivider: 
+
+----
+
+Shapedividerposition: 
+
+----
+
+Shapedividercolor: #ffffff
+
+----
+
+Customshapedivider: 
+
+----
+
+Shapedividerheight: 150px
+
+----
+
+Metafile: 
+
+----
+
+Sitemap: true
+
+----
+
+Metatitle: 
+
+----
+
+Metadescription: 
+
+----
+
+Uuid: 8r1LKReM9ichflVa

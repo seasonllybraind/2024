@@ -1,0 +1,630 @@
+name: 
+  en: Grid
+  de: Raster
+label: - {{title}}
+icon: dashboard
+
+tabs:
+  # content tab
+  content:
+    label: 
+      en: Content
+      de: Inhalt
+    icon: edit
+    fields:
+      # columns
+      columns:
+        label: 
+          en: Columns
+          de: Spalten
+        type: structure
+        columns: 
+          columnTitle: 
+            width: 1/2
+          columnWidth: 
+            width: 1/4
+          columnContentHTML:
+            width: 1/4
+        fields:
+          columnWidth:
+            label: 
+              en: Column width
+              de: Spaltenbreite
+            type: select
+            default: "uk-width-expand@m"
+            options:
+              "uk-width-expand@m": 
+                en: Expand
+                de: Erweitern
+              "uk-width-1-1": 1/1
+              "uk-width-1-2@m": 1/2
+              "uk-width-1-3@m": 1/3
+              "uk-width-2-3@m": 2/3
+              "uk-width-1-4@m": 1/4
+              "uk-width-3-4@m": 3/4
+              "uk-width-1-5@m": 1/5
+              "uk-width-2-5@m": 2/5
+              "uk-width-3-5@m": 3/5
+              "uk-width-4-5@m": 4/5
+              "uk-width-1-6@m": 1/6
+              "uk-width-5-6@m": 5/6
+              "uk-width-auto@m": Auto
+            width: 1/3
+          columnClass:
+            label: 
+              en: Column class
+              de: Spaltenklasse 
+            type: text
+            placeholder: my-custom-class
+            width: 1/3
+          columnTitle:
+            label: 
+              en: Column title
+              de: Spaltentitel
+            type: text
+            placeholder: 
+              en: Add column title
+              de: Spaltentitel hinzufügen
+            default: Column
+            width: 1/3
+          # column content
+          columnContentHTML:
+            label: 
+              en: Content format
+              de: Inhalt Format
+            type: radio
+            columns: 4
+            default: markdown
+            help: 
+              en: Choose whether the column content is Content blocks, KirbyText Markdown or plain HTML.
+              de: Wählen Sie aus, ob der Spalteninhalt Inhaltsblöcke, KirbyText Markdown oder reines HTML ist.
+            options:
+              editor: Content blocks
+              markdown: KirbyText
+              html: HTML
+              subgrid: 
+                en: Sub-grid
+                de: Unterraster
+          # editor
+          columnEditor:
+            extends: fields/blockEditor
+            when:
+              columnContentHTML: editor
+          # markdown
+          columnContent:
+            label: 
+              en: Column content KirbyText
+              de: Spalteninhalt KirbyText
+            type: textarea
+            size: medium
+            when:
+              columnContentHTML: markdown
+          # html
+          columnHTML:
+            label: 
+              en: Column content HTML
+              de: Spalteninhalt HTML
+            type: textarea
+            buttons: false
+            font: monospace
+            size: medium
+            when:
+              columnContentHTML: html
+          # sub-columns
+          subColumns:
+            label: 
+              en: Sub Columns
+              de: Unterspalten 
+            type: structure
+            columns: 
+              subColumnTitle: 
+                width: 1/2
+              subColumnWidth: 
+                width: 1/4
+              subColumnContentHTML:
+                width: 1/4
+            when:
+              columnContentHTML: subgrid
+            fields:
+              subColumnWidth:
+                label: 
+                  en: Sub Column width
+                  de: Breite der Unterspalte 
+                type: select
+                default: "uk-width-expand@m"
+                help: 
+                  en: Expand fills the remaining row width.
+                  de: Erweitern füllt die verbleibende Zeilenbreite.
+                options:
+                  "uk-width-expand@m": 
+                    en: Expand
+                    de: Erweitern
+                  "uk-width-1-1": 1/1
+                  "uk-width-1-2@m": 1/2
+                  "uk-width-1-3@m": 1/3
+                  "uk-width-2-3@m": 2/3
+                  "uk-width-1-4@m": 1/4
+                  "uk-width-3-4@m": 3/4
+                  "uk-width-1-5@m": 1/5
+                  "uk-width-2-5@m": 2/5
+                  "uk-width-3-5@m": 3/5
+                  "uk-width-4-5@m": 4/5
+                  "uk-width-1-6@m": 1/6
+                  "uk-width-5-6@m": 5/6
+                  "uk-width-auto@m": Auto
+                width: 1/3
+              subColumnClass:
+                label: 
+                  en: Sub Column class
+                  de: Unterspaltenklasse
+                type: text
+                placeholder: my-custom-class
+                width: 1/3
+              subColumnTitle:
+                label: 
+                  en: Sub Column title
+                  de: Titel der Unterspalte
+                type: text
+                placeholder: 
+                  en: Add column title
+                  de: Spaltentitel hinzufügen
+                default: Sub-column
+                width: 1/3
+              subColumnContentHTML:
+                label: 
+                  en: Content format
+                  de: Inhalt Format
+                type: radio
+                columns: 3
+                default: markdown
+                help: 
+                  en: Choose whether the column content is Content blocks, KirbyText Markdown or plain HTML.
+                  de: Wählen Sie aus, ob der Spalteninhalt Inhaltsblöcke, KirbyText Markdown oder reines HTML ist.
+                options:
+                  editor: Content blocks
+                  markdown: KirbyText
+                  html: HTML
+              # editor
+              subColumnEditor:
+                extends: fields/blockEditor
+                when:
+                  subColumnContentHTML: editor
+              # markdown
+              subColumnContent:
+                label: 
+                  en: Sub Column content KirbyText
+                  de: Inhalt der Unterspalte KirbyText 
+                type: textarea
+                size: medium
+                when:
+                  subColumnContentHTML: markdown
+              # html
+              subColumnHTML:
+                label: 
+                  en: Sub Column content HTML
+                  de: HTML-Inhalt der Unterspalte
+                type: textarea
+                buttons: false
+                font: monospace
+                size: medium
+                when:
+                  subColumnContentHTML: html
+              # sub-column card
+              subColumnCard:
+                label: 
+                  en: Add card to sub-column
+                  de: Karte zur Unterspalte hinzufügen
+                type: toggle
+                default: false
+                width: 1/3
+              # card size
+              subColumnCardSize:
+                label: 
+                  en: Card size
+                  de: Kartengröße
+                type: select
+                placeholder: Default
+                options: 
+                  " uk-card-small": Small
+                  " uk-card-large": Large
+                width: 1/3
+                when:
+                  subColumnCard: true
+              # card hover
+              subColumnCardHover:
+                label: 
+                  en: Add hover effect
+                  de: Schwebeeffekt hinzufügen
+                type: toggle
+                default: false
+                width: 1/3
+                when:
+                  subColumnCard: true
+              # card color
+              subColumnCardColor:
+                label: 
+                  en: Card background
+                  de: Kartenhintergrund 
+                type: select
+                default: " uk-card-default"
+                placeholder: None
+                options:
+                  " uk-card-default": 
+                    en: Default
+                    de: Standard
+                  " uk-card-primary": 
+                    en: Primary
+                    de: Primär
+                  " uk-card-secondary": 
+                    en: Secondary
+                    de: Sekundär
+                width: 1/3
+                when:
+                  subColumnCard: true
+          
+          # column card
+          columnCard:
+            label: 
+              en: Add card to column
+              de: Karte zur Spalte hinzufügen
+            type: toggle
+            default: false
+            width: 1/3
+          # card size
+          columnCardSize:
+            label: 
+              en: Card size
+              de: Kartengröße
+            type: select
+            placeholder: Default
+            options: 
+              " uk-card-small": Small
+              " uk-card-large": Large
+            width: 1/3
+            when:
+              columnCard: true
+          # card hover
+          columnCardHover:
+            label: 
+              en: Add hover effect
+              de: Schwebeeffekt hinzufügen
+            type: toggle
+            default: false
+            width: 1/3
+            when:
+              columnCard: true
+          # card color
+          columnCardColor:
+            label: 
+              en: Card background
+              de: Kartenhintergrund 
+            type: select
+            default: " uk-card-default"
+            placeholder: None
+            options:
+              " uk-card-default": 
+                en: Default
+                de: Standard
+              " uk-card-primary": 
+                en: Primary
+                de: Primär
+              " uk-card-secondary": 
+                en: Secondary
+                de: Sekundär
+            width: 1/3
+            when:
+              columnCard: true
+  
+  # settings tab
+  settings:
+    label: 
+      en: Settings
+      de: die Einstellungen
+    icon: cog
+    fields:
+      title:
+        label: 
+          en: Section title
+          de: Abschnittsüberschrift
+        type: text
+        placeholder: My custom Section name
+        width: 1/3
+      blockClass:
+        label: 
+          en: Section custom class
+          de: Abschnitt benutzerdefinierte Klasse
+        type: text
+        placeholder: my-custom-class
+        before: '.'
+        width: 1/3
+      # section id
+      blockID:
+        label: 
+          en: Section ID
+          de: Abschnitts-ID
+        type: text
+        placeholder: "#my-custom-id"
+        before: '#'
+        width: 1/3
+      # section options headline
+      sectionHeadline:
+        label: Section options
+        type: headline
+        numbered: false
+      # section size
+      sectionSize:
+        extends: fields/sectionSize
+      # section color
+      sectionColor:
+        extends: fields/sectionColor
+      # section remove padding
+      sectionRemovePadding:
+        extends: fields/sectionRemovePadding
+      # image
+      backgroundImageHeading:
+        extends: fields/backgroundImageHeading
+        when:
+          sectionColor: image
+      backgroundImage:
+        extends: fields/backgroundImage
+        when:
+          sectionColor: image
+      backgroundImagePosition:
+        extends: fields/backgroundImagePosition
+        when:
+          sectionColor: image
+      backgroundImageSize:
+        extends: fields/backgroundImageSize
+        when:
+          sectionColor: image
+      backgroundImageRepeat:
+        extends: fields/backgroundImageRepeat
+        when:
+          sectionColor: image
+      sectionTextColor:
+        extends: fields/sectionTextColor
+        when:
+          sectionColor: image
+      backgroundOverlayColor:
+        extends: fields/backgroundOverlayColor
+        when:
+          sectionColor: image
+      backgroundParalax:
+        extends: fields/backgroundParalax
+        when:
+          sectionColor: image
+        
+      # shape divider
+      shapeDividerheadline:
+        label: 
+          en: Section shape divider
+          de: Schnittformteiler
+        type: headline
+        numbered: false
+      shapeDividertoggle:
+        label: 
+          en: SVG shape divider
+          de: SVG-Formteiler
+        type: toggle
+        width: 1/3
+      shapeDividerinfo:
+        label: 
+          en: SVG shape divider info
+          de: Informationen zum SVG-Formteiler
+        type: info
+        text: 
+          en: Add top/bottom shape divider to section.
+          de: Fügen Sie dem Abschnitt einen oberen/unteren Formteiler hinzu.
+        width: 2/3
+      shapeDivider:
+        label: 
+          en: Shape divider
+          de: Formteiler
+        type: select
+        placeholder: Curve
+        options:
+          fan: Fan
+          curve-opacity: Curve opacity
+          mountains: Mountains
+          curve-asym: Curve asym
+          curve-asym-alt: Curve asym alt
+          tilt: Tilt
+          tilt-alt: Tilt alt
+          triangle: Triangle
+          waves: Waves
+          waves-opacity: Waves opacity
+          waves-opacity-2: Waves opacity 2
+          clouds: Clouds
+          speech: Speech
+          custom: Custom
+        width: 1/3
+        when:
+          shapeDividertoggle: true
+      shapeDividerposition:
+        label: 
+          en: Shape divider position
+          de: Position des Formteilers
+        type: select
+        placeholder: Bottom
+        options:
+          top: Top
+          both: Top and bottom
+        width: 1/3
+        when:
+          shapeDividertoggle: true
+      shapeDividercolor:
+        label: 
+          en: Shape divider color
+          de: Farbe des Formteilers
+        type: colors
+        default: '#ffffff'
+        width: 1/3
+        when:
+          shapeDividertoggle: true
+      customShapedivider:
+        label: Custom shape divider
+        type: code-editor
+        help: 
+          en: | 
+            Add custom SVG code here (just SVG code). Only add bottom shape, top one will be automatically created.
+            You can use online tool like this one (link: https://www.shapedivider.app/ target: _blank) (choose Invert option to get bottom SVG). 
+            Add 'fill="#your_color_code"' attribute to SVG tag.
+          de: |
+            Fügen Sie hier benutzerdefinierten SVG-Code hinzu (nur SVG-Code). Fügen Sie nur die untere Form hinzu, die obere wird automatisch erstellt.
+            Sie können ein Online-Tool wie dieses verwenden (link: https://www.shapedivider.app/ target: _blank) (Wählen Sie die Option Invertieren, um das untere SVG zu erhalten). 
+            Fügen Sie dem SVG-Tag das Attribut 'fill="#your_color_code"' hinzu.
+        when:
+          shapeDividertoggle: true
+          shapeDivider: custom
+      shapeDividerheight:
+        label: 
+          en: Shape divider height
+          de: Formteilerhöhe
+        type: text
+        default: 150px
+        placeholder: 150px
+        help: Enter an optional custom height for your shape divider in pixels (px) or percent (%).
+        width: 2/3
+        when:
+          shapeDividertoggle: true
+      # grid options headline
+      gridHeadline:
+        label: Grid and columns options
+        type: headline
+        numbered: false
+      # width
+      gridWidth:
+        label: 
+          en: Grid width
+          de: Rasterweite
+        type: select
+        placeholder: Default
+        options:
+          " uk-container-xsmall": 
+            en: XSmall
+            de: XKlein
+          " uk-container-small": 
+            en: Small
+            de: Klein
+          " uk-container-large": 
+            en: Large
+            de: Groß
+          " uk-container-xlarge": 
+            en: XLarge
+            de: XGroß
+        width: 1/3
+      # column stack option
+      columnStack:
+        label: 
+          en: Columns stacking
+          de: Spalten stapeln
+        type: select
+        default: tablet
+        help: 
+          en: On mobile stack by default.
+          de: Standardmäßig auf dem mobilen Stack.
+        options:
+          tablet: 
+            en: Tablet stack
+            de: Tablet-Stapel
+          mobile: Tablet 1/2
+        width: 1/3
+      # column gap option
+      columnGap:
+        label: 
+          en: Columns gap
+          de: Spalten Lücke
+        type: select
+        placeholder: Default
+        help: 
+          en: Choose the size of gap between columns.
+          de: Wählen Sie die Größe der Lücke zwischen den Spalten.
+        options:
+          " uk-grid-small": 
+            en: Small
+            de: Klein
+          " uk-grid-medium": Medium
+          " uk-grid-large": 
+            en: Large
+            de: Groß
+          " uk-grid-collapse": Collapse
+        width: 1/3
+      # columns vertical align
+      columnsVerticalAlign:
+        label: 
+          en: Columns vertical alignment
+          de: Vertikale Ausrichtung der Spalten
+        type: select
+        placeholder: Top
+        options:
+          " uk-flex-middle": 
+            en: Middle
+            de: Mitte
+          " uk-flex-bottom": 
+            en: Bottom
+            de: Unterseite
+          " uk-grid-match": Match height
+        width: 1/3
+      # columns horizontal align
+      columnsHorizontalAlign:
+        label: 
+          en: Columns horizontal alignment
+          de: Horizontale Ausrichtung der Spalten
+        type: select
+        placeholder: Left
+        options:
+          " uk-flex-center": Center
+          " uk-flex-right": 
+            en: Right
+            de: Recht
+          " uk-flex-between": 
+            en: Space between
+            de: Raum zwischen
+          " uk-flex-around": 
+            en: Space evenly
+            de: Gleiche Abstände
+        width: 1/3
+      # divider
+      columnsDivider:
+        label: 
+          en: Column divider
+          de: Spaltenteiler
+        type: toggle
+        default: false
+        help: 
+          en: Divider columns.
+          de: Teilerspalten.
+        width: 1/3
+      # center text
+      centerText:
+        label: 
+          en: Center text
+          de: Text zentrieren
+        type: toggle
+        default: false 
+        width: 1/3
+      # headings larger
+      gridHeadings:
+        label: 
+          en: Headings large
+          de: Überschriften groß
+        type: toggle
+        default: false
+        help: 
+          en: Make headings (h1, h2, h3) larger.
+          de: Machen Sie die Überschriften (h1, h2, h3) größer.
+        width: 1/3
+      # paralax effect
+      columnsParallax:
+        label: 
+          en: Parallax to columns
+          de: Parallaxe zu Spalten
+        type: toggle
+        default: false
+        help: 
+          en: Parallax effect on columns.
+          de: Parallaxeeffekt auf Spalten.
+        width: 1/3
+      gapEnd:
+        type: gap
+        width: 1/1

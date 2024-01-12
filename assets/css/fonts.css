@@ -1,0 +1,29 @@
+  @font-face {
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 300;
+    font-display: swap;
+    src: url('fonts/Outfit-Light.woff2') format('woff2'),
+         url('fonts/Outfit-Light.woff') format('woff'),
+         url('fonts/Outfit-Light.ttf') format('truetype');
+  }
+
+  @font-face {
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url('fonts/Outfit-Regular.woff2') format('woff2'),
+         url('fonts/Outfit-Regular.woff') format('woff'),
+         url('fonts/Outfit-Regular.ttf') format('truetype');
+  }
+
+  @font-face {
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: url('fonts/Outfit-Bold.woff2') format('woff2'),
+         url('fonts/Outfit-Bold.woff') format('woff'),
+         url('fonts/Outfit-Bold.ttf') format('truetype');
+  }

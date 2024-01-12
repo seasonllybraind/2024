@@ -1,0 +1,22 @@
+label: 
+  en: Margin right
+  de: Margin rechts
+type: select
+placeholder: None
+options:
+  " uk-margin-right": 
+    en: Default right
+    de: Standardrecht
+  " uk-margin-small-right": 
+    en: Small right
+    de: Kleines Recht
+  " uk-margin-medium-right": 
+    en: Medium right
+    de: Mittel rechts
+  " uk-margin-large-right": 
+    en: Large right
+    de: Großes Recht
+  " uk-margin-xlarge-right": 
+    en: Large right
+    de: Großes Recht
+width: 1/3

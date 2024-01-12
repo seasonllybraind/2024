@@ -1,0 +1,149 @@
+label: Text
+fields:
+  # column text alignment
+  textHeadline:
+    label: Text
+    type: headline
+    numbered: false
+    help: 
+      en: Change text styling.
+      de: Ändern Sie den Textstil.
+  # text align
+  textAlign:
+    label: 
+      en: Text align desktop
+      de: Desktop mit Textausrichtung
+    type: toggles
+    labels: false
+    options: 
+      - value: " uk-text-left@m"
+        text:
+          en: Align left
+          de: Linksbündig
+        icon: text-left
+      - value: " uk-text-right@m"
+        text:
+          en: Align right
+          de: Rechts ausrichten
+        icon: text-right
+      - value: " uk-text-center@m"
+        text:
+          en: Align center
+          de: Im Zentrum anordnen
+        icon: text-center
+      - value: " uk-text-justify@m"
+        text:
+          en: Justify text
+          de: Texte begründen
+        icon: text-justify
+    width: 1/3
+  # text align tablet
+  textAlignTablet:
+    label: 
+      en: Text align tablet
+      de: Tablett zur Textausrichtung
+    type: toggles
+    labels: false
+    options: 
+      - value: " uk-text-left@s"
+        text:
+          en: Align left
+          de: Linksbündig
+        icon: text-left
+      - value: " uk-text-right@s"
+        text:
+          en: Align right
+          de: Rechts ausrichten
+        icon: text-right
+      - value: " uk-text-center@s"
+        text:
+          en: Align center
+          de: Im Zentrum anordnen
+        icon: text-center
+      - value: " uk-text-justify@s"
+        text:
+          en: Justify text
+          de: Texte begründen
+        icon: text-justify
+    width: 1/3
+  # text align mobile
+  textAlignMobile:
+    label: 
+      en: Text align mobile
+      de: Textausrichtung mobil
+    type: toggles
+    labels: false
+    options: 
+      - value: " uk-text-left"
+        text:
+          en: Align left
+          de: Linksbündig
+        icon: text-left
+      - value: " uk-text-right"
+        text:
+          en: Align right
+          de: Rechts ausrichten
+        icon: text-right
+      - value: " uk-text-center"
+        text:
+          en: Align center
+          de: Im Zentrum anordnen
+        icon: text-center
+      - value: " uk-text-justify"
+        text:
+          en: Justify text
+          de: Texte begründen
+        icon: text-justify
+    width: 1/3
+  # text size
+  textSize:
+    label: 
+      en: Font size
+      de: Schriftgröße
+    type: select
+    placeholder: Inherit
+    options: 
+      " uk-text-small": 
+        en: Small
+        de: Klein
+      " uk-text-default": 
+        en: Default
+        de: Standard
+      " uk-text-large": 
+        en: Large
+        de: Groß
+    width: 1/3
+  # text transform
+  textTransform:
+    label: 
+      en: Text transform
+      de: Textumwandlung
+    type: select
+    placeholder: Inherit
+    options: 
+      " uk-text-capitalize": 
+        en: Capitalize
+        de: Kapitalisieren
+      " uk-text-uppercase": 
+        en: Uppercase
+        de: Großbuchstaben
+      " uk-text-lowercase": 
+        en: Lowercase
+        de: Kleinbuchstaben
+    width: 1/3
+  # text wrapping
+  textWrapping:
+    label: 
+      en: Text wrapping
+      de: Textumbruch
+    type: select
+    placeholder: Inherit
+    options: 
+      " uk-text-truncate": 
+        en: Truncate
+        de: Kürzen
+      " uk-text-break": 
+        en: Break
+        de: Brechen
+      " uk-text-nowrap": Nowrap
+    width: 1/3

@@ -1,0 +1,43 @@
+type: fields
+fields:
+  # Social links
+  ontheweb:
+    label: 
+      en: Social
+      de: Sozial
+    type: headline
+  socialStyle:
+    label: 
+      en: Social style
+      de: Sozial Stil
+    type: radio
+    default: links
+    columns: 2
+    help: 
+      en: Choose social links style. If you add correct social platform name, it can be automatically turned in to icon.
+      de: Wählen Sie den Stil für soziale Links. Wenn Sie den richtigen Namen für die soziale Plattform hinzufügen, kann dieser automatisch in ein Symbol umgewandelt werden.
+    options:
+      links: Links
+      icons: Icons
+  social:
+    label: 
+      en: On the web
+      de: Im Internet
+    type: structure
+    max: 5
+    help: 
+      en: Maximum 5 links allowed.
+      de: Maximal 5 Links erlaubt.
+    fields:
+      platform:
+        label: 
+          en: Platform
+          de: Plattform
+        type: text
+        width: 1/2
+      url:
+        label: URL
+        type: url
+        width: 1/2
+  socialGap:
+    type: gap

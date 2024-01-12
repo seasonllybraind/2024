@@ -1,0 +1,160 @@
+label: 
+  en: Grid
+  de: Raster
+fields:
+  gridHeadline:
+    label: 
+      en: Grid options
+      de: Rasteroptionen
+    type: headline
+    numbered: false
+  # width
+  gridWidth:
+    label: 
+      en: Grid width
+      de: Rasterweite
+    type: select
+    placeholder: Full width
+    default: "uk-container"
+    options:
+      "uk-container uk-container-xsmall": 
+        en: XSmall
+        de: XKlein
+      "uk-container uk-container-small": 
+        en: Small
+        de: Klein
+      "uk-container": 
+        en: Default
+        de: Standard
+      "uk-container uk-container-large": 
+        en: Large
+        de: Groß
+      "uk-container uk-container-xlarge": 
+        en: XLarge
+        de: XGroß
+      "uk-container uk-container-expand": Expand
+    width: 1/3
+  # tabletWidth
+  tabletWidth:
+    label: 
+      en: Tablet columns width
+      de: Breite der Tablettspalten
+    type: select
+    placeholder: 1/1
+    options:
+      'uk-width-1-2@s ': 1/2
+      'uk-width-1-3@s ': 1/3
+      'uk-width-1-4@s ': 1/4
+      'uk-width-expand@s ': Expand
+      'uk-width-auto@s ': Auto
+    width: 1/3
+  # mobileWidth
+  mobileWidth:
+    label: 
+      en: Mobile columns width
+      de: Breite der mobilen Spalten
+    type: select
+    placeholder: 1/1
+    options:
+      'uk-width-1-2 ': 1/2
+      'uk-width-1-3 ': 1/3
+      'uk-width-1-4 ': 1/4
+      'uk-width-expand ': Expand
+      'uk-width-auto ': Auto
+    width: 1/3
+  # columns vertical align
+  columnsVerticalAlign:
+    label: 
+      en: Columns vertical alignment
+      de: Vertikale Ausrichtung der Spalten
+    type: select
+    placeholder: Top
+    options:
+      " uk-flex-middle": 
+        en: Middle
+        de: Mitte
+      " uk-flex-bottom": 
+        en: Bottom
+        de: Unterseite
+      " uk-grid-match": 
+        en: Match height
+        de: Höhe entsprechen
+      " uk-flex-stretch": 
+        en: Stretch
+        de: Strecken
+    width: 1/3
+  # columns horizontal align
+  columnsHorizontalAlign:
+    label: 
+      en: Columns horizontal alignment
+      de: Horizontale Ausrichtung der Spalten
+    type: select
+    placeholder: Left
+    options:
+      " uk-flex-center": Center
+      " uk-flex-right": 
+        en: Right
+        de: Recht
+      " uk-flex-between": 
+        en: Space between
+        de: Raum zwischen
+      " uk-flex-around": 
+        en: Space evenly
+        de: Gleiche Abstände
+    width: 1/3
+  allignGap:
+    type: gap
+    width: 1/3
+  # expand to side
+  containerExpand:
+    label: 
+      en: Expand one side
+      de: Erweitern Sie eine Seite
+    type: select
+    placeholder: 'No'
+    options:
+      ' uk-container-expand-left': 
+        en: Expand to left
+        de: Nach links erweitern
+      ' uk-container-expand-right': 
+        en: Expand to right
+        de: Erweitern Sie nach rechts
+    width: 1/3
+  # column gap option
+  columnGap:
+    label: 
+      en: Columns gap
+      de: Spalten Lücke
+    type: select
+    placeholder: Default
+    options:
+      " uk-grid-small": 
+        en: Small
+        de: Klein
+      " uk-grid-medium": Medium
+      " uk-grid-large": 
+        en: Large
+        de: Groß
+      " uk-grid-collapse": Collapse
+    width: 1/3
+  # divider
+  columnsDivider:
+    label: 
+      en: Column divider
+      de: Spaltenteiler
+    type: toggle
+    default: false
+    width: 1/3
+  # masonry
+  gridMasonry:
+    label: Grid masonry
+    type: toggle
+    width: 1/3
+  # parallax
+  gridParallax:
+    label: Grid parallax
+    type: toggle
+    width: 1/3
+
+  gridBottomgap:
+    type: gap

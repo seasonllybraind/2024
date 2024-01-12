@@ -1,0 +1,203 @@
+title: Shop
+icon: cart
+
+options:
+  duplicate: false
+
+tabs:
+
+  # content tab
+  content:
+    label: 
+      en: Products
+      de: Produkte 
+    icon: tag
+    columns:
+      # main
+      - width: 1/2
+        sections:
+          # listed products
+          listed:
+            extends: sections/products
+            headline: 
+              en: Published Products
+              de: Veröffentlichte Produkte 
+            status: published
+            layout: list
+
+      # sidebar
+      - width: 1/2
+        sections:
+          categoryies:
+            type: fields
+            fields:
+              categories:
+                label: 
+                  en: Categories
+                  de: Kategorien
+                type: tags
+                help: 
+                  en: Define all categories here. Use lower case for best URL organisation.
+                  de: Definieren Sie hier alle Kategorien. Verwenden Sie Kleinbuchstaben für die beste URL-Organisation.
+          # draft products
+          draft:
+            extends: sections/products
+            headline: 
+              en: Draft Products
+              de: Entwurfsprodukte
+            status: draft
+
+  # settings tab
+  settings:
+    label: 
+      en: Shop settings
+      de: Shop-Einstellungen 
+    icon: cart
+    columns:
+      # shop settings
+      - width: 1/2
+        sections:
+          # content
+          content:
+            type: fields
+            fields:
+              displayHeadline:
+                label: 
+                  en: Products display
+                  de: Produkte anzeigen 
+                type: headline
+              perpage:
+                label: 
+                  en: Products per page
+                  de: Produkte pro Seite
+                type: number
+                min: 1
+                default: 6
+                help: 
+                  en: Set how many products are shown per page
+                  de: Legen Sie fest, wie viele Produkte pro Seite angezeigt werden
+                width: 1/2
+              productsStyle:
+                label: 
+                  en: Products style
+                  de: Produktstil
+                type: select
+                default: stacked
+                help: 
+                  en: Choose products listing style
+                  de: Wählen Sie den Produktlistenstil
+                options:
+                  stacked: 
+                    en: Stacked
+                    de: Gestapelt
+                  grid: 
+                    en: Grid 2 Columns
+                    de: Raster 2 Spalten
+                  grid3: 
+                    en: Grid 3 Columns
+                    de: Raster 3 Spalten
+                  grid4: 
+                    en: Grid 4 Columns
+                    de: Raster 4 Spalten  
+                width: 1/2
+
+              pageWidth:
+                label: 
+                  en: Page width
+                  de: Seitenbreite
+                type: radio
+                default: large
+                columns: 3
+                options:
+                  large: 
+                    en: Large
+                    de: Groß
+                  small: 
+                    en: Small
+                    de: Klein
+                  xsmall: 
+                    en: XSmall
+                    de: XKlein
+
+        # custom tab
+          customTab:
+            type: fields
+            fields:
+              lineCustomtab:
+                type: line
+              customTab:
+                label: Custom tab
+                type: headline
+              customTabs:
+                label: Custom tabs
+                type: structure
+                help: 
+                  en: Add a custom tab to every product.
+                  de: Fügen Sie jedem Produkt eine benutzerdefinierte Registerkarte hinzu.
+                fields:
+                  tabName:
+                    label: Tab name
+                    type: text
+                  tabContent:
+                    label: Tab content
+                    extends: fields/blockEditor
+
+          # layout builder headline
+          layoutBuilderHeadline:
+            type: fields
+            fields:
+              linelayoutBuilder:
+                type: line
+              layoutBuilderHeadline:
+                label: 
+                  en: Content before/after products
+                  de: Inhalt vor/nach den Produkten
+                type: headline
+                help: 
+                  en: Add content before or after products using Layout Builder
+                  de: Fügen Sie mit Layout Builder Inhalte vor oder nach Produkten hinzu
+              layoutBuilderPosition:
+                label: 
+                  en: Before or after products
+                  de: Vor oder nach Produkten
+                type: toggle
+                text:
+                  - 
+                    en: Before
+                    de: Vor
+                  - 
+                    en: After
+                    de: Nach
+                width: 1/3
+
+          # Layout Builder sections
+          layoutBuilder:
+            extends: sections/layout-builder
+
+      # snipcart settings
+      - width: 1/2
+        sections:
+          # content
+          snipcart:
+            type: fields
+            fields:
+              snipcartHeadline:
+                label: 
+                  en: Snipcart and Shop settings
+                  de: Snipcart und Shop Einstellungen
+                type: headline
+                numbered: false
+              snipcartInfo:
+                label: 
+                  en: Snipcart and Shop settings information
+                  de: Informationen zu Snipcart und Shop Einstellungen
+                type: info
+                text: 
+                  en: Snipcart and Shop settings have been moved to Site Settings tab. 
+                  de: Snipcart und Shop Einstellungen wurden auf die Registerkarte Website-Einstellungen verschoben.
+
+  # header tab
+  header: tabs/page-options
+
+  # seo tab
+  seo: tabs/seo

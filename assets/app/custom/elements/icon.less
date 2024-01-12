@@ -1,0 +1,66 @@
+//
+// Component: Icon
+//
+// ========================================================================
+
+
+// Variables
+// ========================================================================
+
+
+// Style modifiers
+// ========================================================================
+
+//
+// Link
+//
+
+.hook-icon-link() {}
+
+.hook-icon-link-hover() {}
+
+.hook-icon-link-active() {}
+
+//
+// Button
+//
+
+.hook-icon-button() {
+    transition: all 0.3s ease-in-out;
+    & when (@global-button-style = creative) {
+        background-position: 1% 100%;
+        background-size: 0;
+        background-image: radial-gradient(circle at 1% 100%, @button-primary-background 1%,transparent 1%);
+    }
+}
+
+.hook-icon-button-hover() {
+    & when (@global-button-style = creative) {
+        color: @global-inverse-color;
+        background-size: 15000%;
+    }
+}
+
+.hook-icon-button-active() {}
+
+
+// Miscellaneous
+// ========================================================================
+
+.hook-icon-misc() {
+    .tm-leftarrow {
+        transform: scaleY(-1) rotateZ(180deg);
+    }
+}
+
+
+// Inverse
+// ========================================================================
+
+.hook-inverse-icon-link() {}
+.hook-inverse-icon-link-hover() {}
+.hook-inverse-icon-link-active() {}
+
+.hook-inverse-icon-button() {}
+.hook-inverse-icon-button-hover() {}
+.hook-inverse-icon-button-active() {}

@@ -1,0 +1,62 @@
+name: HTML
+icon: code
+
+preview: zhtml
+
+tabs:
+  # content tab
+  content:
+    label: 
+      en: Content
+      de: Inhalt
+    fields:
+      htmlInfo:
+        label: HTML info
+        type: info
+        text: 
+          en: You can add custom HTML code this block.
+          de: Sie können diesem Block benutzerdefinierten HTML-Code hinzufügen.
+      htmlCode:
+        label: HTML code
+        type: code-editor
+
+  # settings tab
+  settings:
+    label: 
+      en: Settings
+      de: die Einstellungen
+    icon: cog
+    fields:
+      # block advanced heading
+      blockAdvancedHeadline:
+        label: 
+          en: Advanced
+          de: Fortschrittlich
+        type: headline
+        numbered: false
+      # block title
+      title:
+        label: 
+          en: Block title
+          de: Blocktitel
+        type: text
+        placeholder: My custom block name
+        width: 1/3
+      # block class
+      blockClass:
+        label: 
+          en: Block custom class
+          de: Benutzerdefinierte Klasse
+        type: text
+        placeholder: my-custom-class
+        before: '.'
+        width: 1/3
+      # block id
+      blockID:
+        label: 
+          en: Block ID
+          de: ID
+        type: text
+        placeholder: my-custom-id
+        before: '#'
+        width: 1/3

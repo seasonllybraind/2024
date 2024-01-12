@@ -1,0 +1,99 @@
+label: 
+  en: Site content
+  de: Inhalt der Website
+icon: dashboard
+columns:
+  - width: 1/3
+    sections:
+      # draft pages
+      draft:
+        type: pages
+        headline: 
+          en: Draft pages
+          de: Entwurf Seiten
+        status: draft
+        info: " {{ page.template }}"
+        limit: 3
+        search: true
+        empty: 
+          en: No pages yet
+          de: Noch keine Seiten
+        image:
+          query: false
+          back: black
+        help: 
+          en: Click "add" button to create new page, and select template.
+          de: Klicken Sie auf die Schaltfläche „Hinzufügen“, um eine neue Seite zu erstellen, und wählen Sie eine Vorlage aus.
+        templates: # list of allowed templates
+          - layout
+          - default
+          - link
+          - contact
+          - blog
+          - work
+          - shop
+          - builder
+      # published pages
+      published:
+        type: pages
+        headline: 
+          en: Published pages
+          de: Veröffentlichte Seiten
+        status: published
+        info: " {{ page.template }}"
+        limit: 12
+        search: true
+        empty: 
+          en: No pages yet
+          de: Noch keine Seiten
+        help: 
+          en: Listed pages goes automatically to main navigation.
+          de: Die aufgelisteten Seiten wechseln automatisch zur Hauptnavigation.
+        image:
+          query: false
+          back: black
+        templates: # list of allowed templates
+          - default
+          - layout
+          - builder
+          - link
+          - contact
+          - blog
+          - work
+          - shop
+          - error
+          - search
+          - home
+
+  - width: 2/3
+    sections:
+      # sections in the right column
+      websiteStats:
+        label: 
+          en: Website info
+          de: Webseiten-Info
+        type: stats
+        size: small
+        reports:
+          - label: 
+              en: Pages
+              de: Seiten
+            value: "{{ site.index.count }}"
+            info: 
+              en: Total number of published website pages
+              de: Gesamtzahl der veröffentlichten Website-Seiten
+            theme: positive
+          - label: 
+              en: Users
+              de: Benutzer
+            value: "{{ kirby.users.count }}"
+            info: 
+              en: Total number of website users
+              de: Gesamtzahl der Website-Benutzer
+            theme: positive
+          - label: Snipcart
+            value: "{{ site.snipcartSwitch.titlecase }}"
+            info: Snipcart status
+      navigationbuilder:
+        extends: sections/navigation-builder
+      

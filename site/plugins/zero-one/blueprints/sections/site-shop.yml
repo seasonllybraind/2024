@@ -1,0 +1,176 @@
+type: fields
+fields:
+  shopHeadline:
+    label: 
+      en: Shop options
+      de: Shop-Optionen
+    type: headline
+  defaultCurrency:
+    label: 
+      en: Currency code
+      de: Währungscode
+    type: text
+    default: EUR
+    placeholder: EUR
+    maxlength: 3
+    minlength: 3
+    required: true
+    help: 
+      en: Default currency code
+      de: Standard-Währungscode
+    width: 1/3
+  defaultCurrencysymbol:
+    label: 
+      en: Currency symbol
+      de: Währungszeichen
+    type: text
+    default: €
+    placeholder: €
+    maxlength: 3
+    minlength: 1
+    required: true
+    help: 
+      en: Default currency symbol
+      de: Standard-Währungssymbol
+    width: 1/3
+  currencySymbolposition:
+    label: 
+      en: Symbol position
+      de: Symbolposition
+    type: toggle
+    text:
+      - "Before price"
+      - "After price"
+    width: 1/3
+  thousandSeparator:
+    label: 
+      en: Thousand separator
+      de: Tausendertrennzeichen
+    type: text
+    default: "."
+    maxlength: 1
+    minlength: 1
+    required: true
+    width: 1/2
+  decimalSeparator:
+    label: 
+      en: Decimal separator
+      de: Dezimaltrennzeichen
+    type: text
+    default: ","
+    maxlength: 1
+    minlength: 1
+    required: true
+    width: 1/2
+  infoCurrency:
+    label: Currency note
+    type: info
+    text: 
+      en: Make sure that Snipcart supports your selected currency.
+      de: Stellen Sie sicher, dass Snipcart Ihre ausgewählte Währung unterstützt.
+  lineafterCurrency:
+    type: line
+
+  snipcartInstructions:
+    label: 
+      en: Snipcart instructions
+      de: Snipcart-Anweisungen 
+    type: info
+    theme: positive
+    text: 
+      en: |
+        Learn how to setup your Snipcart account at (link: https://www.one.thezero.club/guide/shop-page/snipcart target: _blank)
+      de: |
+        Erfahren Sie, wie Sie Ihr Snipcart-Konto einrichten unter (link: https://www.one.thezero.club/guide/shop-page/snipcart target: _blank)
+  snipcartSwitch:
+    label:
+      en: Use Snipcart?
+      de: Verwenden Sie Snipcart?
+    type: toggle
+    help: Turn Snipcart on/off
+    width: 1/3
+  hideCart:
+    label: 
+      en: Hide nav cart
+      de: Navi-Cart ausblenden
+    type: toggle
+    width: 1/3
+    when: 
+      snipcartSwitch: true
+  hideTotal:
+    label: 
+      en: Hide nav total price
+      de: Navi-Gesamtpreis ausblenden
+    type: toggle
+    width: 1/3
+    when: 
+      snipcartSwitch: true
+  lineApi:
+    type: line
+    when: 
+      snipcartSwitch: true
+  snipcartApiinfo:
+    label: Snipcart API note
+    type: info
+    text:
+      en: |
+        You can find your Snipcart API in your Snipcart account at (link: https://app.snipcart.com/dashboard/account/credentials target: _blank).
+      de: |
+        Sie finden Ihre Snipcart-API in Ihrem Snipcart-Konto unter (link: https://app.snipcart.com/dashboard/account/credentials target: _blank).
+    when: 
+      snipcartSwitch: true
+  snipcartApi:
+    label: Snipcart API
+    type: text
+    placeholder: 
+    help: 
+      en: Add your Snipcart API.
+      de: Fügen Sie Ihre Snipcart-API hinzu. 
+    when: 
+      snipcartSwitch: true
+  lineTax:
+    type: line
+    when: 
+      snipcartSwitch: true
+  snipcartTaxinfo:
+    label: Product tax note
+    type: info
+    text:
+      en: |
+        You must setup product taxes in Snipcart account (link: https://app.snipcart.com/dashboard/taxes target: _blank).
+      de: |
+        Sie müssen Produktsteuern im Snipcart-Konto einrichten (link: https://app.snipcart.com/dashboard/taxes target: _blank).
+    when: 
+      snipcartSwitch: true
+  snipcartTax:
+    label: Product tax
+    type: toggle
+    text:
+      - Included in price
+      - Excluded from price
+    width: 1/2
+    when: 
+      snipcartSwitch: true
+
+  lineProductImage:
+    type: line
+  productImageinfo:
+    label: 
+      en: Product image info
+      de: Informationen zum Produktbild
+    type: info
+    text:
+      en: |
+        Change shop(s) products cover image width/height ratio.
+      de: |
+        Breiten-/Höhenverhältnis der Shop-Produkte ändern.
+  productImageratio:
+    label: 
+      en: Product image width/height ratio
+      de: Breiten/Höhenverhältnis des Produktbildes
+    type: select
+    placeholder: "1:1"
+    options:
+      "3:4": "3:4"
+      "4:3": "4:3"
+    width: 1/3

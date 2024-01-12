@@ -1,0 +1,153 @@
+Title: SVG dividers
+
+----
+
+Layout: [{"attrs":{"gridwidth":"uk-container","tabletwidth":"uk-width-expand@s ","mobilewidth":"","columnsverticalalign":"","columnshorizontalalign":"","containerexpand":"","columngap":"","columnsdivider":"false","gridmasonry":"false","gridparallax":"false","sectiontoggle":"true","sectionsize":" uk-section-large","sectioncolor":" uk-section-primary","sectionremovepadding":" uk-padding-remove-top","backgroundstyle":"color","backgroundimage":[],"mediavideosource":"url","mediavideo":[],"mediavideourl":"","backgroundimageposition":" uk-background-center-center","backgroundimagesize":" uk-background-cover","backgroundimagerepeat":" no-repeat","sectiontextcolor":" uk-light","backgroundoverlaycolor":"rgba(0,0,0,0.3)","backgroundgradientoverlay":"false","backgroundgradienttransition":"","backgroundoverlaycolor2":"rgba(0,0,0,0.3)","backgroundparalax":"","shapedividertoggle":"true","shapedivider":"waves-opacity-2","shapedividerposition":"top","shapedividercolor":"#ffffff","customshapedivider":"","shapedividerheight":"250px","preservecolor":"false","sectionclass":"","sectionid":"","hidden":"","visible":"","animationswitch":"false","animationtype":"uk-animation-slide-bottom-small","animationdelay":null},"columns":[{"blocks":[],"id":"926562e4-9f32-4831-9481-b5db84009cef","width":"1\/4"},{"blocks":[{"content":{"columnwidth":"","tabletwidth":"","mobilewidth":"","columnheight":"","columnminheight":"","columnmaxheight":"","textalign":"","textaligntablet":"","textalignmobile":"","textsize":"","texttransform":"","textwrapping":"","columnstyle":"none","columncardsize":"","columncardhover":"false","columncardcolor":" uk-card-default","columntile":"","columnbackground":"","columntextcolor":" uk-light","backgroundstyle":"color","backgroundimage":[],"backgroundimageposition":" uk-background-center-center","backgroundimagesize":" uk-background-cover","backgroundimagerepeat":" no-repeat","backgroundparalax":"","mediavideosource":"url","mediavideo":[],"mediavideourl":"","backgroundoverlaycolor":"rgba(0,0,0,0.3)","backgroundgradientoverlay":"false","backgroundgradienttransition":"","backgroundoverlaycolor2":"rgba(0,0,0,0.3)","columnpadding":"","itemfirst":"","itemlast":"","borderrounded":"false","columnshadow":"","columnclass":"","columnid":"","hidden":"","visible":"","animationswitch":"true","animationtype":"uk-animation-slide-bottom-small","animationdelay":null},"id":"f0b41101-6323-4660-82c3-e1903da3d398","isHidden":false,"type":"z-column"},{"content":{"level":"h2","text":"01","headingsize":" uk-heading-large","headingstyle":"","headingcolor":"","textalign":"","textaligntablet":"","textalignmobile":"","texttransform":"","textwrapping":""},"id":"7fcbce0e-baca-4ac9-8e41-036b5694151e","isHidden":false,"type":"heading"},{"content":{"text":"<h3>Share your ideas<\/h3><p>Innovative blog styles and stunning portfolios.<\/p>","textalign":"","textaligntablet":"","textalignmobile":"","textsize":"","texttransform":"","textwrapping":"","textcolor":""},"id":"3a854936-d29a-4d42-a092-dfb275503fff","isHidden":false,"type":"text"}],"id":"a7292cf7-2684-4187-ae11-e652ff7984ea","width":"1\/4"},{"blocks":[{"content":{"columnwidth":"","tabletwidth":"","mobilewidth":"","columnheight":"","columnminheight":"","columnmaxheight":"","textalign":"","textaligntablet":"","textalignmobile":"","textsize":"","texttransform":"","textwrapping":"","columnstyle":"none","columncardsize":"","columncardhover":"false","columncardcolor":" uk-card-default","columntile":"","columnbackground":"","columntextcolor":" uk-light","backgroundstyle":"color","backgroundimage":[],"backgroundimageposition":" uk-background-center-center","backgroundimagesize":" uk-background-cover","backgroundimagerepeat":" no-repeat","backgroundparalax":"","mediavideosource":"url","mediavideo":[],"mediavideourl":"","backgroundoverlaycolor":"rgba(0,0,0,0.3)","backgroundgradientoverlay":"false","backgroundgradienttransition":"","backgroundoverlaycolor2":"rgba(0,0,0,0.3)","columnpadding":"","itemfirst":"","itemlast":"","borderrounded":"false","columnshadow":"","columnclass":"","columnid":"","hidden":"","visible":"","animationswitch":"true","animationtype":"uk-animation-slide-bottom-small","animationdelay":300},"id":"f59f9916-8348-4004-b35b-48737702860e","isHidden":false,"type":"z-column"},{"content":{"level":"h2","text":"02","headingsize":" uk-heading-large","headingstyle":"","headingcolor":"","textalign":"","textaligntablet":"","textalignmobile":"","texttransform":"","textwrapping":""},"id":"ecd2f611-f3d0-4a6a-bf2b-27f9bb2ac12b","isHidden":false,"type":"heading"},{"content":{"text":"<h3>Statistic of your sociability<\/h3><p>No coding or design skills to get professional results.<\/p>","textalign":"","textaligntablet":"","textalignmobile":"","textsize":"","texttransform":"","textwrapping":"","textcolor":""},"id":"8294ae5e-bf16-4553-8492-1ffcf4e1b4e2","isHidden":false,"type":"text"}],"id":"9e716a42-c696-4af4-8657-ca50fd21afe8","width":"1\/4"},{"blocks":[{"content":{"columnwidth":"","tabletwidth":"","mobilewidth":"","columnheight":"","columnminheight":"","columnmaxheight":"","textalign":"","textaligntablet":"","textalignmobile":"","textsize":"","texttransform":"","textwrapping":"","columnstyle":"none","columncardsize":"","columncardhover":"false","columncardcolor":" uk-card-default","columntile":"","columnbackground":"","columntextcolor":" uk-light","backgroundstyle":"color","backgroundimage":[],"backgroundimageposition":" uk-background-center-center","backgroundimagesize":" uk-background-cover","backgroundimagerepeat":" no-repeat","backgroundparalax":"","mediavideosource":"url","mediavideo":[],"mediavideourl":"","backgroundoverlaycolor":"rgba(0,0,0,0.3)","backgroundgradientoverlay":"false","backgroundgradienttransition":"","backgroundoverlaycolor2":"rgba(0,0,0,0.3)","columnpadding":"","itemfirst":"","itemlast":"","borderrounded":"false","columnshadow":"","columnclass":"","columnid":"","hidden":"","visible":"","animationswitch":"true","animationtype":"uk-animation-slide-bottom-small","animationdelay":400},"id":"2b32798b-134b-409a-81d0-ff1fce38ca1b","isHidden":false,"type":"z-column"},{"content":{"level":"h2","text":"03","headingsize":" uk-heading-large","headingstyle":"","headingcolor":"","textalign":"","textaligntablet":"","textalignmobile":"","texttransform":"","textwrapping":""},"id":"5721e614-142a-41b9-94bc-37330b966224","isHidden":false,"type":"heading"},{"content":{"text":"<h3>Connect with other people<\/h3><p>We\u2019ve become renowned for quality and reliability.<\/p>","textalign":"","textaligntablet":"","textalignmobile":"","textsize":"","texttransform":"","textwrapping":"","textcolor":""},"id":"2273ac6b-87b2-4b87-a3a0-58d5e5b165a2","isHidden":false,"type":"text"}],"id":"7c322fae-f5da-4bd6-a379-0ada4e69ae41","width":"1\/4"}],"id":"6760cc3e-11bd-4415-bb7e-153e99403f9d"},{"attrs":{"gridwidth":"uk-container uk-container-small","tabletwidth":"","mobilewidth":"","columnsverticalalign":"","columnshorizontalalign":"","containerexpand":"","columngap":"","columnsdivider":"false","gridmasonry":"false","gridparallax":"false","sectiontoggle":"true","sectionsize":" uk-section-large","sectioncolor":" uk-section-default","sectionremovepadding":"","backgroundstyle":"color","backgroundimage":[],"mediavideosource":"url","mediavideo":[],"mediavideourl":"","backgroundimageposition":" uk-background-center-center","backgroundimagesize":" uk-background-cover","backgroundimagerepeat":" no-repeat","sectiontextcolor":" uk-light","backgroundoverlaycolor":"rgba(0,0,0,0.3)","backgroundgradientoverlay":"false","backgroundgradienttransition":"","backgroundoverlaycolor2":"rgba(0,0,0,0.3)","backgroundparalax":"","shapedividertoggle":"true","shapedivider":"curve-asym","shapedividerposition":"top","shapedividercolor":"#7f78d2","customshapedivider":"","shapedividerheight":"150px","preservecolor":"false","sectionclass":"","sectionid":"","hidden":"","visible":"","animationswitch":"false","animationtype":"","animationdelay":null},"columns":[{"blocks":[{"content":{"columnwidth":"","tabletwidth":"uk-width-2-3@s ","mobilewidth":"","columnheight":"","columnminheight":"","columnmaxheight":"","textalign":"","textaligntablet":"","textalignmobile":"","textsize":"","texttransform":"","textwrapping":"","columnstyle":"none","columncardsize":"","columncardhover":"false","columncardcolor":" uk-card-default","columntile":"","columnbackground":"","columntextcolor":" uk-light","backgroundstyle":"color","backgroundimage":[],"backgroundimageposition":" uk-background-center-center","backgroundimagesize":" uk-background-cover","backgroundimagerepeat":" no-repeat","backgroundparalax":"","mediavideosource":"url","mediavideo":[],"mediavideourl":"","backgroundoverlaycolor":"rgba(0,0,0,0.3)","backgroundgradientoverlay":"false","backgroundgradienttransition":"","backgroundoverlaycolor2":"rgba(0,0,0,0.3)","columnpadding":"","itemfirst":"","itemlast":"","borderrounded":"false","columnshadow":"","columnclass":"","columnid":"","hidden":"","visible":"","animationswitch":"true","animationtype":"uk-animation-slide-bottom-small","animationdelay":300},"id":"f9d28d17-95ff-4f13-a5a6-5ee3bc89882d","isHidden":false,"type":"z-column"},{"content":{"level":"h5","text":"Perfected for years","headingsize":"","headingstyle":"","headingcolor":" uk-text-muted","textalign":"","textaligntablet":"","textalignmobile":"","texttransform":" uk-text-uppercase","textwrapping":""},"id":"23cbe35b-b451-4ce3-8f88-afebc1eee322","isHidden":false,"type":"heading"},{"content":{"level":"h2","text":"Zero One is a creative and multipurpose Kirby CMS theme that gives you unparalleled versatility.","headingsize":"","headingstyle":"","headingcolor":"","textalign":"","textaligntablet":"","textalignmobile":"","texttransform":"","textwrapping":""},"id":"624950fe-949a-45cc-a84b-cbe77e3ff913","isHidden":false,"type":"heading"},{"content":{"text":"Learn more about","buttonicon":"","linktype":"internal","link":"","internalpage":[],"filelink":[],"emaillink":"","phonelink":"","target":"false","buttonstyle":" uk-button-primary","buttonsize":"","margintop":" uk-margin-top"},"id":"820b6d24-51cb-4868-b634-f59e25f9430f","isHidden":false,"type":"button"}],"id":"e688012a-cfb6-40db-846b-f8adb27121cf","width":"2\/3"},{"blocks":[],"id":"75e5c113-ff78-4f1a-8306-b342b7280210","width":"1\/3"}],"id":"ddbf6ef8-535d-4fb9-bae4-9421a8011899"},{"attrs":{"gridwidth":"uk-container","tabletwidth":"uk-width-1-2@s ","mobilewidth":"","columnsverticalalign":" uk-flex-middle","columnshorizontalalign":"","containerexpand":"","columngap":" uk-grid-large","columnsdivider":"false","gridmasonry":"false","gridparallax":"false","sectiontoggle":"true","sectionsize":" uk-section-large","sectioncolor":" uk-section-secondary","sectionremovepadding":"","backgroundstyle":"color","backgroundimage":[],"mediavideosource":"url","mediavideo":[],"mediavideourl":"","backgroundimageposition":" uk-background-center-center","backgroundimagesize":" uk-background-cover","backgroundimagerepeat":" no-repeat","sectiontextcolor":" uk-light","backgroundoverlaycolor":"rgba(0,0,0,0.3)","backgroundgradientoverlay":"false","backgroundgradienttransition":"","backgroundoverlaycolor2":"rgba(0,0,0,0.3)","backgroundparalax":"","shapedividertoggle":"true","shapedivider":"tilt-alt","shapedividerposition":"top","shapedividercolor":"#ffffff","customshapedivider":"","shapedividerheight":"150px","preservecolor":"false","sectionclass":"","sectionid":"","hidden":"","visible":"","animationswitch":"false","animationtype":"","animationdelay":null},"columns":[{"blocks":[{"content":{"columnwidth":"","tabletwidth":"","mobilewidth":"","columnheight":"","columnminheight":"","columnmaxheight":"","textalign":"","textaligntablet":"","textalignmobile":"","textsize":"","texttransform":"","textwrapping":"","columnstyle":"none","columncardsize":"","columncardhover":"false","columncardcolor":" uk-card-default","columntile":"","columnbackground":"","columntextcolor":" uk-light","backgroundstyle":"color","backgroundimage":[],"backgroundimageposition":" uk-background-center-center","backgroundimagesize":" uk-background-cover","backgroundimagerepeat":" no-repeat","backgroundparalax":"","mediavideosource":"url","mediavideo":[],"mediavideourl":"","backgroundoverlaycolor":"rgba(0,0,0,0.3)","backgroundgradientoverlay":"false","backgroundgradienttransition":"","backgroundoverlaycolor2":"rgba(0,0,0,0.3)","columnpadding":"","itemfirst":"","itemlast":"","borderrounded":"false","columnshadow":"","columnclass":"","columnid":"","hidden":"","visible":"","animationswitch":"true","animationtype":"uk-animation-slide-bottom-small","animationdelay":300},"id":"889ecfb4-e02e-4033-bf7c-30ba564b9a62","isHidden":false,"type":"z-column"},{"content":{"level":"h2","text":"Intuitive","headingsize":"","headingstyle":"","headingcolor":"","textalign":"","textaligntablet":"","textalignmobile":"","texttransform":"","textwrapping":""},"id":"7a407a72-2272-4899-8ee6-f80085d2a19a","isHidden":false,"type":"heading"},{"content":{"text":"<p>Effortless and intuitive for beginners, and full of potential for more advanced users, Zero One gives you complete freedom to dream up your ideal website and then make it happen, fast.<\/p>","textalign":"","textaligntablet":"","textalignmobile":"","textsize":" uk-text-large","texttransform":"","textwrapping":"","textcolor":""},"id":"55a46607-82c8-4d3f-96b1-96ff0145fe12","isHidden":false,"type":"text"},{"content":{"text":"Read more about","buttonicon":"","linktype":"internal","link":"","internalpage":[],"filelink":[],"emaillink":"","phonelink":"","target":"false","buttonstyle":" uk-button-link","buttonsize":" uk-button-small","margintop":""},"id":"e17d33c2-1352-4d93-a922-52fea365bc04","isHidden":false,"type":"button"}],"id":"3af61f7b-d820-4351-9584-60e703185842","width":"1\/2"},{"blocks":[{"content":{"columnwidth":"","tabletwidth":"","mobilewidth":"","columnheight":"","columnminheight":"","columnmaxheight":"","textalign":"","textaligntablet":"","textalignmobile":"","textsize":"","texttransform":"","textwrapping":"","columnstyle":"none","columncardsize":"","columncardhover":"false","columncardcolor":" uk-card-default","columntile":"","columnbackground":"","columntextcolor":" uk-light","backgroundstyle":"color","backgroundimage":[],"backgroundimageposition":" uk-background-center-center","backgroundimagesize":" uk-background-cover","backgroundimagerepeat":" no-repeat","backgroundparalax":"","mediavideosource":"url","mediavideo":[],"mediavideourl":"","backgroundoverlaycolor":"rgba(0,0,0,0.3)","backgroundgradientoverlay":"false","backgroundgradienttransition":"","backgroundoverlaycolor2":"rgba(0,0,0,0.3)","columnpadding":"","itemfirst":"","itemlast":"","borderrounded":"false","columnshadow":"","columnclass":"","columnid":"","hidden":"","visible":"","animationswitch":"true","animationtype":"uk-animation-slide-bottom-small","animationdelay":400},"id":"80d31ddf-28aa-4b6c-99d0-2b7ee80e61cd","isHidden":false,"type":"z-column"},{"content":{"location":"kirby","image":[{"id":"gregory-hayes-2guarbycjjq-unsplash.jpg"}],"src":"","ratio":"10\/8","alt":"Man looking at you","resizewidth":900,"caption":"","captionclass":"false","width":"","widthmobile":"","align":"","float":"","borderradius":"uk-border-rounded","shadow":"","linkoption":"","link":"","newtab":"false"},"id":"2d7296c5-532c-4731-89f6-021a1f97ff3d","isHidden":false,"type":"image"}],"id":"4b23c789-cf2c-478e-a893-86c695198e2e","width":"1\/2"}],"id":"99f3148e-79ed-46d5-a978-d17780a57d3c"},{"attrs":{"gridwidth":"uk-container","tabletwidth":"","mobilewidth":"","columnsverticalalign":"","columnshorizontalalign":"","containerexpand":"","columngap":"","columnsdivider":"false","gridmasonry":"false","gridparallax":"false","sectiontoggle":"true","sectionsize":" uk-section-large","sectioncolor":"custom","sectionremovepadding":"","backgroundstyle":"image","backgroundimage":["file:\/\/6mpFLYMWhlm6mQdR"],"mediavideosource":"url","mediavideo":[],"mediavideourl":"","backgroundimageposition":" uk-background-center-center","backgroundimagesize":" uk-background-cover","backgroundimagerepeat":" no-repeat","sectiontextcolor":" uk-light","backgroundoverlaycolor":"rgba(0,0,0,0.3)","backgroundgradientoverlay":"false","backgroundgradienttransition":"","backgroundoverlaycolor2":"rgba(0,0,0,0.3)","backgroundparalax":"paralaxY","shapedividertoggle":"true","shapedivider":"fan","shapedividerposition":"","shapedividercolor":"#ffffff","customshapedivider":"","shapedividerheight":"150px","preservecolor":"false","sectionclass":"","sectionid":"","hidden":"","visible":"","animationswitch":"true","animationtype":"uk-animation-slide-bottom-small","animationdelay":null},"columns":[{"blocks":[{"content":{"level":"h6","text":"handcrafted elements","headingsize":"","headingstyle":"","headingcolor":"","textalign":"","textaligntablet":"","textalignmobile":"","texttransform":" uk-text-uppercase","textwrapping":""},"id":"6dc23e9d-cf71-4409-a898-57c3e632ee21","isHidden":false,"type":"heading"},{"content":{"level":"h2","text":"Out of love for stylish and functional Kirby CMS themes and for taking pride to support you.","headingsize":"","headingstyle":"","headingcolor":"","textalign":"","textaligntablet":"","textalignmobile":"","texttransform":"","textwrapping":""},"id":"b5948536-553b-4647-ab7f-a84c37e5ece2","isHidden":false,"type":"heading"},{"content":{"text":"Learn more","buttonicon":"","linktype":"internal","link":"","internalpage":[],"filelink":[],"emaillink":"","phonelink":"","target":"false","buttonstyle":" uk-button-link","buttonsize":" uk-button-small","margintop":""},"id":"4b5cc49c-3356-44f9-873c-79a3ab230d20","isHidden":false,"type":"button"}],"id":"34e781d3-453b-44f3-95f9-89811346ca51","width":"1\/2"},{"blocks":[],"id":"8fd91939-67c0-4f4e-a349-60a12c9e8577","width":"1\/2"}],"id":"8a09dc0c-8e09-4ebc-823e-2c68710d02fa"},{"attrs":{"gridwidth":"uk-container uk-container-small","tabletwidth":"","mobilewidth":"","columnsverticalalign":"","columnshorizontalalign":" uk-flex-center","containerexpand":"","columngap":"","columnsdivider":"false","gridmasonry":"false","gridparallax":"false","sectiontoggle":"true","sectionsize":"","sectioncolor":" uk-section-default","sectionremovepadding":"","backgroundstyle":"color","backgroundimage":[],"mediavideosource":"url","mediavideo":[],"mediavideourl":"","backgroundimageposition":" uk-background-center-center","backgroundimagesize":" uk-background-cover","backgroundimagerepeat":" no-repeat","sectiontextcolor":" uk-light","backgroundoverlaycolor":"rgba(0,0,0,0.3)","backgroundgradientoverlay":"false","backgroundgradienttransition":"","backgroundoverlaycolor2":"rgba(0,0,0,0.3)","backgroundparalax":"","shapedividertoggle":"false","shapedivider":"","shapedividerposition":"","shapedividercolor":"#ffffff","customshapedivider":"","shapedividerheight":"150px","preservecolor":"false","sectionclass":"","sectionid":"","hidden":"","visible":"","animationswitch":"false","animationtype":"","animationdelay":null},"columns":[{"blocks":[{"content":{"columnwidth":"","tabletwidth":"","mobilewidth":"","columnheight":"","columnminheight":"","columnmaxheight":"","textalign":" uk-text-center@m","textaligntablet":" uk-text-center@s","textalignmobile":" uk-text-center","textsize":"","texttransform":"","textwrapping":"","columnstyle":"none","columncardsize":"","columncardhover":"false","columncardcolor":" uk-card-default","columntile":"","columnbackground":"","columntextcolor":" uk-light","backgroundstyle":"color","backgroundimage":[],"backgroundimageposition":" uk-background-center-center","backgroundimagesize":" uk-background-cover","backgroundimagerepeat":" no-repeat","backgroundparalax":"","mediavideosource":"url","mediavideo":[],"mediavideourl":"","backgroundoverlaycolor":"rgba(0,0,0,0.3)","backgroundgradientoverlay":"false","backgroundgradienttransition":"","backgroundoverlaycolor2":"rgba(0,0,0,0.3)","columnpadding":"","itemfirst":"","itemlast":"","borderrounded":"false","columnshadow":"","columnclass":"","columnid":"","hidden":"","visible":"","animationswitch":"false","animationtype":"","animationdelay":null},"id":"512456ce-860f-427c-ae17-0f08c4323886","isHidden":false,"type":"z-column"},{"content":{"level":"h2","text":"Our Customers Say","headingsize":"","headingstyle":"","headingcolor":"","textalign":"","textaligntablet":"","textalignmobile":"","texttransform":"","textwrapping":""},"id":"8e6a6e43-a174-43dd-ad8a-e2e76bedc528","isHidden":false,"type":"heading"},{"content":{"slidercontent":[{"slidename":"John Smith","slidecontent":"[{\"content\":{\"location\":\"kirby\",\"image\":[{\"id\":\"john-smith.jpg\"}],\"src\":\"\",\"ratio\":\"\",\"alt\":\"John Smith\",\"resizewidth\":null,\"caption\":\"\",\"captionclass\":\"false\",\"width\":\" uk-width-1-6@s\",\"widthmobile\":\"uk-width-1-4\",\"align\":\" uk-margin-auto\",\"float\":\"\",\"borderradius\":\"uk-border-circle\",\"shadow\":\"\",\"linkoption\":\"\",\"link\":\"\",\"newtab\":\"false\"},\"id\":\"97c2b057-4d74-4b99-8976-f772a4914017\",\"isHidden\":false,\"type\":\"image\"},{\"content\":{\"text\":\"<p>The theme itself is an amazing product which we can only recommend to anybody looking to create a top-quality highly customized website.<\\\/p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\" uk-text-large\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"e3a07801-20c5-4d1a-867c-51195a4feeb1\",\"isHidden\":false,\"type\":\"text\"},{\"content\":{\"description\":[{\"title\":\"<strong>John Smith<\\\/strong>\",\"text\":\"Customer\"}],\"titlesize\":\"uk-text-large\",\"titletransform\":\"\",\"titlecolor\":\"\",\"descriptionsize\":\"uk-text-small\",\"descriptiontransform\":\"\",\"descriptioncolor\":\"\",\"title\":\"\",\"blockclass\":\"\",\"blockid\":\"\"},\"id\":\"9a6d2ac8-ea5a-4b81-a8b3-39116547f721\",\"isHidden\":false,\"type\":\"z-description\"}]","slidetile":"false","slidetilesize":"","slidetileborderradius":"false","slidetilecolor":""},{"slidename":"George Bucks","slidecontent":"[{\"content\":{\"location\":\"kirby\",\"image\":[{\"id\":\"geaorge-bucks.jpg\"}],\"src\":\"\",\"ratio\":\"\",\"alt\":\"George Bucks\",\"resizewidth\":null,\"caption\":\"\",\"captionclass\":\"false\",\"width\":\" uk-width-1-6@s\",\"widthmobile\":\"uk-width-1-4\",\"align\":\" uk-margin-auto\",\"float\":\"\",\"borderradius\":\"uk-border-circle\",\"shadow\":\"\",\"linkoption\":\"\",\"link\":\"\",\"newtab\":\"false\"},\"id\":\"97c2b057-4d74-4b99-8976-f772a4914017\",\"isHidden\":false,\"type\":\"image\"},{\"content\":{\"text\":\"<p>Zero One\\u00a0has the best responsive function on the market is very fast, good adaptable and easy to handle. Support responds quickly and is helpful.<\\\/p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\" uk-text-large\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"e3a07801-20c5-4d1a-867c-51195a4feeb1\",\"isHidden\":false,\"type\":\"text\"},{\"content\":{\"description\":[{\"title\":\"<strong>George Bucks<\\\/strong>\",\"text\":\"Manager\"}],\"titlesize\":\"uk-text-large\",\"titletransform\":\"\",\"titlecolor\":\"\",\"descriptionsize\":\"uk-text-small\",\"descriptiontransform\":\"\",\"descriptioncolor\":\"\",\"title\":\"\",\"blockclass\":\"\",\"blockid\":\"\"},\"id\":\"9a6d2ac8-ea5a-4b81-a8b3-39116547f721\",\"isHidden\":false,\"type\":\"z-description\"}]","slidetile":"false","slidetilesize":"","slidetileborderradius":"false","slidetilecolor":""},{"slidename":"Petra Jones","slidecontent":"[{\"content\":{\"location\":\"kirby\",\"image\":[{\"id\":\"petra-jones.jpg\"}],\"src\":\"\",\"ratio\":\"\",\"alt\":\"Petra Jones\",\"resizewidth\":null,\"caption\":\"\",\"captionclass\":\"false\",\"width\":\" uk-width-1-6@s\",\"widthmobile\":\"uk-width-1-4\",\"align\":\" uk-margin-auto\",\"float\":\"\",\"borderradius\":\"uk-border-circle\",\"shadow\":\"\",\"linkoption\":\"\",\"link\":\"\",\"newtab\":\"false\"},\"id\":\"97c2b057-4d74-4b99-8976-f772a4914017\",\"isHidden\":false,\"type\":\"image\"},{\"content\":{\"text\":\"<p>If you want quality and top-of-the-line support you\\u2019ve found it here. I highly recommend buying any theme from Zero.<\\\/p>\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\" uk-text-large\",\"texttransform\":\"\",\"textwrapping\":\"\",\"textcolor\":\"\"},\"id\":\"e3a07801-20c5-4d1a-867c-51195a4feeb1\",\"isHidden\":false,\"type\":\"text\"},{\"content\":{\"description\":[{\"title\":\"<strong>Petra Jones<\\\/strong>\",\"text\":\"Developer\"}],\"titlesize\":\"uk-text-large\",\"titletransform\":\"\",\"titlecolor\":\"\",\"descriptionsize\":\"uk-text-small\",\"descriptiontransform\":\"\",\"descriptioncolor\":\"\",\"title\":\"\",\"blockclass\":\"\",\"blockid\":\"\"},\"id\":\"9a6d2ac8-ea5a-4b81-a8b3-39116547f721\",\"isHidden\":false,\"type\":\"z-description\"}]","slidetile":"false","slidetilesize":"","slidetileborderradius":"false","slidetilecolor":""}],"autoplay":"true","finite":"false","slidesets":"false","slideritemwidth":"","centeritems":"true","verticalalign":"","slideritemsgap":"","navigationarrows":"out","navigationarrowscolor":"","navigationbullets":"true","title":"","blockclass":"","blockid":"","marginvertical":" uk-margin-large-top","marginleft":"","marginright":"","animationswitch":"true","animationtype":"","animationdelay":null},"id":"d8c6159d-9d32-47d3-b6d1-a05904d233a5","isHidden":false,"type":"z-content-slider"}],"id":"ee77a76a-49a2-4c3b-ba0b-49e3cd2a23dd","width":"1\/1"}],"id":"7968c30a-96da-463f-9347-0e4aed0a91a2"}]
+
+----
+
+Disallowsubmenu: false
+
+----
+
+Newtab: false
+
+----
+
+Menuitemicon: expand
+
+----
+
+Megamenu: false
+
+----
+
+Megamenuwidth: 
+
+----
+
+Megamenuitemwidth: 
+
+----
+
+Megamenubackground: false
+
+----
+
+Megamenubackgroundimage: 
+
+----
+
+Megamenubackgroundimageposition: 
+
+----
+
+Megamenubackgroundimagesize: 
+
+----
+
+Megamenubackgroundimagerepeat: 
+
+----
+
+Megamenubackgroundgradientoverlay: false
+
+----
+
+Megamenubackgroundgradienttransition: 
+
+----
+
+Transparentnavbar: 
+
+----
+
+Navbarinverse: false
+
+----
+
+Headersection: true
+
+----
+
+Alttitle: 
+
+----
+
+Intro: Create easily attractive Sections with SVG dividers.
+
+----
+
+Headerbackgroundtoggle: false
+
+----
+
+Header: 
+
+----
+
+Headerimageposition: uk-background-center-center
+
+----
+
+Headerimagesize: uk-background-cover
+
+----
+
+Headerimagerepeat: no-repeat
+
+----
+
+Headertextcolor: uk-light
+
+----
+
+Headeroverlaycolor: rgba(0,0,0,0.2)
+
+----
+
+Backgroundparalax: 
+
+----
+
+Shapedividertoggle: false
+
+----
+
+Shapedivider: 
+
+----
+
+Shapedividerposition: 
+
+----
+
+Shapedividercolor: #ffffff
+
+----
+
+Customshapedivider: 
+
+----
+
+Shapedividerheight: 150px
+
+----
+
+Metafile: 
+
+----
+
+Sitemap: true
+
+----
+
+Metatitle: 
+
+----
+
+Metadescription: 
+
+----
+
+Uuid: E27oTeysFbIU0rst

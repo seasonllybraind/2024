@@ -1,0 +1,88 @@
+label: Advanced
+fields:
+  advancedHeadline:
+    label: Advanced options
+    type: headline
+    numbered: false
+  sectionClass:
+    label: 
+      en: Layout custom class
+      de: Benutzerdefinierte Klasse
+    type: text
+    placeholder: my-custom-class
+    before: '.'
+    width: 1/3
+  # section id
+  sectionID:
+    label: 
+      en: Layout ID
+      de: ID
+    type: slug
+    placeholder: my-custom-id
+    before: '#'
+    width: 1/3
+  
+  # visibility
+  visibilityHeadline:
+    label: 
+      en: Visibility
+      de: Sichtweite
+    type: headline
+    help: 
+      en: Hide layout on some screens.
+      de: Layout auf einigen Bildschirmen ausblenden.
+    numbered: false
+  # hidden
+  hidden:
+    label: 
+      en: Hidden
+      de: Versteckt
+    type: select
+    placeholder: Inherit
+    options: 
+      " uk-hidden": 
+        en: Always
+        de: Immer
+      " uk-hidden@s": 
+        en: Tablet and bigger
+        de: Tablet und größer
+      " uk-hidden@m": Desktop
+    width: 1/3
+  # visible
+  visible:
+    label: 
+      en: Visible
+      de: Versteckt
+    type: select
+    placeholder: Inherit
+    options: 
+      " uk-visible@s": 
+        en: Tablet and bigger
+        de: Tablet und größer
+      " uk-visible@m": Desktop
+    width: 1/3
+
+  # animation headline
+  animationHeadline:
+    label: Animation
+    type: headline
+    help: 
+      en: Add animation to layout.
+      de: Animation zum Layout hinzufügen.
+    numbered: false
+  # animation switch
+  animationSwitch:
+    label: Animation
+    type: toggle
+    width: 1/3
+  animationType:
+    extends: fields/animationType
+    when:
+      animationSwitch: true
+  animationDelay:
+    extends: fields/animationDelay
+    when:
+      animationSwitch: true
+
+  advancedBottomGap:
+    type: gap

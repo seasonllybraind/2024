@@ -1,0 +1,22 @@
+type: pages
+headline: 
+  en: Subpage drafts
+  de: Unterseitenentwürfe
+status: draft
+empty: 
+  en: No pages yet
+  de: Noch keine Seiten
+image:
+  query: false
+  back: black
+help: 
+  en: Create new subpage
+  de: Neue Unterseite erstellen
+templates:
+  - layout
+  - default
+  - link
+  - blog
+  - work
+  - shop
+  - builder

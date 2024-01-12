@@ -1,0 +1,10 @@
+- 
+  authenticated: true
+  email: test@test.com
+  language: en
+  name: Branko Matić
+  status: approved
+  text: This is my comment!
+  timestamp: 2020-07-24 17:14
+  type: comment
+  uid: lvhdbuhcq3
